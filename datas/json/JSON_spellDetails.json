@@ -1,0 +1,8388 @@
+{
+  "15781": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "Dommages réduits de 18  (pour 2 tour ) (la cible subit des dommages)",
+          "Dommages réduits de 14  (pour 2 tour ) (la cible subit des dommages)"
+        ],
+        []
+      ]
+    ]
+  },
+  "15782": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 15",
+          "Lancer en diagonal uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "Vole 40  Force (pour 3 tour )",
+          "18 à 21 (dommages Terre)"
+        ],
+        [
+          "Vole 60  Force (pour 3 tour )",
+          "22 à 25 (dommages Terre)"
+        ]
+      ]
+    ]
+  },
+  "15783": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Intervalle de relance : 6 tour"
+        ],
+        [
+          "Glyphor"
+        ],
+        [
+          "Dommages réduits de 1000  (pour 1 tour ) (la cible subit des dommages)",
+          "Enlève l'état Pacifiste (pour 1 tour dans 1 tour) (le tour de l'entité se termine)",
+          "État Pacifiste (pour 1 tour dans 1 tour)"
+        ],
+        []
+      ]
+    ]
+  },
+  "15784": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-4 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "-3  PM (pour 2 tour )",
+          "27 à 30 (dommages Feu)"
+        ],
+        []
+      ]
+    ]
+  },
+  "15785": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 4 tour",
+          "Cooldown global"
+        ],
+        [
+          "Invoque : Égide"
+        ],
+        []
+      ]
+    ]
+  },
+  "15787": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule libre",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Knadabra"
+        ],
+        [
+          "Invoque : Knadabra"
+        ],
+        []
+      ]
+    ]
+  },
+  "15788": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule libre",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Pelle Animée"
+        ],
+        [
+          "Invoque : Pelle animée"
+        ],
+        []
+      ]
+    ]
+  },
+  "15789": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 4-9 modifiable",
+          "CC: 25",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "-1  Durée des effets",
+          "21 à 23 (dommages Feu)"
+        ],
+        [
+          "-1  Durée des effets",
+          "22 à 24 (dommages Feu)"
+        ]
+      ]
+    ]
+  },
+  "15790": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 1-12 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "-2  PM (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "15791": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Intervalle de relance : 7 tour",
+          "Cooldown initial : 1 tour"
+        ],
+        [
+          "-100  PM (pour 1 tour )",
+          "-100  PM (pour 1 tour dans 1 tour)",
+          "État Pesanteur (pour 1 tour )",
+          "État Pesanteur (pour 1 tour dans 1 tour)"
+        ],
+        []
+      ]
+    ]
+  },
+  "15792": {
+    "spells": [
+      [
+        [
+          "PA: 5",
+          "Po: 5-8 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Intervalle de relance : 5 tour",
+          "Cooldown initial : 1 tour"
+        ],
+        [
+          "Corrompu"
+        ],
+        [
+          "Soin : 40 % des PV max",
+          "État Pacifiste (pour 1 tour )",
+          "État Invulnérable (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "15793": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Coffre Animé"
+        ],
+        [
+          "Invoque : Coffre Animé"
+        ],
+        []
+      ]
+    ]
+  },
+  "15794": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Hyènifer"
+        ],
+        [
+          "Invoque : Hyènifer"
+        ],
+        []
+      ]
+    ]
+  },
+  "15797": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-6 modifiable",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Ne nécessite pas de ligne de vue",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "11 à 12 (dommages Terre) (pour 2 tour ) (le tour de l'entité commence)"
+        ],
+        [
+          "12 à 14 (dommages Terre) (pour 2 tour ) (le tour de l'entité commence)"
+        ]
+      ]
+    ]
+  },
+  "15798": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Nem"
+        ],
+        [
+          "Invoque : Nem"
+        ],
+        []
+      ]
+    ]
+  },
+  "15826": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-2 ",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "43 à 48 (dommages Feu)",
+          "54 à 60 (dommages Feu)"
+        ],
+        [
+          "52 à 58 (dommages Feu)",
+          "65 à 72 (dommages Feu)"
+        ]
+      ]
+    ]
+  },
+  "15827": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 5 tour",
+          "Cooldown initial : 1 tour"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "15830": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Edith"
+        ],
+        [
+          "Invoque : Edith"
+        ],
+        []
+      ]
+    ]
+  },
+  "15831": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-6 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 3 tour",
+          "Cooldown initial : 1 tour"
+        ],
+        [
+          "Pesanteur"
+        ],
+        [
+          "Téléportation symétrique par rapport à la cible"
+        ],
+        []
+      ]
+    ]
+  },
+  "15834": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 2-4 modifiable",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "7 à 9 (dommages Air)",
+          "Téléporte à la position précédente"
+        ],
+        [
+          "8 à 10 (dommages Air)",
+          "Téléporte à la position précédente"
+        ]
+      ]
+    ]
+  },
+  "15837": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "Téléporte à la position précédente"
+        ],
+        []
+      ]
+    ]
+  },
+  "15841": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-2 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3"
+        ],
+        [
+          "1  PM (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "15853": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 1-5 ",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "Repousse de 1 case(s)"
+        ],
+        []
+      ]
+    ]
+  },
+  "15857": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 0-8 modifiable",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Intervalle de relance : 6 tour"
+        ],
+        [
+          "Soin : 100 % des PV max",
+          "État Insoignable (pour 3 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "15866": {
+    "spells": [
+      [
+        [
+          "PA: 5",
+          "Po: 1-6 ",
+          "CC: 15",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "Pesanteur"
+        ],
+        [
+          "Téléporte sur la case ciblée",
+          "Dommages subis x115% (pour 1 tour ) (la cible subit des dommages)"
+        ],
+        [
+          "Téléporte sur la case ciblée",
+          "Dommages subis x120% (pour 1 tour ) (la cible subit des dommages)"
+        ]
+      ]
+    ]
+  },
+  "15868": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-6 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 2 tour",
+          "Cooldown initial : 1 tour"
+        ],
+        [
+          "5  PA (pour 1 tour )",
+          "-3  PA (pour 1 tour dans 1 tour)"
+        ],
+        []
+      ]
+    ]
+  },
+  "15870": {
+    "spells": [
+      [
+        [
+          "PA: 7",
+          "Po: 1-1 ",
+          "CC: 25",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "81 à 100 (dommages Terre)"
+        ],
+        [
+          "97 à 120 (dommages Terre)"
+        ]
+      ]
+    ]
+  },
+  "15885": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-12 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "Repousse de 2 case(s)"
+        ],
+        []
+      ]
+    ]
+  },
+  "15887": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-0 ",
+          "CC: 25",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 5 tour"
+        ],
+        [
+          "4  Portée (pour 4 tour )"
+        ],
+        [
+          "5  Portée (pour 4 tour )"
+        ]
+      ]
+    ]
+  },
+  "15888": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 6-8 modifiable",
+          "CC: 25",
+          "Nécessite une ligne de vue",
+          "Intervalle de relance : 2 tour",
+          "Cooldown global"
+        ],
+        [
+          "29 à 31 (dommages Terre)"
+        ],
+        [
+          "35 à 37 (dommages Terre)"
+        ]
+      ]
+    ]
+  },
+  "15889": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-6 modifiable",
+          "CC: 25",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 6 tour"
+        ],
+        [
+          "250  Puissance (sorts) (pour 3 tour )"
+        ],
+        [
+          "300  Puissance (sorts) (pour 3 tour )"
+        ]
+      ]
+    ]
+  },
+  "15891": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-8 modifiable",
+          "CC: 25",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "30 à 34 (dommages Feu)"
+        ],
+        [
+          "36 à 41 (dommages Feu)"
+        ]
+      ]
+    ]
+  },
+  "15893": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Bouftou Mélanique"
+        ],
+        [
+          "Invoque : Bouftou Mélanique"
+        ],
+        []
+      ]
+    ]
+  },
+  "15895": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 2-6 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "10 à 12 (dommages Feu)",
+          "10 à 12 (dommages Air)",
+          "15  (dommages Feu) (pour 2 tour ) (la cible subit des dommages de poussée)",
+          "15  (dommages Air) (pour 2 tour ) (la cible est attirée, poussée, téléportée ou échange de position)"
+        ],
+        []
+      ]
+    ]
+  },
+  "15896": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-8 modifiable",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "-3  PM (pour 1 tour )",
+          "26 à 29 (dommages Air)"
+        ],
+        [
+          "-3  PM (pour 1 tour )",
+          "31 à 35 (dommages Air)"
+        ]
+      ]
+    ]
+  },
+  "15898": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 2-9 modifiable",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "Attire de 7 case(s)"
+        ],
+        []
+      ]
+    ]
+  },
+  "15899": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-8 modifiable",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Intervalle de relance : 3 tour",
+          "Cooldown initial : 1 tour",
+          "Cooldown global"
+        ],
+        [
+          "Pesanteur"
+        ],
+        [
+          "Échange de positions"
+        ],
+        []
+      ]
+    ]
+  },
+  "15900": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-5 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "Interception des dommages (pour 2 tour ) (la cible subit des dommages)",
+          "État Sacrifice (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "15901": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-1 ",
+          "CC: 25",
+          "Ne nécessite pas de ligne de vue",
+          "Intervalle de relance : 3 tour",
+          "Cooldown initial : 1 tour"
+        ],
+        [
+          "23 à 26 (dommages)",
+          "50 % des PV érodés du lanceur (dommages Neutre)"
+        ],
+        [
+          "27 à 31 (dommages)",
+          "60 % des PV érodés du lanceur (dommages Neutre)"
+        ]
+      ]
+    ]
+  },
+  "15902": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 modifiable",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Nombre de lancer par cible : 3"
+        ],
+        [
+          "9 à 12 (dommages Feu)"
+        ],
+        [
+          "12 à 15 (dommages Feu)"
+        ]
+      ]
+    ]
+  },
+  "15904": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-6 modifiable",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "État Enraciné (pour 1 tour )",
+          "40  Esquive PM (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "15920": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-6 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 4 tour",
+          "Cooldown global"
+        ],
+        [
+          "4  PM (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "15923": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-1 ",
+          "CC: 5",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "20 à 23 (dommages Terre)"
+        ],
+        [
+          "24 à 27 (dommages Terre)"
+        ]
+      ]
+    ]
+  },
+  "15930": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-5 modifiable",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "25 à 28 (dommages Air)",
+          "Repousse de 2 case(s)"
+        ],
+        [
+          "31 à 34 (dommages Air)",
+          "Repousse de 2 case(s)"
+        ]
+      ]
+    ]
+  },
+  "15937": {
+    "spells": [
+      [
+        [
+          "PA: 5",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "600 % du niveau en bouclier (pour 2 tour )",
+          "300 % du niveau en bouclier (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "15939": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-1 ",
+          "CC: 15",
+          "Ne nécessite pas de ligne de vue",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "Recule de 2 case(s)",
+          "7 à 8 (dommages Air)",
+          "7 à 8 (dommages Eau)",
+          "7 à 8 (dommages Terre)",
+          "7 à 8 (dommages Feu)"
+        ],
+        [
+          "Recule de 2 case(s)",
+          "9 à 10 (dommages Air)",
+          "9 à 10 (dommages Eau)",
+          "9 à 10 (dommages Terre)",
+          "9 à 10 (dommages Feu)"
+        ]
+      ]
+    ]
+  },
+  "15940": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-4 ",
+          "CC: 25",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "Avance de 3 case(s)",
+          "21 à 23 (dommages Feu)",
+          "Repousse de 3 case(s)"
+        ],
+        [
+          "Avance de 3 case(s)",
+          "25 à 27 (dommages Feu)",
+          "Repousse de 3 case(s)"
+        ]
+      ]
+    ]
+  },
+  "15941": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-1 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Intervalle de relance : 2 tour",
+          "Cooldown initial : 1 tour"
+        ],
+        [
+          "25 % des PV de l'attaquant (dommages Neutre)",
+          "25 % des PV de l'attaquant (dommages Neutre)"
+        ],
+        []
+      ]
+    ]
+  },
+  "15942": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Chabbo"
+        ],
+        [
+          "Invoque : Chabbo"
+        ],
+        []
+      ]
+    ]
+  },
+  "15944": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 15",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "2  PM (pour 2 tour )",
+          "10  Dommage{~ps{~zs (pour 2 tour )",
+          "40  Dommage{~ps{~zs Poussée (pour 2 tour )",
+          "Change l'apparence (pour 2 tour )"
+        ],
+        [
+          "2  PM (pour 2 tour )",
+          "20  Dommage{~ps{~zs (pour 2 tour )",
+          "60  Dommage{~ps{~zs Poussée (pour 2 tour )",
+          "Change l'apparence (pour 2 tour )"
+        ]
+      ]
+    ]
+  },
+  "15945": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Slaï"
+        ],
+        [
+          "Invoque : Slaïe"
+        ],
+        []
+      ]
+    ]
+  },
+  "15946": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-2 ",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "Repousse de 1 case(s)",
+          "Repousse de 2 case(s)",
+          "Repousse de 3 case(s)",
+          "Repousse de 4 case(s)",
+          "Repousse de 5 case(s)",
+          "Repousse de 6 case(s)",
+          "Repousse de 7 case(s)",
+          "Repousse de 8 case(s)",
+          "État PC7 (infini)",
+          "État PC6 (infini)",
+          "État PC5 (infini)",
+          "État PC4 (infini)",
+          "État PC3 (infini)",
+          "État PC2 (infini)",
+          "État PC1 (infini)"
+        ],
+        []
+      ]
+    ]
+  },
+  "15948": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Croc Husky"
+        ],
+        [
+          "Invoque : Croc Huksy"
+        ],
+        []
+      ]
+    ]
+  },
+  "15951": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 2-5 ",
+          "CC: 5",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "26 à 28 (dommages)",
+          "Soin : 10 % des PV max"
+        ],
+        [
+          "31 à 34 (dommages)",
+          "Soin : 12 % des PV max"
+        ]
+      ]
+    ]
+  },
+  "15952": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 2-5 ",
+          "CC: 25",
+          "Lancer en ligne uniquement",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "14 à 16 (dommages Air)",
+          "Repousse de 2 case(s)"
+        ],
+        [
+          "17 à 19 (dommages Air)",
+          "Repousse de 2 case(s)"
+        ]
+      ]
+    ]
+  },
+  "15954": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-2 ",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "Soin : 8 % des PV max"
+        ],
+        [
+          "Soin : 12 % des PV max"
+        ]
+      ]
+    ]
+  },
+  "15960": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-7 ",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "Avance de 5 case(s)",
+          "25 à 28 (dommages Eau)"
+        ],
+        [
+          "Avance de 5 case(s)",
+          "30 à 34 (dommages Eau)"
+        ]
+      ]
+    ]
+  },
+  "15976": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : La Bloqueuse"
+        ],
+        [
+          "Invoque : La Bloqueuse"
+        ],
+        []
+      ]
+    ]
+  },
+  "15979": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 4 tour",
+          "Cooldown initial : 1 tour"
+        ],
+        [
+          "Augmente les dommages finaux occasionnés de 20% (pour 3 tour )",
+          "25 % Vitalité (pour 3 tour )",
+          "1  PA (pour 3 tour )",
+          "1  PM (pour 3 tour )",
+          "Augmente la taille. (pour 3 tour )",
+          "État Piqué Motivé (infini)"
+        ],
+        []
+      ]
+    ]
+  },
+  "15980": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-6 modifiable",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "-3  PM (pour 1 tour )",
+          "19 à 22 (dommages Feu)"
+        ],
+        [
+          "-3  PM (pour 1 tour )",
+          "23 à 26 (dommages Feu)"
+        ]
+      ]
+    ]
+  },
+  "15981": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 2-6 modifiable",
+          "CC: 25",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "34 à 38 (vol Air)"
+        ],
+        [
+          "39 à 43 (vol Air)"
+        ]
+      ]
+    ]
+  },
+  "15995": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 modifiable",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Nombre de lancer par cible : 3"
+        ],
+        [
+          "9 à 12 (dommages Eau)"
+        ],
+        [
+          "12 à 15 (dommages Eau)"
+        ]
+      ]
+    ]
+  },
+  "16004": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-2 ",
+          "CC: 15",
+          "Ne nécessite pas de ligne de vue",
+          "Intervalle de relance : 2 tour",
+          "Cooldown global"
+        ],
+        [
+          "27 à 29 (dommages Feu) (dans 1 tour)",
+          "Soin : 12 % des PV max",
+          "27 à 29 (dommages Feu)",
+          "Soin : 12 % des PV max (dans 1 tour)",
+          "27 à 29 (dommages Feu) (dans 1 tour)",
+          "Soin : 12 % des PV max",
+          "Fixe l'intervalle de relance de 20397 à 2 tour(s)"
+        ],
+        [
+          "32 à 35 (dommages Feu) (dans 1 tour)",
+          "Soin : 15 % des PV max",
+          "32 à 35 (dommages Feu)",
+          "Soin : 15 % des PV max (dans 1 tour)",
+          "32 à 35 (dommages Feu) (dans 1 tour)",
+          "Soin : 15 % des PV max"
+        ]
+      ]
+    ]
+  },
+  "16008": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 25",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "21 à 23 (dommages Eau)",
+          "10  Dommage{~ps{~zs (pour 2 tour )"
+        ],
+        [
+          "25 à 28 (dommages Eau)",
+          "10  Dommage{~ps{~zs (pour 2 tour )"
+        ]
+      ]
+    ]
+  },
+  "16009": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 modifiable",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Nombre de lancer par cible : 3"
+        ],
+        [
+          "9 à 12 (dommages Terre)"
+        ],
+        [
+          "12 à 15 (dommages Terre)"
+        ]
+      ]
+    ]
+  },
+  "16010": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 modifiable",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Nombre de lancer par cible : 3"
+        ],
+        [
+          "9 à 12 (dommages Air)"
+        ],
+        [
+          "12 à 15 (dommages Air)"
+        ]
+      ]
+    ]
+  },
+  "16014": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-6 ",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "Avance de 5 case(s)",
+          "26 à 30 (dommages Air)"
+        ],
+        [
+          "Avance de 5 case(s)",
+          "31 à 36 (dommages Air)"
+        ]
+      ]
+    ]
+  },
+  "16016": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 4-7 modifiable",
+          "CC: 25",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "-1  Durée des effets",
+          "16 à 18 (dommages Eau)"
+        ],
+        [
+          "-1  Durée des effets",
+          "19 à 22 (dommages Eau)"
+        ]
+      ]
+    ]
+  },
+  "16018": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-5 ",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "28 à 31 (dommages Eau)"
+        ],
+        [
+          "34 à 37 (dommages Eau)"
+        ]
+      ]
+    ]
+  },
+  "16019": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-4 modifiable",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Ne nécessite pas de ligne de vue",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "8 à 9 (dommages Air) (pour 2 tour ) (le tour de l'entité commence)"
+        ],
+        [
+          "10 à 11 (dommages Air) (pour 2 tour ) (le tour de l'entité commence)"
+        ]
+      ]
+    ]
+  },
+  "16020": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-2 ",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "35 à 39 (dommages Air)",
+          "43 à 48 (dommages Air)"
+        ],
+        [
+          "41 à 46 (dommages Air)",
+          "51 à 57 (dommages Air)"
+        ]
+      ]
+    ]
+  },
+  "16029": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 5",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Cooldown initial : 1 tour"
+        ],
+        [
+          "Pesanteur"
+        ],
+        [
+          "Téléportation symétrique par rapport à la cible",
+          "25 à 28 (dommages Eau)",
+          "Enlève l'état Etat temporaire"
+        ],
+        [
+          "Téléportation symétrique par rapport à la cible",
+          "30 à 34 (dommages Eau)",
+          "Enlève l'état Etat temporaire"
+        ]
+      ]
+    ]
+  },
+  "16036": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 2-6 ",
+          "CC: 25",
+          "Lancer en ligne uniquement",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "23 à 25 (dommages Eau)",
+          "Repousse de 2 case(s)"
+        ],
+        [
+          "28 à 30 (dommages Eau)",
+          "Repousse de 2 case(s)"
+        ]
+      ]
+    ]
+  },
+  "16037": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-1 ",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Lancer en diagonal uniquement",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "Pesanteur",
+          "Porté"
+        ],
+        [
+          "19 à 21 (dommages Air)",
+          "Téléportation symétrique par rapport à la cible"
+        ],
+        [
+          "23 à 26 (dommages Air)",
+          "Téléportation symétrique par rapport à la cible"
+        ]
+      ]
+    ]
+  },
+  "16038": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-1 ",
+          "CC: 25",
+          "Lancer en ligne uniquement",
+          "Lancer en diagonal uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "Pesanteur"
+        ],
+        [
+          "Téléporte sur la case ciblée",
+          "18 à 20 (dommages Feu)"
+        ],
+        [
+          "Téléporte sur la case ciblée",
+          "21 à 24 (dommages Feu)"
+        ]
+      ]
+    ]
+  },
+  "16042": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-4 modifiable",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "22 à 25 (dommages Eau)",
+          "Repousse de 3 case(s)"
+        ],
+        [
+          "26 à 30 (dommages Eau)",
+          "Repousse de 3 case(s)"
+        ]
+      ]
+    ]
+  },
+  "16043": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 2-5 ",
+          "CC: 5",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "15 à 17 (dommages Feu)",
+          "15 à 17 (PV rendus)"
+        ],
+        [
+          "18 à 20 (dommages Feu)",
+          "18 à 20 (PV rendus)"
+        ]
+      ]
+    ]
+  },
+  "16058": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-6 ",
+          "CC: 5",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "51 à 55 (dommages Feu)",
+          "49 à 53 (dommages Feu)",
+          "47 à 51 (dommages Feu)",
+          "45 à 49 (dommages Feu)",
+          "43 à 47 (dommages Feu)",
+          "41 à 44 (dommages Feu)",
+          "39 à 42 (dommages Feu)",
+          "37 à 40 (dommages Feu)",
+          "35 à 38 (dommages Feu)",
+          "33 à 36 (dommages Feu)",
+          "31 à 33 (dommages Feu)",
+          "29 à 31 (dommages Feu)",
+          "27 à 29 (dommages Feu)",
+          "25 à 27 (dommages Feu)",
+          "23 à 25 (dommages Feu)",
+          "21 à 22 (dommages Feu)",
+          "19 à 20 (dommages Feu)",
+          "17 à 18 (dommages Feu)",
+          "15 à 16 (dommages Feu)",
+          "13 à 14 (dommages Feu)",
+          "11  (dommages Feu)"
+        ],
+        [
+          "53 à 58 (dommages Feu)",
+          "51 à 56 (dommages Feu)",
+          "49 à 54 (dommages Feu)",
+          "47 à 52 (dommages Feu)",
+          "45 à 50 (dommages Feu)",
+          "43 à 47 (dommages Feu)",
+          "41 à 45 (dommages Feu)",
+          "39 à 43 (dommages Feu)",
+          "37 à 41 (dommages Feu)",
+          "35 à 39 (dommages Feu)",
+          "33 à 36 (dommages Feu)",
+          "31 à 34 (dommages Feu)",
+          "29 à 32 (dommages Feu)",
+          "27 à 30 (dommages Feu)",
+          "25 à 28 (dommages Feu)",
+          "23 à 25 (dommages Feu)",
+          "21 à 23 (dommages Feu)",
+          "19 à 21 (dommages Feu)",
+          "17 à 19 (dommages Feu)",
+          "15 à 17 (dommages Feu)",
+          "13 à 14 (dommages Feu)"
+        ]
+      ]
+    ]
+  },
+  "16060": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-3 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 1",
+          "Intervalle de relance : 2 tour",
+          "Cooldown global"
+        ],
+        [
+          "21 à 24 (dommages Terre)"
+        ],
+        []
+      ]
+    ]
+  },
+  "16062": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-5 modifiable",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nombre de lancer par cible : 3"
+        ],
+        [
+          "État Manipulation Caster (pour 1 tour )",
+          "21 à 24 (dommages)",
+          "Attire de 2 case(s)",
+          "Repousse de 2 case(s)",
+          "-2  PA (pour 1 tour )",
+          "-2  PM (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16064": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 0-0 ",
+          "CC: 15",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "40 à 43 (dommages Feu)",
+          "État Sulfure Caster (pour 1 tour )"
+        ],
+        [
+          "46 à 49 (dommages Feu)",
+          "État Sulfure Caster (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "16074": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-1 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "Repousse de 2 case(s)",
+          "Repousse de 3 case(s)",
+          "Repousse de 4 case(s)",
+          "Repousse de 6 case(s)",
+          "Repousse de 8 case(s)"
+        ],
+        []
+      ]
+    ]
+  },
+  "16077": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 6 tour",
+          "Cooldown initial : 6 tour"
+        ],
+        [
+          "Augmente les dommages finaux occasionnés de 100% (pour 1 tour )",
+          "5  PM (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16078": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "40  Tacle (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16084": {
+    "spells": [
+      [
+        [
+          "PA: 5",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "200  Force (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16087": {
+    "spells": [
+      [
+        [
+          "PA: 5",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "200  Chance (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16088": {
+    "spells": [
+      [
+        [
+          "PA: 5",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "200  Agilité (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16089": {
+    "spells": [
+      [
+        [
+          "PA: 5",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "200  Intelligence (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16092": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 2-5 ",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "Attire de 5 case(s)",
+          "20 % Dommages mêlée (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16093": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 5 tour"
+        ],
+        [
+          "Soin : 20 % des PV max"
+        ],
+        []
+      ]
+    ]
+  },
+  "16122": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "Pesanteur"
+        ],
+        [
+          "Échange de positions",
+          "État Flipflop (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16124": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 25",
+          "Lancer en diagonal uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "13 à 16 (dommages Feu)",
+          "Repousse de 4 case(s)"
+        ],
+        [
+          "16 à 19 (dommages Feu)",
+          "Repousse de 4 case(s)"
+        ]
+      ]
+    ]
+  },
+  "16128": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "Augmente les dommages finaux occasionnés de 20% (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16130": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-1 ",
+          "CC: 5",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "14 à 16 (dommages Air)",
+          "14 à 16 (dommages Terre)",
+          "14 à 16 (dommages Feu)",
+          "14 à 16 (dommages Eau)",
+          "14 à 16 (dommages)"
+        ],
+        [
+          "17 à 19 (dommages Air)",
+          "17 à 19 (dommages Terre)",
+          "17 à 19 (dommages Feu)",
+          "17 à 19 (dommages Eau)",
+          "17 à 19 (dommages)"
+        ]
+      ]
+    ]
+  },
+  "16135": {
+    "spells": [
+      [
+        [
+          "PA: 6",
+          "Po: 0-0 ",
+          "CC: 25",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "45 à 50 (dommages Eau)"
+        ],
+        [
+          "54 à 60 (dommages Eau)"
+        ]
+      ]
+    ]
+  },
+  "16145": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "100  Dommage{~ps{~zs Poussée (pour 1 tour )",
+          "60  Dommage{~ps{~zs Poussée (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16152": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [
+          "État 0 invocation partagée (infini)"
+        ],
+        []
+      ]
+    ]
+  },
+  "16167": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "16172": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 1-6 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "K03"
+        ],
+        [
+          "-2  PM (pour 1 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 1-8 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "K03"
+        ],
+        [
+          "-2  PM (pour 1 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 1-10 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "K03"
+        ],
+        [
+          "-2  PM (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16173": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 1-6 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "K03"
+        ],
+        [
+          "-2  PA (pour 1 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 1-8 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "K03"
+        ],
+        [
+          "-2  PA (pour 1 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 1-10 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "K03"
+        ],
+        [
+          "-2  PA (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16204": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 4 tour"
+        ],
+        [
+          "40  Dommage{~ps{~zs Poussée (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16207": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-2 ",
+          "CC: 25",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :3",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "13 à 15 (dommages Eau)"
+        ],
+        [
+          "16 à 18 (dommages Eau)"
+        ]
+      ]
+    ]
+  },
+  "16221": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :2"
+        ],
+        [
+          "État Iop : augmenté (Temporis) (infini)",
+          "10 % des PV en bouclier (pour 1 tour )",
+          "20 % des PV en bouclier (pour 1 tour )",
+          "Augmente les dommages finaux occasionnés de 10% (pour 2 tour )",
+          "Augmente les dommages finaux occasionnés de 20% (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16233": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 5-8 modifiable",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "30 à 32 (dommages)",
+          "-60  Dommage{~ps{~zs (pour 1 tour )"
+        ],
+        [
+          "36 à 38 (dommages)",
+          "-60  Dommage{~ps{~zs (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "16237": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 3-6 modifiable",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "33 à 36 (vol Eau)",
+          "Repousse de 2 case(s)"
+        ],
+        [
+          "40 à 43 (vol Eau)",
+          "Repousse de 2 case(s)"
+        ]
+      ]
+    ]
+  },
+  "16240": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 2-8 modifiable",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "6 à 7 (dommages Feu)",
+          "19 à 22 (dommages Feu)"
+        ],
+        [
+          "8 à 9 (dommages Feu)",
+          "23 à 26 (dommages Feu)"
+        ]
+      ]
+    ]
+  },
+  "16241": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 5-8 modifiable",
+          "CC: 15",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "31 à 34 (dommages Terre)"
+        ],
+        [
+          "37 à 40 (dommages Terre)"
+        ]
+      ]
+    ]
+  },
+  "16251": {
+    "spells": [
+      [
+        [
+          "PA: 5",
+          "Po: 2-7 modifiable",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "38 à 42 (dommages Terre)",
+          "Repousse de 4 case(s)"
+        ],
+        [
+          "46 à 50 (dommages Terre)",
+          "Repousse de 4 case(s)"
+        ]
+      ]
+    ]
+  },
+  "16259": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-4 modifiable",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule libre",
+          "Nécessite une cellule sans piège",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "16260": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 0-7 ",
+          "CC: 20",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "25 à 28 (dommages Eau)",
+          "Soin : 8 % des PV max (pour 1 tour ) (le tour de l'entité se termine)"
+        ],
+        [
+          "31 à 35 (dommages Eau)",
+          "Soin : 8 % des PV max (pour 1 tour ) (le tour de l'entité se termine)"
+        ]
+      ]
+    ]
+  },
+  "16263": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-6 modifiable",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "31 à 35 (dommages)",
+          "25 à 28 (PV rendus)"
+        ],
+        [
+          "37 à 42 (dommages)",
+          "30 à 34 (PV rendus)"
+        ]
+      ]
+    ]
+  },
+  "16264": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-4 modifiable",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "20 à 23 (dommages Terre)",
+          "Soin : 7 % des PV max"
+        ],
+        [
+          "24 à 27 (dommages Terre)",
+          "Soin : 10 % des PV max"
+        ]
+      ]
+    ]
+  },
+  "16267": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-5 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "État Perfusé (pour 2 tour )",
+          "Soigne 40 % des dommages subis. (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16268": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 3-6 modifiable",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "Soin : 12 % des PV max",
+          "Soins reçus x130% (pour 1 tour ) (la cible reçoit du soin)"
+        ],
+        [
+          "Soin : 15 % des PV max",
+          "Soins reçus x130% (pour 1 tour ) (la cible reçoit du soin)"
+        ]
+      ]
+    ]
+  },
+  "16272": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-8 modifiable",
+          "CC: 5",
+          "Ne nécessite pas de ligne de vue",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "19 à 23 (dommages Feu)"
+        ],
+        [
+          "23 à 28 (dommages Feu)"
+        ]
+      ]
+    ]
+  },
+  "16274": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "16 à 18 (dommages Eau)"
+        ],
+        []
+      ]
+    ]
+  },
+  "16276": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-6 modifiable",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "17 à 19 (dommages Eau)"
+        ],
+        [
+          "20 à 23 (dommages Eau)"
+        ]
+      ]
+    ]
+  },
+  "16279": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-5 modifiable",
+          "CC: 5",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "25 à 28 (dommages Eau)"
+        ],
+        [
+          "30 à 34 (dommages Eau)"
+        ]
+      ]
+    ]
+  },
+  "16282": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-6 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "16 à 18 (vol Feu)",
+          "Soin : 12 % des PV max"
+        ],
+        []
+      ]
+    ]
+  },
+  "16287": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-1 ",
+          "CC: 5",
+          "Ne nécessite pas de ligne de vue",
+          "Nombre de lancers par tour : 4",
+          "Nombre de lancer par cible : 3"
+        ],
+        [
+          "20 à 24 (dommages Terre)",
+          "30 à 34 (dommages Terre)"
+        ],
+        [
+          "24 à 29 (dommages Terre)",
+          "36 à 41 (dommages Terre)"
+        ]
+      ]
+    ]
+  },
+  "16289": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 2-6 ",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "31 à 35 (dommages Eau)",
+          "9 à 10 (dommages Eau) (pour 2 tour ) (la cible subit des dommages de poussée)"
+        ],
+        [
+          "37 à 42 (dommages Eau)",
+          "9 à 10 (dommages Eau) (pour 2 tour ) (la cible subit des dommages de poussée)"
+        ]
+      ]
+    ]
+  },
+  "16294": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-6 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "État Etat temporaire (pour 1 tour )",
+          "Enlève l'état Etat temporaire",
+          "Dévoile tous les objets invisibles",
+          "Soin : 5 % des PV max"
+        ],
+        []
+      ]
+    ]
+  },
+  "16296": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 0-0 ",
+          "CC: 25",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "40 à 45 (dommages Feu)",
+          "Repousse de 2 case(s)"
+        ],
+        [
+          "48 à 54 (dommages Feu)",
+          "Repousse de 2 case(s)"
+        ]
+      ]
+    ]
+  },
+  "16298": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 5-5 ",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "Pesanteur"
+        ],
+        [
+          "31 à 40 (dommages Air)",
+          "31 à 40 (dommages Eau)",
+          "31 à 40 (dommages Feu)",
+          "31 à 40 (dommages Terre)",
+          "31 à 40 (dommages Neutre)",
+          "Téléporte sur la case ciblée"
+        ],
+        []
+      ]
+    ]
+  },
+  "16299": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-4 ",
+          "CC: 25",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "29 à 32 (dommages Feu)",
+          "10 % Érosion (pour 2 tour )"
+        ],
+        [
+          "35 à 38 (dommages Feu)",
+          "10 % Érosion (pour 2 tour )"
+        ]
+      ]
+    ]
+  },
+  "16303": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :2",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "27 à 30 (dommages Eau) (pour 3 tour ) (le tour de l'entité commence)"
+        ],
+        [
+          "32 à 36 (dommages Eau) (pour 3 tour ) (le tour de l'entité commence)"
+        ]
+      ]
+    ]
+  },
+  "16305": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 1-4 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "Repousse de 3 case(s)",
+          "Échange de positions",
+          "Attire de 3 case(s)",
+          "Téléportation symétrique",
+          "Téléporte à la position précédente"
+        ],
+        []
+      ]
+    ]
+  },
+  "16307": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-12 modifiable",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "19 à 21 (dommages Air)",
+          "2  Portée (pour 2 tour )",
+          "Vole 2  PO (pour 1 tour )"
+        ],
+        [
+          "23 à 25 (dommages Air)",
+          "2  Portée (pour 2 tour )",
+          "Vole 2  PO (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "16313": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-12 modifiable",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "4  PM (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16319": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-7 ",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "34 à 38 (dommages Feu)",
+          "150  Puissance (pour 2 tour )"
+        ],
+        [
+          "40 à 44 (dommages Feu)",
+          "150  Puissance (pour 2 tour )"
+        ]
+      ]
+    ]
+  },
+  "16322": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-6 modifiable",
+          "CC: 25",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "30  Fuite (pour 2 tour )",
+          "40  Dommage{~ps{~zs (pour 2 tour )"
+        ],
+        [
+          "40  Fuite (pour 2 tour )",
+          "60  Dommage{~ps{~zs (pour 2 tour )"
+        ]
+      ]
+    ]
+  },
+  "16323": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-6 modifiable",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule libre",
+          "Nécessite une cellule sans piège",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "16325": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-5 ",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "30 à 34 (dommages Terre)",
+          "2  PA (pour 1 tour )"
+        ],
+        [
+          "36 à 41 (dommages Terre)",
+          "2  PA (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "16330": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 2-5 modifiable",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "Recule de 2 case(s)"
+        ],
+        []
+      ]
+    ]
+  },
+  "16331": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-6 modifiable",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 4",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "12 % Érosion (pour 2 tour )",
+          "Repousse de 2 case(s)"
+        ],
+        []
+      ]
+    ]
+  },
+  "16333": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 3-7 modifiable",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "Attire de 2 case(s)",
+          "18 à 21 (dommages Terre)",
+          "18 à 21 (dommages Terre)"
+        ],
+        [
+          "Attire de 2 case(s)",
+          "21 à 25 (dommages Terre)",
+          "21 à 25 (dommages Terre)"
+        ]
+      ]
+    ]
+  },
+  "16334": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 1-1 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "Pesanteur"
+        ],
+        [
+          "Téléporte sur la case ciblée",
+          "30  Fuite (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16338": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "État Indéplaçable (pour 1 tour )",
+          "50 % Résistance mêlée (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16344": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "25 à 28 (dommages Feu)",
+          "Soins reçus x50% (pour 1 tour ) (la cible reçoit du soin)"
+        ],
+        [
+          "30 à 34 (dommages Feu)",
+          "Soins reçus x50% (pour 1 tour ) (la cible reçoit du soin)"
+        ]
+      ]
+    ]
+  },
+  "16356": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-2 ",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "-1  Durée des effets",
+          "-100  Puissance (pour 1 tour )"
+        ],
+        [
+          "-1  Durée des effets",
+          "-150  Puissance (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "16360": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 2-6 modifiable",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "24 à 28 (dommages Eau)",
+          "-10  Retrait PA (pour 2 tour )"
+        ],
+        [
+          "29 à 34 (dommages Eau)",
+          "-20  Retrait PA (pour 2 tour )"
+        ]
+      ]
+    ]
+  },
+  "16361": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-5 ",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "28 à 31 (dommages Eau)",
+          "30  Esquive PM (pour 1 tour )"
+        ],
+        [
+          "34 à 37 (dommages Eau)",
+          "30  Esquive PM (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "16363": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-7 modifiable",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "Repousse de 1 case(s)",
+          "-16 % Critique (pour 3 tour )"
+        ],
+        [
+          "Repousse de 1 case(s)",
+          "-20 % Critique (pour 3 tour )"
+        ]
+      ]
+    ]
+  },
+  "16364": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-5 ",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 4 tour"
+        ],
+        [
+          "Dommages subis x120% (pour 1 tour ) (la cible subit des dommages)",
+          "État Pesanteur (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16367": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "État Intaclable (pour 1 tour )",
+          "État Pesanteur (pour 1 tour dans 1 tour)"
+        ],
+        []
+      ]
+    ]
+  },
+  "16368": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-4 modifiable",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule libre",
+          "Nécessite une cellule sans piège",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "16370": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-8 modifiable",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "25 à 30 (dommages Eau)"
+        ],
+        [
+          "31 à 36 (dommages Eau)"
+        ]
+      ]
+    ]
+  },
+  "16374": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "26 à 30 (dommages Terre)",
+          "-100  Puissance (pour 1 tour )"
+        ],
+        [
+          "39 à 43 (dommages Terre)",
+          "-100  Puissance (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "16375": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-5 ",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "13 à 15 (dommages Terre)"
+        ],
+        [
+          "16 à 18 (dommages Terre)"
+        ]
+      ]
+    ]
+  },
+  "16378": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-7 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Intervalle de relance : 3 tour"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "16387": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-3 ",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "16 à 20 (dommages Air)",
+          "Vole 80  Agilité (pour 2 tour )",
+          "16 à 20 (dommages Eau)",
+          "Vole 80  Chance (pour 2 tour )",
+          "16 à 20 (dommages Feu)",
+          "Vole 80  Intelligence (pour 2 tour )",
+          "16 à 20 (dommages Terre)",
+          "Vole 80  Force (pour 2 tour )",
+          "16 à 20 (dommages Neutre)",
+          "Vole 80  Force (pour 2 tour )"
+        ],
+        [
+          "20 à 24 (dommages Air)",
+          "Vole 100  Agilité (pour 2 tour )",
+          "20 à 24 (dommages Eau)",
+          "Vole 100  Chance (pour 2 tour )",
+          "20 à 24 (dommages Feu)",
+          "Vole 100  Intelligence (pour 2 tour )",
+          "20 à 24 (dommages Terre)",
+          "Vole 100  Force (pour 2 tour )",
+          "20 à 24 (dommages Neutre)",
+          "Vole 100  Force (pour 2 tour )"
+        ]
+      ]
+    ]
+  },
+  "16395": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-6 modifiable",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule libre",
+          "Nécessite une cellule sans piège",
+          "Nombre de lancers par tour : 2"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "16401": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-6 ",
+          "CC: 25",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "30 à 34 (dommages Eau)",
+          "Dommages subis x125% (pour 1 tour ) (la cible subit des dommages occasionnées par une invocation)"
+        ],
+        [
+          "36 à 41 (dommages Eau)",
+          "Dommages subis x125% (pour 1 tour ) (la cible subit des dommages occasionnées par une invocation)"
+        ]
+      ]
+    ]
+  },
+  "16403": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-5 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "11 à 13 (dommages Feu)",
+          "11 à 13 (dommages Eau)"
+        ],
+        []
+      ]
+    ]
+  },
+  "16407": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-1 ",
+          "CC: 20",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "15 à 19 (dommages Air)",
+          "Dommages subis x90% (pour 1 tour ) (la cible subit des dommages)"
+        ],
+        [
+          "18 à 22 (dommages Air)",
+          "Dommages subis x90% (pour 1 tour ) (la cible subit des dommages)"
+        ]
+      ]
+    ]
+  },
+  "16411": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "250 % du niveau en bouclier (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16419": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 2-6 modifiable",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 4",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "100 % du niveau en bouclier (pour 2 tour )",
+          "200 % du niveau en bouclier (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "16443": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-4 modifiable",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "Recule de 1 case(s)",
+          "13 à 16 (dommages Terre)"
+        ],
+        [
+          "Recule de 1 case(s)",
+          "17 à 21 (dommages Terre)"
+        ]
+      ]
+    ]
+  },
+  "16447": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-5 modifiable",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "21 à 24 (dommages Terre)"
+        ],
+        [
+          "25 à 29 (dommages Terre)"
+        ]
+      ]
+    ]
+  },
+  "16452": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-2 ",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "7 à 9 (dommages Feu)",
+          "-50  Puissance (pour 1 tour )"
+        ],
+        [
+          "10 à 12 (dommages Feu)",
+          "-50  Puissance (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "16455": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "19 à 21 (vol Feu)",
+          "-2  PA (pour 1 tour )"
+        ],
+        [
+          "23 à 26 (vol Feu)",
+          "-2  PA (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "16456": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-1 ",
+          "CC: 5",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 4 tour"
+        ],
+        [
+          "37 à 41 (dommages Eau)",
+          "37 à 41 (dommages Feu)",
+          "37 à 41 (dommages Terre)",
+          "37 à 41 (dommages Air)",
+          "37 à 41 (dommages Neutre)"
+        ],
+        [
+          "42 à 47 (dommages Eau)",
+          "42 à 47 (dommages Feu)",
+          "42 à 47 (dommages Terre)",
+          "42 à 47 (dommages Air)",
+          "42 à 47 (dommages Neutre)"
+        ]
+      ]
+    ]
+  },
+  "16482": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-8 ",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 4",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "8 à 10 (dommages)"
+        ],
+        [
+          "11 à 13 (dommages)"
+        ]
+      ]
+    ]
+  },
+  "16483": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-8 ",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 4",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "8 à 10 (dommages Feu)"
+        ],
+        [
+          "11 à 13 (dommages Feu)"
+        ]
+      ]
+    ]
+  },
+  "16484": {
+    "spells": [
+      [
+        [
+          "PA: 5",
+          "Po: 5-8 ",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "31 à 40 (vol Air) (dans 25.0% des cas)",
+          "31 à 40 (vol Eau) (dans 25.0% des cas)",
+          "31 à 40 (vol Feu) (dans 25.0% des cas)",
+          "31 à 40 (vol Terre) (dans 25.0% des cas)"
+        ],
+        [
+          "41 à 50 (vol Air) (dans 25.0% des cas)",
+          "41 à 50 (vol Eau) (dans 25.0% des cas)",
+          "41 à 50 (vol Feu) (dans 25.0% des cas)",
+          "41 à 50 (vol Terre) (dans 25.0% des cas)"
+        ]
+      ]
+    ]
+  },
+  "16485": {
+    "spells": [
+      [
+        [
+          "PA: 6",
+          "Po: 4-7 ",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :3",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "38 à 47 (dommages Air)",
+          "-1  Portée (pour 5 tour )"
+        ],
+        [
+          "49  (dommages Air)",
+          "-1  Portée (pour 6 tour )"
+        ]
+      ]
+    ]
+  },
+  "16486": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Cawotte"
+        ],
+        [
+          "Invoque : Cawotte"
+        ],
+        []
+      ]
+    ]
+  },
+  "16487": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "Repousse de 4 case(s)"
+        ],
+        []
+      ]
+    ]
+  },
+  "16488": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 0-0 ",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "26 à 30 (dommages Feu)"
+        ],
+        [
+          "31 à 35 (dommages Feu)"
+        ]
+      ]
+    ]
+  },
+  "16489": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule libre",
+          "Intervalle de relance : 2 tour",
+          "Cooldown initial : 1 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Chaferfu"
+        ],
+        [
+          "Invoque : Chaferfu (dans 80.0% des cas)",
+          "Invoque : Chaferfu Lancier (dans 20.0% des cas)"
+        ],
+        []
+      ]
+    ]
+  },
+  "16508": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : La Sacrifiée"
+        ],
+        [
+          "Invoque : La Sacrifiée"
+        ],
+        []
+      ]
+    ]
+  },
+  "16509": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Roukewl"
+        ],
+        [
+          "Invoque : Roukewl"
+        ],
+        []
+      ]
+    ]
+  },
+  "16510": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Yitim Michiwi"
+        ],
+        [
+          "Invoque : Yitim Michiwi"
+        ],
+        []
+      ]
+    ]
+  },
+  "16511": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Nealin Nealang"
+        ],
+        [
+          "Invoque : Nealin Nealang"
+        ],
+        []
+      ]
+    ]
+  },
+  "16512": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Phorum"
+        ],
+        [
+          "Invoque : Phorum"
+        ],
+        []
+      ]
+    ]
+  },
+  "16513": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Rei"
+        ],
+        [
+          "Invoque : Rei"
+        ],
+        []
+      ]
+    ]
+  },
+  "16515": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Corina"
+        ],
+        [
+          "Invoque : Corina"
+        ],
+        []
+      ]
+    ]
+  },
+  "16516": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Grobus"
+        ],
+        [
+          "Invoque : Grobus"
+        ],
+        []
+      ]
+    ]
+  },
+  "16518": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 4 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Charbender"
+        ],
+        [
+          "Invoque : Charbender"
+        ],
+        []
+      ]
+    ]
+  },
+  "16553": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-1 ",
+          "CC: 20",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "16 à 19 (dommages Feu)"
+        ],
+        [
+          "19 à 23 (dommages Feu)"
+        ]
+      ]
+    ]
+  },
+  "16556": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-5 modifiable",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "8 à 10 (vol Terre)"
+        ],
+        [
+          "11 à 14 (vol Terre)"
+        ]
+      ]
+    ]
+  },
+  "16559": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Intervalle de relance : 2 tour",
+          "Cooldown initial : 1 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Arakne"
+        ],
+        [
+          "Invoque : Arakne (dans 80.0% des cas)",
+          "Invoque : Arakne Majeure (dans 20.0% des cas)"
+        ],
+        []
+      ]
+    ]
+  },
+  "16561": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-4 ",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "16 à 20 (PV rendus)"
+        ],
+        [
+          "21 à 26 (PV rendus)"
+        ]
+      ]
+    ]
+  },
+  "19890": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "19892": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-2 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :2",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "1  PA (pour 2 tour ) (le tour de l'entité commence)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :2",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "1  PA (pour 2 tour ) (le tour de l'entité commence)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :2",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "1  PA (pour 2 tour ) (le tour de l'entité commence)"
+        ],
+        []
+      ]
+    ]
+  },
+  "19894": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [
+          "50  Puissance (infini) (le lanceur subit des dommages CC)",
+          "25 % Critique (infini)"
+        ],
+        []
+      ]
+    ]
+  },
+  "19895": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "50  Puissance (dans 33.333% des cas) (pour 3 tour )",
+          "90  Bouclier (dans 33.333% des cas) (pour 3 tour )",
+          "1  PM (dans 33.333% des cas) (pour 3 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "80  Puissance (dans 33.333% des cas) (pour 3 tour )",
+          "140  Bouclier (dans 33.333% des cas) (pour 3 tour )",
+          "1  PM (dans 33.333% des cas) (pour 3 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "120  Puissance (dans 33.333% des cas) (pour 3 tour )",
+          "210  Bouclier (dans 33.333% des cas) (pour 3 tour )",
+          "1  PM (dans 33.333% des cas) (pour 3 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "180  Puissance (dans 33.333% des cas) (pour 3 tour )",
+          "315  Bouclier (dans 33.333% des cas) (pour 3 tour )",
+          "2  PM (dans 33.333% des cas) (pour 3 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "250  Puissance (dans 33.333% des cas) (pour 3 tour )",
+          "480  Bouclier (dans 33.333% des cas) (pour 3 tour )",
+          "2  PM (dans 33.333% des cas) (pour 3 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "19896": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "19982": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "40  Bouclier (pour 1 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1-6 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "150  Bouclier (pour 1 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1-7 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "270  Bouclier (pour 1 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1-8 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "430  Bouclier (pour 1 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1-8 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "650  Bouclier (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "19985": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-5 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0-5 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0-5 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0-5 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "20055": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "Soin : 7 % des PV max",
+          "Soin : 7 % des PV max",
+          "Soin : 7 % des PV max"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0-6 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "Soin : 7 % des PV max",
+          "Soin : 7 % des PV max",
+          "Soin : 7 % des PV max"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0-8 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "Soin : 7 % des PV max",
+          "Soin : 7 % des PV max",
+          "Soin : 7 % des PV max"
+        ],
+        []
+      ]
+    ]
+  },
+  "20068": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "20072": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "État Infecté (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "État Infecté (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1-5 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "État Infecté (infini)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20073": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 1-63 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3"
+        ],
+        [
+          "Enlève l'état Infecté"
+        ],
+        []
+      ]
+    ]
+  },
+  "20075": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 2-2 ",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "Avance de 1 case(s)",
+          "Ajoute +2  PA"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 2-3 ",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "Avance de 2 case(s)",
+          "Ajoute +2  PA"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 2-4 ",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "Avance de 3 case(s)",
+          "Ajoute +2  PA"
+        ],
+        []
+      ]
+    ]
+  },
+  "20076": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [
+          "2  Portée (infini)",
+          "État Intaclable (pour 1 tour )",
+          "2  PM (pour 1 tour )",
+          "20077 (infini) (la cible subit des dommages de mêlée)",
+          "État Distant (Crâ) (infini)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20079": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "20080": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "2  PM (pour 1 tour )",
+          "Ajoute +2  PA",
+          "État Pleutre (infini)",
+          "Fixe l'intervalle de relance de 20081 à 1 tour(s)",
+          "Fixe l'intervalle de relance de 20082 à 1 tour(s)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "3  PM (pour 1 tour )",
+          "Ajoute +2  PA",
+          "État Pleutre (infini)",
+          "Fixe l'intervalle de relance de 20081 à 1 tour(s)",
+          "Fixe l'intervalle de relance de 20082 à 1 tour(s)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20081": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "10 % des PV en bouclier (pour 1 tour )",
+          "Ajoute +2  PA",
+          "État Intrépide (infini)",
+          "Fixe l'intervalle de relance de 20080 à 1 tour(s)",
+          "Fixe l'intervalle de relance de 20082 à 1 tour(s)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20082": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "50  Puissance (pour 1 tour )",
+          "Ajoute +2  PA",
+          "État Psychopathe (infini)",
+          "Fixe l'intervalle de relance de 20080 à 1 tour(s)",
+          "Fixe l'intervalle de relance de 20081 à 1 tour(s)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "100  Puissance (pour 1 tour )",
+          "Ajoute +2  PA",
+          "État Psychopathe (infini)",
+          "Fixe l'intervalle de relance de 20080 à 1 tour(s)",
+          "Fixe l'intervalle de relance de 20081 à 1 tour(s)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "180  Puissance (pour 1 tour )",
+          "Ajoute +2  PA",
+          "État Psychopathe (infini)",
+          "Fixe l'intervalle de relance de 20080 à 1 tour(s)",
+          "Fixe l'intervalle de relance de 20081 à 1 tour(s)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "250  Puissance (pour 1 tour )",
+          "Ajoute +2  PA",
+          "État Psychopathe (infini)",
+          "Fixe l'intervalle de relance de 20080 à 1 tour(s)",
+          "Fixe l'intervalle de relance de 20081 à 1 tour(s)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20085": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "20090": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 5 tour",
+          "Cooldown initial : 3 tour"
+        ],
+        [
+          "Soin : 10 % des PV max",
+          "Soin : 9 % des PV max",
+          "Soin : 9 % des PV max",
+          "Soin : 9 % des PV max",
+          "Soin : 9 % des PV max",
+          "Soin : 9 % des PV max",
+          "Soin : 9 % des PV max",
+          "Soin : 9 % des PV max",
+          "Soin : 9 % des PV max",
+          "Soin : 9 % des PV max",
+          "Soin : 9 % des PV max"
+        ],
+        []
+      ]
+    ]
+  },
+  "20091": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 1-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Nécessite une cellule sans piège",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "Pose un portail (+0% dommages) (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 1-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Nécessite une cellule sans piège",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "Pose un portail (+3% dommages) (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 1-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Nécessite une cellule sans piège",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "Pose un portail (+6% dommages) (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 1-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Nécessite une cellule sans piège",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "Pose un portail (+9% dommages) (infini)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20092": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "Désactiver un portail (pour 1 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1-6 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "Désactiver un portail (pour 1 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1-8 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "Désactiver un portail (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "20102": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "50 % Vitalité (pour 2 tour )",
+          "Transmet une partie de ses caractéristiques (pour 2 tour )",
+          "Transmet une partie de ses caractéristiques (pour 2 tour )",
+          "Augmente la taille. (pour 2 tour )",
+          "Diminue la taille de 25 % (dans 2 tour)",
+          "2  PA (pour 1 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "50 % Vitalité (pour 2 tour )",
+          "Transmet une partie de ses caractéristiques (pour 2 tour )",
+          "Transmet une partie de ses caractéristiques (pour 2 tour )",
+          "Augmente la taille. (pour 2 tour )",
+          "Diminue la taille de 25 % (dans 2 tour)",
+          "2  PA (pour 1 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1-5 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "50 % Vitalité (pour 2 tour )",
+          "Transmet une partie de ses caractéristiques (pour 2 tour )",
+          "Transmet une partie de ses caractéristiques (pour 2 tour )",
+          "Augmente la taille. (pour 2 tour )",
+          "Diminue la taille de 25 % (dans 2 tour)",
+          "2  PA (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "20104": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-5 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "Pesanteur"
+        ],
+        [
+          "Échange de positions"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1-6 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "Pesanteur"
+        ],
+        [
+          "Échange de positions"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1-7 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "Pesanteur"
+        ],
+        [
+          "Échange de positions"
+        ],
+        []
+      ]
+    ]
+  },
+  "20105": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-5 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 5 tour",
+          "Cooldown initial : 3 tour"
+        ],
+        [
+          "État Lanceur Feu Sacrificiel (pour 1 tour )",
+          "Tue la cible"
+        ],
+        []
+      ]
+    ]
+  },
+  "20126": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "20127": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "Invoque : Tonneau Magique"
+        ],
+        []
+      ]
+    ]
+  },
+  "20134": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-6 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 4",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "État Saoul (pour 1 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1-7 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 4",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "État Saoul (pour 1 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1-8 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 4",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "État Saoul (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "20138": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-5 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "Invoque : Tourelle"
+        ],
+        []
+      ]
+    ]
+  },
+  "20141": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-5 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "Pesanteur"
+        ],
+        [
+          "Échange de positions"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1-6 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "Pesanteur"
+        ],
+        [
+          "Échange de positions"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1-7 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "Pesanteur"
+        ],
+        [
+          "Échange de positions"
+        ],
+        []
+      ]
+    ]
+  },
+  "20142": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-5 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "20143",
+          "Tue la cible",
+          "30  Bouclier (pour 1 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1-5 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "20143",
+          "Tue la cible",
+          "240 % du niveau en bouclier (pour 1 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1-5 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "20143",
+          "Tue la cible",
+          "360 % du niveau en bouclier (pour 1 tour )"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1-5 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "20143",
+          "Tue la cible",
+          "480 % du niveau en bouclier (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "20159": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 6 tour"
+        ],
+        [
+          "K10"
+        ],
+        [
+          "Tour annulé (pour 1 tour )",
+          "Tour annulé (pour 1 tour dans 1 tour)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20160": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "Crée un double du lanceur de sort",
+          "Échange de positions"
+        ],
+        []
+      ]
+    ]
+  },
+  "20163": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-5 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "Rend le personnage invisible (infini)",
+          "Dommages subis x50% (infini) (la cible subit des dommages)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20167": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "20170": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [
+          "Bombe"
+        ],
+        [
+          "Bombe"
+        ],
+        [
+          "8 à 9 (dommages)",
+          "9 à 10 (dommages)",
+          "11 à 13 (dommages)",
+          "14 à 16 (dommages)",
+          "17 à 20 (dommages)",
+          "Ajoute +1  PA"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [
+          "Bombe"
+        ],
+        [
+          "Bombe"
+        ],
+        [
+          "10 à 12 (dommages)",
+          "12 à 13 (dommages)",
+          "14 à 17 (dommages)",
+          "18 à 21 (dommages)",
+          "22 à 26 (dommages)",
+          "Ajoute +1  PA"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [
+          "Bombe"
+        ],
+        [
+          "Bombe"
+        ],
+        [
+          "13 à 15 (dommages)",
+          "15 à 17 (dommages)",
+          "18 à 22 (dommages)",
+          "23 à 27 (dommages)",
+          "28 à 33 (dommages)",
+          "Ajoute +1  PA"
+        ],
+        []
+      ]
+    ]
+  },
+  "20172": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [
+          "Bombe"
+        ],
+        [
+          "Bombe"
+        ],
+        [
+          "Soin : 8 % des PV max",
+          "Ajoute +1  PA"
+        ],
+        []
+      ]
+    ]
+  },
+  "20173": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :4"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "20174": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-0 ",
+          "CC: 5",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "Soin : 20 % des PV max"
+        ],
+        [
+          "Soin : 30 % des PV max"
+        ]
+      ]
+    ]
+  },
+  "20176": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [
+          "État Chasse (infini)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20180": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [
+          "Chasse"
+        ],
+        [
+          "Dévoile tous les objets invisibles",
+          "Ajoute +3  PM",
+          "Enlève l'état Chasse"
+        ],
+        []
+      ]
+    ]
+  },
+  "20205": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-6 modifiable",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "16 à 18 (dommages Air)"
+        ],
+        [
+          "19 à 21 (dommages Air)"
+        ]
+      ]
+    ]
+  },
+  "20209": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-6 modifiable",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "15 à 17 (dommages Eau)",
+          "-10  Tacle (pour 1 tour )"
+        ],
+        [
+          "18 à 20 (dommages Eau)",
+          "-10  Tacle (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "20210": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-0 ",
+          "CC: 20",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "16 à 19 (dommages Air)"
+        ],
+        [
+          "19 à 23 (dommages Air)"
+        ]
+      ]
+    ]
+  },
+  "20214": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [
+          "Bombe"
+        ],
+        [
+          "Bombe"
+        ],
+        [
+          "Repousse de 2 case(s)",
+          "Ajoute +1  PA"
+        ],
+        []
+      ]
+    ]
+  },
+  "20217": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-1 ",
+          "CC: 20",
+          "Lancer en diagonal uniquement",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "16 à 19 (dommages Eau)"
+        ],
+        [
+          "19 à 23 (dommages Eau)"
+        ]
+      ]
+    ]
+  },
+  "20220": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-1 ",
+          "CC: 20",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "16 à 19 (dommages Terre)"
+        ],
+        [
+          "19 à 23 (dommages Terre)"
+        ]
+      ]
+    ]
+  },
+  "20224": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 10",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "14 à 16 (dommages Air)",
+          "3  PA (pour 1 tour dans 1 tour)"
+        ],
+        [
+          "17 à 19 (dommages Air)",
+          "3  PA (pour 1 tour dans 1 tour)"
+        ]
+      ]
+    ]
+  },
+  "20225": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 10",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "14 à 16 (dommages Terre)",
+          "3  PA (pour 1 tour dans 1 tour)"
+        ],
+        [
+          "17 à 19 (dommages Terre)",
+          "3  PA (pour 1 tour dans 1 tour)"
+        ]
+      ]
+    ]
+  },
+  "20226": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 10",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "14 à 16 (dommages Feu)",
+          "3  PA (pour 1 tour dans 1 tour)"
+        ],
+        [
+          "17 à 19 (dommages Feu)",
+          "3  PA (pour 1 tour dans 1 tour)"
+        ]
+      ]
+    ]
+  },
+  "20227": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 10",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "14 à 16 (dommages Eau)",
+          "3  PA (pour 1 tour dans 1 tour)"
+        ],
+        [
+          "17 à 19 (dommages Eau)",
+          "3  PA (pour 1 tour dans 1 tour)"
+        ]
+      ]
+    ]
+  },
+  "20289": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-2 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "Soigne 30 % des dommages subis."
+        ],
+        []
+      ]
+    ]
+  },
+  "20292": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-3 ",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "Soin : 10 % des PV max (dans 1 tour)",
+          "Soin : 10 % des PV max (dans 2 tour)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20293": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-1 ",
+          "CC: 5",
+          "Ne nécessite pas de ligne de vue",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "11 à 13 (dommages Air)",
+          "16 à 18 (dommages Air)"
+        ],
+        [
+          "13 à 16 (dommages Air)",
+          "19 à 22 (dommages Air)"
+        ]
+      ]
+    ]
+  },
+  "20294": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "État Mutilation (infini)",
+          "50  Puissance (infini)",
+          "-10 % PV (infini)",
+          "200 % du niveau en bouclier (pour 2 tour )",
+          "400 % du niveau en bouclier (pour 2 tour )",
+          "600 % du niveau en bouclier (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "20315": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-5 modifiable",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule libre",
+          "Nécessite une cellule sans piège",
+          "Nombre de lancers par tour : 2"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "20317": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-7 modifiable",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule libre",
+          "Nécessite une cellule sans piège",
+          "Nombre de lancers par tour : 1"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "20319": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-6 modifiable",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule libre",
+          "Nécessite une cellule sans piège",
+          "Nombre de lancers par tour : 2"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "20321": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 1-4 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1",
+          "Intervalle de relance : 2 tour"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "20322": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "-3  Portée (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "20323": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-8 modifiable",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "15 à 17 (dommages Eau)",
+          "2  Portée (pour 2 tour )",
+          "Vole 2  PO (pour 1 tour )"
+        ],
+        [
+          "18 à 20 (dommages Eau)",
+          "2  Portée (pour 2 tour )",
+          "Vole 2  PO (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "20324": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-5 modifiable",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "13 à 15 (dommages Feu)"
+        ],
+        [
+          "15 à 18 (dommages Feu)"
+        ]
+      ]
+    ]
+  },
+  "20327": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-5 ",
+          "CC: 5",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "41 à 44 (dommages Terre)",
+          "39 à 42 (dommages Terre)",
+          "37 à 40 (dommages Terre)",
+          "35 à 38 (dommages Terre)",
+          "33 à 36 (dommages Terre)",
+          "31 à 34 (dommages Terre)",
+          "29 à 31 (dommages Terre)",
+          "27 à 29 (dommages Terre)",
+          "25 à 27 (dommages Terre)",
+          "23 à 25 (dommages Terre)",
+          "22 à 24 (dommages Terre)",
+          "21 à 22 (dommages Terre)",
+          "20 à 21 (dommages Terre)",
+          "19 à 20 (dommages Terre)",
+          "18 à 19 (dommages Terre)",
+          "17 à 18 (dommages Terre)",
+          "16  (dommages Terre)",
+          "15  (dommages Terre)",
+          "14  (dommages Terre)",
+          "13  (dommages Terre)",
+          "12  (dommages Terre)"
+        ],
+        [
+          "43 à 47 (dommages Terre)",
+          "41 à 45 (dommages Terre)",
+          "39 à 43 (dommages Terre)",
+          "37 à 41 (dommages Terre)",
+          "35 à 39 (dommages Terre)",
+          "33 à 37 (dommages Terre)",
+          "31 à 34 (dommages Terre)",
+          "29 à 32 (dommages Terre)",
+          "27 à 30 (dommages Terre)",
+          "25 à 28 (dommages Terre)",
+          "24 à 27 (dommages Terre)",
+          "23 à 25 (dommages Terre)",
+          "22 à 24 (dommages Terre)",
+          "21 à 23 (dommages Terre)",
+          "20 à 22 (dommages Terre)",
+          "19 à 21 (dommages Terre)",
+          "18 à 19 (dommages Terre)",
+          "17 à 18 (dommages Terre)",
+          "16 à 17 (dommages Terre)",
+          "15 à 16 (dommages Terre)",
+          "14 à 15 (dommages Terre)"
+        ]
+      ]
+    ]
+  },
+  "20328": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-6 modifiable",
+          "CC: 5",
+          "Ne nécessite pas de ligne de vue",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "13 à 15 (dommages Air)"
+        ],
+        [
+          "16 à 18 (dommages Air)"
+        ]
+      ]
+    ]
+  },
+  "20329": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [
+          "Maximise les effets aléatoires (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "20330": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-6 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "Augmente les dommages finaux occasionnés de 100% (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "20334": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "-1  Durée des effets"
+        ],
+        []
+      ]
+    ]
+  },
+  "20335": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 2-6 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "15 à 17 (dommages)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20337": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-5 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "20346": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 4-4 ",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini"
+        ],
+        [
+          "22 à 25 (dommages Eau)",
+          "État Fission Mystique (pour 1 tour )"
+        ],
+        [
+          "25 à 28 (dommages Eau)",
+          "État Fission Mystique (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "20349": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-6 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "Augmente les dommages finaux occasionnés de 15% (pour 1 tour )",
+          "Dommages subis x110% (la cible subit des dommages)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20351": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour",
+          "Cooldown global"
+        ],
+        [
+          "Pesanteur"
+        ],
+        [
+          "Échange de positions",
+          "État Flipflap (pour 1 tour )",
+          "20350 (pour 1 tour ) (le tour de l'entité se termine)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20352": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 3-6 modifiable",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "23 à 26 (dommages Terre)",
+          "-60  Résistance{~ps{~zs Poussée (pour 2 tour )"
+        ],
+        [
+          "28 à 31 (dommages Terre)",
+          "-60  Résistance{~ps{~zs Poussée (pour 2 tour )"
+        ]
+      ]
+    ]
+  },
+  "20354": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-5 ",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "13 à 16 (vol Eau)",
+          "-50  Puissance (pour 1 tour )"
+        ],
+        [
+          "16 à 19 (vol Eau)",
+          "-50  Puissance (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "20356": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 2-5 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "22 à 24 (dommages Air)",
+          "50  Puissance (pour 2 tour )"
+        ],
+        [
+          "26 à 29 (dommages Air)",
+          "50  Puissance (pour 2 tour )"
+        ]
+      ]
+    ]
+  },
+  "20361": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-4 ",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "18 à 21 (dommages Feu)",
+          "Repousse de 3 case(s)"
+        ],
+        [
+          "22 à 25 (dommages Feu)",
+          "Repousse de 3 case(s)"
+        ]
+      ]
+    ]
+  },
+  "20364": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-7 ",
+          "CC: 5",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "19 à 23 (dommages Feu)",
+          "-60  Dommage{~ps{~zs (pour 2 tour )"
+        ],
+        [
+          "23 à 28 (dommages Feu)",
+          "-60  Dommage{~ps{~zs (pour 2 tour )"
+        ]
+      ]
+    ]
+  },
+  "20366": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-5 ",
+          "CC: 25",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "20 % Résistance distance (pour 2 tour )",
+          "10 % Résistance distance (pour 2 tour )",
+          "État Indéplaçable (pour 2 tour )"
+        ],
+        [
+          "20 % Résistance distance (pour 2 tour )",
+          "10 % Résistance distance (pour 2 tour )",
+          "État Indéplaçable (pour 2 tour )"
+        ]
+      ]
+    ]
+  },
+  "20369": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-5 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "20371": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-7 modifiable",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "18 à 20 (dommages Terre)",
+          "-3  PM (pour 1 tour )"
+        ],
+        [
+          "22 à 24 (dommages Terre)",
+          "-3  PM (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "20372": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "20374": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-4 ",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "-1  Durée des effets",
+          "35 à 39 (dommages Air)"
+        ],
+        [
+          "-1  Durée des effets",
+          "42 à 47 (dommages Air)"
+        ]
+      ]
+    ]
+  },
+  "20376": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 2-5 modifiable",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :2",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "19 à 22 (dommages)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20378": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 2-3 ",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 4 tour",
+          "Cooldown global"
+        ],
+        [
+          "Dommages subis x110% (pour 2 tour ) (la cible subit des dommages)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20381": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "20383": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "Pesanteur"
+        ],
+        [
+          "Téléportation symétrique"
+        ],
+        []
+      ]
+    ]
+  },
+  "20385": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-5 modifiable",
+          "CC: 25",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "33 à 35 (dommages Feu)",
+          "Repousse de 1 case(s)"
+        ],
+        [
+          "40 à 42 (dommages Feu)",
+          "Repousse de 1 case(s)"
+        ]
+      ]
+    ]
+  },
+  "20386": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-5 ",
+          "CC: 25",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "Téléportation symétrique",
+          "19 à 22 (dommages Air)"
+        ],
+        [
+          "Téléportation symétrique",
+          "23 à 26 (dommages Air)"
+        ]
+      ]
+    ]
+  },
+  "20388": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1",
+          "Cooldown global"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "20389": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-4 ",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "32 à 36 (dommages Feu)",
+          "-20 % Critique (pour 1 tour )"
+        ],
+        [
+          "38 à 43 (dommages Feu)",
+          "-20 % Critique (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "20390": {
+    "spells": [
+      [
+        [
+          "PA: 5",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Lancer en diagonal uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour",
+          "Cooldown global"
+        ],
+        [
+          "24 à 28 (dommages)",
+          "État Baroufle (infini)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20392": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 2-6 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "34 à 39 (dommages Feu)",
+          "50  Puissance (pour 2 tour )"
+        ],
+        [
+          "41 à 47 (dommages Feu)",
+          "50  Puissance (pour 2 tour )"
+        ]
+      ]
+    ]
+  },
+  "20393": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-2 ",
+          "CC: 25",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :3",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "17 à 20 (dommages Air)"
+        ],
+        [
+          "20 à 24 (dommages Air)"
+        ]
+      ]
+    ]
+  },
+  "20394": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-3 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 6 tour",
+          "Cooldown global"
+        ],
+        [
+          "2  PM (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "20395": {
+    "spells": [
+      [
+        [
+          "PA: 1",
+          "Po: 1-8 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "-2  PM (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "20396": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-5 modifiable",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "39 à 42 (dommages Terre)",
+          "39 à 42 (dommages Terre)"
+        ],
+        [
+          "47 à 50 (dommages Terre)",
+          "47 à 50 (dommages Terre)"
+        ]
+      ]
+    ]
+  },
+  "20397": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-2 ",
+          "CC: 15",
+          "Ne nécessite pas de ligne de vue",
+          "Intervalle de relance : 2 tour",
+          "Cooldown global"
+        ],
+        [
+          "42 à 46 (dommages Terre) (dans 1 tour)",
+          "Soin : 17 % des PV max",
+          "42 à 46 (dommages Terre)",
+          "Soin : 17 % des PV max (dans 1 tour)",
+          "42 à 46 (dommages Terre) (dans 1 tour)",
+          "Soin : 17 % des PV max",
+          "Fixe l'intervalle de relance de 16004 à 2 tour(s)"
+        ],
+        [
+          "50 à 55 (dommages Terre) (dans 1 tour)",
+          "Soin : 20 % des PV max",
+          "50 à 55 (dommages Terre)",
+          "Soin : 20 % des PV max (dans 1 tour)",
+          "50 à 55 (dommages Terre) (dans 1 tour)",
+          "Soin : 20 % des PV max"
+        ]
+      ]
+    ]
+  },
+  "20398": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 2-5 ",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 1 tour",
+          "Cooldown global"
+        ],
+        [
+          "19 à 21 (dommages Air)"
+        ],
+        [
+          "23 à 25 (dommages Air)"
+        ]
+      ]
+    ]
+  },
+  "20399": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-1 ",
+          "CC: 25",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "31 à 34 (dommages Feu)",
+          "Dommages subis x90% (pour 1 tour ) (la cible subit des dommages)"
+        ],
+        [
+          "37 à 41 (dommages Feu)",
+          "Dommages subis x90% (pour 1 tour ) (la cible subit des dommages)"
+        ]
+      ]
+    ]
+  },
+  "20400": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-6 ",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "37 à 41 (dommages Air)"
+        ],
+        [
+          "44 à 49 (dommages Air)"
+        ]
+      ]
+    ]
+  },
+  "20401": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-5 modifiable",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "33 à 38 (dommages Terre)"
+        ],
+        [
+          "40 à 46 (dommages Terre)"
+        ]
+      ]
+    ]
+  },
+  "20403": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 25",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "35 à 39 (dommages Air)",
+          "40  Dommage{~ps{~zs (pour 2 tour )"
+        ],
+        [
+          "42 à 47 (dommages Air)",
+          "40  Dommage{~ps{~zs (pour 2 tour )"
+        ]
+      ]
+    ]
+  },
+  "20404": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 2-6 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "25 à 28 (dommages)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20405": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 0-4 ",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "26 à 29 (dommages Eau)",
+          "2  PA (pour 1 tour )"
+        ],
+        [
+          "31 à 35 (dommages Eau)",
+          "2  PA (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "20406": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-4 ",
+          "CC: 25",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "Soins reçus x50% (pour 1 tour ) (la cible reçoit du soin)",
+          "21 à 23 (vol Terre)"
+        ],
+        [
+          "Soins reçus x50% (pour 1 tour ) (la cible reçoit du soin)",
+          "25 à 28 (vol Terre)"
+        ]
+      ]
+    ]
+  },
+  "20407": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-3 ",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "40 à 45 (dommages Terre)",
+          "Soins reçus x50% (pour 2 tour ) (la cible reçoit du soin)"
+        ],
+        [
+          "48 à 54 (dommages Terre)",
+          "Soins reçus x50% (pour 2 tour ) (la cible reçoit du soin)"
+        ]
+      ]
+    ]
+  },
+  "20408": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 15",
+          "Lancer en diagonal uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "Vole 80  Intelligence (pour 3 tour )",
+          "29 à 33 (dommages Feu)"
+        ],
+        [
+          "Vole 100  Intelligence (pour 3 tour )",
+          "35 à 40 (dommages Feu)"
+        ]
+      ]
+    ]
+  },
+  "20409": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-1 ",
+          "CC: 15",
+          "Lancer en ligne uniquement",
+          "Lancer en diagonal uniquement",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "Pesanteur",
+          "Porté"
+        ],
+        [
+          "31 à 34 (dommages Eau)",
+          "Téléportation symétrique par rapport à la cible"
+        ],
+        [
+          "37 à 41 (dommages Eau)",
+          "Téléportation symétrique par rapport à la cible"
+        ]
+      ]
+    ]
+  },
+  "20411": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 2-5 ",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "24 à 28 (dommages Terre)",
+          "7 à 8 (dommages Terre) (pour 2 tour ) (la cible subit des dommages de poussée)"
+        ],
+        [
+          "29 à 34 (dommages Terre)",
+          "7 à 8 (dommages Terre) (pour 2 tour ) (la cible subit des dommages de poussée)"
+        ]
+      ]
+    ]
+  },
+  "20412": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-5 modifiable",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule libre",
+          "Nécessite une cellule sans piège",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "20414": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-1 ",
+          "CC: 25",
+          "Lancer en ligne uniquement",
+          "Lancer en diagonal uniquement",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "Pesanteur"
+        ],
+        [
+          "Téléporte sur la case ciblée",
+          "28 à 32 (dommages Air)"
+        ],
+        [
+          "Téléporte sur la case ciblée",
+          "34 à 38 (dommages Air)"
+        ]
+      ]
+    ]
+  },
+  "20415": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 3-5 modifiable",
+          "CC: 25",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "29 à 33 (vol Terre)"
+        ],
+        [
+          "34 à 38 (vol Terre)"
+        ]
+      ]
+    ]
+  },
+  "20418": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 0-3 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 1",
+          "Intervalle de relance : 2 tour",
+          "Cooldown global"
+        ],
+        [
+          "16 à 18 (dommages Air)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20422": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-5 ",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "23 à 25 (dommages Terre)"
+        ],
+        [
+          "28 à 30 (dommages Terre)"
+        ]
+      ]
+    ]
+  },
+  "20423": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "25 % Érosion (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "20428": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-1 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "20427 (pour 1 tour ) (la cible subit des dommages de poussée)",
+          "Repousse de 3 case(s)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20429": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-12 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "Attire de 2 case(s)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20430": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "13 à 15 (dommages Feu)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20431": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 0-0 ",
+          "CC: 25",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "25 à 28 (vol Air)"
+        ],
+        [
+          "30 à 34 (vol Air)"
+        ]
+      ]
+    ]
+  },
+  "20432": {
+    "spells": [
+      [
+        [
+          "PA: 5",
+          "Po: 1-3 ",
+          "CC: 5",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "21 à 23 (dommages Eau)",
+          "42 à 48 (dommages Eau)"
+        ],
+        [
+          "21 à 25 (dommages Eau)",
+          "48 à 54 (dommages Eau)"
+        ]
+      ]
+    ]
+  },
+  "20433": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 modifiable",
+          "CC: 5",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "17 à 19 (dommages Eau)",
+          "-2  PM (pour 1 tour )"
+        ],
+        [
+          "20 à 22 (dommages Eau)",
+          "-2  PM (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "20436": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-6 modifiable",
+          "CC: 5",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "46 à 51 (dommages Terre)"
+        ],
+        [
+          "55 à 61 (dommages Terre)"
+        ]
+      ]
+    ]
+  },
+  "20437": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-8 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :10",
+          "Nombre de lancers par tour : 1",
+          "Cooldown global"
+        ],
+        [
+          "25 à 28 (PV rendus)",
+          "État Soin Fulmi 1 (pour 1 tour )",
+          "État Soin Fulmi 2 (pour 1 tour )",
+          "Enlève l'état Soin Fulmi 1",
+          "Enlève l'état Soin Fulmi 2"
+        ],
+        []
+      ]
+    ]
+  },
+  "20438": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-6 ",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "Soin : 8 % des PV max",
+          "12 à 14 (dommages Feu)"
+        ],
+        [
+          "Soin : 22 à 24% des PV max",
+          "10  (dommages Feu)"
+        ]
+      ]
+    ]
+  },
+  "20440": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 25",
+          "Lancer en diagonal uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "17 à 20 (dommages Eau)",
+          "Repousse de 4 case(s)"
+        ],
+        [
+          "20 à 23 (dommages Eau)",
+          "Repousse de 4 case(s)"
+        ]
+      ]
+    ]
+  },
+  "20441": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 2-6 modifiable",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "20 à 22 (vol Feu)"
+        ],
+        [
+          "24 à 27 (vol Feu)"
+        ]
+      ]
+    ]
+  },
+  "20442": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 3-6 ",
+          "CC: 25",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "17 à 20 (dommages Air)",
+          "Attire de 1 case(s)"
+        ],
+        [
+          "21 à 24 (dommages Air)",
+          "Attire de 1 case(s)"
+        ]
+      ]
+    ]
+  },
+  "20443": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-4 modifiable",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "9 à 11 (dommages Terre)",
+          "Téléporte à la position précédente"
+        ],
+        [
+          "10 à 12 (dommages Terre)",
+          "Téléporte à la position précédente"
+        ]
+      ]
+    ]
+  },
+  "20444": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-5 ",
+          "CC: 25",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "20 à 22 (vol Eau)"
+        ],
+        [
+          "24 à 26 (vol Eau)"
+        ]
+      ]
+    ]
+  },
+  "20445": {
+    "spells": [
+      [
+        [
+          "PA: 5",
+          "Po: 1-4 ",
+          "CC: 25",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "31 à 35 (dommages Air)",
+          "-2  PA (pour 1 tour )"
+        ],
+        [
+          "38 à 42 (dommages Air)",
+          "-2  PA (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "20446": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 6-8 modifiable",
+          "CC: 25",
+          "Nécessite une ligne de vue",
+          "Intervalle de relance : 2 tour",
+          "Cooldown global"
+        ],
+        [
+          "23 à 25 (dommages Eau)"
+        ],
+        [
+          "28 à 30 (dommages Eau)"
+        ]
+      ]
+    ]
+  },
+  "20447": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-5 modifiable",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "-4  Portée (pour 1 tour )",
+          "4  Portée (pour 1 tour )",
+          "24 à 27 (dommages Air)"
+        ],
+        [
+          "-4  Portée (pour 1 tour )",
+          "4  Portée (pour 1 tour )",
+          "29 à 32 (dommages Air)"
+        ]
+      ]
+    ]
+  },
+  "20448": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 2-6 modifiable",
+          "CC: 15",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :3",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "31 à 35 (dommages Terre)",
+          "100  Puissance (pour 1 tour )"
+        ],
+        [
+          "38 à 42 (dommages Terre)",
+          "100  Puissance (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "20449": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 0-0 ",
+          "CC: 25",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "32 à 36 (dommages Eau)",
+          "Repousse de 2 case(s)"
+        ],
+        [
+          "39 à 43 (dommages Eau)",
+          "Repousse de 2 case(s)"
+        ]
+      ]
+    ]
+  },
+  "20450": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-6 modifiable",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :3",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "16 à 18 (dommages Feu)",
+          "20  Soin{~ps{~zs (pour 2 tour )"
+        ],
+        [
+          "19 à 22 (dommages Feu)",
+          "20  Soin{~ps{~zs (pour 2 tour )"
+        ]
+      ]
+    ]
+  },
+  "20451": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-4 ",
+          "CC: 25",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2"
+        ],
+        [
+          "10 % Érosion (pour 2 tour )",
+          "18 à 20 (dommages Air)"
+        ],
+        [
+          "10 % Érosion (pour 2 tour )",
+          "22 à 24 (dommages Air)"
+        ]
+      ]
+    ]
+  },
+  "20452": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-5 ",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 2"
+        ],
+        [
+          "23 à 25 (dommages Feu)",
+          "20  Esquive PM (pour 1 tour )"
+        ],
+        [
+          "27 à 30 (dommages Feu)",
+          "20  Esquive PM (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "20454": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 2-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour",
+          "Cooldown global"
+        ],
+        [
+          "Soin : 8 % des PV max",
+          "Soin : 12 % des PV max",
+          "Soin : 16 % des PV max",
+          "Soin : 20 % des PV max",
+          "Soin : 24 % des PV max"
+        ],
+        []
+      ]
+    ]
+  },
+  "20455": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-2 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "30  Tacle (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "20457": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "9 à 10 (dommages Terre)",
+          "9 à 10 (dommages Air)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20459": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 2-5 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "9 à 10 (dommages Terre)",
+          "9 à 10 (dommages Eau)",
+          "10  (dommages Terre) (pour 2 tour ) (la cible subit des dommages de poussée)",
+          "10  (dommages Eau) (pour 2 tour ) (la cible est attirée, poussée, téléportée ou échange de position)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20581": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-1 ",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 4",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "16 à 18 (dommages Air)"
+        ],
+        [
+          "19 à 22 (dommages Air)"
+        ]
+      ]
+    ]
+  },
+  "20585": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 2-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "Soin : 8 % des PV max"
+        ],
+        []
+      ]
+    ]
+  },
+  "20589": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 2-5 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "2  (dommages Air) (pour 1 tour ) (le tour de l'entité se termine)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20593": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-1 ",
+          "CC: 15",
+          "Lancer en diagonal uniquement",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "2  (dommages Air)",
+          "État Intacleur (pour 1 tour )"
+        ],
+        [
+          "2  (dommages Air)",
+          "État Intacleur (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "20621": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour",
+          "Cooldown global"
+        ],
+        [
+          "30 à 34 (dommages Air)",
+          "2  PM (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "20623": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-4 modifiable",
+          "CC: 10",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "16 à 19 (dommages Air)",
+          "150  Dommage{~ps{~zs Poussée (pour 1 tour )"
+        ],
+        [
+          "19 à 23 (dommages Air)",
+          "150  Dommage{~ps{~zs Poussée (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "20625": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-1 ",
+          "CC: 15",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "24 à 27 (dommages Terre)",
+          "100  Puissance"
+        ],
+        []
+      ]
+    ]
+  },
+  "20627": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-6 modifiable",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Nécessite une cellule sans piège",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2"
+        ],
+        [],
+        []
+      ]
+    ]
+  },
+  "20630": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-2 ",
+          "CC: 10",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "24 à 28 (dommages Terre)",
+          "Repousse de 3 case(s)",
+          "Téléporte à la position précédente"
+        ],
+        [
+          "29 à 34 (dommages Terre)",
+          "Repousse de 3 case(s)",
+          "Téléporte à la position précédente"
+        ]
+      ]
+    ]
+  },
+  "20632": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 2-5 modifiable",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :3",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "8 à 10 (dommages Feu) (pour 2 tour ) (le tour de l'entité se termine)"
+        ],
+        [
+          "10 à 12 (dommages Feu) (pour 2 tour ) (le tour de l'entité se termine)"
+        ]
+      ]
+    ]
+  },
+  "20633": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-0 ",
+          "CC: 10",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "25 à 28 (dommages Feu)",
+          "-100  Résistance{~ps{~zs Poussée (pour 1 tour )"
+        ],
+        [
+          "30 à 34 (dommages Feu)",
+          "-100  Résistance{~ps{~zs Poussée (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "20634": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 0-0 ",
+          "CC: 20",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "32 à 36 (dommages Eau)",
+          "150 à 151 Chance (pour 1 tour )"
+        ],
+        [
+          "38 à 43 (dommages Eau)",
+          "150 à 151 Chance (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "20635": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 2-7 ",
+          "CC: 5",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "17 à 20 (dommages Eau)",
+          "-2  PA (pour 1 tour )",
+          "20  Fuite (pour 1 tour )",
+          "1  Portée (pour 1 tour )"
+        ],
+        [
+          "20 à 24 (dommages Eau)",
+          "-2  PA (pour 1 tour )",
+          "20  Fuite (pour 1 tour )",
+          "1  Portée (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "20636": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-2 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 4",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "2  (dommages Eau)",
+          "100  Puissance (pour 1 tour )",
+          "6 à 10 (PV rendus)",
+          "État Capillarité ennemie (infini)",
+          "État Capillarité alliée (infini)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20638": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-2 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 4 tour",
+          "Cooldown initial : 1 tour",
+          "Cooldown global"
+        ],
+        [
+          "État Pesanteur (pour 2 tour )",
+          "État Lourd (pour 2 tour )",
+          "État Indéplaçable (pour 2 tour )",
+          "25  Tacle (pour 2 tour )",
+          "88 % Résistance mêlée (pour 2 tour )",
+          "92 % Résistance distance (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "20640": {
+    "spells": [
+      [
+        [
+          "PA: 2",
+          "Po: 1-5 ",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 4 tour",
+          "Cooldown initial : 1 tour",
+          "Cooldown global"
+        ],
+        [
+          "Partage des dommages (pour 2 tour ) (la cible subit des dommages)",
+          "-1  PA (pour 2 tour )",
+          "-1  PM (pour 2 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "20641": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour",
+          "Cooldown global"
+        ],
+        [
+          "200 % du niveau en bouclier (pour 1 tour )"
+        ],
+        []
+      ]
+    ]
+  },
+  "20644": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 0-0 ",
+          "CC: 0",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1"
+        ],
+        [
+          "23 à 26 (dommages)",
+          "Attire de 1 case(s)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20646": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-4 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "10  Fuite (pour 1 tour )",
+          "Soin : 5 % des PV max"
+        ],
+        []
+      ]
+    ]
+  },
+  "20647": {
+    "spells": [
+      [
+        [
+          "PA: 4",
+          "Po: 1-5 ",
+          "CC: 20",
+          "Lancer en ligne uniquement",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets :1",
+          "Intervalle de relance : 3 tour",
+          "Cooldown global"
+        ],
+        [
+          "24 à 28 (dommages)",
+          "Dommages subis x0% (dans 20.0% des cas) (pour 1 tour ) (la cible subit des dommages)",
+          "-20 % Résistance distance (dans 20.0% des cas) (pour 1 tour )",
+          "-20 % Résistance mêlée (dans 20.0% des cas) (pour 1 tour )",
+          "-100  Résistance{~ps{~zs Critiques (dans 20.0% des cas) (pour 1 tour )",
+          "-150  Résistance{~ps{~zs Poussée (dans 20.0% des cas) (pour 1 tour )"
+        ],
+        [
+          "29 à 34 (dommages)",
+          "Dommages subis x0% (dans 20.0% des cas) (pour 1 tour ) (la cible subit des dommages)",
+          "-20 % Résistance distance (dans 20.0% des cas) (pour 1 tour )",
+          "-20 % Résistance mêlée (dans 20.0% des cas) (pour 1 tour )",
+          "-100  Résistance{~ps{~zs Critiques (dans 20.0% des cas) (pour 1 tour )",
+          "-150  Résistance{~ps{~zs Poussée (dans 20.0% des cas) (pour 1 tour )"
+        ]
+      ]
+    ]
+  },
+  "20648": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 0-1 ",
+          "CC: 20",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 2 tour",
+          "Cooldown initial : 1 tour",
+          "Cooldown global"
+        ],
+        [
+          "22 à 25 (dommages)",
+          "Repousse de 5 case(s)",
+          "État Frappe récursive CASTER (pour 1 tour )",
+          "Enlève l'état Frappe récursive"
+        ],
+        [
+          "26 à 30 (dommages)",
+          "Repousse de 5 case(s)",
+          "État Frappe récursive CASTER (pour 1 tour )",
+          "Enlève l'état Frappe récursive"
+        ]
+      ]
+    ]
+  },
+  "20650": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-1 ",
+          "CC: 10",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "15 à 17 (dommages)",
+          "Recule de 1 case(s)",
+          "Ajoute +1  PM"
+        ],
+        [
+          "18 à 20 (dommages)",
+          "Recule de 1 case(s)",
+          "Ajoute +1  PM"
+        ]
+      ]
+    ]
+  },
+  "20651": {
+    "spells": [
+      [
+        [
+          "PA: 5",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule sans piège",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour",
+          "Cooldown initial : 1 tour",
+          "Cooldown global"
+        ],
+        [
+          "Téléportation symétrique",
+          "41 à 47 (dommages)"
+        ],
+        []
+      ]
+    ]
+  },
+  "20653": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-1 ",
+          "CC: 20",
+          "Ne nécessite pas de ligne de vue",
+          "Nécessite une cellule occupée",
+          "Cumul maximal des effets : Infini",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "14 à 16 (dommages Air)",
+          "14 à 16 (dommages Eau)",
+          "14 à 16 (dommages Feu)",
+          "14 à 16 (dommages Terre)",
+          "14 à 16 (dommages Neutre)",
+          "Soin : 14 % des PV max"
+        ],
+        [
+          "14 à 16 (dommages Air)",
+          "14 à 16 (dommages Eau)",
+          "14 à 16 (dommages Feu)",
+          "14 à 16 (dommages Terre)",
+          "14 à 16 (dommages Neutre)",
+          "Soin : 14 % des PV max"
+        ]
+      ]
+    ]
+  },
+  "20658": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 0",
+          "Nécessite une ligne de vue",
+          "Nécessite une cellule libre",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "3 invocations partagées",
+          "Invoqué : Yaularakne"
+        ],
+        [
+          "Invoque : Yaularakne"
+        ],
+        []
+      ]
+    ]
+  },
+  "20669": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 40",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "28 à 30 (dommages Air)",
+          "11 à 13 (dommages Air)"
+        ],
+        [
+          "13 à 15 (dommages Air)",
+          "31 à 34 (dommages Air)"
+        ]
+      ]
+    ]
+  },
+  "20670": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 40",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "28 à 30 (dommages Terre)",
+          "11 à 13 (dommages Terre)"
+        ],
+        [
+          "13 à 15 (dommages Terre)",
+          "31 à 34 (dommages Terre)"
+        ]
+      ]
+    ]
+  },
+  "20671": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 40",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "28 à 30 (dommages Feu)",
+          "11 à 13 (dommages Feu)"
+        ],
+        [
+          "13 à 15 (dommages Feu)",
+          "31 à 34 (dommages Feu)"
+        ]
+      ]
+    ]
+  },
+  "20672": {
+    "spells": [
+      [
+        [
+          "PA: 3",
+          "Po: 1-3 ",
+          "CC: 40",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1"
+        ],
+        [
+          "28 à 30 (dommages Eau)",
+          "11 à 13 (dommages Eau)"
+        ],
+        [
+          "13 à 15 (dommages Eau)",
+          "31 à 34 (dommages Eau)"
+        ]
+      ]
+    ]
+  }
+}
