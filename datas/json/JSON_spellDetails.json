@@ -6569,7 +6569,9 @@
           "Nombre de lancers par tour : 1",
           "Cooldown global"
         ],
-        [],
+        [ 
+          "Dommages subis x90% (pour 1 tour )"
+        ],
         []
       ]
     ]
