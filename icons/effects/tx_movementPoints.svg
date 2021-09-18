@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="14.0px" width="14.0px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+    <use height="14.0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)" width="14.0" xlink:href="#shape0"/>
+  </g>
+  <defs>
+    <g id="shape0" transform="matrix(1.0, 0.0, 0.0, 1.0, 0.0, 0.0)">
+      <path d="M14.0 0.0 L14.0 14.0 0.0 14.0 0.0 0.0 14.0 0.0" fill="#ffffff" fill-opacity="0.0" fill-rule="evenodd" stroke="none"/>
+      <path d="M3.65 4.6 L5.6 3.4 6.1 3.1 5.8 2.95 5.8 2.9 5.6 2.8 4.5 2.3 8.95 2.3 8.95 4.35 8.95 4.9 7.1 3.75 4.7 5.25 3.65 4.6" fill="#ffffff" fill-rule="evenodd" stroke="none"/>
+      <path d="M8.05 4.85 L7.15 4.3 7.1 4.3 7.1 3.75 8.95 4.9 8.95 5.4 8.05 4.85 M4.7 5.85 L3.65 5.2 3.65 4.6 4.7 5.25 4.7 5.85 M5.6 3.4 L4.5 2.85 4.5 2.3 5.6 2.8 5.8 2.95 6.1 3.1 5.6 3.4" fill="#cc0000" fill-rule="evenodd" stroke="none"/>
+      <path d="M7.1 4.3 L7.1 4.35 4.7 5.85 4.7 5.25 7.1 3.75 7.1 4.3" fill="#ea473a" fill-rule="evenodd" stroke="none"/>
+      <path d="M13.4 5.8 L10.25 7.45 7.35 9.0 4.45 10.5 0.6 8.85 3.45 7.25 6.35 5.75 8.05 4.85 8.95 5.4 8.95 4.9 8.95 4.35 9.45 4.1 13.4 5.8 M10.25 7.45 L6.35 5.75 10.25 7.45 M7.35 9.0 L3.45 7.25 7.35 9.0" fill="#99cc00" fill-rule="evenodd" stroke="none"/>
+      <path d="M13.4 5.8 L13.4 7.0 4.45 11.7 4.45 10.5 7.35 9.0 10.25 7.45 13.4 5.8" fill="#4a5c01" fill-rule="evenodd" stroke="none"/>
+      <path d="M4.45 10.5 L4.45 11.7 0.6 9.95 0.6 8.85 4.45 10.5" fill="#333300" fill-rule="evenodd" stroke="none"/>
+      <path d="M4.45 11.7 L13.4 7.0 13.4 5.8 10.25 7.45 7.35 9.0 4.45 10.5 4.45 11.7 0.6 9.95 0.6 8.85 3.45 7.25 6.35 5.75 8.05 4.85 7.15 4.3 7.1 4.3 7.1 4.35 4.7 5.85 3.65 5.2 3.65 4.6 5.6 3.4 4.5 2.85 4.5 2.3 8.95 2.3 8.95 4.35 9.45 4.1 13.4 5.8 M5.6 2.8 L5.8 2.9 5.8 2.95 6.1 3.1 5.6 3.4 M5.8 2.95 L5.6 2.8 4.5 2.3 M7.1 3.75 L7.1 4.3 M8.95 4.9 L8.95 4.35 M8.05 4.85 L8.95 5.4 8.95 4.9 7.1 3.75 4.7 5.25 4.7 5.85 M4.7 5.25 L3.65 4.6 M4.45 10.5 L0.6 8.85 M3.45 7.25 L7.35 9.0 M6.35 5.75 L10.25 7.45" fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-opacity="0.5019608" stroke-width="0.05"/>
+    </g>
+  </defs>
+</svg>
