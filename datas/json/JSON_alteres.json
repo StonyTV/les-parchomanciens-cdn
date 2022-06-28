@@ -7,7 +7,7 @@
     "spellsPassives": [],
     "itemId": 0,
     "rarity": "Commun",
-    "dropMonsters": [{"242":0}, {"3942":0}],
+    "dropMonsters": {"242":0, "3942":0},
     "obtention": "Drop",
     "pictureId": 0
   },
@@ -32,7 +32,7 @@
     "spellsPassives": [],
     "itemId": 0,
     "rarity": "Épique",
-    "dropMonsters": [{"1078": 0}, {"653": 0}],
+    "dropMonsters": {"1078": 0, "653": 0},
     "obtention": "Drop",
     "pictureId": 0
   },
@@ -44,7 +44,7 @@
     "spellsPassives": [],
     "itemId": 0,
     "rarity": "Légendaire",
-    "dropMonsters": [{"108":0}, {"876":0}, {"2522":0}],
+    "dropMonsters": {"108":0, "876":0, "2522":0},
     "obtention": "Drop",
     "pictureId": 0
   }
