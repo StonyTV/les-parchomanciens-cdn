@@ -1,51 +1,3518 @@
 {
-  "1": {
-    "id": 1,
-    "name": "Panda",
+  "22213": {
+    "id": 22213,
+    "name": "Carafon",
     "numero": 1,
-    "spellsActives": [15902, 16443],
+    "spellsActives": [
+      22400,
+      22401,
+      22402
+    ],
     "spellsPassives": [],
-    "itemId": 0,
+    "achievements": [
+      5247,
+      5248
+    ],
+    "itemId": 26824,
     "rarity": "Commun",
-    "dropMonsters": {"242":0, "3942":0},
-    "obtention": "Drop",
-    "iconId": 0
+    "dropMonsters": {
+      "6948": 0,
+      "6949": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Champs de Cania, Massif de Cania, Lac de Cania, Montagne basse des Craqueleurs, Souterrains du Château d'Amakna, Péninsule des gelées, Îlot des Tombeaux, Îlot de la Couronne, Îlot de Waldo, Forêt des Masques)\nAltéré  (Routes Rocailleuses, Désolation de Sidimote, Plaines Rocheuses, Territoire des Dragodindes Sauvages, Presqu'île des Dragoeufs, Marécages sans fond, Marécages d'Amakna)",
+    "iconId": 22213
   },
-  "2": {
-    "id": 1,
-    "name": "Panda",
-    "numero": 1,
-    "spellsActives": [15995, 16443],
-    "spellsPassives": [20638],
-    "itemId": 0,
+  "22215": {
+    "id": 22215,
+    "name": "Bastortue",
+    "numero": 2,
+    "spellsActives": [
+      22408,
+      22407,
+      22404
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5251
+    ],
+    "itemId": 26825,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22215
+  },
+  "22229": {
+    "id": 22229,
+    "name": "Volovan",
+    "numero": 3,
+    "spellsActives": [
+      22412,
+      22414,
+      22409
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5253,
+      5254
+    ],
+    "itemId": 26826,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6948": 0,
+      "6949": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Champs de Cania, Massif de Cania, Lac de Cania, Montagne basse des Craqueleurs, Souterrains du Château d'Amakna, Péninsule des gelées, Îlot des Tombeaux, Îlot de la Couronne, Îlot de Waldo, Forêt des Masques)\nAltéré  (Routes Rocailleuses, Désolation de Sidimote, Plaines Rocheuses, Territoire des Dragodindes Sauvages, Presqu'île des Dragoeufs, Marécages sans fond, Marécages d'Amakna)",
+    "iconId": 22229
+  },
+  "22231": {
+    "id": 22231,
+    "name": "Vautouragan",
+    "numero": 4,
+    "spellsActives": [
+      22413,
+      22415,
+      22410
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5257
+    ],
+    "itemId": 26827,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22231
+  },
+  "22233": {
+    "id": 22233,
+    "name": "Têtunel",
+    "numero": 5,
+    "spellsActives": [
+      22419,
+      22418,
+      22416
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5259,
+      5260
+    ],
+    "itemId": 26828,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6948": 0,
+      "6949": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Champs de Cania, Massif de Cania, Lac de Cania, Montagne basse des Craqueleurs, Souterrains du Château d'Amakna, Péninsule des gelées, Îlot des Tombeaux, Îlot de la Couronne, Îlot de Waldo, Forêt des Masques)\nAltéré  (Routes Rocailleuses, Désolation de Sidimote, Plaines Rocheuses, Territoire des Dragodindes Sauvages, Presqu'île des Dragoeufs, Marécages sans fond, Marécages d'Amakna)",
+    "iconId": 22233
+  },
+  "22240": {
+    "id": 22240,
+    "name": "Balafrousse",
+    "numero": 6,
+    "spellsActives": [
+      22417,
+      22420,
+      22421
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5263
+    ],
+    "itemId": 26829,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22240
+  },
+  "22242": {
+    "id": 22242,
+    "name": "Manchouette",
+    "numero": 7,
+    "spellsActives": [
+      22390,
+      22391,
+      22392
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5265,
+      5266
+    ],
+    "itemId": 26830,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6948": 0,
+      "6949": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Champs de Cania, Massif de Cania, Lac de Cania, Montagne basse des Craqueleurs, Souterrains du Château d'Amakna, Péninsule des gelées, Îlot des Tombeaux, Îlot de la Couronne, Îlot de Waldo, Forêt des Masques)\nAltéré  (Routes Rocailleuses, Désolation de Sidimote, Plaines Rocheuses, Territoire des Dragodindes Sauvages, Presqu'île des Dragoeufs, Marécages sans fond, Marécages d'Amakna)",
+    "iconId": 22242
+  },
+  "22247": {
+    "id": 22247,
+    "name": "Manchic",
+    "numero": 8,
+    "spellsActives": [
+      22424,
+      22423,
+      22422
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5269
+    ],
+    "itemId": 26831,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22247
+  },
+  "22249": {
+    "id": 22249,
+    "name": "Microcher",
+    "numero": 9,
+    "spellsActives": [
+      22393,
+      22395,
+      22394
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5271,
+      5272
+    ],
+    "itemId": 26832,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6887": 0,
+      "6944": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Lac, Champs, Mine, Forêt, Route des âmes, Pâturages, Cimetière)\nAltéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)",
+    "iconId": 22249
+  },
+  "22251": {
+    "id": 22251,
+    "name": "Macrocher",
+    "numero": 10,
+    "spellsActives": [
+      22425,
+      22427,
+      22426
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5275
+    ],
+    "itemId": 26833,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22251
+  },
+  "22253": {
+    "id": 22253,
+    "name": "Goinfrelon",
+    "numero": 11,
+    "spellsActives": [
+      22397,
+      22398,
+      22399
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5277,
+      5278
+    ],
+    "itemId": 26834,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6887": 0,
+      "6944": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Lac, Champs, Mine, Forêt, Route des âmes, Pâturages, Cimetière)\nAltéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)",
+    "iconId": 22253
+  },
+  "22258": {
+    "id": 22258,
+    "name": "Chacharmant",
+    "numero": 12,
+    "spellsActives": [
+      22429,
+      22430,
+      22495
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5280,
+      5281
+    ],
+    "itemId": 26835,
     "rarity": "Rare",
-    "dropMonsters": [],
-    "obtention": "Craft",
-    "value": "83 * Dent de Bandleth, 79 * Grenat de Momistik, 10 * Scarabée Chrysonéfritin, 8 * Cheveux de Tal Kasha, 12 * Noyau de Protozorreur, 9 * Œil d'Ougah, 3 * Galet brasillant, 15 * Tourmaline",
-    "iconId": 0
+    "dropMonsters": {
+      "6887": 0,
+      "6944": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Lac, Champs, Mine, Forêt, Route des âmes, Pâturages, Cimetière)\nAltéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)",
+    "iconId": 22258
   },
-  "3": {
-    "id": 1,
-    "name": "Panda",
-    "numero": 1,
-    "spellsActives": [16009, 16443],
-    "spellsPassives": [20638],
-    "itemId": 0,
+  "22261": {
+    "id": 22261,
+    "name": "Gifléau",
+    "numero": 13,
+    "spellsActives": [
+      22431,
+      22499,
+      22497
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5283,
+      5284
+    ],
+    "itemId": 26836,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6887": 0,
+      "6944": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Lac, Champs, Mine, Forêt, Route des âmes, Pâturages, Cimetière)\nAltéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)",
+    "iconId": 22261
+  },
+  "22263": {
+    "id": 22263,
+    "name": "Galopince",
+    "numero": 14,
+    "spellsActives": [
+      22432,
+      22488,
+      22489
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5286,
+      5287
+    ],
+    "itemId": 26837,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6887": 0,
+      "6944": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Lac, Champs, Mine, Forêt, Route des âmes, Pâturages, Cimetière)\nAltéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)",
+    "iconId": 22263
+  },
+  "22265": {
+    "id": 22265,
+    "name": "Escarpince",
+    "numero": 15,
+    "spellsActives": [
+      22433,
+      23428,
+      23427
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5290
+    ],
+    "itemId": 26838,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22265
+  },
+  "22267": {
+    "id": 22267,
+    "name": "Mimiduze",
+    "numero": 16,
+    "spellsActives": [
+      22434,
+      22500,
+      22501
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5292,
+      5293
+    ],
+    "itemId": 26839,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6887": 0,
+      "6944": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Lac, Champs, Mine, Forêt, Route des âmes, Pâturages, Cimetière)\nAltéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)",
+    "iconId": 22267
+  },
+  "22271": {
+    "id": 22271,
+    "name": "Cochombre",
+    "numero": 17,
+    "spellsActives": [
+      22435,
+      22436,
+      22438
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5295,
+      5296
+    ],
+    "itemId": 26840,
+    "rarity": "Rare",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22271
+  },
+  "22273": {
+    "id": 22273,
+    "name": "Bandocile",
+    "numero": 18,
+    "spellsActives": [
+      22439,
+      22442,
+      22443
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5298,
+      5299
+    ],
+    "itemId": 26841,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6944": 0,
+      "6945": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)\nAltéré  (Forêt d'Astrub, Forêt d'Amakna, Port de Madrestam, Carrière d'Astrub, Coin des Bouftous, Pâturages de Bonta, Tainéla, Bord de la forêt maléfique, Millifutaie, Rivière Kawaii, Campagne d'Amakna, Coin des Boos, Égouts d'Astrub, Côte d'Asse)",
+    "iconId": 22273
+  },
+  "22275": {
+    "id": 22275,
+    "name": "Bandominant",
+    "numero": 19,
+    "spellsActives": [
+      22440,
+      22445,
+      22446
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5302
+    ],
+    "itemId": 26842,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22275
+  },
+  "22277": {
+    "id": 22277,
+    "name": "Sourouïe",
+    "numero": 20,
+    "spellsActives": [
+      22447,
+      22448,
+      22502
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5304
+    ],
+    "itemId": 26843,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6944": 0,
+      "6945": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)\nAltéré  (Forêt d'Astrub, Forêt d'Amakna, Port de Madrestam, Carrière d'Astrub, Coin des Bouftous, Pâturages de Bonta, Tainéla, Bord de la forêt maléfique, Millifutaie, Rivière Kawaii, Campagne d'Amakna, Coin des Boos, Égouts d'Astrub, Côte d'Asse)",
+    "iconId": 22277
+  },
+  "22288": {
+    "id": 22288,
+    "name": "Pistoufu",
+    "numero": 21,
+    "spellsActives": [
+      22449,
+      22450,
+      22505
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5307,
+      5308
+    ],
+    "itemId": 26844,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6944": 0,
+      "6945": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)\nAltéré  (Forêt d'Astrub, Forêt d'Amakna, Port de Madrestam, Carrière d'Astrub, Coin des Bouftous, Pâturages de Bonta, Tainéla, Bord de la forêt maléfique, Millifutaie, Rivière Kawaii, Campagne d'Amakna, Coin des Boos, Égouts d'Astrub, Côte d'Asse)",
+    "iconId": 22288
+  },
+  "22292": {
+    "id": 22292,
+    "name": "Boufondu",
+    "numero": 22,
+    "spellsActives": [
+      22451,
+      22452,
+      22503
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5310,
+      5311
+    ],
+    "itemId": 26845,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6944": 0,
+      "6945": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)\nAltéré  (Forêt d'Astrub, Forêt d'Amakna, Port de Madrestam, Carrière d'Astrub, Coin des Bouftous, Pâturages de Bonta, Tainéla, Bord de la forêt maléfique, Millifutaie, Rivière Kawaii, Campagne d'Amakna, Coin des Boos, Égouts d'Astrub, Côte d'Asse)",
+    "iconId": 22292
+  },
+  "22296": {
+    "id": 22296,
+    "name": "Sporganik",
+    "numero": 23,
+    "spellsActives": [
+      22507,
+      22453,
+      22509
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5313,
+      5314
+    ],
+    "itemId": 26846,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6945": 0,
+      "6946": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt d'Astrub, Forêt d'Amakna, Port de Madrestam, Carrière d'Astrub, Coin des Bouftous, Pâturages de Bonta, Tainéla, Bord de la forêt maléfique, Millifutaie, Rivière Kawaii, Campagne d'Amakna, Coin des Boos, Égouts d'Astrub, Côte d'Asse)\nAltéré  (Plaine des Scarafeuilles, Cimetière d'Astrub, Champ des Ingalsse, Village des Brigandins, Île des naufragés, Cimetière, Cryptes du cimetière, Clairière de Brouce Boulgoure, Campement des Gobelins)",
+    "iconId": 22296
+  },
+  "22298": {
+    "id": 22298,
+    "name": "Boxelet",
+    "numero": 24,
+    "spellsActives": [
+      22508,
+      22454,
+      22510
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5317
+    ],
+    "itemId": 26847,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22298
+  },
+  "22301": {
+    "id": 22301,
+    "name": "Grapince",
+    "numero": 25,
+    "spellsActives": [
+      22511,
+      22512,
+      22515
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5319,
+      5320
+    ],
+    "itemId": 26848,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6945": 0,
+      "6946": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt d'Astrub, Forêt d'Amakna, Port de Madrestam, Carrière d'Astrub, Coin des Bouftous, Pâturages de Bonta, Tainéla, Bord de la forêt maléfique, Millifutaie, Rivière Kawaii, Campagne d'Amakna, Coin des Boos, Égouts d'Astrub, Côte d'Asse)\nAltéré  (Plaine des Scarafeuilles, Cimetière d'Astrub, Champ des Ingalsse, Village des Brigandins, Île des naufragés, Cimetière, Cryptes du cimetière, Clairière de Brouce Boulgoure, Campement des Gobelins)",
+    "iconId": 22301
+  },
+  "22303": {
+    "id": 22303,
+    "name": "Fantogure",
+    "numero": 26,
+    "spellsActives": [
+      22458,
+      22460,
+      22514
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5322,
+      5323
+    ],
+    "itemId": 26849,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6945": 0,
+      "6946": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt d'Astrub, Forêt d'Amakna, Port de Madrestam, Carrière d'Astrub, Coin des Bouftous, Pâturages de Bonta, Tainéla, Bord de la forêt maléfique, Millifutaie, Rivière Kawaii, Campagne d'Amakna, Coin des Boos, Égouts d'Astrub, Côte d'Asse)\nAltéré  (Plaine des Scarafeuilles, Cimetière d'Astrub, Champ des Ingalsse, Village des Brigandins, Île des naufragés, Cimetière, Cryptes du cimetière, Clairière de Brouce Boulgoure, Campement des Gobelins)",
+    "iconId": 22303
+  },
+  "22306": {
+    "id": 22306,
+    "name": "Rirequin",
+    "numero": 27,
+    "spellsActives": [
+      22461,
+      22462,
+      22463
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5325,
+      5326
+    ],
+    "itemId": 26850,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6945": 0,
+      "6946": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt d'Astrub, Forêt d'Amakna, Port de Madrestam, Carrière d'Astrub, Coin des Bouftous, Pâturages de Bonta, Tainéla, Bord de la forêt maléfique, Millifutaie, Rivière Kawaii, Campagne d'Amakna, Coin des Boos, Égouts d'Astrub, Côte d'Asse)\nAltéré  (Plaine des Scarafeuilles, Cimetière d'Astrub, Champ des Ingalsse, Village des Brigandins, Île des naufragés, Cimetière, Cryptes du cimetière, Clairière de Brouce Boulgoure, Campement des Gobelins)",
+    "iconId": 22306
+  },
+  "22308": {
+    "id": 22308,
+    "name": "Bébourjon",
+    "numero": 28,
+    "spellsActives": [
+      22464,
+      22465,
+      22516
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5328,
+      5329
+    ],
+    "itemId": 26851,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6946": 0,
+      "6947": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Plaine des Scarafeuilles, Cimetière d'Astrub, Champ des Ingalsse, Village des Brigandins, Île des naufragés, Cimetière, Cryptes du cimetière, Clairière de Brouce Boulgoure, Campement des Gobelins)\nAltéré  (Plage de Corail, Bordure de Brâkmar, Plaine des Porkass, Orée de la forêt des Abraknydes, Cimetière des Torturés, Île de la Cawotte, Cimetière des Héros, Baie de Cania, Territoire des Bandits, Marécages nauséabonds, Montagne des Craqueleurs, Village des Dopeuls, Plage de la Tortue, Rivage sufokien, Campement des Bworks, Village des Bworks, Passage vers Brâkmar, Mine des Dopeuls)",
+    "iconId": 22308
+  },
+  "22316": {
+    "id": 22316,
+    "name": "Boufilou",
+    "numero": 29,
+    "spellsActives": [
+      22466,
+      22467,
+      22468
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5332
+    ],
+    "itemId": 26852,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22316
+  },
+  "22321": {
+    "id": 22321,
+    "name": "Crapostiche",
+    "numero": 30,
+    "spellsActives": [
+      22469,
+      22517,
+      22518
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5334,
+      5335
+    ],
+    "itemId": 26853,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6946": 0,
+      "6947": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Plaine des Scarafeuilles, Cimetière d'Astrub, Champ des Ingalsse, Village des Brigandins, Île des naufragés, Cimetière, Cryptes du cimetière, Clairière de Brouce Boulgoure, Campement des Gobelins)\nAltéré  (Plage de Corail, Bordure de Brâkmar, Plaine des Porkass, Orée de la forêt des Abraknydes, Cimetière des Torturés, Île de la Cawotte, Cimetière des Héros, Baie de Cania, Territoire des Bandits, Marécages nauséabonds, Montagne des Craqueleurs, Village des Dopeuls, Plage de la Tortue, Rivage sufokien, Campement des Bworks, Village des Bworks, Passage vers Brâkmar, Mine des Dopeuls)",
+    "iconId": 22321
+  },
+  "22327": {
+    "id": 22327,
+    "name": "Veuvenin",
+    "numero": 31,
+    "spellsActives": [
+      22519,
+      22521,
+      22522
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5337,
+      5338
+    ],
+    "itemId": 26854,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6946": 0,
+      "6947": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Plaine des Scarafeuilles, Cimetière d'Astrub, Champ des Ingalsse, Village des Brigandins, Île des naufragés, Cimetière, Cryptes du cimetière, Clairière de Brouce Boulgoure, Campement des Gobelins)\nAltéré  (Plage de Corail, Bordure de Brâkmar, Plaine des Porkass, Orée de la forêt des Abraknydes, Cimetière des Torturés, Île de la Cawotte, Cimetière des Héros, Baie de Cania, Territoire des Bandits, Marécages nauséabonds, Montagne des Craqueleurs, Village des Dopeuls, Plage de la Tortue, Rivage sufokien, Campement des Bworks, Village des Bworks, Passage vers Brâkmar, Mine des Dopeuls)",
+    "iconId": 22327
+  },
+  "22330": {
+    "id": 22330,
+    "name": "Scarossé",
+    "numero": 32,
+    "spellsActives": [
+      22470,
+      22471,
+      22523
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5340,
+      5341
+    ],
+    "itemId": 26855,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6946": 0,
+      "6947": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Plaine des Scarafeuilles, Cimetière d'Astrub, Champ des Ingalsse, Village des Brigandins, Île des naufragés, Cimetière, Cryptes du cimetière, Clairière de Brouce Boulgoure, Campement des Gobelins)\nAltéré  (Plage de Corail, Bordure de Brâkmar, Plaine des Porkass, Orée de la forêt des Abraknydes, Cimetière des Torturés, Île de la Cawotte, Cimetière des Héros, Baie de Cania, Territoire des Bandits, Marécages nauséabonds, Montagne des Craqueleurs, Village des Dopeuls, Plage de la Tortue, Rivage sufokien, Campement des Bworks, Village des Bworks, Passage vers Brâkmar, Mine des Dopeuls)",
+    "iconId": 22330
+  },
+  "22337": {
+    "id": 22337,
+    "name": "Bébléro",
+    "numero": 33,
+    "spellsActives": [
+      22472,
+      22525,
+      22526
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5343,
+      5344
+    ],
+    "itemId": 26856,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6947": 0,
+      "6948": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Plage de Corail, Bordure de Brâkmar, Plaine des Porkass, Orée de la forêt des Abraknydes, Cimetière des Torturés, Île de la Cawotte, Cimetière des Héros, Baie de Cania, Territoire des Bandits, Marécages nauséabonds, Montagne des Craqueleurs, Village des Dopeuls, Plage de la Tortue, Rivage sufokien, Campement des Bworks, Village des Bworks, Passage vers Brâkmar, Mine des Dopeuls)\nAltéré  (Champs de Cania, Massif de Cania, Lac de Cania, Montagne basse des Craqueleurs, Souterrains du Château d'Amakna, Péninsule des gelées, Îlot des Tombeaux, Îlot de la Couronne, Îlot de Waldo, Forêt des Masques)",
+    "iconId": 22337
+  },
+  "22339": {
+    "id": 22339,
+    "name": "Galbléro",
+    "numero": 34,
+    "spellsActives": [
+      22473,
+      22474,
+      22527
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5347
+    ],
+    "itemId": 26857,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22339
+  },
+  "22341": {
+    "id": 22341,
+    "name": "Cancrayon",
+    "numero": 35,
+    "spellsActives": [
+      22475,
+      22528,
+      22529
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5349,
+      5350
+    ],
+    "itemId": 26858,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6947": 0,
+      "6948": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Plage de Corail, Bordure de Brâkmar, Plaine des Porkass, Orée de la forêt des Abraknydes, Cimetière des Torturés, Île de la Cawotte, Cimetière des Héros, Baie de Cania, Territoire des Bandits, Marécages nauséabonds, Montagne des Craqueleurs, Village des Dopeuls, Plage de la Tortue, Rivage sufokien, Campement des Bworks, Village des Bworks, Passage vers Brâkmar, Mine des Dopeuls)\nAltéré  (Champs de Cania, Massif de Cania, Lac de Cania, Montagne basse des Craqueleurs, Souterrains du Château d'Amakna, Péninsule des gelées, Îlot des Tombeaux, Îlot de la Couronne, Îlot de Waldo, Forêt des Masques)",
+    "iconId": 22341
+  },
+  "22353": {
+    "id": 22353,
+    "name": "Pakparite",
+    "numero": 36,
+    "spellsActives": [
+      22476,
+      22532,
+      22533
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5352,
+      5353
+    ],
+    "itemId": 26859,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6947": 0,
+      "6948": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Plage de Corail, Bordure de Brâkmar, Plaine des Porkass, Orée de la forêt des Abraknydes, Cimetière des Torturés, Île de la Cawotte, Cimetière des Héros, Baie de Cania, Territoire des Bandits, Marécages nauséabonds, Montagne des Craqueleurs, Village des Dopeuls, Plage de la Tortue, Rivage sufokien, Campement des Bworks, Village des Bworks, Passage vers Brâkmar, Mine des Dopeuls)\nAltéré  (Champs de Cania, Massif de Cania, Lac de Cania, Montagne basse des Craqueleurs, Souterrains du Château d'Amakna, Péninsule des gelées, Îlot des Tombeaux, Îlot de la Couronne, Îlot de Waldo, Forêt des Masques)",
+    "iconId": 22353
+  },
+  "22356": {
+    "id": 22356,
+    "name": "Ébourifeuille",
+    "numero": 37,
+    "spellsActives": [
+      22477,
+      22479,
+      22534
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5355,
+      5356
+    ],
+    "itemId": 26860,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6947": 0,
+      "6948": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Plage de Corail, Bordure de Brâkmar, Plaine des Porkass, Orée de la forêt des Abraknydes, Cimetière des Torturés, Île de la Cawotte, Cimetière des Héros, Baie de Cania, Territoire des Bandits, Marécages nauséabonds, Montagne des Craqueleurs, Village des Dopeuls, Plage de la Tortue, Rivage sufokien, Campement des Bworks, Village des Bworks, Passage vers Brâkmar, Mine des Dopeuls)\nAltéré  (Champs de Cania, Massif de Cania, Lac de Cania, Montagne basse des Craqueleurs, Souterrains du Château d'Amakna, Péninsule des gelées, Îlot des Tombeaux, Îlot de la Couronne, Îlot de Waldo, Forêt des Masques)",
+    "iconId": 22356
+  },
+  "22358": {
+    "id": 22358,
+    "name": "Nwarzo",
+    "numero": 38,
+    "spellsActives": [
+      22480,
+      22482,
+      22535
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5358,
+      5359
+    ],
+    "itemId": 26861,
+    "rarity": "Rare",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22358
+  },
+  "22360": {
+    "id": 22360,
+    "name": "Chinchilarve",
+    "numero": 39,
+    "spellsActives": [
+      22537,
+      22542,
+      22539
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5361,
+      5362
+    ],
+    "itemId": 26862,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6949": 0,
+      "6950": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Routes Rocailleuses, Désolation de Sidimote, Plaines Rocheuses, Territoire des Dragodindes Sauvages, Presqu'île des Dragoeufs, Marécages sans fond, Marécages d'Amakna)\nAltéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)",
+    "iconId": 22360
+  },
+  "22362": {
+    "id": 22362,
+    "name": "Pugilarve",
+    "numero": 40,
+    "spellsActives": [
+      22538,
+      22540,
+      22543
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5365
+    ],
+    "itemId": 26863,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22362
+  },
+  "22365": {
+    "id": 22365,
+    "name": "Affamalle",
+    "numero": 41,
+    "spellsActives": [
+      22545,
+      22546,
+      22544
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5367,
+      5368
+    ],
+    "itemId": 26864,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6949": 0,
+      "6950": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Routes Rocailleuses, Désolation de Sidimote, Plaines Rocheuses, Territoire des Dragodindes Sauvages, Presqu'île des Dragoeufs, Marécages sans fond, Marécages d'Amakna)\nAltéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)",
+    "iconId": 22365
+  },
+  "22367": {
+    "id": 22367,
+    "name": "Moulouche",
+    "numero": 42,
+    "spellsActives": [
+      22483,
+      22485,
+      22486
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5370,
+      5371
+    ],
+    "itemId": 26865,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6949": 0,
+      "6950": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Routes Rocailleuses, Désolation de Sidimote, Plaines Rocheuses, Territoire des Dragodindes Sauvages, Presqu'île des Dragoeufs, Marécages sans fond, Marécages d'Amakna)\nAltéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)",
+    "iconId": 22367
+  },
+  "22559": {
+    "id": 22559,
+    "name": "Hurlepoil",
+    "numero": 43,
+    "spellsActives": [
+      22578,
+      22547,
+      22548
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5373,
+      5374
+    ],
+    "itemId": 26875,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6949": 0,
+      "6950": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Routes Rocailleuses, Désolation de Sidimote, Plaines Rocheuses, Territoire des Dragodindes Sauvages, Presqu'île des Dragoeufs, Marécages sans fond, Marécages d'Amakna)\nAltéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)",
+    "iconId": 22559
+  },
+  "22561": {
+    "id": 22561,
+    "name": "Tigépine",
+    "numero": 44,
+    "spellsActives": [
+      22579,
+      22550,
+      22551
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5376,
+      5377
+    ],
+    "itemId": 26876,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6949": 0,
+      "6950": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Routes Rocailleuses, Désolation de Sidimote, Plaines Rocheuses, Territoire des Dragodindes Sauvages, Presqu'île des Dragoeufs, Marécages sans fond, Marécages d'Amakna)\nAltéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)",
+    "iconId": 22561
+  },
+  "22563": {
+    "id": 22563,
+    "name": "Alligamin",
+    "numero": 45,
+    "spellsActives": [
+      22580,
+      22553,
+      22555
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5379,
+      5380
+    ],
+    "itemId": 26877,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6950": 0,
+      "6951": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)\nAltéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)",
+    "iconId": 22563
+  },
+  "22565": {
+    "id": 22565,
+    "name": "Krokogneur",
+    "numero": 46,
+    "spellsActives": [
+      22581,
+      22554,
+      22556
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5383
+    ],
+    "itemId": 26878,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22565
+  },
+  "22567": {
+    "id": 22567,
+    "name": "Vibrenard",
+    "numero": 47,
+    "spellsActives": [
+      22582,
+      22583,
+      22630
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5385,
+      5386
+    ],
+    "itemId": 26879,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6950": 0,
+      "6951": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)\nAltéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)",
+    "iconId": 22567
+  },
+  "22569": {
+    "id": 22569,
+    "name": "Albinonoss",
+    "numero": 48,
+    "spellsActives": [
+      22634,
+      22635,
+      22632
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5388,
+      5389
+    ],
+    "itemId": 26880,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6950": 0,
+      "6951": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)\nAltéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)",
+    "iconId": 22569
+  },
+  "22571": {
+    "id": 22571,
+    "name": "Koalami",
+    "numero": 49,
+    "spellsActives": [
+      22584,
+      22636,
+      22637
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5391,
+      5392
+    ],
+    "itemId": 26881,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6950": 0,
+      "6951": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)\nAltéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)",
+    "iconId": 22571
+  },
+  "22573": {
+    "id": 22573,
+    "name": "Koalache",
+    "numero": 50,
+    "spellsActives": [
+      22585,
+      22586,
+      22638
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5395
+    ],
+    "itemId": 26882,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22573
+  },
+  "22575": {
+    "id": 22575,
+    "name": "Lapouri",
+    "numero": 51,
+    "spellsActives": [
+      22587,
+      22639,
+      22640
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5397,
+      5398
+    ],
+    "itemId": 26883,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6950": 0,
+      "6951": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)\nAltéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)",
+    "iconId": 22575
+  },
+  "22627": {
+    "id": 22627,
+    "name": "Pistélice",
+    "numero": 52,
+    "spellsActives": [
+      22588,
+      22590,
+      22886
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5400,
+      5401
+    ],
+    "itemId": 26884,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6951": 0,
+      "6952": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)\nAltéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)",
+    "iconId": 22627
+  },
+  "22629": {
+    "id": 22629,
+    "name": "Alphané",
+    "numero": 53,
+    "spellsActives": [
+      22589,
+      22885,
+      22887
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5404
+    ],
+    "itemId": 26885,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22629
+  },
+  "22642": {
+    "id": 22642,
+    "name": "Vaudoudou",
+    "numero": 54,
+    "spellsActives": [
+      22591,
+      22592,
+      22889
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5406,
+      5407
+    ],
+    "itemId": 26886,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6951": 0,
+      "6952": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)\nAltéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)",
+    "iconId": 22642
+  },
+  "22650": {
+    "id": 22650,
+    "name": "Fourbule",
+    "numero": 55,
+    "spellsActives": [
+      22890,
+      22891,
+      22893
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5409,
+      5410
+    ],
+    "itemId": 26887,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6951": 0,
+      "6952": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)\nAltéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)",
+    "iconId": 22650
+  },
+  "22656": {
+    "id": 22656,
+    "name": "Magivrée",
+    "numero": 56,
+    "spellsActives": [
+      22895,
+      22897,
+      22899
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5412,
+      5413
+    ],
+    "itemId": 26889,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6951": 0,
+      "6952": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)\nAltéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)",
+    "iconId": 22656
+  },
+  "22672": {
+    "id": 22672,
+    "name": "Sapristigre",
+    "numero": 57,
+    "spellsActives": [
+      22901,
+      22903,
+      22961
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5415,
+      5416
+    ],
+    "itemId": 26890,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6951": 0,
+      "6952": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)\nAltéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)",
+    "iconId": 22672
+  },
+  "22688": {
+    "id": 22688,
+    "name": "Émigraine",
+    "numero": 58,
+    "spellsActives": [
+      22596,
+      22598,
+      22593
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5418,
+      5419
+    ],
+    "itemId": 26891,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6952": 0,
+      "6953": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)\nAltéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)",
+    "iconId": 22688
+  },
+  "22693": {
+    "id": 22693,
+    "name": "Tournesouffre",
+    "numero": 59,
+    "spellsActives": [
+      22597,
+      22599,
+      22600
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5422
+    ],
+    "itemId": 26892,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22693
+  },
+  "22697": {
+    "id": 22697,
+    "name": "Maçombre",
+    "numero": 60,
+    "spellsActives": [
+      22601,
+      22962,
+      22963
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5424,
+      5425
+    ],
+    "itemId": 26893,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6952": 0,
+      "6953": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)\nAltéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)",
+    "iconId": 22697
+  },
+  "22703": {
+    "id": 22703,
+    "name": "Tricotoile",
+    "numero": 61,
+    "spellsActives": [
+      22602,
+      22969,
+      22975
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5427,
+      5428
+    ],
+    "itemId": 26894,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6952": 0,
+      "6953": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)\nAltéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)",
+    "iconId": 22703
+  },
+  "22723": {
+    "id": 22723,
+    "name": "Sonikrone",
+    "numero": 62,
+    "spellsActives": [
+      22603,
+      22976,
+      22979
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5430,
+      5431
+    ],
+    "itemId": 26895,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6952": 0,
+      "6953": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)\nAltéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)",
+    "iconId": 22723
+  },
+  "22739": {
+    "id": 22739,
+    "name": "Arkantou",
+    "numero": 63,
+    "spellsActives": [
+      22604,
+      22605,
+      22984
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5433,
+      5434
+    ],
+    "itemId": 26896,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6952": 0,
+      "6953": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)\nAltéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)",
+    "iconId": 22739
+  },
+  "22742": {
+    "id": 22742,
+    "name": "Mouspique",
+    "numero": 64,
+    "spellsActives": [
+      22606,
+      22985,
+      22988
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5436,
+      5437
+    ],
+    "itemId": 26897,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6953": 0,
+      "6954": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)\nAltéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)",
+    "iconId": 22742
+  },
+  "22744": {
+    "id": 22744,
+    "name": "Moustonique",
+    "numero": 65,
+    "spellsActives": [
+      22607,
+      22594,
+      22991
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5440
+    ],
+    "itemId": 26898,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22744
+  },
+  "22748": {
+    "id": 22748,
+    "name": "Arakajou",
+    "numero": 66,
+    "spellsActives": [
+      22996,
+      23502,
+      23246
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5442,
+      5443
+    ],
+    "itemId": 26899,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6953": 0,
+      "6954": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)\nAltéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)",
+    "iconId": 22748
+  },
+  "22752": {
+    "id": 22752,
+    "name": "Aspimouette",
+    "numero": 67,
+    "spellsActives": [
+      22608,
+      23022,
+      23000
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5445,
+      5446
+    ],
+    "itemId": 26900,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6953": 0,
+      "6954": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)\nAltéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)",
+    "iconId": 22752
+  },
+  "22757": {
+    "id": 22757,
+    "name": "Sautoxik",
+    "numero": 68,
+    "spellsActives": [
+      22610,
+      23023,
+      23024
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5448,
+      5449
+    ],
+    "itemId": 26901,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6953": 0,
+      "6954": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)\nAltéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)",
+    "iconId": 22757
+  },
+  "22759": {
+    "id": 22759,
+    "name": "Darsenik",
+    "numero": 69,
+    "spellsActives": [
+      22611,
+      22612,
+      23025
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5452
+    ],
+    "itemId": 26902,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22759
+  },
+  "22761": {
+    "id": 22761,
+    "name": "Champisteur",
+    "numero": 70,
+    "spellsActives": [
+      22576,
+      22613,
+      23026
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5454,
+      5455
+    ],
+    "itemId": 26903,
+    "rarity": "Rare",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22761
+  },
+  "22763": {
+    "id": 22763,
+    "name": "Maraboueux",
+    "numero": 71,
+    "spellsActives": [
+      23030,
+      23027,
+      22614
+    ],
+    "spellsPassives": [
+      22762
+    ],
+    "achievements": [
+      5457,
+      5458
+    ],
+    "itemId": 26904,
     "rarity": "Épique",
-    "dropMonsters": {"1078": 0, "653": 0},
-    "obtention": "Drop",
-    "iconId": 0
+    "dropMonsters": {
+      "6953": 0,
+      "6954": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)\nAltéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)",
+    "iconId": 22763
   },
-  "4": {
-    "id": 1,
-    "name": "Panda",
-    "numero": 1,
-    "spellsActives": [16010, 16443],
-    "spellsPassives": [20638],
-    "itemId": 0,
+  "22765": {
+    "id": 22765,
+    "name": "Zozotruche",
+    "numero": 72,
+    "spellsActives": [
+      22615,
+      22617,
+      22619
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5460,
+      5461
+    ],
+    "itemId": 26905,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6954": 0,
+      "6955": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)\nAltéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)",
+    "iconId": 22765
+  },
+  "22767": {
+    "id": 22767,
+    "name": "Kradotruche",
+    "numero": 73,
+    "spellsActives": [
+      22616,
+      22618,
+      22620
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5464
+    ],
+    "itemId": 26906,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22767
+  },
+  "22788": {
+    "id": 22788,
+    "name": "Tragicrane",
+    "numero": 74,
+    "spellsActives": [
+      22621,
+      22622,
+      23036
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5466,
+      5467
+    ],
+    "itemId": 26907,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6954": 0,
+      "6955": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)\nAltéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)",
+    "iconId": 22788
+  },
+  "22793": {
+    "id": 22793,
+    "name": "Crustank",
+    "numero": 75,
+    "spellsActives": [
+      22624,
+      22625,
+      22643
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5469,
+      5470
+    ],
+    "itemId": 26908,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6954": 0,
+      "6955": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)\nAltéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)",
+    "iconId": 22793
+  },
+  "22812": {
+    "id": 22812,
+    "name": "Yitirible",
+    "numero": 76,
+    "spellsActives": [
+      22645,
+      22648,
+      23040
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5472,
+      5473
+    ],
+    "itemId": 26909,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6954": 0,
+      "6955": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)\nAltéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)",
+    "iconId": 22812
+  },
+  "22827": {
+    "id": 22827,
+    "name": "Maravkass",
+    "numero": 77,
+    "spellsActives": [
+      22649,
+      23042,
+      22651
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5475,
+      5476
+    ],
+    "itemId": 26910,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6954": 0,
+      "6955": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)\nAltéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)",
+    "iconId": 22827
+  },
+  "22832": {
+    "id": 22832,
+    "name": "Stylézar",
+    "numero": 78,
+    "spellsActives": [
+      22652,
+      22653,
+      23043
+    ],
+    "spellsPassives": [
+      22830
+    ],
+    "achievements": [
+      5478,
+      5479
+    ],
+    "itemId": 26911,
+    "rarity": "Épique",
+    "dropMonsters": {
+      "6954": 0,
+      "6955": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)\nAltéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)",
+    "iconId": 22832
+  },
+  "22836": {
+    "id": 22836,
+    "name": "Cacturbin",
+    "numero": 79,
+    "spellsActives": [
+      22657,
+      23047,
+      23054
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5481,
+      5482
+    ],
+    "itemId": 26912,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6955": 0,
+      "6956": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)\nAltéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)",
+    "iconId": 22836
+  },
+  "22847": {
+    "id": 22847,
+    "name": "Cactueur",
+    "numero": 80,
+    "spellsActives": [
+      22659,
+      23048,
+      23058
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5485
+    ],
+    "itemId": 26913,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22847
+  },
+  "22851": {
+    "id": 22851,
+    "name": "Scampieuvre",
+    "numero": 81,
+    "spellsActives": [
+      22661,
+      22662,
+      22663
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5487,
+      5488
+    ],
+    "itemId": 26914,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6955": 0,
+      "6956": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)\nAltéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)",
+    "iconId": 22851
+  },
+  "22862": {
+    "id": 22862,
+    "name": "Gribzzly",
+    "numero": 82,
+    "spellsActives": [
+      22665,
+      22666,
+      23060
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5490,
+      5491
+    ],
+    "itemId": 26916,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6955": 0,
+      "6956": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)\nAltéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)",
+    "iconId": 22862
+  },
+  "22867": {
+    "id": 22867,
+    "name": "Caskoko",
+    "numero": 83,
+    "spellsActives": [
+      22668,
+      22670,
+      23061
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5493,
+      5494
+    ],
+    "itemId": 26917,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6955": 0,
+      "6956": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)\nAltéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)",
+    "iconId": 22867
+  },
+  "22871": {
+    "id": 22871,
+    "name": "Sirokoko",
+    "numero": 84,
+    "spellsActives": [
+      22669,
+      22671,
+      23062
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5497
+    ],
+    "itemId": 26918,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22871
+  },
+  "22880": {
+    "id": 22880,
+    "name": "Salamange",
+    "numero": 85,
+    "spellsActives": [
+      22673,
+      22674,
+      23063
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5499,
+      5500
+    ],
+    "itemId": 26921,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6955": 0,
+      "6956": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)\nAltéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)",
+    "iconId": 22880
+  },
+  "22882": {
+    "id": 22882,
+    "name": "Piochef",
+    "numero": 86,
+    "spellsActives": [
+      22675,
+      23066,
+      23068
+    ],
+    "spellsPassives": [
+      22881
+    ],
+    "achievements": [
+      5502,
+      5503
+    ],
+    "itemId": 26922,
+    "rarity": "Épique",
+    "dropMonsters": {
+      "6955": 0,
+      "6956": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)\nAltéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)",
+    "iconId": 22882
+  },
+  "22884": {
+    "id": 22884,
+    "name": "Poltronc",
+    "numero": 87,
+    "spellsActives": [
+      22676,
+      22678,
+      23070
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5505,
+      5506
+    ],
+    "itemId": 26923,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6956": 0,
+      "6957": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)\nAltéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)",
+    "iconId": 22884
+  },
+  "22894": {
+    "id": 22894,
+    "name": "Papalmier",
+    "numero": 88,
+    "spellsActives": [
+      22677,
+      22679,
+      22680
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5509
+    ],
+    "itemId": 26924,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22894
+  },
+  "22898": {
+    "id": 22898,
+    "name": "Grifumeux",
+    "numero": 89,
+    "spellsActives": [
+      22681,
+      22577,
+      22682
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5511,
+      5512
+    ],
+    "itemId": 26925,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6956": 0,
+      "6957": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)\nAltéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)",
+    "iconId": 22898
+  },
+  "22902": {
+    "id": 22902,
+    "name": "Végécorce",
+    "numero": 90,
+    "spellsActives": [
+      22683,
+      22685,
+      23073
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5514,
+      5515
+    ],
+    "itemId": 26926,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6956": 0,
+      "6957": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)\nAltéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)",
+    "iconId": 22902
+  },
+  "22906": {
+    "id": 22906,
+    "name": "Emeroc",
+    "numero": 91,
+    "spellsActives": [
+      22686,
+      22687,
+      23077
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5517,
+      5518
+    ],
+    "itemId": 26927,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6956": 0,
+      "6957": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)\nAltéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)",
+    "iconId": 22906
+  },
+  "22908": {
+    "id": 22908,
+    "name": "Fracanon",
+    "numero": 92,
+    "spellsActives": [
+      22689,
+      23088,
+      23087
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5520,
+      5521
+    ],
+    "itemId": 26928,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6956": 0,
+      "6957": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)\nAltéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)",
+    "iconId": 22908
+  },
+  "22919": {
+    "id": 22919,
+    "name": "Félion",
+    "numero": 93,
+    "spellsActives": [
+      22692,
+      23112,
+      23115
+    ],
+    "spellsPassives": [
+      22918
+    ],
+    "achievements": [
+      5523,
+      5524
+    ],
+    "itemId": 26929,
+    "rarity": "Épique",
+    "dropMonsters": {
+      "6956": 0,
+      "6957": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)\nAltéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)",
+    "iconId": 22919
+  },
+  "22921": {
+    "id": 22921,
+    "name": "Capuchifon",
+    "numero": 94,
+    "spellsActives": [
+      23121,
+      23126,
+      23128
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5526,
+      5527
+    ],
+    "itemId": 26930,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6957": 0,
+      "6958": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)\nAltéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)",
+    "iconId": 22921
+  },
+  "22923": {
+    "id": 22923,
+    "name": "Capuchef",
+    "numero": 95,
+    "spellsActives": [
+      23123,
+      23127,
+      23129
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5530
+    ],
+    "itemId": 26931,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22923
+  },
+  "22926": {
+    "id": 22926,
+    "name": "Écroursin",
+    "numero": 96,
+    "spellsActives": [
+      22699,
+      22701,
+      23131
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5532,
+      5533
+    ],
+    "itemId": 26932,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6957": 0,
+      "6958": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)\nAltéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)",
+    "iconId": 22926
+  },
+  "22950": {
+    "id": 22950,
+    "name": "Dinosseux",
+    "numero": 97,
+    "spellsActives": [
+      22702,
+      23137,
+      23135
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5535,
+      5536
+    ],
+    "itemId": 26933,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6957": 0,
+      "6958": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)\nAltéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)",
+    "iconId": 22950
+  },
+  "22953": {
+    "id": 22953,
+    "name": "Hibouscule",
+    "numero": 98,
+    "spellsActives": [
+      22704,
+      23139,
+      23138
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5538,
+      5539
+    ],
+    "itemId": 26934,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6957": 0,
+      "6958": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)\nAltéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)",
+    "iconId": 22953
+  },
+  "22956": {
+    "id": 22956,
+    "name": "Hiboulon",
+    "numero": 99,
+    "spellsActives": [
+      22705,
+      22706,
+      22707
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5542
+    ],
+    "itemId": 26935,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22956
+  },
+  "22958": {
+    "id": 22958,
+    "name": "Éculbute",
+    "numero": 100,
+    "spellsActives": [
+      22708,
+      22709,
+      23140
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5544,
+      5545
+    ],
+    "itemId": 26936,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6957": 0,
+      "6958": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)\nAltéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)",
+    "iconId": 22958
+  },
+  "22960": {
+    "id": 22960,
+    "name": "Magmacaque",
+    "numero": 101,
+    "spellsActives": [
+      22710,
+      22711,
+      23141
+    ],
+    "spellsPassives": [
+      22959
+    ],
+    "achievements": [
+      5547,
+      5548
+    ],
+    "itemId": 26937,
+    "rarity": "Épique",
+    "dropMonsters": {
+      "6957": 0,
+      "6958": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)\nAltéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)",
+    "iconId": 22960
+  },
+  "22966": {
+    "id": 22966,
+    "name": "Tronchon",
+    "numero": 102,
+    "spellsActives": [
+      22712,
+      23143,
+      23146
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5550,
+      5551
+    ],
+    "itemId": 26938,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6958": 0,
+      "6959": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)\nAltéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)",
+    "iconId": 22966
+  },
+  "22968": {
+    "id": 22968,
+    "name": "Tronfleur",
+    "numero": 103,
+    "spellsActives": [
+      22715,
+      23144,
+      23148
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5554
+    ],
+    "itemId": 26939,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22968
+  },
+  "22972": {
+    "id": 22972,
+    "name": "Safarieur",
+    "numero": 104,
+    "spellsActives": [
+      22718,
+      23150,
+      23505
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5556,
+      5557
+    ],
+    "itemId": 26940,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6958": 0,
+      "6959": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)\nAltéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)",
+    "iconId": 22972
+  },
+  "22977": {
+    "id": 22977,
+    "name": "Dingroin",
+    "numero": 105,
+    "spellsActives": [
+      23160,
+      23159,
+      22719
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5559,
+      5560
+    ],
+    "itemId": 26941,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6958": 0,
+      "6959": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)\nAltéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)",
+    "iconId": 22977
+  },
+  "22981": {
+    "id": 22981,
+    "name": "Éphébec",
+    "numero": 106,
+    "spellsActives": [
+      22720,
+      23161,
+      22722
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5562,
+      5563
+    ],
+    "itemId": 26942,
+    "rarity": "Rare",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22981
+  },
+  "22983": {
+    "id": 22983,
+    "name": "Gouledogue",
+    "numero": 107,
+    "spellsActives": [
+      22725,
+      22726,
+      23163
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5565,
+      5566
+    ],
+    "itemId": 26943,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6958": 0,
+      "6959": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)\nAltéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)",
+    "iconId": 22983
+  },
+  "22987": {
+    "id": 22987,
+    "name": "Rinopoulpe",
+    "numero": 108,
+    "spellsActives": [
+      23165,
+      22728,
+      22727
+    ],
+    "spellsPassives": [
+      22986
+    ],
+    "achievements": [
+      5568,
+      5569
+    ],
+    "itemId": 26944,
+    "rarity": "Épique",
+    "dropMonsters": {
+      "6958": 0,
+      "6959": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)\nAltéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)",
+    "iconId": 22987
+  },
+  "22990": {
+    "id": 22990,
+    "name": "Enflaron",
+    "numero": 109,
+    "spellsActives": [
+      22732,
+      22729,
+      23168
+    ],
+    "spellsPassives": [
+      22989
+    ],
+    "achievements": [
+      5571,
+      5572
+    ],
+    "itemId": 26945,
     "rarity": "Légendaire",
-    "dropMonsters": {"108":0, "876":0, "2522":0},
-    "obtention": "Drop",
-    "iconId": 0
+    "dropMonsters": {
+      "6958": 0,
+      "6959": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)\nAltéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)",
+    "iconId": 22990
+  },
+  "22993": {
+    "id": 22993,
+    "name": "Armurœil",
+    "numero": 110,
+    "spellsActives": [
+      23169,
+      23171,
+      23173
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5574,
+      5575
+    ],
+    "itemId": 26946,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6959": 0,
+      "6960": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)\nAltéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)",
+    "iconId": 22993
+  },
+  "22995": {
+    "id": 22995,
+    "name": "Cuirassœil",
+    "numero": 111,
+    "spellsActives": [
+      23172,
+      23175,
+      23170
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5578
+    ],
+    "itemId": 26947,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 22995
+  },
+  "22998": {
+    "id": 22998,
+    "name": "Raievolté",
+    "numero": 112,
+    "spellsActives": [
+      22735,
+      22734,
+      22736
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5580,
+      5581
+    ],
+    "itemId": 26948,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6959": 0,
+      "6960": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)\nAltéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)",
+    "iconId": 22998
+  },
+  "23002": {
+    "id": 23002,
+    "name": "Galibogue",
+    "numero": 113,
+    "spellsActives": [
+      22737,
+      23177,
+      22738
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5583,
+      5584
+    ],
+    "itemId": 26949,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6959": 0,
+      "6960": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)\nAltéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)",
+    "iconId": 23002
+  },
+  "23004": {
+    "id": 23004,
+    "name": "Vampichnette",
+    "numero": 114,
+    "spellsActives": [
+      23182,
+      23180,
+      23178
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5586,
+      5587
+    ],
+    "itemId": 26950,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6959": 0,
+      "6960": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)\nAltéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)",
+    "iconId": 23004
+  },
+  "23006": {
+    "id": 23006,
+    "name": "Vampirouette",
+    "numero": 115,
+    "spellsActives": [
+      23179,
+      22740,
+      23181
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5590
+    ],
+    "itemId": 26951,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 23006
+  },
+  "23008": {
+    "id": 23008,
+    "name": "Floracine",
+    "numero": 116,
+    "spellsActives": [
+      23183,
+      23184,
+      22745
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5592,
+      5593
+    ],
+    "itemId": 26952,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6959": 0,
+      "6960": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)\nAltéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)",
+    "iconId": 23008
+  },
+  "23010": {
+    "id": 23010,
+    "name": "Lycradi",
+    "numero": 117,
+    "spellsActives": [
+      22753,
+      22749,
+      22756
+    ],
+    "spellsPassives": [
+      23009
+    ],
+    "achievements": [
+      5595,
+      5596
+    ],
+    "itemId": 26953,
+    "rarity": "Épique",
+    "dropMonsters": {
+      "6959": 0,
+      "6960": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)\nAltéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)",
+    "iconId": 23010
+  },
+  "23013": {
+    "id": 23013,
+    "name": "Rondonion",
+    "numero": 118,
+    "spellsActives": [
+      22768,
+      23185,
+      23187
+    ],
+    "spellsPassives": [
+      23012
+    ],
+    "achievements": [
+      5598,
+      5599
+    ],
+    "itemId": 26954,
+    "rarity": "Légendaire",
+    "dropMonsters": {
+      "6959": 0,
+      "6960": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)\nAltéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)",
+    "iconId": 23013
+  },
+  "23015": {
+    "id": 23015,
+    "name": "Sévirus",
+    "numero": 119,
+    "spellsActives": [
+      22770,
+      23188,
+      23252
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5601,
+      5602
+    ],
+    "itemId": 26955,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6960": 0,
+      "6961": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)\nAltéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)",
+    "iconId": 23015
+  },
+  "23017": {
+    "id": 23017,
+    "name": "Survirus",
+    "numero": 120,
+    "spellsActives": [
+      23254,
+      23189,
+      22771
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5605
+    ],
+    "itemId": 26956,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 23017
+  },
+  "23019": {
+    "id": 23019,
+    "name": "Dodoré",
+    "numero": 121,
+    "spellsActives": [
+      22772,
+      22773,
+      22774
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5607,
+      5608
+    ],
+    "itemId": 26957,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6960": 0,
+      "6961": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)\nAltéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)",
+    "iconId": 23019
+  },
+  "23021": {
+    "id": 23021,
+    "name": "Kafarmure",
+    "numero": 122,
+    "spellsActives": [
+      23250,
+      23195,
+      23190
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5610,
+      5611
+    ],
+    "itemId": 26958,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6960": 0,
+      "6961": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)\nAltéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)",
+    "iconId": 23021
+  },
+  "23029": {
+    "id": 23029,
+    "name": "Guérilard",
+    "numero": 123,
+    "spellsActives": [
+      22775,
+      23501,
+      23199
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5613,
+      5614
+    ],
+    "itemId": 26959,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6960": 0,
+      "6961": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)\nAltéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)",
+    "iconId": 23029
+  },
+  "23032": {
+    "id": 23032,
+    "name": "Pugilard",
+    "numero": 124,
+    "spellsActives": [
+      23200,
+      22776,
+      23503
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5617
+    ],
+    "itemId": 26960,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 23032
+  },
+  "23039": {
+    "id": 23039,
+    "name": "Cancrevette",
+    "numero": 125,
+    "spellsActives": [
+      22778,
+      22779,
+      22777
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5619,
+      5620
+    ],
+    "itemId": 26961,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6960": 0,
+      "6961": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)\nAltéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)",
+    "iconId": 23039
+  },
+  "23046": {
+    "id": 23046,
+    "name": "Nenufarouche",
+    "numero": 126,
+    "spellsActives": [
+      22781,
+      22780,
+      23203
+    ],
+    "spellsPassives": [
+      23045
+    ],
+    "achievements": [
+      5622,
+      5623
+    ],
+    "itemId": 26962,
+    "rarity": "Épique",
+    "dropMonsters": {
+      "6960": 0,
+      "6961": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)\nAltéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)",
+    "iconId": 23046
+  },
+  "23051": {
+    "id": 23051,
+    "name": "Mélomask",
+    "numero": 127,
+    "spellsActives": [
+      23208,
+      22785,
+      22783
+    ],
+    "spellsPassives": [
+      23050
+    ],
+    "achievements": [
+      5625,
+      5626
+    ],
+    "itemId": 26963,
+    "rarity": "Légendaire",
+    "dropMonsters": {
+      "6960": 0,
+      "6961": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)\nAltéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)",
+    "iconId": 23051
+  },
+  "23052": {
+    "id": 23052,
+    "name": "Carniflore",
+    "numero": 128,
+    "spellsActives": [
+      22791,
+      23218,
+      23213
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5628,
+      5629
+    ],
+    "itemId": 26964,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6961": 0,
+      "6962": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)\nAltéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)",
+    "iconId": 23052
+  },
+  "23057": {
+    "id": 23057,
+    "name": "Tabalèze",
+    "numero": 129,
+    "spellsActives": [
+      22795,
+      23220,
+      23214
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5632
+    ],
+    "itemId": 26965,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 23057
+  },
+  "23065": {
+    "id": 23065,
+    "name": "Étoilusk",
+    "numero": 130,
+    "spellsActives": [
+      23222,
+      22797,
+      23223
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5634,
+      5635
+    ],
+    "itemId": 26966,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6961": 0,
+      "6962": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)\nAltéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)",
+    "iconId": 23065
+  },
+  "23069": {
+    "id": 23069,
+    "name": "Assouplié",
+    "numero": 131,
+    "spellsActives": [
+      23224,
+      23226,
+      22800
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5637,
+      5638
+    ],
+    "itemId": 26967,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6961": 0,
+      "6962": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)\nAltéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)",
+    "iconId": 23069
+  },
+  "23072": {
+    "id": 23072,
+    "name": "Hurluisant",
+    "numero": 132,
+    "spellsActives": [
+      23228,
+      23230,
+      22809
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5640,
+      5641
+    ],
+    "itemId": 26968,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6961": 0,
+      "6962": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)\nAltéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)",
+    "iconId": 23072
+  },
+  "23076": {
+    "id": 23076,
+    "name": "Tentasque",
+    "numero": 133,
+    "spellsActives": [
+      23233,
+      22819,
+      22825
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5643,
+      5644
+    ],
+    "itemId": 26969,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6961": 0,
+      "6962": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)\nAltéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)",
+    "iconId": 23076
+  },
+  "23080": {
+    "id": 23080,
+    "name": "Rouyéfan",
+    "numero": 134,
+    "spellsActives": [
+      22828,
+      23231,
+      22826
+    ],
+    "spellsPassives": [
+      23079
+    ],
+    "achievements": [
+      5646,
+      5647
+    ],
+    "itemId": 26970,
+    "rarity": "Épique",
+    "dropMonsters": {
+      "6961": 0,
+      "6962": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)\nAltéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)",
+    "iconId": 23080
+  },
+  "23082": {
+    "id": 23082,
+    "name": "Hyporg",
+    "numero": 135,
+    "spellsActives": [
+      22831,
+      23234,
+      23091
+    ],
+    "spellsPassives": [
+      23081
+    ],
+    "achievements": [
+      5649,
+      5650
+    ],
+    "itemId": 26971,
+    "rarity": "Légendaire",
+    "dropMonsters": {
+      "6961": 0,
+      "6962": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)\nAltéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)",
+    "iconId": 23082
+  },
+  "23084": {
+    "id": 23084,
+    "name": "Ghettaure",
+    "numero": 136,
+    "spellsActives": [
+      22456,
+      23237,
+      23235
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5652,
+      5653
+    ],
+    "itemId": 26972,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6962": 0,
+      "6963": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)\nAltéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
+    "iconId": 23084
+  },
+  "23086": {
+    "id": 23086,
+    "name": "Taurdure",
+    "numero": 137,
+    "spellsActives": [
+      23238,
+      23236,
+      22457
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5656
+    ],
+    "itemId": 26973,
+    "rarity": "Évolution",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 23086
+  },
+  "23090": {
+    "id": 23090,
+    "name": "Vénéon",
+    "numero": 138,
+    "spellsActives": [
+      23248,
+      23240,
+      22833
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5658,
+      5659
+    ],
+    "itemId": 26974,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6962": 0,
+      "6963": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)\nAltéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
+    "iconId": 23090
+  },
+  "23094": {
+    "id": 23094,
+    "name": "Roboxe",
+    "numero": 139,
+    "spellsActives": [
+      23245,
+      22834,
+      23243
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5661,
+      5662
+    ],
+    "itemId": 26975,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6962": 0,
+      "6963": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)\nAltéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
+    "iconId": 23094
+  },
+  "23096": {
+    "id": 23096,
+    "name": "Cyclopoing",
+    "numero": 140,
+    "spellsActives": [
+      22837,
+      23244,
+      23506
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5664,
+      5665
+    ],
+    "itemId": 26976,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6962": 0,
+      "6963": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)\nAltéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
+    "iconId": 23096
+  },
+  "23098": {
+    "id": 23098,
+    "name": "Artifilou",
+    "numero": 141,
+    "spellsActives": [
+      23241,
+      22840,
+      22839
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5667,
+      5668
+    ],
+    "itemId": 26977,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6962": 0,
+      "6963": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)\nAltéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
+    "iconId": 23098
+  },
+  "23101": {
+    "id": 23101,
+    "name": "Javache",
+    "numero": 142,
+    "spellsActives": [
+      22841,
+      23415,
+      23416
+    ],
+    "spellsPassives": [
+      23100
+    ],
+    "achievements": [
+      5670,
+      5671
+    ],
+    "itemId": 26978,
+    "rarity": "Épique",
+    "dropMonsters": {
+      "6962": 0,
+      "6963": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)\nAltéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
+    "iconId": 23101
+  },
+  "23105": {
+    "id": 23105,
+    "name": "Valdingume",
+    "numero": 143,
+    "spellsActives": [
+      22848,
+      22863,
+      22530
+    ],
+    "spellsPassives": [
+      23104
+    ],
+    "achievements": [
+      5673,
+      5674
+    ],
+    "itemId": 26979,
+    "rarity": "Légendaire",
+    "dropMonsters": {
+      "6962": 0,
+      "6963": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)\nAltéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
+    "iconId": 23105
+  },
+  "23107": {
+    "id": 23107,
+    "name": "Chachampion",
+    "numero": 144,
+    "spellsActives": [
+      22850,
+      22852,
+      23419
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5676,
+      5677
+    ],
+    "itemId": 26980,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6963": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
+    "iconId": 23107
+  },
+  "23109": {
+    "id": 23109,
+    "name": "Momarto",
+    "numero": 145,
+    "spellsActives": [
+      22857,
+      22856,
+      22855
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5679,
+      5680
+    ],
+    "itemId": 26981,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6963": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
+    "iconId": 23109
+  },
+  "23111": {
+    "id": 23111,
+    "name": "Parazig",
+    "numero": 146,
+    "spellsActives": [
+      22877,
+      23422,
+      23420
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5682,
+      5683
+    ],
+    "itemId": 26982,
+    "rarity": "Commun",
+    "dropMonsters": {
+      "6963": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
+    "iconId": 23111
+  },
+  "23114": {
+    "id": 23114,
+    "name": "Lycanin",
+    "numero": 147,
+    "spellsActives": [
+      22859,
+      23424,
+      22875
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5685,
+      5686
+    ],
+    "itemId": 26983,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6963": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
+    "iconId": 23114
+  },
+  "23117": {
+    "id": 23117,
+    "name": "Racaïman",
+    "numero": 148,
+    "spellsActives": [
+      22860,
+      22861,
+      23423
+    ],
+    "spellsPassives": [],
+    "achievements": [
+      5688,
+      5689
+    ],
+    "itemId": 26984,
+    "rarity": "Rare",
+    "dropMonsters": {
+      "6963": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
+    "iconId": 23117
+  },
+  "23119": {
+    "id": 23119,
+    "name": "Fantoglyf",
+    "numero": 149,
+    "spellsActives": [
+      22872,
+      22865,
+      23425
+    ],
+    "spellsPassives": [
+      23118
+    ],
+    "achievements": [
+      5691,
+      5692
+    ],
+    "itemId": 26985,
+    "rarity": "Épique",
+    "dropMonsters": {
+      "6963": 0
+    },
+    "obtention": "",
+    "value": "Altéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
+    "iconId": 23119
+  },
+  "23125": {
+    "id": 23125,
+    "name": "Mutapin",
+    "numero": 150,
+    "spellsActives": [
+      22870,
+      23411,
+      23410
+    ],
+    "spellsPassives": [
+      23124
+    ],
+    "achievements": [
+      5694
+    ],
+    "itemId": 26986,
+    "rarity": "Légendaire",
+    "dropMonsters": {},
+    "obtention": "",
+    "value": "",
+    "iconId": 23125
+  },
+  "23134": {
+    "id": 23134,
+    "name": "Miaou",
+    "numero": 151,
+    "spellsActives": [
+      22866,
+      22868,
+      23412
+    ],
+    "spellsPassives": [
+      23133
+    ],
+    "achievements": [
+      5697,
+      5698
+    ],
+    "itemId": 26988,
+    "rarity": "Légendaire",
+    "dropMonsters": {
+      "7198": 0
+    },
+    "obtention": "",
+    "value": "Miaou  ()",
+    "iconId": 23134
   }
 }
