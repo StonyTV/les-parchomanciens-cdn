@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Panda",
+    "numero": 1,
+    "spellsActives": [],
+    "spellsPassives": [],
+    "itemId": 0,
+    "rarity": "Commun",
+    "dropMonsters": [242, 3942],
+    "obtention": "Drop",
+    "pictureId": 0
+  },
+  {
+    "id": 1,
+    "name": "Panda",
+    "numero": 1,
+    "spellsActives": [],
+    "spellsPassives": [],
+    "itemId": 0,
+    "rarity": "Rare",
+    "dropMonsters": [],
+    "obtention": "Craft",
+    "value": "83 * Dent de Bandleth, 79 * Grenat de Momistik, 10 * Scarabée Chrysonéfritin, 8 * Cheveux de Tal Kasha, 12 * Noyau de Protozorreur, 9 * Œil d'Ougah, 3 * Galet brasillant, 15 * Tourmaline",
+    "pictureId": 0
+  },
+  {
+    "id": 1,
+    "name": "Panda",
+    "numero": 1,
+    "spellsActives": [],
+    "spellsPassives": [],
+    "itemId": 0,
+    "rarity": "Épique",
+    "dropMonsters": [1078, 653],
+    "obtention": "Drop",
+    "pictureId": 0
+  },
+  {
+    "id": 1,
+    "name": "Panda",
+    "numero": 1,
+    "spellsActives": [],
+    "spellsPassives": [],
+    "itemId": 0,
+    "rarity": "Légendaire",
+    "dropMonsters": [108, 876, 2522],
+    "obtention": "Drop",
+    "pictureId": 0
+  }
+]
