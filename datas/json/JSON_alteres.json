@@ -15,12 +15,35 @@
     ],
     "itemId": 26824,
     "rarity": "Commun",
+    "dropAreas": [
+      12,
+      23,
+      29,
+      31,
+      54,
+      56,
+      57,
+      68,
+      70,
+      162,
+      163,
+      164,
+      166,
+      180,
+      181,
+      233,
+      235,
+      442,
+      443,
+      444,
+      480,
+      525
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6948": 0,
       "6949": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Champs de Cania, Massif de Cania, Lac de Cania, Montagne basse des Craqueleurs, Souterrains du Château d'Amakna, Péninsule des gelées, Îlot des Tombeaux, Îlot de la Couronne, Îlot de Waldo, Forêt des Masques)\nAltéré  (Routes Rocailleuses, Désolation de Sidimote, Plaines Rocheuses, Territoire des Dragodindes Sauvages, Presqu'île des Dragoeufs, Marécages sans fond, Marécages d'Amakna)",
     "iconId": "6981"
   },
   "22215": {
@@ -38,9 +61,9 @@
     ],
     "itemId": 26825,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Bastortue: 1 * Hormone Arakïque, 2 * Mutagène mémorable, 1 * Carafon, 1 * Dragolait, 2 * Ballon Jaune Magique, 1 * Dents du Meulou",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "6982"
   },
   "22229": {
@@ -59,12 +82,35 @@
     ],
     "itemId": 26826,
     "rarity": "Commun",
+    "dropAreas": [
+      12,
+      23,
+      29,
+      31,
+      54,
+      56,
+      57,
+      68,
+      70,
+      162,
+      163,
+      164,
+      166,
+      180,
+      181,
+      233,
+      235,
+      442,
+      443,
+      444,
+      480,
+      525
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6948": 0,
       "6949": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Champs de Cania, Massif de Cania, Lac de Cania, Montagne basse des Craqueleurs, Souterrains du Château d'Amakna, Péninsule des gelées, Îlot des Tombeaux, Îlot de la Couronne, Îlot de Waldo, Forêt des Masques)\nAltéré  (Routes Rocailleuses, Désolation de Sidimote, Plaines Rocheuses, Territoire des Dragodindes Sauvages, Presqu'île des Dragoeufs, Marécages sans fond, Marécages d'Amakna)",
     "iconId": "6983"
   },
   "22231": {
@@ -82,9 +128,9 @@
     ],
     "itemId": 26827,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Vautouragan: 1 * Hormone Arakïque, 2 * Mutagène mémorable, 1 * Volovan, 1 * Défense de Dragon Cochon, 2 * Dent du Kharnozor, 1 * Testicules du Meulou",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "6984"
   },
   "22233": {
@@ -103,12 +149,35 @@
     ],
     "itemId": 26828,
     "rarity": "Commun",
+    "dropAreas": [
+      12,
+      23,
+      29,
+      31,
+      54,
+      56,
+      57,
+      68,
+      70,
+      162,
+      163,
+      164,
+      166,
+      180,
+      181,
+      233,
+      235,
+      442,
+      443,
+      444,
+      480,
+      525
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6948": 0,
       "6949": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Champs de Cania, Massif de Cania, Lac de Cania, Montagne basse des Craqueleurs, Souterrains du Château d'Amakna, Péninsule des gelées, Îlot des Tombeaux, Îlot de la Couronne, Îlot de Waldo, Forêt des Masques)\nAltéré  (Routes Rocailleuses, Désolation de Sidimote, Plaines Rocheuses, Territoire des Dragodindes Sauvages, Presqu'île des Dragoeufs, Marécages sans fond, Marécages d'Amakna)",
     "iconId": "6985"
   },
   "22240": {
@@ -126,9 +195,9 @@
     ],
     "itemId": 26829,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Balafrousse: 1 * Hormone Arakïque, 2 * Mutagène mémorable, 1 * Têtunel, 1 * Poil de Dragon Cochon, 2 * Peau de Moon, 1 * Mojo du Meulou",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "6986"
   },
   "22242": {
@@ -147,12 +216,35 @@
     ],
     "itemId": 26830,
     "rarity": "Commun",
+    "dropAreas": [
+      12,
+      23,
+      29,
+      31,
+      54,
+      56,
+      57,
+      68,
+      70,
+      162,
+      163,
+      164,
+      166,
+      180,
+      181,
+      233,
+      235,
+      442,
+      443,
+      444,
+      480,
+      525
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6948": 0,
       "6949": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Champs de Cania, Massif de Cania, Lac de Cania, Montagne basse des Craqueleurs, Souterrains du Château d'Amakna, Péninsule des gelées, Îlot des Tombeaux, Îlot de la Couronne, Îlot de Waldo, Forêt des Masques)\nAltéré  (Routes Rocailleuses, Désolation de Sidimote, Plaines Rocheuses, Territoire des Dragodindes Sauvages, Presqu'île des Dragoeufs, Marécages sans fond, Marécages d'Amakna)",
     "iconId": "6987"
   },
   "22247": {
@@ -170,9 +262,9 @@
     ],
     "itemId": 26831,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Manchic: 1 * Hormone Arakïque, 2 * Mutagène mémorable, 1 * Manchouette, 1 * Cuir du Dragon Cochon, 2 * Broderie de Malléfisk, 1 * Œil du Meulou",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "6988"
   },
   "22249": {
@@ -191,12 +283,28 @@
     ],
     "itemId": 26832,
     "rarity": "Commun",
+    "dropAreas": [
+      6,
+      29,
+      32,
+      95,
+      98,
+      99,
+      173,
+      335,
+      442,
+      443,
+      444,
+      445,
+      449,
+      450,
+      778
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6887": 0,
       "6944": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Lac, Champs, Mine, Forêt, Route des âmes, Pâturages, Cimetière)\nAltéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)",
     "iconId": "6989"
   },
   "22251": {
@@ -214,9 +322,9 @@
     ],
     "itemId": 26833,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Macrocher: 1 * Hormone Piouïque, 2 * Mutagène, 1 * Microcher",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "6990"
   },
   "22253": {
@@ -235,12 +343,28 @@
     ],
     "itemId": 26834,
     "rarity": "Commun",
+    "dropAreas": [
+      6,
+      29,
+      32,
+      95,
+      98,
+      99,
+      173,
+      335,
+      442,
+      443,
+      444,
+      445,
+      449,
+      450,
+      778
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6887": 0,
       "6944": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Lac, Champs, Mine, Forêt, Route des âmes, Pâturages, Cimetière)\nAltéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)",
     "iconId": "6991"
   },
   "22258": {
@@ -259,12 +383,28 @@
     ],
     "itemId": 26835,
     "rarity": "Rare",
+    "dropAreas": [
+      6,
+      29,
+      32,
+      95,
+      98,
+      99,
+      173,
+      335,
+      442,
+      443,
+      444,
+      445,
+      449,
+      450,
+      778
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6887": 0,
       "6944": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Lac, Champs, Mine, Forêt, Route des âmes, Pâturages, Cimetière)\nAltéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)",
     "iconId": "6992"
   },
   "22261": {
@@ -283,12 +423,28 @@
     ],
     "itemId": 26836,
     "rarity": "Commun",
+    "dropAreas": [
+      6,
+      29,
+      32,
+      95,
+      98,
+      99,
+      173,
+      335,
+      442,
+      443,
+      444,
+      445,
+      449,
+      450,
+      778
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6887": 0,
       "6944": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Lac, Champs, Mine, Forêt, Route des âmes, Pâturages, Cimetière)\nAltéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)",
     "iconId": "6993"
   },
   "22263": {
@@ -307,12 +463,28 @@
     ],
     "itemId": 26837,
     "rarity": "Commun",
+    "dropAreas": [
+      6,
+      29,
+      32,
+      95,
+      98,
+      99,
+      173,
+      335,
+      442,
+      443,
+      444,
+      445,
+      449,
+      450,
+      778
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6887": 0,
       "6944": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Lac, Champs, Mine, Forêt, Route des âmes, Pâturages, Cimetière)\nAltéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)",
     "iconId": "6994"
   },
   "22265": {
@@ -330,9 +502,9 @@
     ],
     "itemId": 26838,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption d'Escarpince: 1 * Hormone Pichonïque, 2 * Mutagène, 1 * Galopince, 2 * Laine de Bouftou Royal",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "6995"
   },
   "22267": {
@@ -351,12 +523,28 @@
     ],
     "itemId": 26839,
     "rarity": "Rare",
+    "dropAreas": [
+      6,
+      29,
+      32,
+      95,
+      98,
+      99,
+      173,
+      335,
+      442,
+      443,
+      444,
+      445,
+      449,
+      450,
+      778
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6887": 0,
       "6944": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Lac, Champs, Mine, Forêt, Route des âmes, Pâturages, Cimetière)\nAltéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)",
     "iconId": "6996"
   },
   "22271": {
@@ -375,9 +563,9 @@
     ],
     "itemId": 26840,
     "rarity": "Rare",
+    "dropAreas": [],
+    "crafts": "",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "6997"
   },
   "22273": {
@@ -396,12 +584,37 @@
     ],
     "itemId": 26841,
     "rarity": "Commun",
+    "dropAreas": [
+      1,
+      4,
+      5,
+      22,
+      27,
+      29,
+      30,
+      32,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      173,
+      179,
+      279,
+      335,
+      443,
+      444,
+      445,
+      479,
+      482,
+      485
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6944": 0,
       "6945": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)\nAltéré  (Forêt d'Astrub, Forêt d'Amakna, Port de Madrestam, Carrière d'Astrub, Coin des Bouftous, Pâturages de Bonta, Tainéla, Bord de la forêt maléfique, Millifutaie, Rivière Kawaii, Campagne d'Amakna, Coin des Boos, Égouts d'Astrub, Côte d'Asse)",
     "iconId": "6998"
   },
   "22275": {
@@ -419,9 +632,9 @@
     ],
     "itemId": 26842,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Bandominant: 1 * Hormone Bouftouïque, 2 * Mutagène, 1 * Bandocile, 2 * Manuel du Directeur Grunob",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "6999"
   },
   "22277": {
@@ -439,12 +652,37 @@
     ],
     "itemId": 26843,
     "rarity": "Commun",
+    "dropAreas": [
+      1,
+      4,
+      5,
+      22,
+      27,
+      29,
+      30,
+      32,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      173,
+      179,
+      279,
+      335,
+      443,
+      444,
+      445,
+      479,
+      482,
+      485
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6944": 0,
       "6945": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)\nAltéré  (Forêt d'Astrub, Forêt d'Amakna, Port de Madrestam, Carrière d'Astrub, Coin des Bouftous, Pâturages de Bonta, Tainéla, Bord de la forêt maléfique, Millifutaie, Rivière Kawaii, Campagne d'Amakna, Coin des Boos, Égouts d'Astrub, Côte d'Asse)",
     "iconId": "7000"
   },
   "22288": {
@@ -463,12 +701,37 @@
     ],
     "itemId": 26844,
     "rarity": "Commun",
+    "dropAreas": [
+      1,
+      4,
+      5,
+      22,
+      27,
+      29,
+      30,
+      32,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      173,
+      179,
+      279,
+      335,
+      443,
+      444,
+      445,
+      479,
+      482,
+      485
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6944": 0,
       "6945": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)\nAltéré  (Forêt d'Astrub, Forêt d'Amakna, Port de Madrestam, Carrière d'Astrub, Coin des Bouftous, Pâturages de Bonta, Tainéla, Bord de la forêt maléfique, Millifutaie, Rivière Kawaii, Campagne d'Amakna, Coin des Boos, Égouts d'Astrub, Côte d'Asse)",
     "iconId": "7002"
   },
   "22292": {
@@ -487,12 +750,37 @@
     ],
     "itemId": 26845,
     "rarity": "Rare",
+    "dropAreas": [
+      1,
+      4,
+      5,
+      22,
+      27,
+      29,
+      30,
+      32,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      173,
+      179,
+      279,
+      335,
+      443,
+      444,
+      445,
+      479,
+      482,
+      485
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6944": 0,
       "6945": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Sufokia, Prairies d'Astrub, Champs d'Astrub, Cité d'Astrub, Calanques d'Astrub, Souterrains d'Astrub)\nAltéré  (Forêt d'Astrub, Forêt d'Amakna, Port de Madrestam, Carrière d'Astrub, Coin des Bouftous, Pâturages de Bonta, Tainéla, Bord de la forêt maléfique, Millifutaie, Rivière Kawaii, Campagne d'Amakna, Coin des Boos, Égouts d'Astrub, Côte d'Asse)",
     "iconId": "7003"
   },
   "22296": {
@@ -511,12 +799,39 @@
     ],
     "itemId": 26846,
     "rarity": "Commun",
+    "dropAreas": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      22,
+      27,
+      30,
+      76,
+      96,
+      97,
+      100,
+      102,
+      170,
+      179,
+      276,
+      279,
+      443,
+      445,
+      449,
+      451,
+      479,
+      481,
+      482,
+      485
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6945": 0,
       "6946": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt d'Astrub, Forêt d'Amakna, Port de Madrestam, Carrière d'Astrub, Coin des Bouftous, Pâturages de Bonta, Tainéla, Bord de la forêt maléfique, Millifutaie, Rivière Kawaii, Campagne d'Amakna, Coin des Boos, Égouts d'Astrub, Côte d'Asse)\nAltéré  (Plaine des Scarafeuilles, Cimetière d'Astrub, Champ des Ingalsse, Village des Brigandins, Île des naufragés, Cimetière, Cryptes du cimetière, Clairière de Brouce Boulgoure, Campement des Gobelins)",
     "iconId": "7004"
   },
   "22298": {
@@ -534,9 +849,9 @@
     ],
     "itemId": 26847,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certficat d'adoption de Boxelet: 1 * Hormone Scarafïque, 2 * Mutagène admirable, 1 * Sporganik, 2 * Serrure du Coffre des Forgerons",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7005"
   },
   "22301": {
@@ -555,12 +870,39 @@
     ],
     "itemId": 26848,
     "rarity": "Commun",
+    "dropAreas": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      22,
+      27,
+      30,
+      76,
+      96,
+      97,
+      100,
+      102,
+      170,
+      179,
+      276,
+      279,
+      443,
+      445,
+      449,
+      451,
+      479,
+      481,
+      482,
+      485
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6945": 0,
       "6946": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt d'Astrub, Forêt d'Amakna, Port de Madrestam, Carrière d'Astrub, Coin des Bouftous, Pâturages de Bonta, Tainéla, Bord de la forêt maléfique, Millifutaie, Rivière Kawaii, Campagne d'Amakna, Coin des Boos, Égouts d'Astrub, Côte d'Asse)\nAltéré  (Plaine des Scarafeuilles, Cimetière d'Astrub, Champ des Ingalsse, Village des Brigandins, Île des naufragés, Cimetière, Cryptes du cimetière, Clairière de Brouce Boulgoure, Campement des Gobelins)",
     "iconId": "7006"
   },
   "22303": {
@@ -579,12 +921,39 @@
     ],
     "itemId": 26849,
     "rarity": "Commun",
+    "dropAreas": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      22,
+      27,
+      30,
+      76,
+      96,
+      97,
+      100,
+      102,
+      170,
+      179,
+      276,
+      279,
+      443,
+      445,
+      449,
+      451,
+      479,
+      481,
+      482,
+      485
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6945": 0,
       "6946": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt d'Astrub, Forêt d'Amakna, Port de Madrestam, Carrière d'Astrub, Coin des Bouftous, Pâturages de Bonta, Tainéla, Bord de la forêt maléfique, Millifutaie, Rivière Kawaii, Campagne d'Amakna, Coin des Boos, Égouts d'Astrub, Côte d'Asse)\nAltéré  (Plaine des Scarafeuilles, Cimetière d'Astrub, Champ des Ingalsse, Village des Brigandins, Île des naufragés, Cimetière, Cryptes du cimetière, Clairière de Brouce Boulgoure, Campement des Gobelins)",
     "iconId": "7007"
   },
   "22306": {
@@ -603,12 +972,39 @@
     ],
     "itemId": 26850,
     "rarity": "Rare",
+    "dropAreas": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      22,
+      27,
+      30,
+      76,
+      96,
+      97,
+      100,
+      102,
+      170,
+      179,
+      276,
+      279,
+      443,
+      445,
+      449,
+      451,
+      479,
+      481,
+      482,
+      485
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6945": 0,
       "6946": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt d'Astrub, Forêt d'Amakna, Port de Madrestam, Carrière d'Astrub, Coin des Bouftous, Pâturages de Bonta, Tainéla, Bord de la forêt maléfique, Millifutaie, Rivière Kawaii, Campagne d'Amakna, Coin des Boos, Égouts d'Astrub, Côte d'Asse)\nAltéré  (Plaine des Scarafeuilles, Cimetière d'Astrub, Champ des Ingalsse, Village des Brigandins, Île des naufragés, Cimetière, Cryptes du cimetière, Clairière de Brouce Boulgoure, Campement des Gobelins)",
     "iconId": "7008"
   },
   "22308": {
@@ -627,12 +1023,42 @@
     ],
     "itemId": 26851,
     "rarity": "Commun",
+    "dropAreas": [
+      2,
+      3,
+      6,
+      7,
+      8,
+      59,
+      61,
+      62,
+      76,
+      93,
+      102,
+      103,
+      161,
+      169,
+      170,
+      178,
+      232,
+      276,
+      277,
+      280,
+      334,
+      449,
+      451,
+      453,
+      481,
+      490,
+      492,
+      778,
+      816
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6946": 0,
       "6947": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Plaine des Scarafeuilles, Cimetière d'Astrub, Champ des Ingalsse, Village des Brigandins, Île des naufragés, Cimetière, Cryptes du cimetière, Clairière de Brouce Boulgoure, Campement des Gobelins)\nAltéré  (Plage de Corail, Bordure de Brâkmar, Plaine des Porkass, Orée de la forêt des Abraknydes, Cimetière des Torturés, Île de la Cawotte, Cimetière des Héros, Baie de Cania, Territoire des Bandits, Marécages nauséabonds, Montagne des Craqueleurs, Village des Dopeuls, Plage de la Tortue, Rivage sufokien, Campement des Bworks, Village des Bworks, Passage vers Brâkmar, Mine des Dopeuls)",
     "iconId": "7009"
   },
   "22316": {
@@ -650,9 +1076,9 @@
     ],
     "itemId": 26852,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Boufilou: 1 * Hormone Wabbïque, 2 * Mutagène admirable, 1 * Bébourjon, 2 * Feuille de Blop Royal",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7010"
   },
   "22321": {
@@ -671,12 +1097,42 @@
     ],
     "itemId": 26853,
     "rarity": "Commun",
+    "dropAreas": [
+      2,
+      3,
+      6,
+      7,
+      8,
+      59,
+      61,
+      62,
+      76,
+      93,
+      102,
+      103,
+      161,
+      169,
+      170,
+      178,
+      232,
+      276,
+      277,
+      280,
+      334,
+      449,
+      451,
+      453,
+      481,
+      490,
+      492,
+      778,
+      816
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6946": 0,
       "6947": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Plaine des Scarafeuilles, Cimetière d'Astrub, Champ des Ingalsse, Village des Brigandins, Île des naufragés, Cimetière, Cryptes du cimetière, Clairière de Brouce Boulgoure, Campement des Gobelins)\nAltéré  (Plage de Corail, Bordure de Brâkmar, Plaine des Porkass, Orée de la forêt des Abraknydes, Cimetière des Torturés, Île de la Cawotte, Cimetière des Héros, Baie de Cania, Territoire des Bandits, Marécages nauséabonds, Montagne des Craqueleurs, Village des Dopeuls, Plage de la Tortue, Rivage sufokien, Campement des Bworks, Village des Bworks, Passage vers Brâkmar, Mine des Dopeuls)",
     "iconId": "7011"
   },
   "22327": {
@@ -695,12 +1151,42 @@
     ],
     "itemId": 26854,
     "rarity": "Commun",
+    "dropAreas": [
+      2,
+      3,
+      6,
+      7,
+      8,
+      59,
+      61,
+      62,
+      76,
+      93,
+      102,
+      103,
+      161,
+      169,
+      170,
+      178,
+      232,
+      276,
+      277,
+      280,
+      334,
+      449,
+      451,
+      453,
+      481,
+      490,
+      492,
+      778,
+      816
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6946": 0,
       "6947": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Plaine des Scarafeuilles, Cimetière d'Astrub, Champ des Ingalsse, Village des Brigandins, Île des naufragés, Cimetière, Cryptes du cimetière, Clairière de Brouce Boulgoure, Campement des Gobelins)\nAltéré  (Plage de Corail, Bordure de Brâkmar, Plaine des Porkass, Orée de la forêt des Abraknydes, Cimetière des Torturés, Île de la Cawotte, Cimetière des Héros, Baie de Cania, Territoire des Bandits, Marécages nauséabonds, Montagne des Craqueleurs, Village des Dopeuls, Plage de la Tortue, Rivage sufokien, Campement des Bworks, Village des Bworks, Passage vers Brâkmar, Mine des Dopeuls)",
     "iconId": "7012"
   },
   "22330": {
@@ -719,12 +1205,42 @@
     ],
     "itemId": 26855,
     "rarity": "Rare",
+    "dropAreas": [
+      2,
+      3,
+      6,
+      7,
+      8,
+      59,
+      61,
+      62,
+      76,
+      93,
+      102,
+      103,
+      161,
+      169,
+      170,
+      178,
+      232,
+      276,
+      277,
+      280,
+      334,
+      449,
+      451,
+      453,
+      481,
+      490,
+      492,
+      778,
+      816
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6946": 0,
       "6947": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Plaine des Scarafeuilles, Cimetière d'Astrub, Champ des Ingalsse, Village des Brigandins, Île des naufragés, Cimetière, Cryptes du cimetière, Clairière de Brouce Boulgoure, Campement des Gobelins)\nAltéré  (Plage de Corail, Bordure de Brâkmar, Plaine des Porkass, Orée de la forêt des Abraknydes, Cimetière des Torturés, Île de la Cawotte, Cimetière des Héros, Baie de Cania, Territoire des Bandits, Marécages nauséabonds, Montagne des Craqueleurs, Village des Dopeuls, Plage de la Tortue, Rivage sufokien, Campement des Bworks, Village des Bworks, Passage vers Brâkmar, Mine des Dopeuls)",
     "iconId": "7013"
   },
   "22337": {
@@ -743,12 +1259,49 @@
     ],
     "itemId": 26856,
     "rarity": "Commun",
+    "dropAreas": [
+      2,
+      6,
+      8,
+      12,
+      29,
+      54,
+      56,
+      59,
+      61,
+      62,
+      68,
+      93,
+      103,
+      161,
+      162,
+      163,
+      164,
+      166,
+      169,
+      178,
+      180,
+      181,
+      232,
+      277,
+      280,
+      334,
+      442,
+      443,
+      444,
+      449,
+      453,
+      480,
+      490,
+      492,
+      778,
+      816
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6947": 0,
       "6948": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Plage de Corail, Bordure de Brâkmar, Plaine des Porkass, Orée de la forêt des Abraknydes, Cimetière des Torturés, Île de la Cawotte, Cimetière des Héros, Baie de Cania, Territoire des Bandits, Marécages nauséabonds, Montagne des Craqueleurs, Village des Dopeuls, Plage de la Tortue, Rivage sufokien, Campement des Bworks, Village des Bworks, Passage vers Brâkmar, Mine des Dopeuls)\nAltéré  (Champs de Cania, Massif de Cania, Lac de Cania, Montagne basse des Craqueleurs, Souterrains du Château d'Amakna, Péninsule des gelées, Îlot des Tombeaux, Îlot de la Couronne, Îlot de Waldo, Forêt des Masques)",
     "iconId": "7014"
   },
   "22339": {
@@ -766,9 +1319,9 @@
     ],
     "itemId": 26857,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Galbléro: 1 * Hormone Kannibïque, 2 * Mutagène admirable, 1 * Bébléro, 2 * Étoffe de Draegnerys, 2 * Pierre du Craqueleur Légendaire",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7015"
   },
   "22341": {
@@ -787,12 +1340,49 @@
     ],
     "itemId": 26858,
     "rarity": "Commun",
+    "dropAreas": [
+      2,
+      6,
+      8,
+      12,
+      29,
+      54,
+      56,
+      59,
+      61,
+      62,
+      68,
+      93,
+      103,
+      161,
+      162,
+      163,
+      164,
+      166,
+      169,
+      178,
+      180,
+      181,
+      232,
+      277,
+      280,
+      334,
+      442,
+      443,
+      444,
+      449,
+      453,
+      480,
+      490,
+      492,
+      778,
+      816
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6947": 0,
       "6948": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Plage de Corail, Bordure de Brâkmar, Plaine des Porkass, Orée de la forêt des Abraknydes, Cimetière des Torturés, Île de la Cawotte, Cimetière des Héros, Baie de Cania, Territoire des Bandits, Marécages nauséabonds, Montagne des Craqueleurs, Village des Dopeuls, Plage de la Tortue, Rivage sufokien, Campement des Bworks, Village des Bworks, Passage vers Brâkmar, Mine des Dopeuls)\nAltéré  (Champs de Cania, Massif de Cania, Lac de Cania, Montagne basse des Craqueleurs, Souterrains du Château d'Amakna, Péninsule des gelées, Îlot des Tombeaux, Îlot de la Couronne, Îlot de Waldo, Forêt des Masques)",
     "iconId": "7016"
   },
   "22353": {
@@ -811,12 +1401,49 @@
     ],
     "itemId": 26859,
     "rarity": "Commun",
+    "dropAreas": [
+      2,
+      6,
+      8,
+      12,
+      29,
+      54,
+      56,
+      59,
+      61,
+      62,
+      68,
+      93,
+      103,
+      161,
+      162,
+      163,
+      164,
+      166,
+      169,
+      178,
+      180,
+      181,
+      232,
+      277,
+      280,
+      334,
+      442,
+      443,
+      444,
+      449,
+      453,
+      480,
+      490,
+      492,
+      778,
+      816
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6947": 0,
       "6948": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Plage de Corail, Bordure de Brâkmar, Plaine des Porkass, Orée de la forêt des Abraknydes, Cimetière des Torturés, Île de la Cawotte, Cimetière des Héros, Baie de Cania, Territoire des Bandits, Marécages nauséabonds, Montagne des Craqueleurs, Village des Dopeuls, Plage de la Tortue, Rivage sufokien, Campement des Bworks, Village des Bworks, Passage vers Brâkmar, Mine des Dopeuls)\nAltéré  (Champs de Cania, Massif de Cania, Lac de Cania, Montagne basse des Craqueleurs, Souterrains du Château d'Amakna, Péninsule des gelées, Îlot des Tombeaux, Îlot de la Couronne, Îlot de Waldo, Forêt des Masques)",
     "iconId": "7017"
   },
   "22356": {
@@ -835,12 +1462,49 @@
     ],
     "itemId": 26860,
     "rarity": "Rare",
+    "dropAreas": [
+      2,
+      6,
+      8,
+      12,
+      29,
+      54,
+      56,
+      59,
+      61,
+      62,
+      68,
+      93,
+      103,
+      161,
+      162,
+      163,
+      164,
+      166,
+      169,
+      178,
+      180,
+      181,
+      232,
+      277,
+      280,
+      334,
+      442,
+      443,
+      444,
+      449,
+      453,
+      480,
+      490,
+      492,
+      778,
+      816
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6947": 0,
       "6948": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Plage de Corail, Bordure de Brâkmar, Plaine des Porkass, Orée de la forêt des Abraknydes, Cimetière des Torturés, Île de la Cawotte, Cimetière des Héros, Baie de Cania, Territoire des Bandits, Marécages nauséabonds, Montagne des Craqueleurs, Village des Dopeuls, Plage de la Tortue, Rivage sufokien, Campement des Bworks, Village des Bworks, Passage vers Brâkmar, Mine des Dopeuls)\nAltéré  (Champs de Cania, Massif de Cania, Lac de Cania, Montagne basse des Craqueleurs, Souterrains du Château d'Amakna, Péninsule des gelées, Îlot des Tombeaux, Îlot de la Couronne, Îlot de Waldo, Forêt des Masques)",
     "iconId": "7018"
   },
   "22358": {
@@ -859,9 +1523,9 @@
     ],
     "itemId": 26861,
     "rarity": "Rare",
+    "dropAreas": [],
+    "crafts": "",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7019"
   },
   "22360": {
@@ -880,12 +1544,24 @@
     ],
     "itemId": 26862,
     "rarity": "Commun",
+    "dropAreas": [
+      23,
+      31,
+      57,
+      70,
+      233,
+      234,
+      235,
+      443,
+      525,
+      872,
+      874
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6949": 0,
       "6950": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Routes Rocailleuses, Désolation de Sidimote, Plaines Rocheuses, Territoire des Dragodindes Sauvages, Presqu'île des Dragoeufs, Marécages sans fond, Marécages d'Amakna)\nAltéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)",
     "iconId": "7020"
   },
   "22362": {
@@ -903,9 +1579,9 @@
     ],
     "itemId": 26863,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Tékilarve: 1 * Hormone Désertïque, 2 * Mutagène admirable, 1 * Chinchilarve, 2 * Barbe du Wa Wobot, 2 * Carapace du Mantiscore",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7021"
   },
   "22365": {
@@ -924,12 +1600,24 @@
     ],
     "itemId": 26864,
     "rarity": "Commun",
+    "dropAreas": [
+      23,
+      31,
+      57,
+      70,
+      233,
+      234,
+      235,
+      443,
+      525,
+      872,
+      874
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6949": 0,
       "6950": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Routes Rocailleuses, Désolation de Sidimote, Plaines Rocheuses, Territoire des Dragodindes Sauvages, Presqu'île des Dragoeufs, Marécages sans fond, Marécages d'Amakna)\nAltéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)",
     "iconId": "7022"
   },
   "22367": {
@@ -948,12 +1636,24 @@
     ],
     "itemId": 26865,
     "rarity": "Commun",
+    "dropAreas": [
+      23,
+      31,
+      57,
+      70,
+      233,
+      234,
+      235,
+      443,
+      525,
+      872,
+      874
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6949": 0,
       "6950": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Routes Rocailleuses, Désolation de Sidimote, Plaines Rocheuses, Territoire des Dragodindes Sauvages, Presqu'île des Dragoeufs, Marécages sans fond, Marécages d'Amakna)\nAltéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)",
     "iconId": "7023"
   },
   "22559": {
@@ -972,12 +1672,24 @@
     ],
     "itemId": 26875,
     "rarity": "Rare",
+    "dropAreas": [
+      23,
+      31,
+      57,
+      70,
+      233,
+      234,
+      235,
+      443,
+      525,
+      872,
+      874
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6949": 0,
       "6950": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Routes Rocailleuses, Désolation de Sidimote, Plaines Rocheuses, Territoire des Dragodindes Sauvages, Presqu'île des Dragoeufs, Marécages sans fond, Marécages d'Amakna)\nAltéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)",
     "iconId": "7029"
   },
   "22561": {
@@ -996,12 +1708,24 @@
     ],
     "itemId": 26876,
     "rarity": "Rare",
+    "dropAreas": [
+      23,
+      31,
+      57,
+      70,
+      233,
+      234,
+      235,
+      443,
+      525,
+      872,
+      874
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6949": 0,
       "6950": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Routes Rocailleuses, Désolation de Sidimote, Plaines Rocheuses, Territoire des Dragodindes Sauvages, Presqu'île des Dragoeufs, Marécages sans fond, Marécages d'Amakna)\nAltéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)",
     "iconId": "7030"
   },
   "22563": {
@@ -1020,12 +1744,27 @@
     ],
     "itemId": 26877,
     "rarity": "Commun",
+    "dropAreas": [
+      33,
+      167,
+      168,
+      231,
+      234,
+      253,
+      442,
+      443,
+      521,
+      526,
+      600,
+      601,
+      872,
+      874
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6950": 0,
       "6951": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)\nAltéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)",
     "iconId": "7031"
   },
   "22565": {
@@ -1043,9 +1782,9 @@
     ],
     "itemId": 26878,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Krokogneur: 1 * Hormone Koalïque, 2 * Mutagène admirable, 1 * Alligamin, 2 * Faux Visage de Choudini, 2 * Soie Baveuse",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7032"
   },
   "22567": {
@@ -1064,12 +1803,27 @@
     ],
     "itemId": 26879,
     "rarity": "Commun",
+    "dropAreas": [
+      33,
+      167,
+      168,
+      231,
+      234,
+      253,
+      442,
+      443,
+      521,
+      526,
+      600,
+      601,
+      872,
+      874
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6950": 0,
       "6951": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)\nAltéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)",
     "iconId": "7033"
   },
   "22569": {
@@ -1088,12 +1842,27 @@
     ],
     "itemId": 26880,
     "rarity": "Commun",
+    "dropAreas": [
+      33,
+      167,
+      168,
+      231,
+      234,
+      253,
+      442,
+      443,
+      521,
+      526,
+      600,
+      601,
+      872,
+      874
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6950": 0,
       "6951": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)\nAltéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)",
     "iconId": "7034"
   },
   "22571": {
@@ -1112,12 +1881,27 @@
     ],
     "itemId": 26881,
     "rarity": "Rare",
+    "dropAreas": [
+      33,
+      167,
+      168,
+      231,
+      234,
+      253,
+      442,
+      443,
+      521,
+      526,
+      600,
+      601,
+      872,
+      874
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6950": 0,
       "6951": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)\nAltéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)",
     "iconId": "7035"
   },
   "22573": {
@@ -1135,9 +1919,9 @@
     ],
     "itemId": 26882,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Koalache: 1 * Hormone Corbaïque, 2 * Mutagène mémorable, 1 * Koalami, 2 * Crinière de Rat Blanc, 2 * Sourcil du Rasboul majeur, 2 * Bourgeon explosif de Damadrya",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7036"
   },
   "22575": {
@@ -1156,12 +1940,27 @@
     ],
     "itemId": 26883,
     "rarity": "Rare",
+    "dropAreas": [
+      33,
+      167,
+      168,
+      231,
+      234,
+      253,
+      442,
+      443,
+      521,
+      526,
+      600,
+      601,
+      872,
+      874
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6950": 0,
       "6951": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt de Kaliptus, Dunes des ossements, Port de Sarakech)\nAltéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)",
     "iconId": "7037"
   },
   "22627": {
@@ -1180,12 +1979,32 @@
     ],
     "itemId": 26884,
     "rarity": "Commun",
+    "dropAreas": [
+      11,
+      29,
+      33,
+      165,
+      167,
+      168,
+      231,
+      253,
+      315,
+      316,
+      442,
+      443,
+      521,
+      522,
+      526,
+      600,
+      601,
+      799,
+      820
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6951": 0,
       "6952": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)\nAltéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)",
     "iconId": "7038"
   },
   "22629": {
@@ -1203,9 +2022,9 @@
     ],
     "itemId": 26885,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption d'Alphané: 1 * Hormone Corbaïque, 2 * Mutagène mémorable, 1 * Pistélice, 2 * Crinière de Rat Noir, 2 * Plume du Maître Corbac, 2 * Glande du Pounicheur",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7039"
   },
   "22642": {
@@ -1224,12 +2043,32 @@
     ],
     "itemId": 26886,
     "rarity": "Commun",
+    "dropAreas": [
+      11,
+      29,
+      33,
+      165,
+      167,
+      168,
+      231,
+      253,
+      315,
+      316,
+      442,
+      443,
+      521,
+      522,
+      526,
+      600,
+      601,
+      799,
+      820
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6951": 0,
       "6952": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)\nAltéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)",
     "iconId": "7040"
   },
   "22650": {
@@ -1248,12 +2087,32 @@
     ],
     "itemId": 26887,
     "rarity": "Commun",
+    "dropAreas": [
+      11,
+      29,
+      33,
+      165,
+      167,
+      168,
+      231,
+      253,
+      315,
+      316,
+      442,
+      443,
+      521,
+      522,
+      526,
+      600,
+      601,
+      799,
+      820
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6951": 0,
       "6952": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)\nAltéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)",
     "iconId": "7041"
   },
   "22656": {
@@ -1272,12 +2131,32 @@
     ],
     "itemId": 26889,
     "rarity": "Rare",
+    "dropAreas": [
+      11,
+      29,
+      33,
+      165,
+      167,
+      168,
+      231,
+      253,
+      315,
+      316,
+      442,
+      443,
+      521,
+      522,
+      526,
+      600,
+      601,
+      799,
+      820
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6951": 0,
       "6952": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)\nAltéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)",
     "iconId": "7042"
   },
   "22672": {
@@ -1296,12 +2175,32 @@
     ],
     "itemId": 26890,
     "rarity": "Rare",
+    "dropAreas": [
+      11,
+      29,
+      33,
+      165,
+      167,
+      168,
+      231,
+      253,
+      315,
+      316,
+      442,
+      443,
+      521,
+      522,
+      526,
+      600,
+      601,
+      799,
+      820
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6951": 0,
       "6952": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Route des Roulottes, La Bourgade, Bois des Arak-haï, Lacs enchantés, Pics de Cania, Canyon sauvage, Port de givre, Forêt Sombre, Chemin du Crâne)\nAltéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)",
     "iconId": "7043"
   },
   "22688": {
@@ -1320,12 +2219,29 @@
     ],
     "itemId": 26891,
     "rarity": "Commun",
+    "dropAreas": [
+      11,
+      29,
+      55,
+      165,
+      315,
+      316,
+      454,
+      457,
+      522,
+      799,
+      820,
+      855,
+      942,
+      985,
+      1011,
+      1017
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6952": 0,
       "6953": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)\nAltéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)",
     "iconId": "7044"
   },
   "22693": {
@@ -1343,9 +2259,9 @@
     ],
     "itemId": 26892,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Tournesouffre: 1 * Hormone Ratïque, 2 * Mutagène mémorable, 1 * Émigraine, 2 * Laine du Royalmouth, 2 * Laine du Minotoror, 2 * Feuille de Blop Multicolore Royal",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7045"
   },
   "22697": {
@@ -1364,12 +2280,29 @@
     ],
     "itemId": 26893,
     "rarity": "Commun",
+    "dropAreas": [
+      11,
+      29,
+      55,
+      165,
+      315,
+      316,
+      454,
+      457,
+      522,
+      799,
+      820,
+      855,
+      942,
+      985,
+      1011,
+      1017
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6952": 0,
       "6953": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)\nAltéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)",
     "iconId": "7046"
   },
   "22703": {
@@ -1388,12 +2321,29 @@
     ],
     "itemId": 26894,
     "rarity": "Commun",
+    "dropAreas": [
+      11,
+      29,
+      55,
+      165,
+      315,
+      316,
+      454,
+      457,
+      522,
+      799,
+      820,
+      855,
+      942,
+      985,
+      1011,
+      1017
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6952": 0,
       "6953": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)\nAltéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)",
     "iconId": "7047"
   },
   "22723": {
@@ -1412,12 +2362,29 @@
     ],
     "itemId": 26895,
     "rarity": "Rare",
+    "dropAreas": [
+      11,
+      29,
+      55,
+      165,
+      315,
+      316,
+      454,
+      457,
+      522,
+      799,
+      820,
+      855,
+      942,
+      985,
+      1011,
+      1017
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6952": 0,
       "6953": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)\nAltéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)",
     "iconId": "7048"
   },
   "22739": {
@@ -1436,12 +2403,29 @@
     ],
     "itemId": 26896,
     "rarity": "Rare",
+    "dropAreas": [
+      11,
+      29,
+      55,
+      165,
+      315,
+      316,
+      454,
+      457,
+      522,
+      799,
+      820,
+      855,
+      942,
+      985,
+      1011,
+      1017
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6952": 0,
       "6953": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Hauts des Hurlements, Village des Dragoeufs, Creuset des Fortunés, Territoire des Porcos, Jungle Interdite, Île de Kartonpath, Souterrains des Dragoeufs)\nAltéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)",
     "iconId": "7049"
   },
   "22742": {
@@ -1460,12 +2444,33 @@
     ],
     "itemId": 26897,
     "rarity": "Commun",
+    "dropAreas": [
+      6,
+      55,
+      69,
+      209,
+      230,
+      275,
+      314,
+      444,
+      449,
+      454,
+      457,
+      471,
+      602,
+      817,
+      836,
+      855,
+      942,
+      985,
+      1011,
+      1017
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6953": 0,
       "6954": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)\nAltéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)",
     "iconId": "7050"
   },
   "22744": {
@@ -1483,9 +2488,9 @@
     ],
     "itemId": 26898,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Moustonique: 1 * Hormone Ratïque, 2 * Mutagène mémorable, 1 * Mouspique, 2 * Peau de Crocabulia, 2 * Plume de Tofu Royal, 2 * Pixel de Fraktale",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7051"
   },
   "22748": {
@@ -1504,12 +2509,33 @@
     ],
     "itemId": 26899,
     "rarity": "Commun",
+    "dropAreas": [
+      6,
+      55,
+      69,
+      209,
+      230,
+      275,
+      314,
+      444,
+      449,
+      454,
+      457,
+      471,
+      602,
+      817,
+      836,
+      855,
+      942,
+      985,
+      1011,
+      1017
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6953": 0,
       "6954": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)\nAltéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)",
     "iconId": "7052"
   },
   "22752": {
@@ -1528,12 +2554,33 @@
     ],
     "itemId": 26900,
     "rarity": "Commun",
+    "dropAreas": [
+      6,
+      55,
+      69,
+      209,
+      230,
+      275,
+      314,
+      444,
+      449,
+      454,
+      457,
+      471,
+      602,
+      817,
+      836,
+      855,
+      942,
+      985,
+      1011,
+      1017
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6953": 0,
       "6954": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)\nAltéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)",
     "iconId": "7053"
   },
   "22757": {
@@ -1552,12 +2599,33 @@
     ],
     "itemId": 26901,
     "rarity": "Rare",
+    "dropAreas": [
+      6,
+      55,
+      69,
+      209,
+      230,
+      275,
+      314,
+      444,
+      449,
+      454,
+      457,
+      471,
+      602,
+      817,
+      836,
+      855,
+      942,
+      985,
+      1011,
+      1017
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6953": 0,
       "6954": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)\nAltéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)",
     "iconId": "7054"
   },
   "22759": {
@@ -1575,9 +2643,9 @@
     ],
     "itemId": 26902,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Darsenik: 1 * Hormone Zothïque, 2 * Mutagène mémorable, 1 * Sautoxik, 2 * Paire de boules de Haute Truche, 2 * Racine du Chêne Mou, 2 * Cœur du Capitaine Ekarlatte, 2 * Étoffe Mystérieuse",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7055"
   },
   "22761": {
@@ -1596,9 +2664,9 @@
     ],
     "itemId": 26903,
     "rarity": "Rare",
+    "dropAreas": [],
+    "crafts": "",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7056"
   },
   "22763": {
@@ -1619,12 +2687,33 @@
     ],
     "itemId": 26904,
     "rarity": "Épique",
+    "dropAreas": [
+      6,
+      55,
+      69,
+      209,
+      230,
+      275,
+      314,
+      444,
+      449,
+      454,
+      457,
+      471,
+      602,
+      817,
+      836,
+      855,
+      942,
+      985,
+      1011,
+      1017
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6953": 0,
       "6954": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Plaines herbeuses, Pierres de l'élévation, Tourbière sans fond, Plantala, Entrailles de Brâkmar, Canaux méphitiques, Pénates du Corbac, Champ de citwouilles)\nAltéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)",
     "iconId": "7057"
   },
   "22765": {
@@ -1643,12 +2732,32 @@
     ],
     "itemId": 26905,
     "rarity": "Commun",
+    "dropAreas": [
+      6,
+      69,
+      209,
+      230,
+      275,
+      314,
+      444,
+      449,
+      468,
+      469,
+      471,
+      523,
+      602,
+      817,
+      827,
+      836,
+      873,
+      941,
+      944
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6954": 0,
       "6955": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)\nAltéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)",
     "iconId": "7058"
   },
   "22767": {
@@ -1666,9 +2775,9 @@
     ],
     "itemId": 26906,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Kradotruche: 1 * Hormone Zothïque, 2 * Mutagène mémorable, 1 * Zozotruche, 2 * Testicules du Tanukouï San, 2 * Écorce du Chêne Mou, 2 * Koinkoin de bain de Nagate, 75 * Rose des sables",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7059"
   },
   "22788": {
@@ -1687,12 +2796,32 @@
     ],
     "itemId": 26907,
     "rarity": "Commun",
+    "dropAreas": [
+      6,
+      69,
+      209,
+      230,
+      275,
+      314,
+      444,
+      449,
+      468,
+      469,
+      471,
+      523,
+      602,
+      817,
+      827,
+      836,
+      873,
+      941,
+      944
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6954": 0,
       "6955": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)\nAltéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)",
     "iconId": "7060"
   },
   "22793": {
@@ -1711,12 +2840,32 @@
     ],
     "itemId": 26908,
     "rarity": "Commun",
+    "dropAreas": [
+      6,
+      69,
+      209,
+      230,
+      275,
+      314,
+      444,
+      449,
+      468,
+      469,
+      471,
+      523,
+      602,
+      817,
+      827,
+      836,
+      873,
+      941,
+      944
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6954": 0,
       "6955": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)\nAltéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)",
     "iconId": "7061"
   },
   "22812": {
@@ -1735,12 +2884,32 @@
     ],
     "itemId": 26909,
     "rarity": "Rare",
+    "dropAreas": [
+      6,
+      69,
+      209,
+      230,
+      275,
+      314,
+      444,
+      449,
+      468,
+      469,
+      471,
+      523,
+      602,
+      817,
+      827,
+      836,
+      873,
+      941,
+      944
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6954": 0,
       "6955": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)\nAltéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)",
     "iconId": "7062"
   },
   "22827": {
@@ -1759,12 +2928,32 @@
     ],
     "itemId": 26910,
     "rarity": "Rare",
+    "dropAreas": [
+      6,
+      69,
+      209,
+      230,
+      275,
+      314,
+      444,
+      449,
+      468,
+      469,
+      471,
+      523,
+      602,
+      817,
+      827,
+      836,
+      873,
+      941,
+      944
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6954": 0,
       "6955": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)\nAltéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)",
     "iconId": "7063"
   },
   "22832": {
@@ -1785,12 +2974,32 @@
     ],
     "itemId": 26911,
     "rarity": "Épique",
+    "dropAreas": [
+      6,
+      69,
+      209,
+      230,
+      275,
+      314,
+      444,
+      449,
+      468,
+      469,
+      471,
+      523,
+      602,
+      817,
+      827,
+      836,
+      873,
+      941,
+      944
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6954": 0,
       "6955": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Champs de glace, Bois de Litneg, Cimetière primitif, Chemins d'hier, Sanctuaire des Dragoeufs, Vallée de la Morh'Kitu, Île du Minotoror, Tourbière nauséabonde, Galeries abandonnées)\nAltéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)",
     "iconId": "7064"
   },
   "22836": {
@@ -1809,12 +3018,27 @@
     ],
     "itemId": 26912,
     "rarity": "Commun",
+    "dropAreas": [
+      442,
+      443,
+      455,
+      468,
+      469,
+      523,
+      604,
+      615,
+      827,
+      873,
+      941,
+      943,
+      944,
+      945
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6955": 0,
       "6956": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)\nAltéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)",
     "iconId": "7065"
   },
   "22847": {
@@ -1832,9 +3056,9 @@
     ],
     "itemId": 26913,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Cactueur: 1 * Hormone Tanuïque, 2 * Mutagène mémorable, 1 * Cacturbin, 1 * Calice du Tynril, 1 * Plume du Mansot Royal, 1 * Écharpe de Hanshi, 2 * Trame Dimensionnelle",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7066"
   },
   "22851": {
@@ -1853,12 +3077,27 @@
     ],
     "itemId": 26914,
     "rarity": "Commun",
+    "dropAreas": [
+      442,
+      443,
+      455,
+      468,
+      469,
+      523,
+      604,
+      615,
+      827,
+      873,
+      941,
+      943,
+      944,
+      945
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6955": 0,
       "6956": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)\nAltéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)",
     "iconId": "7067"
   },
   "22862": {
@@ -1877,12 +3116,27 @@
     ],
     "itemId": 26916,
     "rarity": "Commun",
+    "dropAreas": [
+      442,
+      443,
+      455,
+      468,
+      469,
+      523,
+      604,
+      615,
+      827,
+      873,
+      941,
+      943,
+      944,
+      945
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6955": 0,
       "6956": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)\nAltéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)",
     "iconId": "7068"
   },
   "22867": {
@@ -1901,12 +3155,27 @@
     ],
     "itemId": 26917,
     "rarity": "Rare",
+    "dropAreas": [
+      442,
+      443,
+      455,
+      468,
+      469,
+      523,
+      604,
+      615,
+      827,
+      873,
+      941,
+      943,
+      944,
+      945
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6955": 0,
       "6956": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)\nAltéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)",
     "iconId": "7069"
   },
   "22871": {
@@ -1924,9 +3193,9 @@
     ],
     "itemId": 26918,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Sirokoko: 1 * Hormone Tanuïque, 2 * Mutagène mémorable, 1 * Caskoko, 1 * Pistil du Tynril, 1 * Poil de Ben le Ripate, 1 * Piques à cheveux de Shihan, 100 * Rose des sables",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7070"
   },
   "22880": {
@@ -1945,12 +3214,27 @@
     ],
     "itemId": 26921,
     "rarity": "Rare",
+    "dropAreas": [
+      442,
+      443,
+      455,
+      468,
+      469,
+      523,
+      604,
+      615,
+      827,
+      873,
+      941,
+      943,
+      944,
+      945
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6955": 0,
       "6956": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)\nAltéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)",
     "iconId": "7071"
   },
   "22882": {
@@ -1971,12 +3255,27 @@
     ],
     "itemId": 26922,
     "rarity": "Épique",
+    "dropAreas": [
+      442,
+      443,
+      455,
+      468,
+      469,
+      523,
+      604,
+      615,
+      827,
+      873,
+      941,
+      943,
+      944,
+      945
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6955": 0,
       "6956": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Village de la Canopée, Akwadala, Ruelles des Eaux-Suaires, Cirque de Cania, Territoire Cacterre, Terrdala, Village des Zoths)\nAltéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)",
     "iconId": "7072"
   },
   "22884": {
@@ -1995,12 +3294,25 @@
     ],
     "itemId": 26923,
     "rarity": "Commun",
+    "dropAreas": [
+      9,
+      442,
+      443,
+      455,
+      518,
+      604,
+      609,
+      615,
+      821,
+      943,
+      945,
+      1019
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6956": 0,
       "6957": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)\nAltéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)",
     "iconId": "7073"
   },
   "22894": {
@@ -2018,9 +3330,9 @@
     ],
     "itemId": 26924,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Papalmier: 1 * Hormone Firefïque, 2 * Mutagène grandiose, 1 * Poltronc, 1 * Fémur de Sphincter Cell, 1 * Défense du Phossile, 1 * Peau de Sphincter Cell, 3 * Trame Dimensionnelle, 1 * Tourmaline",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7074"
   },
   "22898": {
@@ -2039,12 +3351,25 @@
     ],
     "itemId": 26925,
     "rarity": "Commun",
+    "dropAreas": [
+      9,
+      442,
+      443,
+      455,
+      518,
+      604,
+      609,
+      615,
+      821,
+      943,
+      945,
+      1019
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6956": 0,
       "6957": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)\nAltéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)",
     "iconId": "7075"
   },
   "22902": {
@@ -2063,12 +3388,25 @@
     ],
     "itemId": 26926,
     "rarity": "Commun",
+    "dropAreas": [
+      9,
+      442,
+      443,
+      455,
+      518,
+      604,
+      609,
+      615,
+      821,
+      943,
+      945,
+      1019
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6956": 0,
       "6957": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)\nAltéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)",
     "iconId": "7076"
   },
   "22906": {
@@ -2087,12 +3425,25 @@
     ],
     "itemId": 26927,
     "rarity": "Rare",
+    "dropAreas": [
+      9,
+      442,
+      443,
+      455,
+      518,
+      604,
+      609,
+      615,
+      821,
+      943,
+      945,
+      1019
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6956": 0,
       "6957": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)\nAltéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)",
     "iconId": "7077"
   },
   "22908": {
@@ -2111,12 +3462,25 @@
     ],
     "itemId": 26928,
     "rarity": "Rare",
+    "dropAreas": [
+      9,
+      442,
+      443,
+      455,
+      518,
+      604,
+      609,
+      615,
+      821,
+      943,
+      945,
+      1019
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6956": 0,
       "6957": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)\nAltéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)",
     "iconId": "7078"
   },
   "22919": {
@@ -2137,12 +3501,25 @@
     ],
     "itemId": 26929,
     "rarity": "Épique",
+    "dropAreas": [
+      9,
+      442,
+      443,
+      455,
+      518,
+      604,
+      609,
+      615,
+      821,
+      943,
+      945,
+      1019
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6956": 0,
       "6957": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt des pins perdus, Lac gelé, Jungle obscure, Feudala, Aerdala)\nAltéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)",
     "iconId": "7079"
   },
   "22921": {
@@ -2161,12 +3538,26 @@
     ],
     "itemId": 26930,
     "rarity": "Commun",
+    "dropAreas": [
+      6,
+      9,
+      449,
+      464,
+      472,
+      518,
+      519,
+      609,
+      809,
+      821,
+      856,
+      952,
+      1019
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6957": 0,
       "6958": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)\nAltéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)",
     "iconId": "7080"
   },
   "22923": {
@@ -2184,9 +3575,9 @@
     ],
     "itemId": 26931,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Capuchef: 1 * Hormone Firefïque, 2 * Mutagène grandiose, 1 * Capuchifon, 1 * Oreille de Sphincter Cell, 1 * Mèche Rebelle d'Hell Mina, 1 * Queue Magique de Founoroshi, 2 * Étoffe Mystérieuse, 1 * Tourmaline",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7081"
   },
   "22926": {
@@ -2205,12 +3596,26 @@
     ],
     "itemId": 26932,
     "rarity": "Commun",
+    "dropAreas": [
+      6,
+      9,
+      449,
+      464,
+      472,
+      518,
+      519,
+      609,
+      809,
+      821,
+      856,
+      952,
+      1019
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6957": 0,
       "6958": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)\nAltéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)",
     "iconId": "7082"
   },
   "22950": {
@@ -2229,12 +3634,26 @@
     ],
     "itemId": 26933,
     "rarity": "Commun",
+    "dropAreas": [
+      6,
+      9,
+      449,
+      464,
+      472,
+      518,
+      519,
+      609,
+      809,
+      821,
+      856,
+      952,
+      1019
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6957": 0,
       "6958": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)\nAltéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)",
     "iconId": "7083"
   },
   "22953": {
@@ -2253,12 +3672,26 @@
     ],
     "itemId": 26934,
     "rarity": "Rare",
+    "dropAreas": [
+      6,
+      9,
+      449,
+      464,
+      472,
+      518,
+      519,
+      609,
+      809,
+      821,
+      856,
+      952,
+      1019
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6957": 0,
       "6958": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)\nAltéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)",
     "iconId": "7084"
   },
   "22956": {
@@ -2276,9 +3709,9 @@
     ],
     "itemId": 26935,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Hiboulon: 1 * Hormone Malterïque, 2 * Mutagène grandiose, 1 * Hibouscule, 1 * Perruque du Kimbo, 1 * Laine du Minotot, 1 * Scorie d'Obsidiantre, 1 * Moustache de Ush, 2 * Tourmaline",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7085"
   },
   "22958": {
@@ -2297,12 +3730,26 @@
     ],
     "itemId": 26936,
     "rarity": "Rare",
+    "dropAreas": [
+      6,
+      9,
+      449,
+      464,
+      472,
+      518,
+      519,
+      609,
+      809,
+      821,
+      856,
+      952,
+      1019
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6957": 0,
       "6958": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)\nAltéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)",
     "iconId": "7086"
   },
   "22960": {
@@ -2323,12 +3770,26 @@
     ],
     "itemId": 26937,
     "rarity": "Épique",
+    "dropAreas": [
+      6,
+      9,
+      449,
+      464,
+      472,
+      518,
+      519,
+      609,
+      809,
+      821,
+      856,
+      952,
+      1019
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6957": 0,
       "6958": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Landes de Cania, Berceau d'Alma, Dédale du Dark Vlad, Orée enchantée, Carrière Aurifère)\nAltéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)",
     "iconId": "7087"
   },
   "22966": {
@@ -2347,12 +3808,29 @@
     ],
     "itemId": 26938,
     "rarity": "Commun",
+    "dropAreas": [
+      6,
+      449,
+      464,
+      472,
+      519,
+      603,
+      606,
+      610,
+      622,
+      809,
+      837,
+      856,
+      878,
+      879,
+      952,
+      955
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6958": 0,
       "6959": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)\nAltéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)",
     "iconId": "7088"
   },
   "22968": {
@@ -2370,9 +3848,9 @@
     ],
     "itemId": 26939,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Tronfleur: 1 * Hormone Malterïque, 2 * Mutagène grandiose, 1 * Tronchon, 1 * Sphénoïde du Kimbo, 1 * Fémur du Minotot, 1 * Poils de Kanigroula, 1 * Moustache du Shogun Tofugawa, 2 * Tourmaline",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7089"
   },
   "22972": {
@@ -2391,12 +3869,29 @@
     ],
     "itemId": 26940,
     "rarity": "Commun",
+    "dropAreas": [
+      6,
+      449,
+      464,
+      472,
+      519,
+      603,
+      606,
+      610,
+      622,
+      809,
+      837,
+      856,
+      878,
+      879,
+      952,
+      955
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6958": 0,
       "6959": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)\nAltéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)",
     "iconId": "7090"
   },
   "22977": {
@@ -2415,12 +3910,29 @@
     ],
     "itemId": 26941,
     "rarity": "Commun",
+    "dropAreas": [
+      6,
+      449,
+      464,
+      472,
+      519,
+      603,
+      606,
+      610,
+      622,
+      809,
+      837,
+      856,
+      878,
+      879,
+      952,
+      955
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6958": 0,
       "6959": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)\nAltéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)",
     "iconId": "7091"
   },
   "22981": {
@@ -2439,9 +3951,9 @@
     ],
     "itemId": 26942,
     "rarity": "Rare",
+    "dropAreas": [],
+    "crafts": "",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7092"
   },
   "22983": {
@@ -2460,12 +3972,29 @@
     ],
     "itemId": 26943,
     "rarity": "Rare",
+    "dropAreas": [
+      6,
+      449,
+      464,
+      472,
+      519,
+      603,
+      606,
+      610,
+      622,
+      809,
+      837,
+      856,
+      878,
+      879,
+      952,
+      955
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6958": 0,
       "6959": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)\nAltéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)",
     "iconId": "7093"
   },
   "22987": {
@@ -2486,12 +4015,29 @@
     ],
     "itemId": 26944,
     "rarity": "Épique",
+    "dropAreas": [
+      6,
+      449,
+      464,
+      472,
+      519,
+      603,
+      606,
+      610,
+      622,
+      809,
+      837,
+      856,
+      878,
+      879,
+      952,
+      955
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6958": 0,
       "6959": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)\nAltéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)",
     "iconId": "7094"
   },
   "22990": {
@@ -2512,12 +4058,29 @@
     ],
     "itemId": 26945,
     "rarity": "Légendaire",
+    "dropAreas": [
+      6,
+      449,
+      464,
+      472,
+      519,
+      603,
+      606,
+      610,
+      622,
+      809,
+      837,
+      856,
+      878,
+      879,
+      952,
+      955
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6958": 0,
       "6959": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Dents de Pierre, Village des Kanigs, Tronc de l'arbre Hakam, Feuillage de l'arbre Hakam, Cimetière de Grobe, Lande Poilue)\nAltéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)",
     "iconId": "7095"
   },
   "22993": {
@@ -2536,12 +4099,27 @@
     ],
     "itemId": 26946,
     "rarity": "Commun",
+    "dropAreas": [
+      71,
+      443,
+      495,
+      603,
+      605,
+      606,
+      610,
+      622,
+      828,
+      837,
+      878,
+      879,
+      889,
+      955
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6959": 0,
       "6960": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)\nAltéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)",
     "iconId": "7096"
   },
   "22995": {
@@ -2559,9 +4137,9 @@
     ],
     "itemId": 26947,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Cuirassœil: 1 * Hormone Yokaïque, 2 * Mutagène grandiose, 1 * Armurœil, 1 * Cuir de Tengu Givrefoux, 1 * Corne de XLII, 1 * Braises bleutées, 5 * Trame Dimensionnelle, 3 * Tourmaline",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7097"
   },
   "22998": {
@@ -2580,12 +4158,27 @@
     ],
     "itemId": 26948,
     "rarity": "Commun",
+    "dropAreas": [
+      71,
+      443,
+      495,
+      603,
+      605,
+      606,
+      610,
+      622,
+      828,
+      837,
+      878,
+      879,
+      889,
+      955
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6959": 0,
       "6960": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)\nAltéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)",
     "iconId": "7098"
   },
   "23002": {
@@ -2604,12 +4197,27 @@
     ],
     "itemId": 26949,
     "rarity": "Commun",
+    "dropAreas": [
+      71,
+      443,
+      495,
+      603,
+      605,
+      606,
+      610,
+      622,
+      828,
+      837,
+      878,
+      879,
+      889,
+      955
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6959": 0,
       "6960": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)\nAltéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)",
     "iconId": "7099"
   },
   "23004": {
@@ -2628,12 +4236,27 @@
     ],
     "itemId": 26950,
     "rarity": "Rare",
+    "dropAreas": [
+      71,
+      443,
+      495,
+      603,
+      605,
+      606,
+      610,
+      622,
+      828,
+      837,
+      878,
+      879,
+      889,
+      955
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6959": 0,
       "6960": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)\nAltéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)",
     "iconId": "7100"
   },
   "23006": {
@@ -2651,9 +4274,9 @@
     ],
     "itemId": 26951,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Vampirouette: 1 * Hormone Yokaïque, 2 * Mutagène grandiose, 1 * Vampichnette, 1 * Laine de Tengu Givrefoux, 1 * Œil du Père Ver, 1 * Cuir de Tengu Givrefoux, 1 * Étoffe Mystérieuse, 3 * Tourmaline",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7101"
   },
   "23008": {
@@ -2672,12 +4295,27 @@
     ],
     "itemId": 26952,
     "rarity": "Rare",
+    "dropAreas": [
+      71,
+      443,
+      495,
+      603,
+      605,
+      606,
+      610,
+      622,
+      828,
+      837,
+      878,
+      879,
+      889,
+      955
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6959": 0,
       "6960": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)\nAltéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)",
     "iconId": "7102"
   },
   "23010": {
@@ -2698,12 +4336,27 @@
     ],
     "itemId": 26953,
     "rarity": "Épique",
+    "dropAreas": [
+      71,
+      443,
+      495,
+      603,
+      605,
+      606,
+      610,
+      622,
+      828,
+      837,
+      878,
+      879,
+      889,
+      955
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6959": 0,
       "6960": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)\nAltéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)",
     "iconId": "7103"
   },
   "23013": {
@@ -2724,12 +4377,27 @@
     ],
     "itemId": 26954,
     "rarity": "Légendaire",
+    "dropAreas": [
+      71,
+      443,
+      495,
+      603,
+      605,
+      606,
+      610,
+      622,
+      828,
+      837,
+      878,
+      879,
+      889,
+      955
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6959": 0,
       "6960": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Larmes d'Ouronigride, Crevasse Perge, Village enseveli, Cavernes des Givrefoux, Gorge des Vents Hurlants, Jour présent, Mont des Tombeaux, Cité Oubliée)\nAltéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)",
     "iconId": "7104"
   },
   "23015": {
@@ -2748,12 +4416,26 @@
     ],
     "itemId": 26955,
     "rarity": "Commun",
+    "dropAreas": [
+      71,
+      443,
+      495,
+      605,
+      608,
+      611,
+      651,
+      652,
+      753,
+      813,
+      828,
+      883,
+      889
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6960": 0,
       "6961": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)\nAltéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)",
     "iconId": "7105"
   },
   "23017": {
@@ -2771,9 +4453,9 @@
     ],
     "itemId": 26956,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Survirus: 1 * Hormone Verïque, 2 * Mutagène grandiose, 1 * Sévirus, 1 * Œil de Korriandre, 1 * Ongle du Bworker, 1 * Œil d'Ougah, 6 * Trame Dimensionnelle, 4 * Tourmaline",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7106"
   },
   "23019": {
@@ -2792,12 +4474,26 @@
     ],
     "itemId": 26957,
     "rarity": "Commun",
+    "dropAreas": [
+      71,
+      443,
+      495,
+      605,
+      608,
+      611,
+      651,
+      652,
+      753,
+      813,
+      828,
+      883,
+      889
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6960": 0,
       "6961": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)\nAltéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)",
     "iconId": "7107"
   },
   "23021": {
@@ -2816,12 +4512,26 @@
     ],
     "itemId": 26958,
     "rarity": "Commun",
+    "dropAreas": [
+      71,
+      443,
+      495,
+      605,
+      608,
+      611,
+      651,
+      652,
+      753,
+      813,
+      828,
+      883,
+      889
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6960": 0,
       "6961": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)\nAltéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)",
     "iconId": "7108"
   },
   "23029": {
@@ -2840,12 +4550,26 @@
     ],
     "itemId": 26959,
     "rarity": "Rare",
+    "dropAreas": [
+      71,
+      443,
+      495,
+      605,
+      608,
+      611,
+      651,
+      652,
+      753,
+      813,
+      828,
+      883,
+      889
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6960": 0,
       "6961": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)\nAltéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)",
     "iconId": "7109"
   },
   "23032": {
@@ -2863,9 +4587,9 @@
     ],
     "itemId": 26960,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Pugilard: 1 * Hormone Verïque, 2 * Mutagène grandiose, 1 * Guérilard, 1 * Patte de Korriandre, 1 * Peau du Bworker, 1 * Épine d'Ougah, 6 * Étoffe Mystérieuse, 4 * Tourmaline",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7110"
   },
   "23039": {
@@ -2884,12 +4608,26 @@
     ],
     "itemId": 26961,
     "rarity": "Rare",
+    "dropAreas": [
+      71,
+      443,
+      495,
+      605,
+      608,
+      611,
+      651,
+      652,
+      753,
+      813,
+      828,
+      883,
+      889
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6960": 0,
       "6961": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)\nAltéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)",
     "iconId": "7111"
   },
   "23046": {
@@ -2910,12 +4648,26 @@
     ],
     "itemId": 26962,
     "rarity": "Épique",
+    "dropAreas": [
+      71,
+      443,
+      495,
+      605,
+      608,
+      611,
+      651,
+      652,
+      753,
+      813,
+      828,
+      883,
+      889
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6960": 0,
       "6961": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)\nAltéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)",
     "iconId": "7112"
   },
   "23051": {
@@ -2936,12 +4688,26 @@
     ],
     "itemId": 26963,
     "rarity": "Légendaire",
+    "dropAreas": [
+      71,
+      443,
+      495,
+      605,
+      608,
+      611,
+      651,
+      652,
+      753,
+      813,
+      828,
+      883,
+      889
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6960": 0,
       "6961": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Forêt pétrifiée, Gisgoul, Caverne des Fungus, Domaine des Fungus, Catacombres)\nAltéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)",
     "iconId": "7113"
   },
   "23052": {
@@ -2960,12 +4726,25 @@
     ],
     "itemId": 26964,
     "rarity": "Commun",
+    "dropAreas": [
+      443,
+      608,
+      611,
+      651,
+      652,
+      753,
+      785,
+      786,
+      787,
+      788,
+      813,
+      883
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6961": 0,
       "6962": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)\nAltéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)",
     "iconId": "7114"
   },
   "23057": {
@@ -2983,9 +4762,9 @@
     ],
     "itemId": 26965,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Tabalèze: 1 * Hormone Sakaïque, 2 * Mutagène spectaculaire, 1 * Carniflore, 1 * Corne d'Ombre, 1 * Cuir de Fuji Givrefoux, 1 * Fragment gelé, 1 * Queue de Glourséleste, 5 * Tourmaline",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7115"
   },
   "23065": {
@@ -3004,12 +4783,25 @@
     ],
     "itemId": 26966,
     "rarity": "Commun",
+    "dropAreas": [
+      443,
+      608,
+      611,
+      651,
+      652,
+      753,
+      785,
+      786,
+      787,
+      788,
+      813,
+      883
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6961": 0,
       "6962": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)\nAltéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)",
     "iconId": "7116"
   },
   "23069": {
@@ -3028,12 +4820,25 @@
     ],
     "itemId": 26967,
     "rarity": "Commun",
+    "dropAreas": [
+      443,
+      608,
+      611,
+      651,
+      652,
+      753,
+      785,
+      786,
+      787,
+      788,
+      813,
+      883
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6961": 0,
       "6962": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)\nAltéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)",
     "iconId": "7117"
   },
   "23072": {
@@ -3052,12 +4857,25 @@
     ],
     "itemId": 26968,
     "rarity": "Rare",
+    "dropAreas": [
+      443,
+      608,
+      611,
+      651,
+      652,
+      753,
+      785,
+      786,
+      787,
+      788,
+      813,
+      883
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6961": 0,
       "6962": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)\nAltéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)",
     "iconId": "7118"
   },
   "23076": {
@@ -3076,12 +4894,25 @@
     ],
     "itemId": 26969,
     "rarity": "Rare",
+    "dropAreas": [
+      443,
+      608,
+      611,
+      651,
+      652,
+      753,
+      785,
+      786,
+      787,
+      788,
+      813,
+      883
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6961": 0,
       "6962": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)\nAltéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)",
     "iconId": "7119"
   },
   "23080": {
@@ -3102,12 +4933,25 @@
     ],
     "itemId": 26970,
     "rarity": "Épique",
+    "dropAreas": [
+      443,
+      608,
+      611,
+      651,
+      652,
+      753,
+      785,
+      786,
+      787,
+      788,
+      813,
+      883
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6961": 0,
       "6962": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)\nAltéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)",
     "iconId": "7120"
   },
   "23082": {
@@ -3128,12 +4972,25 @@
     ],
     "itemId": 26971,
     "rarity": "Légendaire",
+    "dropAreas": [
+      443,
+      608,
+      611,
+      651,
+      652,
+      753,
+      785,
+      786,
+      787,
+      788,
+      813,
+      883
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6961": 0,
       "6962": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Crocs de verre, Nimotopia, Mont Torrideau, Ruche des Gloursons, Forêt enneigée, Dimension Obscure, Plaine de Sakaï)\nAltéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)",
     "iconId": "7121"
   },
   "23084": {
@@ -3152,12 +5009,44 @@
     ],
     "itemId": 26972,
     "rarity": "Commun",
+    "dropAreas": [
+      32,
+      517,
+      785,
+      786,
+      787,
+      788,
+      822,
+      826,
+      829,
+      833,
+      838,
+      861,
+      863,
+      864,
+      866,
+      867,
+      868,
+      881,
+      892,
+      896,
+      897,
+      917,
+      925,
+      926,
+      927,
+      928,
+      956,
+      957,
+      967,
+      969,
+      971
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6962": 0,
       "6963": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)\nAltéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
     "iconId": "7122"
   },
   "23086": {
@@ -3175,9 +5064,9 @@
     ],
     "itemId": 26973,
     "rarity": "Évolution",
+    "dropAreas": [],
+    "crafts": "Certificat d'adoption de Taurdure: 1 * Hormone Chassouillïque, 2 * Mutagène spectaculaire, 1 * Ghettaure, 1 * Dé du Chalœil, 1 * Poil de Meno, 1 * Écaille de Torkélonia, 1 * Scapula du Comte Harebourg, 6 * Tourmaline",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7123"
   },
   "23090": {
@@ -3196,12 +5085,44 @@
     ],
     "itemId": 26974,
     "rarity": "Commun",
+    "dropAreas": [
+      32,
+      517,
+      785,
+      786,
+      787,
+      788,
+      822,
+      826,
+      829,
+      833,
+      838,
+      861,
+      863,
+      864,
+      866,
+      867,
+      868,
+      881,
+      892,
+      896,
+      897,
+      917,
+      925,
+      926,
+      927,
+      928,
+      956,
+      957,
+      967,
+      969,
+      971
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6962": 0,
       "6963": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)\nAltéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
     "iconId": "7124"
   },
   "23094": {
@@ -3220,12 +5141,44 @@
     ],
     "itemId": 26975,
     "rarity": "Commun",
+    "dropAreas": [
+      32,
+      517,
+      785,
+      786,
+      787,
+      788,
+      822,
+      826,
+      829,
+      833,
+      838,
+      861,
+      863,
+      864,
+      866,
+      867,
+      868,
+      881,
+      892,
+      896,
+      897,
+      917,
+      925,
+      926,
+      927,
+      928,
+      956,
+      957,
+      967,
+      969,
+      971
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6962": 0,
       "6963": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)\nAltéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
     "iconId": "7125"
   },
   "23096": {
@@ -3244,12 +5197,44 @@
     ],
     "itemId": 26976,
     "rarity": "Rare",
+    "dropAreas": [
+      32,
+      517,
+      785,
+      786,
+      787,
+      788,
+      822,
+      826,
+      829,
+      833,
+      838,
+      861,
+      863,
+      864,
+      866,
+      867,
+      868,
+      881,
+      892,
+      896,
+      897,
+      917,
+      925,
+      926,
+      927,
+      928,
+      956,
+      957,
+      967,
+      969,
+      971
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6962": 0,
       "6963": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)\nAltéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
     "iconId": "7126"
   },
   "23098": {
@@ -3268,12 +5253,44 @@
     ],
     "itemId": 26977,
     "rarity": "Rare",
+    "dropAreas": [
+      32,
+      517,
+      785,
+      786,
+      787,
+      788,
+      822,
+      826,
+      829,
+      833,
+      838,
+      861,
+      863,
+      864,
+      866,
+      867,
+      868,
+      881,
+      892,
+      896,
+      897,
+      917,
+      925,
+      926,
+      927,
+      928,
+      956,
+      957,
+      967,
+      969,
+      971
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6962": 0,
       "6963": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)\nAltéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
     "iconId": "7127"
   },
   "23101": {
@@ -3294,12 +5311,44 @@
     ],
     "itemId": 26978,
     "rarity": "Épique",
+    "dropAreas": [
+      32,
+      517,
+      785,
+      786,
+      787,
+      788,
+      822,
+      826,
+      829,
+      833,
+      838,
+      861,
+      863,
+      864,
+      866,
+      867,
+      868,
+      881,
+      892,
+      896,
+      897,
+      917,
+      925,
+      926,
+      927,
+      928,
+      956,
+      957,
+      967,
+      969,
+      971
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6962": 0,
       "6963": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)\nAltéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
     "iconId": "7128"
   },
   "23105": {
@@ -3320,12 +5369,44 @@
     ],
     "itemId": 26979,
     "rarity": "Légendaire",
+    "dropAreas": [
+      32,
+      517,
+      785,
+      786,
+      787,
+      788,
+      822,
+      826,
+      829,
+      833,
+      838,
+      861,
+      863,
+      864,
+      866,
+      867,
+      868,
+      881,
+      892,
+      896,
+      897,
+      917,
+      925,
+      926,
+      927,
+      928,
+      956,
+      957,
+      967,
+      969,
+      971
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6962": 0,
       "6963": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Jardins d'Hiver, Remparts à vent, Tannerie Écarlate, Bastion des froides légions)\nAltéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
     "iconId": "7129"
   },
   "23107": {
@@ -3344,11 +5425,39 @@
     ],
     "itemId": 26980,
     "rarity": "Commun",
+    "dropAreas": [
+      32,
+      517,
+      822,
+      826,
+      829,
+      833,
+      838,
+      861,
+      863,
+      864,
+      866,
+      867,
+      868,
+      881,
+      892,
+      896,
+      897,
+      917,
+      925,
+      926,
+      927,
+      928,
+      956,
+      957,
+      967,
+      969,
+      971
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6963": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
     "iconId": "7130"
   },
   "23109": {
@@ -3367,11 +5476,39 @@
     ],
     "itemId": 26981,
     "rarity": "Commun",
+    "dropAreas": [
+      32,
+      517,
+      822,
+      826,
+      829,
+      833,
+      838,
+      861,
+      863,
+      864,
+      866,
+      867,
+      868,
+      881,
+      892,
+      896,
+      897,
+      917,
+      925,
+      926,
+      927,
+      928,
+      956,
+      957,
+      967,
+      969,
+      971
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6963": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
     "iconId": "7131"
   },
   "23111": {
@@ -3390,11 +5527,39 @@
     ],
     "itemId": 26982,
     "rarity": "Commun",
+    "dropAreas": [
+      32,
+      517,
+      822,
+      826,
+      829,
+      833,
+      838,
+      861,
+      863,
+      864,
+      866,
+      867,
+      868,
+      881,
+      892,
+      896,
+      897,
+      917,
+      925,
+      926,
+      927,
+      928,
+      956,
+      957,
+      967,
+      969,
+      971
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6963": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
     "iconId": "7132"
   },
   "23114": {
@@ -3413,11 +5578,39 @@
     ],
     "itemId": 26983,
     "rarity": "Rare",
+    "dropAreas": [
+      32,
+      517,
+      822,
+      826,
+      829,
+      833,
+      838,
+      861,
+      863,
+      864,
+      866,
+      867,
+      868,
+      881,
+      892,
+      896,
+      897,
+      917,
+      925,
+      926,
+      927,
+      928,
+      956,
+      957,
+      967,
+      969,
+      971
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6963": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
     "iconId": "7133"
   },
   "23117": {
@@ -3436,11 +5629,39 @@
     ],
     "itemId": 26984,
     "rarity": "Rare",
+    "dropAreas": [
+      32,
+      517,
+      822,
+      826,
+      829,
+      833,
+      838,
+      861,
+      863,
+      864,
+      866,
+      867,
+      868,
+      881,
+      892,
+      896,
+      897,
+      917,
+      925,
+      926,
+      927,
+      928,
+      956,
+      957,
+      967,
+      969,
+      971
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6963": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
     "iconId": "7134"
   },
   "23119": {
@@ -3461,11 +5682,39 @@
     ],
     "itemId": 26985,
     "rarity": "Épique",
+    "dropAreas": [
+      32,
+      517,
+      822,
+      826,
+      829,
+      833,
+      838,
+      861,
+      863,
+      864,
+      866,
+      867,
+      868,
+      881,
+      892,
+      896,
+      897,
+      917,
+      925,
+      926,
+      927,
+      928,
+      956,
+      957,
+      967,
+      969,
+      971
+    ],
+    "crafts": "",
     "dropMonsters": {
       "6963": 0
     },
-    "obtention": "",
-    "value": "Altéré  (Terres Désacrées, Marches Magmatiques, Royaume de papier, Royaume d'encre, Caserne du Jour sans fin, Pyramide Maudite, Crocuzko, Cauchemar des Ravageurs, Désert de Misère, Épaves Silencieuses, Lendemains incertains, Galère de Servitude, Royaume Corrompu, Hauts Ténébreux, Blessures de Guerre, Retraite des Éternels, Port des Ravageurs, Quartier des Conquérants, Fort Thune, Faille des Trithons, Pandamonium, Ancienne Sufokia, Abîme de R'lyugluglu, Fosse de R'lyugluglu, Plateau de R'lyugluglu, Domaine des Trithons)",
     "iconId": "7135"
   },
   "23125": {
@@ -3485,9 +5734,9 @@
     ],
     "itemId": 26986,
     "rarity": "Légendaire",
+    "dropAreas": [],
+    "crafts": "",
     "dropMonsters": {},
-    "obtention": "",
-    "value": "",
     "iconId": "7136"
   },
   "23134": {
@@ -3508,11 +5757,11 @@
     ],
     "itemId": 26988,
     "rarity": "Légendaire",
+    "dropAreas": [],
+    "crafts": "",
     "dropMonsters": {
       "7198": 0
     },
-    "obtention": "",
-    "value": "Miaou  ()",
     "iconId": "7137"
   }
 }
