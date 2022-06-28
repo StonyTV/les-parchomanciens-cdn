@@ -1,1 +1,6122 @@
-[{"id":1,"subarea":"Port de Madrestam","area":"Amakna","areaId":0,"monster":["31","34","46","2331","2332","2339","2574","5225"]},{"id":2,"subarea":"Montagne des Craqueleurs","area":"Amakna","areaId":0,"monster":["81","83","84","102","106","123","235","269","270","271","272","483","2326","2367","2368","2369","2436","2451","4570","4571"]},{"id":3,"subarea":"Champ des Ingalsse","area":"Amakna","areaId":0,"monster":["52","98","157","794","796","804","806","2355","3525","4824"]},{"id":4,"subarea":"Forêt d'Amakna","area":"Amakna","areaId":0,"monster":["103","104","159","2333","2349","2353","4000"]},{"id":5,"subarea":"Coin des Bouftous","area":"Amakna","areaId":0,"monster":["59","78","101","134","148","149","793","1232","2315","2316","2317","2323","2324","2352"]},{"id":6,"subarea":"Cimetière","area":"Amakna","areaId":0,"monster":["54","108","110","111","154","396","2276","2319","2321","2357","2421","2522","2589","3239","4270","5731","5756"]},{"id":7,"subarea":"Cryptes du cimetière","area":"Amakna","areaId":0,"monster":["54","108","111","124","126","127","154","290","291","292","396","2302","2354","2357","2532","2772","2786","2788"]},{"id":8,"subarea":"Campement des Bworks","area":"Amakna","areaId":0,"monster":["53","62","74","178","876","1247","2416","2417","2418","2430","2494","5732","5756"]},{"id":9,"subarea":"Forêt maléfique","area":"Amakna","areaId":0,"monster":["52","53","54","74","107","108","110","111","150","154","177","207","249","259","291","876","2276","2310","2311","2319","2320","2321","2357","2416","2417","2418","2431","2522","2542","2543","5377"]},{"id":10,"subarea":"Village d'Amakna","area":"Amakna","areaId":0,"monster":["236","489","490","491","492","493","494","2341","2342","2343","2345","2347"]},{"id":11,"subarea":"Territoire des Porcos","area":"Amakna","areaId":0,"monster":["177","603","2432","2453","3304","4227","4228","4229","4277","5736","5757"]},{"id":12,"subarea":"Péninsule des gelées","area":"Amakna","areaId":0,"monster":["55","56","57","2371","2376","2487","5733","5756"]},{"id":22,"subarea":"Bord de la forêt maléfique","area":"Amakna","areaId":0,"monster":["31","34","46","61","103","104","2331","2332","2336","2349","2353","2574","4000","5732","5756"]},{"id":23,"subarea":"Presqu'île des Dragoeufs","area":"Amakna","areaId":0,"monster":["76","87","88","89","177","2372","2377","2449","2450","5735","5756"]},{"id":25,"subarea":"Souterrains des Wabbits","area":"Île des Wabbits","areaId":1,"monster":["182"]},{"id":27,"subarea":"Côte d'Asse","area":"Amakna","areaId":0,"monster":["31","34","46","2331","2332","2339","2574","5225"]},{"id":29,"subarea":"Souterrains","area":"Amakna","areaId":0,"monster":["52","102","118","153","1234","4211","4212","4213","4214"]},{"id":30,"subarea":"Tainéla","area":"Astrub","areaId":18,"monster":["101","134","148","149","793","1232","2315","2316","2317","2324"]},{"id":31,"subarea":"Marécages d'Amakna","area":"Amakna","areaId":0,"monster":["112","261","263","2428","2439","2549","4833","5734","5756"]},{"id":32,"subarea":"Sufokia","area":"Baie de Sufokia","areaId":5,"monster":["236","490","491","492","493","2341","2342","2343","2345","2347","3244"]},{"id":33,"subarea":"Bois des Arak-haï","area":"Forêt des Abraknydes","areaId":6,"monster":["102","110","159","259","290","291","292","3992","3993","3994","3995","4196","4197","4198","4199","4393","4394","4395","4398","4399","4400","5736","5757"]},{"id":34,"subarea":"Prison de Madrestam","area":"Prison de Madrestam","areaId":3,"monster":["54"]},{"id":43,"subarea":"Fortification de Bonta","area":"Bonta","areaId":7,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347","5394"]},{"id":44,"subarea":"Quartier des Boulangers","area":"Bonta","areaId":7,"monster":["98","236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":46,"subarea":"Quartier des Bouchers","area":"Bonta","areaId":7,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":47,"subarea":"Quartier des Forgerons","area":"Bonta","areaId":7,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":48,"subarea":"Quartier des Bûcherons","area":"Bonta","areaId":7,"monster":["236","398","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":49,"subarea":"Quartier des Bricoleurs","area":"Bonta","areaId":7,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":50,"subarea":"Quartier des Tailleurs","area":"Bonta","areaId":7,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":51,"subarea":"Quartier des Bijoutiers","area":"Bonta","areaId":7,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":54,"subarea":"Massif de Cania","area":"Plaines de Cania","areaId":8,"monster":["554","2329","2411","2413","4557","4558","4559","4560","5733","5756"]},{"id":55,"subarea":"Pénates du Corbac","area":"Plaines de Cania","areaId":8,"monster":["281","818","819","820","2437","5738","5757"]},{"id":56,"subarea":"Lac de Cania","area":"Plaines de Cania","areaId":8,"monster":["273","274","275","276","277","278","279","280","2396","2399","2400","2401","2404","2405","2406","2407","5733","5756"]},{"id":57,"subarea":"Désolation de Sidimote","area":"Landes de Sidimote","areaId":12,"monster":["298","299","300","464","2285","2378","2440","2520","3096","5734","5756"]},{"id":59,"subarea":"Cimetière des Héros","area":"Bonta","areaId":7,"monster":["290","291","292","2320","2322","2422","2589","3239","5732","5756"]},{"id":61,"subarea":"Cimetière des Torturés","area":"Brâkmar","areaId":11,"monster":["290","291","292","481","2320","2322","2422","2589","2828","2829","2830","2831","2832","2833","2834","2835","3239","5732","5756"]},{"id":62,"subarea":"Village des Dopeuls","area":"Plaines de Cania","areaId":8,"monster":["384","385","386","387","388","389","390","391","392","393","422","494","570","2289","2384","2391","2433","2493","2508","2525","2539","2540","2585"]},{"id":68,"subarea":"Champs de Cania","area":"Plaines de Cania","areaId":8,"monster":["288","294","366","2286","2446","2447","2448","4547","4548","5733","5756"]},{"id":69,"subarea":"Bois de Litneg","area":"Plaines de Cania","areaId":8,"monster":["54","108","110","233","290","291","396","459","2276","2300","2319","2320","2321","2322","2421","2685","4538","4539","4540","4614","5739","5757"]},{"id":70,"subarea":"Plaines Rocheuses","area":"Plaines de Cania","areaId":8,"monster":["293","2438","4570","4571","4573","5734","5756"]},{"id":71,"subarea":"Gisgoul","area":"Landes de Sidimote","areaId":12,"monster":["479","484","485","486","487","4816"]},{"id":73,"subarea":"Égouts de Bonta","area":"Bonta","areaId":7,"monster":["442","447","449","450","2273","2275","2423","4825","5734","5756"]},{"id":75,"subarea":"Égouts de Brâkmar","area":"Brâkmar","areaId":11,"monster":["442","447","449","450","2273","2275","2423","4825","5734","5756"]},{"id":77,"subarea":"Gelaxième dimension","area":"Gelaxième dimension","areaId":83,"monster":["55","56","57","58","85","86","429","430"]},{"id":82,"subarea":"Cour du Bouftou Royal","area":"Astrub","areaId":18,"monster":["101","134","147","148","149","4822"]},{"id":93,"subarea":"Plage de la Tortue","area":"Île de Moon","areaId":2,"monster":["208","209","218","220","221","222","223","2292","2295","2296","2297","2298","2541","2573","4152","5733","5756"]},{"id":94,"subarea":"Grotte du Bworker","area":"Landes de Sidimote","areaId":12,"monster":["478","479","484","485","486","487","488"]},{"id":95,"subarea":"Cité d'Astrub","area":"Astrub","areaId":18,"monster":["236","463","489","490","491","492","493","494","1247","2341","2342","2343","2344","2345","2347"]},{"id":96,"subarea":"Carrière d'Astrub","area":"Astrub","areaId":18,"monster":["118","5228","5229","5230","5231"]},{"id":97,"subarea":"Forêt d'Astrub","area":"Astrub","areaId":18,"monster":["103","104","159","460","2333","2349","2353","4823"]},{"id":98,"subarea":"Champs d'Astrub","area":"Astrub","areaId":18,"monster":["48","78","79","2348","2352","2358","4820"]},{"id":99,"subarea":"Souterrains d'Astrub","area":"Astrub","areaId":18,"monster":["473","474","2312","2356","4817","4818"]},{"id":100,"subarea":"Égouts d'Astrub","area":"Astrub","areaId":18,"monster":["255","465","475","2334","2350","2393","3205"]},{"id":102,"subarea":"Cimetière d'Astrub","area":"Astrub","areaId":18,"monster":["495","496","498","2486","2524","2616","5227"]},{"id":103,"subarea":"Territoire des Bandits","area":"Amakna","areaId":0,"monster":["118","119","153","155","2314","2318","2328","2335","2636","4181","4182","5732","5756"]},{"id":154,"subarea":"Antre du Dragon Cochon","area":"Labyrinthe du Dragon Cochon","areaId":26,"monster":["113","600","601","603","3137","3304"]},{"id":161,"subarea":"Île de la Cawotte","area":"Île des Wabbits","areaId":1,"monster":["64","65","68","72","96","2293","2294","2304","2402","2403","5732","5756"]},{"id":162,"subarea":"Îlot de Waldo","area":"Île des Wabbits","areaId":1,"monster":["97","99","2308","2498","5733","5756"]},{"id":163,"subarea":"Îlot des Tombeaux","area":"Île des Wabbits","areaId":1,"monster":["179","2305","3469","5733","5756"]},{"id":164,"subarea":"Îlot de la Couronne","area":"Île des Wabbits","areaId":1,"monster":["64","65","97","99","2304","2308","2403","2498","4273","5733","5756"]},{"id":165,"subarea":"Jungle Interdite","area":"Île de Moon","areaId":2,"monster":["215","216","217","2301","2484","2495","4162","4240","5738","5757"]},{"id":166,"subarea":"Forêt des Masques","area":"Île de Moon","areaId":2,"monster":["211","212","213","214","2502","2505","2506","2507","5734","5756"]},{"id":167,"subarea":"Chemin du Crâne","area":"Île de Moon","areaId":2,"monster":["228","229","231","2408","2419","2538","4160","4276","5737","5757"]},{"id":168,"subarea":"Forêt Sombre","area":"Forêt des Abraknydes","areaId":6,"monster":["47","118","253","254","256","649","650","651","2386","2388","2389","2821","4014","5736","5757"]},{"id":169,"subarea":"Orée de la forêt des Abraknydes","area":"Forêt des Abraknydes","areaId":6,"monster":["47","62","178","256","259","650","2299","2309","2311","2385","4192","4193","4194","4195","5219","5732","5756"]},{"id":170,"subarea":"Plaine des Scarafeuilles","area":"Amakna","areaId":0,"monster":["171","194","198","200","240","241","242","243","244","245","2280","2281","2282","2283","5731","5756"]},{"id":173,"subarea":"Prairies d'Astrub","area":"Astrub","areaId":18,"monster":["31","34","46","2331","2332","2339","2574","4266","5225"]},{"id":175,"subarea":"Domaine Ancestral","area":"Forêt des Abraknydes","areaId":6,"monster":["173","253","254","651","917"]},{"id":178,"subarea":"Plaine des Porkass","area":"Plaines de Cania","areaId":8,"monster":["123","297","343","344","2279","2325","2397","2420","4272","5732","5756"]},{"id":179,"subarea":"Coin des Boos","area":"Amakna","areaId":0,"monster":["101","112","134","149","2549"]},{"id":181,"subarea":"Souterrains du Château d'Amakna","area":"Amakna","areaId":0,"monster":["232","442","447","2273","2423","4825","4830","5733","5756"]},{"id":200,"subarea":"Labyrinthe du Dragon Cochon","area":"Labyrinthe du Dragon Cochon","areaId":26,"monster":["600","601","603","2432","2453","3304","5737","5757"]},{"id":201,"subarea":"Donjon des Tofus","area":"Amakna","areaId":0,"monster":["98","796","800","804","806","808","4824","5222","5223","5224"]},{"id":209,"subarea":"Île du Minotoror","area":"Île du Minotoror","areaId":30,"monster":["829","834","835","836","2287","2521","2529","2533","5074"]},{"id":210,"subarea":"Centre du labyrinthe du Minotoror","area":"Île du Minotoror","areaId":30,"monster":["121","668","827","829","830","831","832","3740"]},{"id":211,"subarea":"Bibliothèque du Maître Corbac","area":"Plaines de Cania","areaId":8,"monster":["281","289","818","819","820","823","824","825","4572","4578","4579","4580","4581"]},{"id":213,"subarea":"Tanière du Meulou","area":"Landes de Sidimote","areaId":12,"monster":["102","232","299","4866","4867","4868","4869"]},{"id":223,"subarea":"Caverne du Koulosse","area":"Montagne des Koalaks","areaId":28,"monster":["670","671","746","747","748","751","752","753","754","755","763","784"]},{"id":230,"subarea":"Cimetière primitif","area":"Montagne des Koalaks","areaId":28,"monster":["758","759","760","761","2429","2482","2531","2534","5739","5757"]},{"id":231,"subarea":"Lacs enchantés","area":"Montagne des Koalaks","areaId":28,"monster":["550","747","748","784","786","2270","2271","2442","2517","5736","5757"]},{"id":232,"subarea":"Marécages nauséabonds","area":"Montagne des Koalaks","areaId":28,"monster":["112","261","263","2428","2439","2549","4833","5732","5756"]},{"id":233,"subarea":"Marécages sans fond","area":"Montagne des Koalaks","areaId":28,"monster":["112","261","263","2428","2439","2549","3527","4833","5734","5756"]},{"id":234,"subarea":"Forêt de Kaliptus","area":"Montagne des Koalaks","areaId":28,"monster":["446","746","747","748","785","2306","2442","2515","2517","5735","5756"]},{"id":235,"subarea":"Territoire des Dragodindes Sauvages","area":"Montagne des Koalaks","areaId":28,"monster":["171","200","666","2379","2465","4275","4831","5734","5756"]},{"id":243,"subarea":"Pitons Rocheux des Craqueleurs","area":"Amakna","areaId":0,"monster":["106","293","483","669","826","4570","4573"]},{"id":253,"subarea":"Canyon sauvage","area":"Montagne des Koalaks","areaId":28,"monster":["746","747","751","752","753","754","755","763","2306","2442","2462","2509","2513","2516","2518","2528","5736","5757"]},{"id":254,"subarea":"Repaire de Skeunk","area":"Montagne des Koalaks","areaId":28,"monster":["673","674","675","676","677","681","744","745","749","754","756","780","783"]},{"id":275,"subarea":"Vallée de la Morh'Kitu","area":"Montagne des Koalaks","areaId":28,"monster":["744","745","749","756","783","2307","2497","2514","2519","2567","5739","5757"]},{"id":276,"subarea":"Campement des Gobelins","area":"Amakna","areaId":0,"monster":["62","178","1247","2430","2494","5731","5756"]},{"id":277,"subarea":"Village des Bworks","area":"Amakna","areaId":0,"monster":["53","74","236","492","791","876","2416","2417","2418"]},{"id":279,"subarea":"Pâturages de Bonta","area":"Bonta","areaId":7,"monster":["48","78","79","467","2277","2348","2352","2358","5731","5756"]},{"id":280,"subarea":"Bordure de Brâkmar","area":"Brâkmar","areaId":11,"monster":["378","379","380","397","415","462","932","2466","2467","2468","2563","4974","5732","5756"]},{"id":284,"subarea":"Donjon des Bworks","area":"Amakna","areaId":0,"monster":["53","74","791","792","876","2680"]},{"id":297,"subarea":"Donjon des Scarafeuilles","area":"Amakna","areaId":0,"monster":["194","198","240","241","795","797","798"]},{"id":306,"subarea":"Grange du Tournesol Affamé","area":"Astrub","areaId":18,"monster":["48","78","79","799","4820","4821"]},{"id":314,"subarea":"Sanctuaire des Dragoeufs","area":"Amakna","areaId":0,"monster":["853","855","862","2452","2459","2461","2464","5739","5757","5804"]},{"id":315,"subarea":"Village des Dragoeufs","area":"Amakna","areaId":0,"monster":["494","858","878","879","905","2454","2456","2458","2460"]},{"id":316,"subarea":"Souterrains des Dragoeufs","area":"Amakna","areaId":0,"monster":["858","878","879","905","2454","2456","2458","2460","5735","5756"]},{"id":319,"subarea":"Labyrinthe du Minotoror","area":"Île du Minotoror","areaId":30,"monster":["668","829","830","831","832","2287","2568","2615","5740","5757"]},{"id":320,"subarea":"Havre de Nowel","area":"Île de Nowel","areaId":42,"monster":["840","841","842","849","868","870","896","899","901","1180","2622","3117","5476"]},{"id":321,"subarea":"Donjon de Nowel","area":"Île de Nowel","areaId":42,"monster":["840","841","849","868","870","896","899","901","1179","1180"]},{"id":325,"subarea":"Antre de Crocabulia","area":"Amakna","areaId":0,"monster":["853","854","855","862","5804","5805"]},{"id":334,"subarea":"Baie de Cania","area":"Plaines de Cania","areaId":8,"monster":["385","386","388","389","393","552","570","2289","2391","2433","2508","2525","5731","5756"]},{"id":335,"subarea":"Calanques d'Astrub","area":"Astrub","areaId":18,"monster":["920","921","922","923","2272","2338","2340","2346"]},{"id":336,"subarea":"Château Ensablé","area":"Astrub","areaId":18,"monster":["920","921","922","923","924","928"]},{"id":337,"subarea":"Donjon des Rats de Bonta","area":"Bonta","areaId":7,"monster":["938","940","941","942"]},{"id":338,"subarea":"Donjon des Rats de Brâkmar","area":"Brâkmar","areaId":11,"monster":["935","936","937","939"]},{"id":339,"subarea":"Donjon des Rats du Château d'Amakna","area":"Amakna","areaId":0,"monster":["939","940","943","3345","3346","3347","3348","3349","3350","3351","3352"]},{"id":442,"subarea":"Lac","area":"Incarnam","areaId":45,"monster":["4108","4109","4110"]},{"id":443,"subarea":"Forêt","area":"Incarnam","areaId":45,"monster":["982","4105","4106"]},{"id":444,"subarea":"Champs","area":"Incarnam","areaId":45,"monster":["970","979","980","981"]},{"id":445,"subarea":"Pâturages","area":"Incarnam","areaId":45,"monster":["971","972","973","984"]},{"id":447,"subarea":"Crypte de Kardorim","area":"Incarnam","areaId":45,"monster":["4046","4047","4048","4049","4050","4051"]},{"id":449,"subarea":"Cimetière","area":"Incarnam","areaId":45,"monster":["4046","4047","4048","4049"]},{"id":450,"subarea":"Route des âmes","area":"Incarnam","areaId":45,"monster":["3270","3271","3272","3273"]},{"id":451,"subarea":"Île des naufragés","area":"Île d'Otomaï","areaId":46,"monster":["208","209","218","1078","1229","1230","1231","2292","2541","2573"]},{"id":452,"subarea":"Sud de la mer d'Asse","area":"Île d'Otomaï","areaId":46,"monster":["3552","3553","3554"]},{"id":453,"subarea":"Plage de Corail","area":"Île d'Otomaï","areaId":46,"monster":["1022","1060","1061","1062","1063","1064","1065","1066","1067","2555","2557","2558","2559","2560","2581","2582","2583","2584","5313","5732","5756"]},{"id":454,"subarea":"Plaines herbeuses","area":"Île d'Otomaï","areaId":46,"monster":["1019","1025","1026","1068","1069","1070","2547","2556","2561","2571","2572","2580","5073","5313","5738","5757"]},{"id":455,"subarea":"Jungle obscure","area":"Île d'Otomaï","areaId":46,"monster":["1029","1041","1073","1074","1075","1076","1077","2360","2544","2546","2550","2554","2565","2579","3528","5313","5740","5757"]},{"id":457,"subarea":"Tourbière sans fond","area":"Île d'Otomaï","areaId":46,"monster":["1057","1058","1059","1096","2361","2363","2575","2614","4041","5313","5738","5757"]},{"id":459,"subarea":"Canopée du Kimbo","area":"Île d'Otomaï","areaId":46,"monster":["1020","1043","1044","1045","1046","1047"]},{"id":460,"subarea":"Grotte Hesque","area":"Île d'Otomaï","areaId":46,"monster":["1022","1027","1060","1061","1062","1063","1064","1065","1066","1067"]},{"id":461,"subarea":"Arche d'Otomaï","area":"Île d'Otomaï","areaId":46,"monster":["1048","1049","1050","2545","2588","4274"]},{"id":462,"subarea":"Clairière de Floribonde","area":"Île d'Otomaï","areaId":46,"monster":["5696","5697","5698","5699","5700","5701","5702"]},{"id":463,"subarea":"Laboratoire du Tynril","area":"Île d'Otomaï","areaId":46,"monster":["1029","1041","1072","1073","1074","1075","1076","1077","1085","1086","1087"]},{"id":464,"subarea":"Tronc de l'arbre Hakam","area":"Île d'Otomaï","areaId":46,"monster":["1020","1043","1044","1046","1047","2381","2382","2383","2570","2577","5081","5313","5743","5758"]},{"id":468,"subarea":"Village des Zoths","area":"Île d'Otomaï","areaId":46,"monster":["494","1052","1053","1054","1055","1056","2562","2566","2569","2578","2587"]},{"id":469,"subarea":"Village de la Canopée","area":"Île d'Otomaï","areaId":46,"monster":["1052","1053","1054","1055","1056","2562","2566","2569","2578","2587","5076","5739","5757"]},{"id":470,"subarea":"Goulet du Rasboul","area":"Île d'Otomaï","areaId":46,"monster":["1019","1025","1026","1068","1069","1070","1071"]},{"id":471,"subarea":"Tourbière nauséabonde","area":"Île d'Otomaï","areaId":46,"monster":["1057","1058","1059","1096","2361","2363","2575","2614","3524","5313","5739","5757"]},{"id":472,"subarea":"Feuillage de l'arbre Hakam","area":"Île d'Otomaï","areaId":46,"monster":["1020","1043","1044","2382","2383","2570","5313","5742","5758"]},{"id":473,"subarea":"Laboratoire caché","area":"Île d'Otomaï","areaId":46,"monster":["5703","5704","5705","5706","5707","5708"]},{"id":474,"subarea":"Cale de l'arche d'Otomaï","area":"Île d'Otomaï","areaId":46,"monster":["228","229","231","1048","1049","1050","1051"]},{"id":479,"subarea":"Rivière Kawaii","area":"Amakna","areaId":0,"monster":["31","34","46","2331","2332","2339","2574","5225"]},{"id":480,"subarea":"Montagne basse des Craqueleurs","area":"Amakna","areaId":0,"monster":["52","53","62","74","106","178","483","876","1247","2326","2416","2417","2418","2430","2436","2494","4570","4571","5733","5756"]},{"id":481,"subarea":"Clairière de Brouce Boulgoure","area":"Amakna","areaId":0,"monster":["652","653","654","655","2424","2425","2426","2427","4268","5731","5756"]},{"id":482,"subarea":"Millifutaie","area":"Amakna","areaId":0,"monster":["103","104","159","491","492","493","2333","2349","2353","3588","3589","3590","3591","3592","4823"]},{"id":485,"subarea":"Campagne d'Amakna","area":"Amakna","areaId":0,"monster":["52","59","61","2310","2323","2336","4819"]},{"id":490,"subarea":"Rivage sufokien","area":"Baie de Sufokia","areaId":5,"monster":["63","926","927","954","2327","2351","2457","5732","5756"]},{"id":491,"subarea":"Donjon des Larves","area":"Amakna","areaId":0,"monster":["412","413","414","456","457","3358","3359"]},{"id":492,"subarea":"Passage vers Brâkmar","area":"Amakna","areaId":0,"monster":["118","119","153","466","2313","2318","2328","2335"]},{"id":493,"subarea":"Clos des Blops","area":"Plaines de Cania","areaId":8,"monster":["273","274","275","276","1181","1182","1183","1184","1185","1186","1187"]},{"id":494,"subarea":"Temple du Grand Ougah","area":"Landes de Sidimote","areaId":12,"monster":["59","1153","1154","1155","1156","1157","1158","1159","1178"]},{"id":495,"subarea":"Caverne des Fungus","area":"Landes de Sidimote","areaId":12,"monster":["1155","1156","1157","1158","2373","2551","2552","2600","5084","5745","5758"]},{"id":502,"subarea":"Quartier des Bûcherons","area":"Brâkmar","areaId":11,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":503,"subarea":"Quartier des Bouchers","area":"Brâkmar","areaId":11,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":505,"subarea":"Quartier des Boulangers","area":"Brâkmar","areaId":11,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":506,"subarea":"Quartier des Bijoutiers","area":"Brâkmar","areaId":11,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":507,"subarea":"Quartier des Tailleurs","area":"Brâkmar","areaId":11,"monster":["236","405","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":508,"subarea":"Quartier des Forgerons","area":"Brâkmar","areaId":11,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":509,"subarea":"Quartier des Bricoleurs","area":"Brâkmar","areaId":11,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":511,"subarea":"Centre-ville","area":"Brâkmar","areaId":11,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":513,"subarea":"Centre-ville","area":"Bonta","areaId":7,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":516,"subarea":"Donjon des Squelettes","area":"Amakna","areaId":0,"monster":["54","108","110","396","3238","3239","3240"]},{"id":517,"subarea":"Terres Désacrées","area":"Landes de Sidimote","areaId":12,"monster":["4878","4879","4880","4881","5748","5759"]},{"id":518,"subarea":"Landes de Cania","area":"Plaines de Cania","areaId":8,"monster":["4550","4551","4552","4553","5077","5742","5758"]},{"id":519,"subarea":"Dents de Pierre","area":"Plaines de Cania","areaId":8,"monster":["2472","2473","2474","2475","2476","3558","3559","3560","3561","3562","4017","5743","5758"]},{"id":521,"subarea":"Pics de Cania","area":"Plaines de Cania","areaId":8,"monster":["4541","4542","4543","4544","5736","5757"]},{"id":522,"subarea":"Hauts des Hurlements","area":"Landes de Sidimote","areaId":12,"monster":["102","2337","4815","4867","4868","4869","5737","5757"]},{"id":523,"subarea":"Cirque de Cania","area":"Plaines de Cania","areaId":8,"monster":["1119","1121","3620","3621","3622","3623","4015","5740","5757"]},{"id":525,"subarea":"Routes Rocailleuses","area":"Plaines de Cania","areaId":8,"monster":["118","259","287","288","293","371","2359","2445","2455","2503","2790","2791","2793","2796","2882","4571","4573","4574","4575","5734","5756"]},{"id":526,"subarea":"Route des Roulottes","area":"Landes de Sidimote","areaId":12,"monster":["4814","4862","4863","4864","4865","5736","5757"]},{"id":528,"subarea":"Donjon des Forgerons","area":"Amakna","areaId":0,"monster":["118","119","153","155","252"]},{"id":530,"subarea":"Quartier des Alchimistes","area":"Bonta","areaId":7,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":531,"subarea":"Quartier des Alchimistes","area":"Brâkmar","areaId":11,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":532,"subarea":"Quartier des Pêcheurs","area":"Bonta","areaId":7,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":533,"subarea":"Quartier des Éleveurs","area":"Bonta","areaId":7,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":534,"subarea":"Quartier des Pêcheurs","area":"Brâkmar","areaId":11,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":535,"subarea":"Quartier des Éleveurs","area":"Brâkmar","areaId":11,"monster":["236","489","490","491","492","493","2341","2342","2343","2344","2345","2347"]},{"id":536,"subarea":"Tutoriel guidé","area":"Incarnam","areaId":45,"monster":["2781","2785"]},{"id":537,"subarea":"Château du Wa Wabbit","area":"Île des Wabbits","areaId":1,"monster":["64","65","68","72","96","97","99","180"]},{"id":538,"subarea":"Terrier du Wa Wabbit","area":"Île des Wabbits","areaId":1,"monster":["181","3460","3461","3462","3463","3474"]},{"id":541,"subarea":"Maison premium","area":"Plaines de Cania","areaId":8,"monster":["2802"]},{"id":600,"subarea":"Port de givre","area":"Île de Frigost","areaId":48,"monster":["2892","2893","2913","2914","5309","5737","5757"]},{"id":601,"subarea":"La Bourgade","area":"Île de Frigost","areaId":48,"monster":["2892","2893","2894","2911","2913","2914","5309","5737","5757"]},{"id":602,"subarea":"Champs de glace","area":"Île de Frigost","areaId":48,"monster":["2819","2850","2851","2852","2853","2901","5309","5739","5757"]},{"id":603,"subarea":"Village enseveli","area":"Île de Frigost","areaId":48,"monster":["2888","2889","2890","2891","2892"]},{"id":604,"subarea":"Forêt des pins perdus","area":"Île de Frigost","areaId":48,"monster":["2845","2846","2847","2859","2860","2903","5309","5741","5758"]},{"id":605,"subarea":"Forêt pétrifiée","area":"Île de Frigost","areaId":48,"monster":["2895","2896","2897","2898","2908","5309","5746","5759"]},{"id":606,"subarea":"Crevasse Perge","area":"Île de Frigost","areaId":48,"monster":["2888","2889","2890","2891","2906","5309","5745","5758"]},{"id":608,"subarea":"Crocs de verre","area":"Île de Frigost","areaId":48,"monster":["2883","2885","2886","2909","2965","2966","5309","5747","5759"]},{"id":609,"subarea":"Berceau d'Alma","area":"Île de Frigost","areaId":48,"monster":["2874","2875","2876","2878","2880","2881","2904","2918","2920","2921","5309","5743","5758"]},{"id":610,"subarea":"Larmes d'Ouronigride","area":"Île de Frigost","areaId":48,"monster":["2865","2866","2869","2905","5309","5744","5758"]},{"id":611,"subarea":"Mont Torrideau","area":"Île de Frigost","areaId":48,"monster":["2861","2862","2863","4016","5309","5747","5759"]},{"id":615,"subarea":"Lac gelé","area":"Île de Frigost","areaId":48,"monster":["2849","2855","2856","2857","2858","2902","3370","5309","5742","5758"]},{"id":617,"subarea":"Serre du Royalmouth","area":"Île de Frigost","areaId":48,"monster":["2850","2851","2852","2853","2854"]},{"id":618,"subarea":"Excavation du Mansot Royal","area":"Île de Frigost","areaId":48,"monster":["2848","2849","2855","2856","2857","2858"]},{"id":619,"subarea":"Épave du Grolandais violent","area":"Île de Frigost","areaId":48,"monster":["2874","2875","2876","2877","2878","2880","2881"]},{"id":620,"subarea":"Hypogée de l'Obsidiantre","area":"Île de Frigost","areaId":48,"monster":["2865","2866","2867","2868","2869","2924"]},{"id":621,"subarea":"Tanière Givrefoux","area":"Île de Frigost","areaId":48,"monster":["2888","2889","2890","2891","2967","2982","3234"]},{"id":622,"subarea":"Cavernes des Givrefoux","area":"Île de Frigost","areaId":48,"monster":["2888","2889","2890","2891","2970","5745","5758"]},{"id":623,"subarea":"Antre du Korriandre","area":"Île de Frigost","areaId":48,"monster":["2895","2896","2897","2898","2900","2968"]},{"id":624,"subarea":"Cavernes du Kolosso","area":"Île de Frigost","areaId":48,"monster":["2883","2884","2885","2886","2965","2966","2986","2992"]},{"id":651,"subarea":"Plaine de Sakaï","area":"Île de Sakaï","areaId":49,"monster":["2932","2933","2934"]},{"id":652,"subarea":"Forêt enneigée","area":"Île de Sakaï","areaId":49,"monster":["2932","2933","2934","2935","2941","3400","5746","5759"]},{"id":653,"subarea":"Mine abandonnée de Sakaï","area":"Île de Sakaï","areaId":49,"monster":["2932","2933","2934","2935","2936","2937","2941","2942"]},{"id":700,"subarea":"Village Kanniboul","area":"Île de Moon","areaId":2,"monster":["211","212","213","214","2960","4151"]},{"id":702,"subarea":"Maison Fantôme","area":"Foire du Trool","areaId":15,"monster":["111","127","154","498","2975","3235"]},{"id":750,"subarea":"Arènes de Goultard","area":"Amakna","areaId":0,"monster":["494","3141"]},{"id":752,"subarea":"Antichambre des Gloursons","area":"Île de Frigost","areaId":48,"monster":["2861","2862","2863","2864","2987","2988","2989"]},{"id":753,"subarea":"Ruche des Gloursons","area":"Île de Frigost","areaId":48,"monster":["2861","2862","2863","2910","2988","2989","3115","5309","5747","5759"]},{"id":755,"subarea":"Nid du Kwakwa","area":"Amakna","areaId":0,"monster":["81","83","84","235","269","270","271","272","2995","3281","3282","3283","3284"]},{"id":756,"subarea":"Laboratoire de Brumen Tinctorias","area":"Landes de Sidimote","areaId":12,"monster":["298","299","300","301","3096","3100"]},{"id":757,"subarea":"Terre de Nowel","area":"Île de Nowel","areaId":42,"monster":["839","845","847","851","867","869","871","907","3118","5476"]},{"id":758,"subarea":"Taïga de Nowel","area":"Île de Nowel","areaId":42,"monster":["839","843","864","869","888","891","906","3119","5476"]},{"id":759,"subarea":"Caverne de Nowel","area":"Île de Nowel","areaId":42,"monster":["839","845","847","867","869","871","872","907"]},{"id":760,"subarea":"Maison du Papa Nowel","area":"Île de Nowel","areaId":42,"monster":["864","888","891","906","1194","3107","3108","3109"]},{"id":762,"subarea":"Village de Vulkania","area":"Archipel de Vulkania","areaId":50,"monster":["3172"]},{"id":763,"subarea":"Forêt d'Etraktopel","area":"Archipel de Vulkania","areaId":50,"monster":["3145","3146","3147","3148","3149","3178","3179","3180","3181","3182"]},{"id":764,"subarea":"Forêt d'Espartiate","area":"Archipel de Vulkania","areaId":50,"monster":["3150","3151","3152","3153","3154","3183","3184","3185","3186","3187"]},{"id":765,"subarea":"Forêt des Strates Igraphies","area":"Archipel de Vulkania","areaId":50,"monster":["3155","3156","3157","3158","3159","3188","3189","3190","3191","3192"]},{"id":766,"subarea":"Forêt de Ponefarr","area":"Archipel de Vulkania","areaId":50,"monster":["3160","3161","3162","3163","3164","3193","3194","3195","3196","3197"]},{"id":767,"subarea":"Cratère Pillar","area":"Archipel de Vulkania","areaId":50,"monster":["3144","3145","3146","3147","3148","3149"]},{"id":768,"subarea":"Cratère Mopyle","area":"Archipel de Vulkania","areaId":50,"monster":["3150","3151","3152","3153","3154","3165"]},{"id":769,"subarea":"Cratère Nehr","area":"Archipel de Vulkania","areaId":50,"monster":["3155","3156","3157","3158","3159","3166"]},{"id":770,"subarea":"Cratère Monseleya","area":"Archipel de Vulkania","areaId":50,"monster":["3160","3161","3162","3163","3164","3167"]},{"id":771,"subarea":"Cratère Minus","area":"Archipel de Vulkania","areaId":50,"monster":["3142","3143","3145","3146","3147","3148","3149","3150","3151","3152","3153","3154","3155","3156","3157","3158","3159","3160","3161","3162","3163","3164","3293","3294","3295","3296","3297","3298"]},{"id":778,"subarea":"Mine","area":"Incarnam","areaId":45,"monster":["4107"]},{"id":779,"subarea":"Territoire souterrain des Porcos","area":"Amakna","areaId":0,"monster":["2637","2639","2641"]},{"id":780,"subarea":"Tofulailler Royal","area":"Amakna","areaId":0,"monster":["98","382","807","3299","3300","3301","3302","5220","5221"]},{"id":781,"subarea":"Clairière du Chêne Mou","area":"Forêt des Abraknydes","areaId":6,"monster":["257","258","260","990","991","992"]},{"id":783,"subarea":"Antre du Kralamoure Géant","area":"Île d'Otomaï","areaId":46,"monster":["423","1057","1058","1059","1096"]},{"id":784,"subarea":"Potager d'Halouine","area":"Amakna","areaId":0,"monster":["3306","3307","3308","3309","3310","3311"]},{"id":785,"subarea":"Jardins d'Hiver","area":"Île de Frigost","areaId":48,"monster":["3373","3392","3393","3394","3396","5309","5747","5759"]},{"id":786,"subarea":"Remparts à vent","area":"Île de Frigost","areaId":48,"monster":["3401","3404","3406","3407","3408","5309","5747","5759"]},{"id":787,"subarea":"Tannerie Écarlate","area":"Île de Frigost","areaId":48,"monster":["3379","3380","3382","3383","3413","5309","5747","5759"]},{"id":788,"subarea":"Bastion des froides légions","area":"Île de Frigost","areaId":48,"monster":["3385","3386","3387","3389","3403","5309","5747","5759"]},{"id":789,"subarea":"Tour de la Clepsydre","area":"Île de Frigost","areaId":48,"monster":["3402","3410","3412","3414","3415","5309","5748","5759"]},{"id":790,"subarea":"Laboratoire de Nileza","area":"Île de Frigost","areaId":48,"monster":["3392","3393","3394","3395","3396","3397"]},{"id":791,"subarea":"Transporteur de Sylargh","area":"Île de Frigost","areaId":48,"monster":["3404","3405","3406","3407","3408","3409"]},{"id":792,"subarea":"Salons privés de Klime","area":"Île de Frigost","areaId":48,"monster":["3379","3380","3381","3382","3383","3384"]},{"id":793,"subarea":"Forgefroide de Missiz Frizz","area":"Île de Frigost","areaId":48,"monster":["3385","3386","3387","3389","3390","3391"]},{"id":794,"subarea":"Donjon du Comte Harebourg","area":"Île de Frigost","areaId":48,"monster":["3384","3391","3397","3409","3410","3411","3412","3414","3415","3416"]},{"id":796,"subarea":"Antre du Blop Multicolore Royal","area":"Plaines de Cania","areaId":8,"monster":["1182","1183","1184","1185","1186","1187","1188"]},{"id":798,"subarea":"Laboratoires abandonnés","area":"Île des Wabbits","areaId":1,"monster":["494","3464","3465","3466","3467","3468","5739","5757"]},{"id":799,"subarea":"Île de Kartonpath","area":"Îlots de la mer d'Asse","areaId":51,"monster":["3484","3485","3486","3487","4027"]},{"id":800,"subarea":"Théâtre de Dramak","area":"Îlots de la mer d'Asse","areaId":51,"monster":["3476","3482","3484","3485","3486","3487"]},{"id":803,"subarea":"Temple maudit d'Araknas","area":"Landes de Sidimote","areaId":12,"monster":["1195","3516","3517","3518","3519"]},{"id":804,"subarea":"Salles des Embruns","area":"Baie de Sufokia","areaId":5,"monster":["3535","3543","3544","4028","5748","5759"]},{"id":805,"subarea":"Salles des Courants","area":"Baie de Sufokia","areaId":5,"monster":["3535","3542","3543","5748","5759"]},{"id":806,"subarea":"Salles des Abîmes","area":"Baie de Sufokia","areaId":5,"monster":["3533","3542","3543","3544","5748","5759"]},{"id":807,"subarea":"Aquadôme de Merkator","area":"Baie de Sufokia","areaId":5,"monster":["3534","3535","3538","3542","3543","3544"]},{"id":808,"subarea":"Antre du Koulosse","area":"Montagne des Koalaks","areaId":28,"monster":["671","672","747","2442"]},{"id":809,"subarea":"Village des Kanigs","area":"Plaines de Cania","areaId":8,"monster":["2472","2473","2474","2475","2476","3558","3559","3560","3561","3562","5743","5758"]},{"id":811,"subarea":"Grotte de Kanigroula","area":"Plaines de Cania","areaId":8,"monster":["3556","3557","3559","3560","3561","3562"]},{"id":813,"subarea":"Dimension Obscure","area":"Dimension Obscure","areaId":65,"monster":["3566","3567","3568","3569","5086","5747","5759"]},{"id":814,"subarea":"Pyramide d'Ombre","area":"Dimension Obscure","areaId":65,"monster":["3564","3566","3567","3568","3569","3570"]},{"id":815,"subarea":"Queue du Dragon","area":"Incarnam","areaId":45,"monster":["3578"]},{"id":816,"subarea":"Mine des Dopeuls","area":"Plaines de Cania","areaId":8,"monster":["384","387","390","391","392","422","2384","2493","2539","2540","2585"]},{"id":817,"subarea":"Galeries abandonnées","area":"Île des Wabbits","areaId":1,"monster":["3464","3465","3466","3467","3468"]},{"id":818,"subarea":"Volière de la Haute Truche","area":"Plaines de Cania","areaId":8,"monster":["3618","3619","3620","3621","3622","3623"]},{"id":819,"subarea":"Convention","area":"Convention","areaId":52,"monster":["2827","3115","3244","3446","3645","4189","4190","4191"]},{"id":820,"subarea":"Creuset des Fortunés","area":"Enutrosor","areaId":53,"monster":["3663","3664","3665","3666","3670","5311"]},{"id":821,"subarea":"Carrière Aurifère","area":"Enutrosor","areaId":53,"monster":["3658","3659","3660","3661","3669","5311"]},{"id":822,"subarea":"Retraite des Éternels","area":"Enutrosor","areaId":53,"monster":["3653","3654","3655","3656","3668","5311"]},{"id":823,"subarea":"Fabrique de Malléfisk","area":"Enutrosor","areaId":53,"monster":["3652","3663","3664","3665","3666","3667"]},{"id":824,"subarea":"Galerie du Phossile","area":"Enutrosor","areaId":53,"monster":["3651","3658","3659","3660","3661","3662"]},{"id":825,"subarea":"Palais du roi Nidas","area":"Enutrosor","areaId":53,"monster":["3648","3653","3654","3655","3656","3657"]},{"id":826,"subarea":"Fort Thune","area":"Enutrosor","areaId":53,"monster":["3653","3654","3655","3656"]},{"id":827,"subarea":"Ruelles des Eaux-Suaires","area":"Srambad","areaId":54,"monster":["3730","3731","3732","3733","3762","5311"]},{"id":828,"subarea":"Catacombres","area":"Srambad","areaId":54,"monster":["3735","3736","3737","3738","3760","5311"]},{"id":829,"subarea":"Hauts Ténébreux","area":"Srambad","areaId":54,"monster":["3746","3747","3748","3749","3761","5311"]},{"id":830,"subarea":"Ring du Capitaine Ekarlatte","area":"Srambad","areaId":54,"monster":["3730","3731","3732","3733","3734","3753"]},{"id":831,"subarea":"Cave du Toxoliath","area":"Srambad","areaId":54,"monster":["3735","3736","3737","3738","3739","3752"]},{"id":832,"subarea":"Trône de la Cour Sombre","area":"Srambad","areaId":54,"monster":["3726","3746","3747","3748","3749","3750"]},{"id":833,"subarea":"Quartier des Conquérants","area":"Srambad","areaId":54,"monster":["3746","3747","3748","3749"]},{"id":834,"subarea":"Roc des Salbatroces","area":"Île de Frigost","areaId":48,"monster":["3823","3824","3825","3826","5309","5748","5759"]},{"id":835,"subarea":"Ventre de la Baleine","area":"Île de Frigost","areaId":48,"monster":["3823","3824","3825","3826","3827","3828"]},{"id":836,"subarea":"Chemins d'hier","area":"Xélorium","areaId":55,"monster":["3845","3854","3855","3856","3857","5311"]},{"id":837,"subarea":"Jour présent","area":"Xélorium","areaId":55,"monster":["3840","3841","3842","3843","3848","5311"]},{"id":838,"subarea":"Lendemains incertains","area":"Xélorium","areaId":55,"monster":["3834","3836","3837","3838","3851","5311"]},{"id":839,"subarea":"Mégalithe de Fraktale","area":"Xélorium","areaId":55,"monster":["3852","3854","3855","3856","3857","3858"]},{"id":840,"subarea":"Horologium de XLII","area":"Xélorium","areaId":55,"monster":["3840","3841","3842","3843","3844","3849"]},{"id":841,"subarea":"Œil de Vortex","area":"Xélorium","areaId":55,"monster":["3834","3835","3836","3837","3838","3839"]},{"id":842,"subarea":"Cache de Kankreblath","area":"Astrub","areaId":18,"monster":["3940","3941","3942","3943","3944","3945"]},{"id":843,"subarea":"Planque des Vilinsekts","area":"Astrub","areaId":18,"monster":["3940","3941","3942","3943"]},{"id":844,"subarea":"Antre de la Reine Nyée","area":"Forêt des Abraknydes","areaId":6,"monster":["3991","3992","3993","3994","3995","3996"]},{"id":846,"subarea":"Bateau du Chouque","area":"Île de Moon","areaId":2,"monster":["228","229","230","231","4160","4161"]},{"id":847,"subarea":"Arbre de Moon","area":"Île de Moon","areaId":2,"monster":["215","216","217","226","4162","4163"]},{"id":849,"subarea":"Rocher des Sacrifiés","area":"Baie de Sufokia","areaId":5,"monster":["4045","4074"]},{"id":852,"subarea":"Miausolée du Pounicheur","area":"Ecaflipus","areaId":59,"monster":["4278","4291","4292","4293","4294","4295"]},{"id":853,"subarea":"Plateau de Ush","area":"Ecaflipus","areaId":59,"monster":["4264","4265","4296","4297","4298","4299","4300"]},{"id":854,"subarea":"Défi du Chalœil","area":"Ecaflipus","areaId":59,"monster":["4263","4283","4284","4285","4286","4287"]},{"id":855,"subarea":"Pierres de l'élévation","area":"Ecaflipus","areaId":59,"monster":["4291","4292","4293","4294","4364","5311"]},{"id":856,"subarea":"Lande Poilue","area":"Ecaflipus","areaId":59,"monster":["4296","4297","4298","4299","4363","5311"]},{"id":857,"subarea":"Temple de Kerubim","area":"Ecaflipus","areaId":59,"monster":["4283","4284","4285","4287","4329","4362","5311"]},{"id":860,"subarea":"Ville submergée","area":"Profondeurs de Sufokia","areaId":63,"monster":["4438","4455","4456","4457","5748","5759"]},{"id":861,"subarea":"Ancienne Sufokia","area":"Profondeurs de Sufokia","areaId":63,"monster":["4435","4436","4455","4456","4457","4458","5748","5759"]},{"id":862,"subarea":"Vestiges engloutis","area":"Profondeurs de Sufokia","areaId":63,"monster":["4434","4437","4455","4456","4457","4458","4459","4532","5748","5759"]},{"id":863,"subarea":"Domaine des Trithons","area":"Profondeurs de Sufokia","areaId":63,"monster":["4438","4439","4440","4441","5748","5759"]},{"id":864,"subarea":"Faille des Trithons","area":"Profondeurs de Sufokia","areaId":63,"monster":["4435","4437","4439","4440","4441","4442","5748","5759"]},{"id":865,"subarea":"Tréfonds des Trithons","area":"Profondeurs de Sufokia","areaId":63,"monster":["4434","4436","4439","4440","4441","4442","4443","4506","5748","5759"]},{"id":866,"subarea":"Plateau de R'lyugluglu","area":"Profondeurs de Sufokia","areaId":63,"monster":["4438","4448","4449","4450","5748","5759"]},{"id":867,"subarea":"Fosse de R'lyugluglu","area":"Profondeurs de Sufokia","areaId":63,"monster":["4434","4437","4448","4449","4450","4451","5748","5759"]},{"id":868,"subarea":"Abîme de R'lyugluglu","area":"Profondeurs de Sufokia","areaId":63,"monster":["4435","4436","4448","4449","4450","4451","4452","4507","5748","5759"]},{"id":869,"subarea":"Vaisseau du Capitaine Meno","area":"Profondeurs de Sufokia","areaId":63,"monster":["4455","4456","4457","4458","4459","4460"]},{"id":870,"subarea":"Palais de Dantinéa","area":"Profondeurs de Sufokia","areaId":63,"monster":["4439","4440","4441","4442","4443","4444"]},{"id":871,"subarea":"Temple de Koutoulou","area":"Profondeurs de Sufokia","areaId":63,"monster":["4448","4449","4450","4451","4452","4453"]},{"id":872,"subarea":"Dunes des ossements","area":"Saharach","areaId":61,"monster":["4615","4616","4618","4619","4620","4675","5735","5756"]},{"id":873,"subarea":"Territoire Cacterre","area":"Saharach","areaId":61,"monster":["4604","4605","4606","4607","4622","5740","5757"]},{"id":875,"subarea":"Cimetière des Mastodontes","area":"Saharach","areaId":61,"monster":["4615","4616","4617","4619","4620","4621"]},{"id":876,"subarea":"Caverne d'El Piko","area":"Saharach","areaId":61,"monster":["4604","4605","4606","4607","4608","4609"]},{"id":878,"subarea":"Gorge des Vents Hurlants","area":"Saharach","areaId":61,"monster":["4728","4729","4730","4731","4737","5744","5758"]},{"id":879,"subarea":"Cité Oubliée","area":"Saharach","areaId":61,"monster":["4728","4729","4730","4731","5744","5758"]},{"id":880,"subarea":"Boyau du Père Ver","area":"Saharach","areaId":61,"monster":["4726","4727","4728","4729","4730","4731"]},{"id":881,"subarea":"Pyramide Maudite","area":"Saharach","areaId":61,"monster":["4734","4739","4740","4741","4742","4763","5748","5759"]},{"id":882,"subarea":"Chambre de Tal Kasha","area":"Saharach","areaId":61,"monster":["4739","4740","4741","4742","4743","4744"]},{"id":883,"subarea":"Nimotopia","area":"Nimotopia","areaId":62,"monster":["4805","4806","4807","4808","4834","4946","5746","5759"]},{"id":884,"subarea":"Camp du Comte Razof","area":"Nimotopia","areaId":62,"monster":["4803","4804","4805","4806","4807","4808"]},{"id":887,"subarea":"Labyrinthe des Vents Délétères","area":"Brâkmar","areaId":11,"monster":["1162","2692","2693"]},{"id":888,"subarea":"Chapiteau des Magik Riktus","area":"Landes de Sidimote","areaId":12,"monster":["4860","4861","4862","4863","4864","4865"]},{"id":889,"subarea":"Domaine des Fungus","area":"Landes de Sidimote","areaId":12,"monster":["1153","1154","1156","1158","2551","2553","2600","2601","5745","5758"]},{"id":890,"subarea":"Manoir des Katrepat","area":"Landes de Sidimote","areaId":12,"monster":["4877","4878","4879","4880","4881","4882"]},{"id":892,"subarea":"Caserne du Jour sans fin","area":"Île de Frigost","areaId":48,"monster":["4953","4969","4970","4971","4972","5309","5748","5759"]},{"id":893,"subarea":"Belvédère d'Ilyzaelle","area":"Île de Frigost","areaId":48,"monster":["4967","4968","4969","4970","4971","4972"]},{"id":896,"subarea":"Marches Magmatiques","area":"Landes de Sidimote","areaId":12,"monster":["5102","5103","5104","5105","5748","5759"]},{"id":897,"subarea":"Épaves Silencieuses","area":"Île de Frigost","areaId":48,"monster":["5112","5113","5114","5115","5748","5759"]},{"id":898,"subarea":"Tour de Solar","area":"Landes de Sidimote","areaId":12,"monster":["5100","5101","5102","5103","5104","5105"]},{"id":899,"subarea":"Tour de Bethel","area":"Île de Frigost","areaId":48,"monster":["5110","5111","5112","5113","5114","5115"]},{"id":902,"subarea":"Royaume des Martegel","area":"Île de Frigost","areaId":48,"monster":["5309","5315","5316","5317","5318","5748","5759"]},{"id":903,"subarea":"Brasserie du roi Dazak","area":"Île de Frigost","areaId":48,"monster":["5314","5315","5316","5317","5318","5319"]},{"id":907,"subarea":"Tikoltenak","area":"Archipel des Écailles","areaId":69,"monster":["5388"]},{"id":909,"subarea":"Songe de Mériana","area":"Rêve du Monde des Douze","areaId":68,"monster":["3578","3740","4045","4074","4614","4946"]},{"id":910,"subarea":"Carrière Chocolatée","area":"Île de Pwâk","areaId":71,"monster":["5689","5690","5691","5692"]},{"id":911,"subarea":"Jardins à la Crème","area":"Île de Pwâk","areaId":71,"monster":["5678","5679","5680","5681"]},{"id":912,"subarea":"Laboratoires des Chocomanciens","area":"Île de Pwâk","areaId":71,"monster":["5669","5670","5671","5672"]},{"id":913,"subarea":"Fonderie des Waddicts","area":"Île de Pwâk","areaId":71,"monster":["5652","5653","5689","5690","5691","5692"]},{"id":914,"subarea":"Croquanterie","area":"Île de Pwâk","areaId":71,"monster":["5664","5677","5678","5679","5680","5681"]},{"id":915,"subarea":"Temple du dieu Kao","area":"Île de Pwâk","areaId":71,"monster":["5666","5668","5669","5670","5671","5672"]},{"id":917,"subarea":"Crocuzko","area":"Archipel des Écailles","areaId":69,"monster":["5808","5809","5810","5811"]},{"id":918,"subarea":"Sanctuaire de Torkélonia","area":"Archipel des Écailles","areaId":69,"monster":["5806","5807","5808","5809","5810","5811"]},{"id":919,"subarea":"Repaire du Kharnozor","area":"Amakna","areaId":0,"monster":["858","878","879","905","5819","5820"]},{"id":920,"subarea":"Épreuve de Draegnerys","area":"Amakna","areaId":0,"monster":["76","87","88","89","5822","5823"]},{"id":924,"subarea":"Cauchemar de Rodak","area":"Rêve du Monde des Douze","areaId":68,"monster":["5956","5957","5958","5959"]},{"id":925,"subarea":"Galère de Servitude","area":"Dimensions des Cavaliers","areaId":84,"monster":["5978","5980","5983","5989"]},{"id":926,"subarea":"Blessures de Guerre","area":"Dimensions des Cavaliers","areaId":84,"monster":["6021","6022","6024","6025"]},{"id":927,"subarea":"Désert de Misère","area":"Dimensions des Cavaliers","areaId":84,"monster":["5992","5993","5994","5995"]},{"id":928,"subarea":"Royaume Corrompu","area":"Dimensions des Cavaliers","areaId":84,"monster":["6028","6029","6030","6031"]},{"id":930,"subarea":"Arbre de mort","area":"Dimensions des Cavaliers","areaId":84,"monster":["6026","6027","6028","6029","6030","6031"]},{"id":931,"subarea":"Trône de sang","area":"Dimensions des Cavaliers","areaId":84,"monster":["6014","6021","6022","6023","6024","6025"]},{"id":932,"subarea":"Sentence de la Balance","area":"Dimensions des Cavaliers","areaId":84,"monster":["5990","5991","5992","5993","5994","5995"]},{"id":933,"subarea":"Fers de la Tyrannie","area":"Dimensions des Cavaliers","areaId":84,"monster":["5955","5978","5979","5980","5983","5989"]},{"id":939,"subarea":"Tempête de l'Eliocalypse","area":"Eliocalypse","areaId":74,"monster":["5955","5979","5990","5991","6014","6023","6026","6027"]},{"id":941,"subarea":"Akwadala","area":"Île de Pandala","areaId":78,"monster":["2510","2590","2591","2592","5308","6203","6229","6230","6231"]},{"id":942,"subarea":"Plantala","area":"Île de Pandala","areaId":78,"monster":["2392","2415","2548","2593","5308","6318","6320","6321","6323"]},{"id":943,"subarea":"Feudala","area":"Île de Pandala","areaId":78,"monster":["555","2278","2303","2526","2597","5308","6251","6252","6253","6254"]},{"id":944,"subarea":"Terrdala","area":"Île de Pandala","areaId":78,"monster":["2414","2434","2527","2598","4949","5308","6220","6221","6222","6223"]},{"id":945,"subarea":"Aerdala","area":"Île de Pandala","areaId":78,"monster":["2398","2412","2511","2512","5308","6214","6215","6216","6217"]},{"id":946,"subarea":"Bambusaie de Damadrya","area":"Île de Pandala","areaId":78,"monster":["6318","6320","6321","6322","6323","6326"]},{"id":947,"subarea":"Vallée de la Dame des eaux","area":"Île de Pandala","areaId":78,"monster":["6203","6229","6230","6231","6247","6256"]},{"id":948,"subarea":"Atelier du Tanukouï San","area":"Île de Pandala","areaId":78,"monster":["6218","6219","6220","6221","6222","6223"]},{"id":949,"subarea":"Fabrique de foux d'artifice","area":"Île de Pandala","areaId":78,"monster":["6249","6251","6252","6253","6254","6255"]},{"id":950,"subarea":"Dojo du Vent","area":"Île de Pandala","areaId":78,"monster":["6204","6212","6213","6214","6215","6216","6217"]},{"id":952,"subarea":"Cimetière de Grobe","area":"Île de Grobe","areaId":79,"monster":["2370","2374","2469","2471","6383","6384","6385","6386"]},{"id":953,"subarea":"Tombe du Shogun Tofugawa","area":"Île de Grobe","areaId":79,"monster":["6383","6384","6385","6386","6387","6388"]},{"id":954,"subarea":"Demeure des Esprits","area":"Île de Grobe","areaId":79,"monster":["6389","6390","6391","6392","6393","6394"]},{"id":955,"subarea":"Mont des Tombeaux","area":"Île de Grobe","areaId":79,"monster":["2470","2477","2483","2564","5083","6389","6390","6391","6392"]},{"id":956,"subarea":"Royaume d'encre","area":"Wukin et Wukang","areaId":82,"monster":["6467","6468","6469","6470"]},{"id":957,"subarea":"Royaume de papier","area":"Wukin et Wukang","areaId":82,"monster":["6473","6474","6475","6476"]},{"id":958,"subarea":"Mémoire d'Orukam","area":"Wukin et Wukang","areaId":82,"monster":["6467","6468","6469","6470","6471","6472"]},{"id":959,"subarea":"Souvenir d'Imagiro","area":"Wukin et Wukang","areaId":82,"monster":["6473","6474","6475","6476","6477","6478"]},{"id":965,"subarea":"Jardin secret de Pandala","area":"Île de Pandala","areaId":78,"monster":["6314"]},{"id":967,"subarea":"Port des Ravageurs","area":"Atoll des Possédés","areaId":86,"monster":["6650","6651","6652","6653"]},{"id":968,"subarea":"Rituel de Kabahal","area":"Atoll des Possédés","areaId":86,"monster":["6650","6651","6652","6653","6654","6656"]},{"id":969,"subarea":"Pandamonium","area":"Atoll des Possédés","areaId":86,"monster":["6650","6651","6652","6653"]}]
+[
+  {
+    "id": 1,
+    "name": "Port de Madrestam",
+    "monsters": [
+      31,
+      34,
+      46,
+      2331,
+      2332,
+      2339,
+      2574,
+      5225
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 2,
+    "name": "Montagne des Craqueleurs",
+    "monsters": [
+      81,
+      83,
+      84,
+      102,
+      106,
+      123,
+      235,
+      269,
+      270,
+      271,
+      272,
+      483,
+      2326,
+      2367,
+      2368,
+      2369,
+      2436,
+      2451,
+      2543,
+      4570,
+      4571
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 3,
+    "name": "Champ des Ingalsse",
+    "monsters": [
+      52,
+      98,
+      157,
+      794,
+      796,
+      804,
+      806,
+      2355,
+      3525,
+      4824
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 4,
+    "name": "Forêt d'Amakna",
+    "monsters": [
+      103,
+      104,
+      159,
+      2333,
+      2349,
+      2353,
+      4000
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 5,
+    "name": "Coin des Bouftous",
+    "monsters": [
+      59,
+      78,
+      101,
+      134,
+      148,
+      149,
+      793,
+      1232,
+      2315,
+      2316,
+      2317,
+      2323,
+      2324,
+      2352
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 6,
+    "name": "Cimetière",
+    "monsters": [
+      54,
+      108,
+      110,
+      111,
+      154,
+      396,
+      2276,
+      2319,
+      2321,
+      2357,
+      2421,
+      2522,
+      2589,
+      3239,
+      4270
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 7,
+    "name": "Cryptes du cimetière",
+    "monsters": [
+      54,
+      108,
+      111,
+      124,
+      126,
+      127,
+      150,
+      154,
+      290,
+      291,
+      292,
+      396,
+      2302,
+      2354,
+      2357,
+      2532,
+      2542,
+      2772,
+      2786,
+      2788
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 8,
+    "name": "Campement des Bworks",
+    "monsters": [
+      53,
+      62,
+      74,
+      178,
+      876,
+      1247,
+      2416,
+      2417,
+      2418,
+      2430,
+      2494
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 9,
+    "name": "Dédale du Dark Vlad",
+    "monsters": [
+      6864,
+      6871,
+      6872,
+      6873
+    ],
+    "areaId": 92,
+    "area": "Forêt Maléfique"
+  },
+  {
+    "id": 10,
+    "name": "Village d'Amakna",
+    "monsters": [
+      236,
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      2341,
+      2342,
+      2343,
+      2345,
+      2347
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 11,
+    "name": "Territoire des Porcos",
+    "monsters": [
+      177,
+      603,
+      2432,
+      2453,
+      3304,
+      4227,
+      4228,
+      4229,
+      4277
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 12,
+    "name": "Péninsule des gelées",
+    "monsters": [
+      55,
+      56,
+      57,
+      2371,
+      2376,
+      2487
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 22,
+    "name": "Bord de la forêt maléfique",
+    "monsters": [
+      31,
+      34,
+      46,
+      61,
+      103,
+      104,
+      2331,
+      2332,
+      2336,
+      2349,
+      2353,
+      2574,
+      4000
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 23,
+    "name": "Presqu'île des Dragoeufs",
+    "monsters": [
+      76,
+      87,
+      88,
+      89,
+      177,
+      2372,
+      2377,
+      2449,
+      2450
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 25,
+    "name": "Souterrains des Wabbits",
+    "monsters": [
+      182
+    ],
+    "areaId": 1,
+    "area": "Île des Wabbits"
+  },
+  {
+    "id": 27,
+    "name": "Côte d'Asse",
+    "monsters": [
+      31,
+      34,
+      46,
+      2331,
+      2332,
+      2339,
+      2574,
+      5225
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 29,
+    "name": "Souterrains",
+    "monsters": [
+      52,
+      102,
+      118,
+      153,
+      1234,
+      4211,
+      4212,
+      4213,
+      4214
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 30,
+    "name": "Tainéla",
+    "monsters": [
+      101,
+      134,
+      148,
+      149,
+      793,
+      1232,
+      2315,
+      2316,
+      2317,
+      2324
+    ],
+    "areaId": 18,
+    "area": "Astrub"
+  },
+  {
+    "id": 31,
+    "name": "Marécages d'Amakna",
+    "monsters": [
+      112,
+      261,
+      263,
+      2428,
+      2439,
+      2549,
+      4833
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 32,
+    "name": "Sufokia",
+    "monsters": [
+      236,
+      490,
+      491,
+      492,
+      493,
+      2341,
+      2342,
+      2343,
+      2345,
+      2347,
+      3244
+    ],
+    "areaId": 5,
+    "area": "Baie de Sufokia"
+  },
+  {
+    "id": 33,
+    "name": "Bois des Arak-haï",
+    "monsters": [
+      102,
+      110,
+      159,
+      259,
+      290,
+      291,
+      292,
+      3992,
+      3993,
+      3994,
+      3995,
+      4196,
+      4197,
+      4198,
+      4199,
+      4393,
+      4394,
+      4395,
+      4398,
+      4399,
+      4400
+    ],
+    "areaId": 6,
+    "area": "Forêt des Abraknydes"
+  },
+  {
+    "id": 34,
+    "name": "Prison de Madrestam",
+    "monsters": [
+      54
+    ],
+    "areaId": 3,
+    "area": "Prison de Madrestam"
+  },
+  {
+    "id": 39,
+    "name": "Repaire des roublards",
+    "monsters": [],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 43,
+    "name": "Rives iridescentes",
+    "monsters": [
+      48,
+      78,
+      79,
+      467,
+      2277,
+      2348,
+      2352,
+      2358,
+      5394
+    ],
+    "areaId": 7,
+    "area": "Bonta"
+  },
+  {
+    "id": 54,
+    "name": "Massif de Cania",
+    "monsters": [
+      554,
+      2329,
+      2411,
+      2413,
+      4557,
+      4558,
+      4559,
+      4560
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 55,
+    "name": "Pénates du Corbac",
+    "monsters": [
+      281,
+      818,
+      819,
+      820,
+      2437
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 56,
+    "name": "Lac de Cania",
+    "monsters": [
+      273,
+      274,
+      275,
+      276,
+      277,
+      278,
+      279,
+      280,
+      2396,
+      2399,
+      2400,
+      2401,
+      2404,
+      2405,
+      2406,
+      2407
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 57,
+    "name": "Désolation de Sidimote",
+    "monsters": [
+      298,
+      299,
+      300,
+      464,
+      2285,
+      2378,
+      2440,
+      2520,
+      3096
+    ],
+    "areaId": 12,
+    "area": "Landes de Sidimote"
+  },
+  {
+    "id": 59,
+    "name": "Cimetière des Héros",
+    "monsters": [
+      290,
+      291,
+      292,
+      2320,
+      2322,
+      2422,
+      2589,
+      3239
+    ],
+    "areaId": 7,
+    "area": "Bonta"
+  },
+  {
+    "id": 61,
+    "name": "Cimetière des Torturés",
+    "monsters": [
+      290,
+      291,
+      292,
+      481,
+      2320,
+      2322,
+      2422,
+      2589,
+      2828,
+      2829,
+      2830,
+      2831,
+      2832,
+      2833,
+      2834,
+      2835,
+      3239
+    ],
+    "areaId": 11,
+    "area": "Brâkmar"
+  },
+  {
+    "id": 62,
+    "name": "Village des Dopeuls",
+    "monsters": [
+      384,
+      385,
+      386,
+      387,
+      388,
+      389,
+      390,
+      391,
+      392,
+      393,
+      422,
+      494,
+      570,
+      2289,
+      2384,
+      2391,
+      2433,
+      2493,
+      2508,
+      2525,
+      2539,
+      2540,
+      2585
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 68,
+    "name": "Champs de Cania",
+    "monsters": [
+      288,
+      294,
+      366,
+      2286,
+      2446,
+      2447,
+      2448,
+      4547,
+      4548
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 69,
+    "name": "Bois de Litneg",
+    "monsters": [
+      54,
+      108,
+      110,
+      233,
+      290,
+      291,
+      396,
+      459,
+      2276,
+      2300,
+      2319,
+      2320,
+      2321,
+      2322,
+      2421,
+      2685,
+      4538,
+      4539,
+      4540,
+      4614
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 70,
+    "name": "Plaines Rocheuses",
+    "monsters": [
+      293,
+      2438,
+      2543,
+      4570,
+      4571,
+      4573
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 71,
+    "name": "Gisgoul",
+    "monsters": [
+      479,
+      484,
+      485,
+      486,
+      487,
+      4816
+    ],
+    "areaId": 12,
+    "area": "Landes de Sidimote"
+  },
+  {
+    "id": 76,
+    "name": "Village des Brigandins",
+    "monsters": [],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 77,
+    "name": "Gelaxième dimension",
+    "monsters": [
+      55,
+      56,
+      57,
+      58,
+      85,
+      86,
+      429,
+      430
+    ],
+    "areaId": 83,
+    "area": "Gelaxième dimension"
+  },
+  {
+    "id": 82,
+    "name": "Cour du Bouftou Royal",
+    "monsters": [
+      101,
+      134,
+      147,
+      148,
+      149,
+      4822
+    ],
+    "areaId": 18,
+    "area": "Astrub"
+  },
+  {
+    "id": 84,
+    "name": "Foire du Trool",
+    "monsters": [],
+    "areaId": 15,
+    "area": "Foire du Trool"
+  },
+  {
+    "id": 93,
+    "name": "Plage de la Tortue",
+    "monsters": [
+      208,
+      209,
+      218,
+      220,
+      221,
+      222,
+      223,
+      2292,
+      2295,
+      2296,
+      2297,
+      2298,
+      2541,
+      2573,
+      4152
+    ],
+    "areaId": 2,
+    "area": "Île de Moon"
+  },
+  {
+    "id": 94,
+    "name": "Grotte du Bworker",
+    "monsters": [
+      478,
+      479,
+      484,
+      485,
+      486,
+      487,
+      488
+    ],
+    "areaId": 12,
+    "area": "Landes de Sidimote"
+  },
+  {
+    "id": 95,
+    "name": "Cité d'Astrub",
+    "monsters": [
+      236,
+      463,
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      1247,
+      2341,
+      2342,
+      2343,
+      2344,
+      2345,
+      2347
+    ],
+    "areaId": 18,
+    "area": "Astrub"
+  },
+  {
+    "id": 96,
+    "name": "Carrière d'Astrub",
+    "monsters": [
+      118,
+      5228,
+      5229,
+      5230,
+      5231
+    ],
+    "areaId": 18,
+    "area": "Astrub"
+  },
+  {
+    "id": 97,
+    "name": "Forêt d'Astrub",
+    "monsters": [
+      103,
+      104,
+      159,
+      460,
+      2333,
+      2349,
+      2353,
+      4823
+    ],
+    "areaId": 18,
+    "area": "Astrub"
+  },
+  {
+    "id": 98,
+    "name": "Champs d'Astrub",
+    "monsters": [
+      48,
+      78,
+      79,
+      2348,
+      2352,
+      2358,
+      4820
+    ],
+    "areaId": 18,
+    "area": "Astrub"
+  },
+  {
+    "id": 99,
+    "name": "Souterrains d'Astrub",
+    "monsters": [
+      473,
+      474,
+      2312,
+      2356,
+      4817,
+      4818
+    ],
+    "areaId": 18,
+    "area": "Astrub"
+  },
+  {
+    "id": 100,
+    "name": "Égouts d'Astrub",
+    "monsters": [
+      255,
+      465,
+      475,
+      2334,
+      2350,
+      2393,
+      3205
+    ],
+    "areaId": 18,
+    "area": "Astrub"
+  },
+  {
+    "id": 102,
+    "name": "Cimetière d'Astrub",
+    "monsters": [
+      495,
+      496,
+      498,
+      2486,
+      2524,
+      2616,
+      5227
+    ],
+    "areaId": 18,
+    "area": "Astrub"
+  },
+  {
+    "id": 103,
+    "name": "Territoire des Bandits",
+    "monsters": [
+      118,
+      119,
+      153,
+      155,
+      2314,
+      2318,
+      2328,
+      2335,
+      2636,
+      4181,
+      4182
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 154,
+    "name": "Antre du Dragon Cochon",
+    "monsters": [
+      113,
+      600,
+      601,
+      603,
+      3137,
+      3304
+    ],
+    "areaId": 26,
+    "area": "Labyrinthe du Dragon Cochon"
+  },
+  {
+    "id": 161,
+    "name": "Île de la Cawotte",
+    "monsters": [
+      64,
+      65,
+      68,
+      72,
+      96,
+      2293,
+      2294,
+      2304,
+      2402,
+      2403
+    ],
+    "areaId": 1,
+    "area": "Île des Wabbits"
+  },
+  {
+    "id": 162,
+    "name": "Îlot de Waldo",
+    "monsters": [
+      97,
+      99,
+      2308,
+      2498
+    ],
+    "areaId": 1,
+    "area": "Île des Wabbits"
+  },
+  {
+    "id": 163,
+    "name": "Îlot des Tombeaux",
+    "monsters": [
+      179,
+      2305,
+      3469
+    ],
+    "areaId": 1,
+    "area": "Île des Wabbits"
+  },
+  {
+    "id": 164,
+    "name": "Îlot de la Couronne",
+    "monsters": [
+      64,
+      65,
+      97,
+      99,
+      2304,
+      2308,
+      2403,
+      2498,
+      4273
+    ],
+    "areaId": 1,
+    "area": "Île des Wabbits"
+  },
+  {
+    "id": 165,
+    "name": "Jungle Interdite",
+    "monsters": [
+      215,
+      216,
+      217,
+      2301,
+      2484,
+      2495,
+      4162,
+      4240
+    ],
+    "areaId": 2,
+    "area": "Île de Moon"
+  },
+  {
+    "id": 166,
+    "name": "Forêt des Masques",
+    "monsters": [
+      211,
+      212,
+      213,
+      214,
+      2502,
+      2505,
+      2506,
+      2507
+    ],
+    "areaId": 2,
+    "area": "Île de Moon"
+  },
+  {
+    "id": 167,
+    "name": "Chemin du Crâne",
+    "monsters": [
+      228,
+      229,
+      231,
+      2408,
+      2419,
+      2538,
+      4160,
+      4276
+    ],
+    "areaId": 2,
+    "area": "Île de Moon"
+  },
+  {
+    "id": 168,
+    "name": "Forêt Sombre",
+    "monsters": [
+      47,
+      118,
+      253,
+      254,
+      256,
+      649,
+      650,
+      651,
+      2386,
+      2388,
+      2389,
+      2821,
+      4014
+    ],
+    "areaId": 6,
+    "area": "Forêt des Abraknydes"
+  },
+  {
+    "id": 169,
+    "name": "Orée de la forêt des Abraknydes",
+    "monsters": [
+      47,
+      62,
+      178,
+      256,
+      259,
+      650,
+      2299,
+      2309,
+      2311,
+      2385,
+      4192,
+      4193,
+      4194,
+      4195,
+      5219
+    ],
+    "areaId": 6,
+    "area": "Forêt des Abraknydes"
+  },
+  {
+    "id": 170,
+    "name": "Plaine des Scarafeuilles",
+    "monsters": [
+      171,
+      194,
+      198,
+      200,
+      240,
+      241,
+      242,
+      243,
+      244,
+      245,
+      2280,
+      2281,
+      2282,
+      2283
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 173,
+    "name": "Prairies d'Astrub",
+    "monsters": [
+      31,
+      34,
+      46,
+      2331,
+      2332,
+      2339,
+      2574,
+      4266,
+      5225
+    ],
+    "areaId": 18,
+    "area": "Astrub"
+  },
+  {
+    "id": 175,
+    "name": "Domaine Ancestral",
+    "monsters": [
+      173,
+      253,
+      254,
+      651,
+      917
+    ],
+    "areaId": 6,
+    "area": "Forêt des Abraknydes"
+  },
+  {
+    "id": 178,
+    "name": "Plaine des Porkass",
+    "monsters": [
+      123,
+      297,
+      343,
+      344,
+      2279,
+      2325,
+      2397,
+      2420,
+      4272
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 179,
+    "name": "Coin des Boos",
+    "monsters": [
+      101,
+      112,
+      134,
+      149,
+      2549
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 180,
+    "name": "Château d'Amakna",
+    "monsters": [],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 181,
+    "name": "Souterrains du Château d'Amakna",
+    "monsters": [
+      232,
+      442,
+      447,
+      449,
+      2273,
+      2275,
+      2423,
+      4825
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 182,
+    "name": "Village des Eleveurs",
+    "monsters": [],
+    "areaId": 28,
+    "area": "Montagne des Koalaks"
+  },
+  {
+    "id": 200,
+    "name": "Labyrinthe du Dragon Cochon",
+    "monsters": [
+      600,
+      601,
+      603,
+      2432,
+      2453,
+      3304
+    ],
+    "areaId": 26,
+    "area": "Labyrinthe du Dragon Cochon"
+  },
+  {
+    "id": 201,
+    "name": "Donjon des Tofus",
+    "monsters": [
+      98,
+      796,
+      800,
+      804,
+      806,
+      808,
+      4824,
+      5222,
+      5223,
+      5224
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 209,
+    "name": "Île du Minotoror",
+    "monsters": [
+      829,
+      834,
+      835,
+      836,
+      2287,
+      2521,
+      2529,
+      2533,
+      5074
+    ],
+    "areaId": 30,
+    "area": "Île du Minotoror"
+  },
+  {
+    "id": 210,
+    "name": "Centre du labyrinthe du Minotoror",
+    "monsters": [
+      121,
+      668,
+      827,
+      829,
+      830,
+      831,
+      832,
+      3740
+    ],
+    "areaId": 30,
+    "area": "Île du Minotoror"
+  },
+  {
+    "id": 211,
+    "name": "Bibliothèque du Maître Corbac",
+    "monsters": [
+      281,
+      289,
+      818,
+      819,
+      820,
+      823,
+      824,
+      825,
+      4572,
+      4578,
+      4579,
+      4580,
+      4581
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 213,
+    "name": "Tanière du Meulou",
+    "monsters": [
+      102,
+      232,
+      299,
+      4866,
+      4867,
+      4868,
+      4869
+    ],
+    "areaId": 12,
+    "area": "Landes de Sidimote"
+  },
+  {
+    "id": 223,
+    "name": "Caverne du Koulosse",
+    "monsters": [
+      670,
+      671,
+      746,
+      747,
+      748,
+      751,
+      752,
+      753,
+      754,
+      755,
+      763,
+      784
+    ],
+    "areaId": 28,
+    "area": "Montagne des Koalaks"
+  },
+  {
+    "id": 230,
+    "name": "Cimetière primitif",
+    "monsters": [
+      758,
+      759,
+      760,
+      761,
+      2429,
+      2482,
+      2531,
+      2534
+    ],
+    "areaId": 28,
+    "area": "Montagne des Koalaks"
+  },
+  {
+    "id": 231,
+    "name": "Lacs enchantés",
+    "monsters": [
+      550,
+      747,
+      748,
+      784,
+      786,
+      2270,
+      2271,
+      2442,
+      2517
+    ],
+    "areaId": 28,
+    "area": "Montagne des Koalaks"
+  },
+  {
+    "id": 232,
+    "name": "Marécages nauséabonds",
+    "monsters": [
+      112,
+      261,
+      263,
+      2428,
+      2439,
+      2549,
+      4833
+    ],
+    "areaId": 28,
+    "area": "Montagne des Koalaks"
+  },
+  {
+    "id": 233,
+    "name": "Marécages sans fond",
+    "monsters": [
+      112,
+      261,
+      263,
+      2428,
+      2439,
+      2549,
+      3527,
+      4833
+    ],
+    "areaId": 28,
+    "area": "Montagne des Koalaks"
+  },
+  {
+    "id": 234,
+    "name": "Forêt de Kaliptus",
+    "monsters": [
+      446,
+      746,
+      747,
+      748,
+      785,
+      2306,
+      2442,
+      2515,
+      2517
+    ],
+    "areaId": 28,
+    "area": "Montagne des Koalaks"
+  },
+  {
+    "id": 235,
+    "name": "Territoire des Dragodindes Sauvages",
+    "monsters": [
+      171,
+      200,
+      666,
+      2379,
+      2465,
+      4275,
+      4831
+    ],
+    "areaId": 28,
+    "area": "Montagne des Koalaks"
+  },
+  {
+    "id": 243,
+    "name": "Pitons Rocheux des Craqueleurs",
+    "monsters": [
+      106,
+      293,
+      483,
+      669,
+      826,
+      4570,
+      4573
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 253,
+    "name": "Canyon sauvage",
+    "monsters": [
+      746,
+      747,
+      751,
+      752,
+      753,
+      754,
+      755,
+      763,
+      2306,
+      2442,
+      2462,
+      2509,
+      2513,
+      2516,
+      2518,
+      2528
+    ],
+    "areaId": 28,
+    "area": "Montagne des Koalaks"
+  },
+  {
+    "id": 254,
+    "name": "Repaire de Skeunk",
+    "monsters": [
+      673,
+      674,
+      675,
+      676,
+      677,
+      681,
+      744,
+      745,
+      749,
+      754,
+      756,
+      780,
+      783
+    ],
+    "areaId": 28,
+    "area": "Montagne des Koalaks"
+  },
+  {
+    "id": 275,
+    "name": "Vallée de la Morh'Kitu",
+    "monsters": [
+      744,
+      745,
+      749,
+      756,
+      783,
+      2307,
+      2497,
+      2514,
+      2519,
+      2567
+    ],
+    "areaId": 28,
+    "area": "Montagne des Koalaks"
+  },
+  {
+    "id": 276,
+    "name": "Campement des Gobelins",
+    "monsters": [
+      62,
+      178,
+      1247,
+      2430,
+      2494,
+      6901,
+      6902
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 277,
+    "name": "Village des Bworks",
+    "monsters": [
+      53,
+      74,
+      236,
+      492,
+      791,
+      876,
+      2416,
+      2417,
+      2418
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 279,
+    "name": "Pâturages de Bonta",
+    "monsters": [],
+    "areaId": 7,
+    "area": "Bonta"
+  },
+  {
+    "id": 280,
+    "name": "Bordure de Brâkmar",
+    "monsters": [
+      378,
+      379,
+      380,
+      397,
+      415,
+      462,
+      932,
+      2466,
+      2467,
+      2468,
+      2563,
+      4974
+    ],
+    "areaId": 11,
+    "area": "Brâkmar"
+  },
+  {
+    "id": 284,
+    "name": "Donjon des Bworks",
+    "monsters": [
+      53,
+      74,
+      791,
+      792,
+      876,
+      2680
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 297,
+    "name": "Donjon des Scarafeuilles",
+    "monsters": [
+      194,
+      198,
+      240,
+      241,
+      795,
+      797,
+      798
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 306,
+    "name": "Grange du Tournesol Affamé",
+    "monsters": [
+      48,
+      78,
+      79,
+      799,
+      4820,
+      4821
+    ],
+    "areaId": 18,
+    "area": "Astrub"
+  },
+  {
+    "id": 314,
+    "name": "Sanctuaire des Dragoeufs",
+    "monsters": [
+      853,
+      855,
+      862,
+      2452,
+      2459,
+      2461,
+      2464,
+      5804
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 315,
+    "name": "Village des Dragoeufs",
+    "monsters": [
+      494,
+      858,
+      878,
+      879,
+      905,
+      2454,
+      2456,
+      2458,
+      2460
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 316,
+    "name": "Souterrains des Dragoeufs",
+    "monsters": [
+      858,
+      878,
+      879,
+      905,
+      2454,
+      2456,
+      2458,
+      2460
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 319,
+    "name": "Labyrinthe du Minotoror",
+    "monsters": [
+      668,
+      829,
+      830,
+      831,
+      832,
+      2287,
+      2568,
+      2615
+    ],
+    "areaId": 30,
+    "area": "Île du Minotoror"
+  },
+  {
+    "id": 320,
+    "name": "Havre de Nowel",
+    "monsters": [
+      840,
+      841,
+      842,
+      849,
+      868,
+      870,
+      896,
+      899,
+      901,
+      1180,
+      2622,
+      3117
+    ],
+    "areaId": 42,
+    "area": "Île de Nowel"
+  },
+  {
+    "id": 321,
+    "name": "Donjon de Nowel",
+    "monsters": [
+      840,
+      841,
+      849,
+      868,
+      870,
+      896,
+      899,
+      901,
+      1179,
+      1180
+    ],
+    "areaId": 42,
+    "area": "Île de Nowel"
+  },
+  {
+    "id": 325,
+    "name": "Antre de Crocabulia",
+    "monsters": [
+      853,
+      854,
+      855,
+      862,
+      5804,
+      5805
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 334,
+    "name": "Baie de Cania",
+    "monsters": [
+      385,
+      386,
+      388,
+      389,
+      393,
+      552,
+      570,
+      2289,
+      2391,
+      2433,
+      2508,
+      2525
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 335,
+    "name": "Calanques d'Astrub",
+    "monsters": [
+      920,
+      921,
+      922,
+      923,
+      2272,
+      2338,
+      2340,
+      2346
+    ],
+    "areaId": 18,
+    "area": "Astrub"
+  },
+  {
+    "id": 336,
+    "name": "Château Ensablé",
+    "monsters": [
+      920,
+      921,
+      922,
+      923,
+      924,
+      928
+    ],
+    "areaId": 18,
+    "area": "Astrub"
+  },
+  {
+    "id": 339,
+    "name": "Donjon des Rats du Château d'Amakna",
+    "monsters": [
+      939,
+      940,
+      943,
+      3345,
+      3346,
+      3347,
+      3348,
+      3349,
+      3350,
+      3351,
+      3352
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 442,
+    "name": "Lac",
+    "monsters": [
+      4108,
+      4109,
+      4110
+    ],
+    "areaId": 45,
+    "area": "Incarnam"
+  },
+  {
+    "id": 443,
+    "name": "Forêt",
+    "monsters": [
+      982,
+      4105,
+      4106
+    ],
+    "areaId": 45,
+    "area": "Incarnam"
+  },
+  {
+    "id": 444,
+    "name": "Champs",
+    "monsters": [
+      970,
+      979,
+      980,
+      981
+    ],
+    "areaId": 45,
+    "area": "Incarnam"
+  },
+  {
+    "id": 445,
+    "name": "Pâturages",
+    "monsters": [
+      971,
+      972,
+      973,
+      984
+    ],
+    "areaId": 45,
+    "area": "Incarnam"
+  },
+  {
+    "id": 446,
+    "name": "Temple Céleste",
+    "monsters": [],
+    "areaId": 45,
+    "area": "Incarnam"
+  },
+  {
+    "id": 447,
+    "name": "Crypte de Kardorim",
+    "monsters": [
+      4046,
+      4047,
+      4048,
+      4049,
+      4050,
+      4051
+    ],
+    "areaId": 45,
+    "area": "Incarnam"
+  },
+  {
+    "id": 448,
+    "name": "Taverne",
+    "monsters": [],
+    "areaId": 45,
+    "area": "Incarnam"
+  },
+  {
+    "id": 449,
+    "name": "Cimetière",
+    "monsters": [
+      4046,
+      4047,
+      4048,
+      4049
+    ],
+    "areaId": 45,
+    "area": "Incarnam"
+  },
+  {
+    "id": 450,
+    "name": "Route des âmes",
+    "monsters": [
+      3270,
+      3271,
+      3272,
+      3273
+    ],
+    "areaId": 45,
+    "area": "Incarnam"
+  },
+  {
+    "id": 451,
+    "name": "Île des naufragés",
+    "monsters": [
+      208,
+      209,
+      218,
+      1078,
+      1229,
+      1230,
+      1231,
+      2292,
+      2541,
+      2573
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 452,
+    "name": "Sud de la mer d'Asse",
+    "monsters": [
+      3552,
+      3553,
+      3554
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 453,
+    "name": "Plage de Corail",
+    "monsters": [
+      1022,
+      1060,
+      1061,
+      1062,
+      1063,
+      1064,
+      1065,
+      1066,
+      1067,
+      2555,
+      2557,
+      2558,
+      2559,
+      2560,
+      2581,
+      2582,
+      2583,
+      2584
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 454,
+    "name": "Plaines herbeuses",
+    "monsters": [
+      1019,
+      1025,
+      1026,
+      1068,
+      1069,
+      1070,
+      2547,
+      2556,
+      2561,
+      2571,
+      2572,
+      2580,
+      5073
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 455,
+    "name": "Jungle obscure",
+    "monsters": [
+      1029,
+      1041,
+      1073,
+      1074,
+      1075,
+      1076,
+      1077,
+      2360,
+      2544,
+      2546,
+      2550,
+      2554,
+      2565,
+      2579,
+      3528
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 457,
+    "name": "Tourbière sans fond",
+    "monsters": [
+      1057,
+      1058,
+      1059,
+      1096,
+      2361,
+      2363,
+      2575,
+      2614,
+      4041
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 459,
+    "name": "Canopée du Kimbo",
+    "monsters": [
+      1020,
+      1043,
+      1044,
+      1045,
+      1046,
+      1047
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 460,
+    "name": "Grotte Hesque",
+    "monsters": [
+      1022,
+      1027,
+      1060,
+      1061,
+      1062,
+      1063,
+      1064,
+      1065,
+      1066,
+      1067
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 461,
+    "name": "Arche d'Otomaï",
+    "monsters": [
+      1048,
+      1049,
+      1050,
+      2545,
+      2588,
+      4274
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 462,
+    "name": "Clairière de Floribonde",
+    "monsters": [
+      5696,
+      5697,
+      5698,
+      5699,
+      5700,
+      5701,
+      5702
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 463,
+    "name": "Laboratoire du Tynril",
+    "monsters": [
+      1029,
+      1041,
+      1072,
+      1073,
+      1074,
+      1075,
+      1076,
+      1077,
+      1085,
+      1086,
+      1087
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 464,
+    "name": "Tronc de l'arbre Hakam",
+    "monsters": [
+      1020,
+      1043,
+      1044,
+      1046,
+      1047,
+      2381,
+      2382,
+      2383,
+      2570,
+      2577,
+      5081
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 465,
+    "name": "Village des éleveurs",
+    "monsters": [],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 466,
+    "name": "Village côtier",
+    "monsters": [],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 467,
+    "name": "Cimetière de l'île d'Otomaï",
+    "monsters": [],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 468,
+    "name": "Village des Zoths",
+    "monsters": [
+      494,
+      1052,
+      1053,
+      1054,
+      1055,
+      1056,
+      2562,
+      2566,
+      2569,
+      2578,
+      2587
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 469,
+    "name": "Village de la Canopée",
+    "monsters": [
+      1052,
+      1053,
+      1054,
+      1055,
+      1056,
+      2562,
+      2566,
+      2569,
+      2578,
+      2587,
+      5076
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 470,
+    "name": "Goulet du Rasboul",
+    "monsters": [
+      1019,
+      1025,
+      1026,
+      1068,
+      1069,
+      1070,
+      1071
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 471,
+    "name": "Tourbière nauséabonde",
+    "monsters": [
+      1057,
+      1058,
+      1059,
+      1096,
+      2361,
+      2363,
+      2575,
+      2614,
+      3524
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 472,
+    "name": "Feuillage de l'arbre Hakam",
+    "monsters": [
+      1020,
+      1043,
+      1044,
+      2382,
+      2383,
+      2570
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 473,
+    "name": "Laboratoire caché",
+    "monsters": [
+      5703,
+      5704,
+      5705,
+      5706,
+      5707,
+      5708
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 474,
+    "name": "Cale de l'arche d'Otomaï",
+    "monsters": [
+      228,
+      229,
+      231,
+      1048,
+      1049,
+      1050,
+      1051
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 479,
+    "name": "Rivière Kawaii",
+    "monsters": [
+      31,
+      34,
+      46,
+      2331,
+      2332,
+      2339,
+      2574,
+      5225
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 480,
+    "name": "Montagne basse des Craqueleurs",
+    "monsters": [
+      52,
+      53,
+      62,
+      74,
+      106,
+      178,
+      483,
+      876,
+      1247,
+      2326,
+      2416,
+      2417,
+      2418,
+      2430,
+      2436,
+      2494,
+      2543,
+      4570,
+      4571
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 481,
+    "name": "Clairière de Brouce Boulgoure",
+    "monsters": [
+      652,
+      653,
+      654,
+      655,
+      2424,
+      2425,
+      2426,
+      2427,
+      4268
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 482,
+    "name": "Millifutaie",
+    "monsters": [
+      103,
+      104,
+      159,
+      491,
+      492,
+      493,
+      2333,
+      2349,
+      2353,
+      3588,
+      3589,
+      3590,
+      3591,
+      3592,
+      4823
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 485,
+    "name": "Campagne d'Amakna",
+    "monsters": [
+      52,
+      59,
+      61,
+      2310,
+      2323,
+      2336,
+      4819
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 488,
+    "name": "Sous-sol de la Bibliothèque",
+    "monsters": [],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 490,
+    "name": "Rivage sufokien",
+    "monsters": [
+      63,
+      926,
+      927,
+      954,
+      2327,
+      2351,
+      2431,
+      2457
+    ],
+    "areaId": 5,
+    "area": "Baie de Sufokia"
+  },
+  {
+    "id": 491,
+    "name": "Donjon des Larves",
+    "monsters": [
+      412,
+      413,
+      414,
+      456,
+      457,
+      3358,
+      3359
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 492,
+    "name": "Passage vers Brâkmar",
+    "monsters": [
+      118,
+      119,
+      153,
+      466,
+      2313,
+      2318,
+      2328,
+      2335
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 493,
+    "name": "Clos des Blops",
+    "monsters": [
+      273,
+      274,
+      275,
+      276,
+      1181,
+      1182,
+      1183,
+      1184,
+      1185,
+      1186,
+      1187
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 494,
+    "name": "Temple du Grand Ougah",
+    "monsters": [
+      59,
+      1153,
+      1154,
+      1155,
+      1156,
+      1157,
+      1158,
+      1159,
+      1178
+    ],
+    "areaId": 12,
+    "area": "Landes de Sidimote"
+  },
+  {
+    "id": 495,
+    "name": "Caverne des Fungus",
+    "monsters": [
+      1155,
+      1156,
+      1157,
+      1158,
+      2373,
+      2551,
+      2552,
+      2600,
+      5084
+    ],
+    "areaId": 12,
+    "area": "Landes de Sidimote"
+  },
+  {
+    "id": 500,
+    "name": "Cimetière du village des Zoths",
+    "monsters": [],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 501,
+    "name": "Îlot Estitch",
+    "monsters": [],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 516,
+    "name": "Donjon des Squelettes",
+    "monsters": [
+      54,
+      108,
+      110,
+      396,
+      3238,
+      3239,
+      3240
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 517,
+    "name": "Terres Désacrées",
+    "monsters": [
+      4878,
+      4879,
+      4880,
+      4881
+    ],
+    "areaId": 12,
+    "area": "Landes de Sidimote"
+  },
+  {
+    "id": 518,
+    "name": "Landes de Cania",
+    "monsters": [
+      4550,
+      4551,
+      4552,
+      4553,
+      5077
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 519,
+    "name": "Dents de Pierre",
+    "monsters": [
+      2472,
+      2473,
+      2474,
+      2475,
+      2476,
+      3558,
+      3559,
+      3560,
+      3561,
+      3562,
+      4017
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 521,
+    "name": "Pics de Cania",
+    "monsters": [
+      4541,
+      4542,
+      4543,
+      4544
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 522,
+    "name": "Hauts des Hurlements",
+    "monsters": [
+      102,
+      2337,
+      4815,
+      4867,
+      4868,
+      4869
+    ],
+    "areaId": 12,
+    "area": "Landes de Sidimote"
+  },
+  {
+    "id": 523,
+    "name": "Cirque de Cania",
+    "monsters": [
+      1119,
+      1121,
+      3620,
+      3621,
+      3622,
+      3623,
+      4015
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 525,
+    "name": "Routes Rocailleuses",
+    "monsters": [
+      118,
+      259,
+      287,
+      288,
+      293,
+      371,
+      2359,
+      2445,
+      2455,
+      2503,
+      2790,
+      2791,
+      2793,
+      2796,
+      2882,
+      4571,
+      4573,
+      4574,
+      4575
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 526,
+    "name": "Route des Roulottes",
+    "monsters": [
+      4814,
+      4862,
+      4863,
+      4864,
+      4865
+    ],
+    "areaId": 12,
+    "area": "Landes de Sidimote"
+  },
+  {
+    "id": 528,
+    "name": "Donjon des Forgerons",
+    "monsters": [
+      118,
+      119,
+      153,
+      155,
+      252
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 536,
+    "name": "Tutoriel guidé",
+    "monsters": [
+      2781,
+      2785
+    ],
+    "areaId": 45,
+    "area": "Incarnam"
+  },
+  {
+    "id": 537,
+    "name": "Château du Wa Wabbit",
+    "monsters": [
+      64,
+      65,
+      68,
+      72,
+      96,
+      97,
+      99,
+      180
+    ],
+    "areaId": 1,
+    "area": "Île des Wabbits"
+  },
+  {
+    "id": 538,
+    "name": "Terrier du Wa Wabbit",
+    "monsters": [
+      181,
+      3460,
+      3461,
+      3462,
+      3463,
+      3474
+    ],
+    "areaId": 1,
+    "area": "Île des Wabbits"
+  },
+  {
+    "id": 541,
+    "name": "Maison premium",
+    "monsters": [
+      2802
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 600,
+    "name": "Port de givre",
+    "monsters": [
+      2892,
+      2893,
+      2913,
+      2914
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 601,
+    "name": "La Bourgade",
+    "monsters": [
+      2892,
+      2893,
+      2894,
+      2911,
+      2913,
+      2914
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 602,
+    "name": "Champs de glace",
+    "monsters": [
+      2819,
+      2850,
+      2851,
+      2852,
+      2853,
+      2901
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 603,
+    "name": "Village enseveli",
+    "monsters": [
+      2888,
+      2889,
+      2890,
+      2891,
+      2892
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 604,
+    "name": "Forêt des pins perdus",
+    "monsters": [
+      2845,
+      2846,
+      2847,
+      2859,
+      2860,
+      2903
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 605,
+    "name": "Forêt pétrifiée",
+    "monsters": [
+      2895,
+      2896,
+      2897,
+      2898,
+      2908
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 606,
+    "name": "Crevasse Perge",
+    "monsters": [
+      2888,
+      2889,
+      2890,
+      2891,
+      2906
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 608,
+    "name": "Crocs de verre",
+    "monsters": [
+      2883,
+      2885,
+      2886,
+      2909,
+      2965,
+      2966
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 609,
+    "name": "Berceau d'Alma",
+    "monsters": [
+      2874,
+      2875,
+      2876,
+      2878,
+      2880,
+      2881,
+      2904,
+      2918,
+      2920,
+      2921
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 610,
+    "name": "Larmes d'Ouronigride",
+    "monsters": [
+      2865,
+      2866,
+      2869,
+      2905
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 611,
+    "name": "Mont Torrideau",
+    "monsters": [
+      2861,
+      2862,
+      2863,
+      4016
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 615,
+    "name": "Lac gelé",
+    "monsters": [
+      2849,
+      2855,
+      2856,
+      2857,
+      2858,
+      2902,
+      3370
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 616,
+    "name": "Entrée du château de Harebourg",
+    "monsters": [],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 617,
+    "name": "Serre du Royalmouth",
+    "monsters": [
+      2850,
+      2851,
+      2852,
+      2853,
+      2854
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 618,
+    "name": "Excavation du Mansot Royal",
+    "monsters": [
+      2848,
+      2849,
+      2855,
+      2856,
+      2857,
+      2858
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 619,
+    "name": "Épave du Grolandais violent",
+    "monsters": [
+      2874,
+      2875,
+      2876,
+      2877,
+      2878,
+      2880,
+      2881
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 620,
+    "name": "Hypogée de l'Obsidiantre",
+    "monsters": [
+      2865,
+      2866,
+      2867,
+      2868,
+      2869,
+      2924
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 621,
+    "name": "Tanière Givrefoux",
+    "monsters": [
+      2888,
+      2889,
+      2890,
+      2891,
+      2967,
+      2982,
+      3234
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 622,
+    "name": "Cavernes des Givrefoux",
+    "monsters": [
+      2888,
+      2889,
+      2890,
+      2891,
+      2970
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 623,
+    "name": "Antre du Korriandre",
+    "monsters": [
+      2895,
+      2896,
+      2897,
+      2898,
+      2900,
+      2968
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 624,
+    "name": "Cavernes du Kolosso",
+    "monsters": [
+      2883,
+      2884,
+      2885,
+      2886,
+      2965,
+      2966,
+      2986,
+      2992
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 625,
+    "name": "Mer Kantil",
+    "monsters": [],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 626,
+    "name": "Grottes gelées",
+    "monsters": [],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 650,
+    "name": "Port de Sakaï",
+    "monsters": [],
+    "areaId": 49,
+    "area": "Île de Sakaï"
+  },
+  {
+    "id": 651,
+    "name": "Plaine de Sakaï",
+    "monsters": [
+      2932,
+      2933,
+      2934
+    ],
+    "areaId": 49,
+    "area": "Île de Sakaï"
+  },
+  {
+    "id": 652,
+    "name": "Forêt enneigée",
+    "monsters": [
+      2932,
+      2933,
+      2934,
+      2935,
+      2941,
+      3400
+    ],
+    "areaId": 49,
+    "area": "Île de Sakaï"
+  },
+  {
+    "id": 653,
+    "name": "Mine abandonnée de Sakaï",
+    "monsters": [
+      2932,
+      2933,
+      2934,
+      2935,
+      2936,
+      2937,
+      2941,
+      2942
+    ],
+    "areaId": 49,
+    "area": "Île de Sakaï"
+  },
+  {
+    "id": 700,
+    "name": "Village Kanniboul",
+    "monsters": [
+      211,
+      212,
+      213,
+      214,
+      2960,
+      4151
+    ],
+    "areaId": 2,
+    "area": "Île de Moon"
+  },
+  {
+    "id": 702,
+    "name": "Maison Fantôme",
+    "monsters": [
+      111,
+      127,
+      154,
+      498,
+      2975,
+      3235
+    ],
+    "areaId": 15,
+    "area": "Foire du Trool"
+  },
+  {
+    "id": 750,
+    "name": "Arènes de Goultard",
+    "monsters": [
+      494,
+      3141
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 751,
+    "name": "Prison des MJs",
+    "monsters": [],
+    "areaId": 56,
+    "area": "Zone privée"
+  },
+  {
+    "id": 752,
+    "name": "Antichambre des Gloursons",
+    "monsters": [
+      2861,
+      2862,
+      2863,
+      2864,
+      2987,
+      2988,
+      2989
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 753,
+    "name": "Ruche des Gloursons",
+    "monsters": [
+      2861,
+      2862,
+      2863,
+      2910,
+      2988,
+      2989,
+      3115
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 755,
+    "name": "Nid du Kwakwa",
+    "monsters": [
+      81,
+      83,
+      84,
+      235,
+      269,
+      270,
+      271,
+      272,
+      2995,
+      3281,
+      3282,
+      3283,
+      3284
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 756,
+    "name": "Laboratoire de Brumen Tinctorias",
+    "monsters": [
+      298,
+      299,
+      300,
+      301,
+      3096,
+      3100
+    ],
+    "areaId": 12,
+    "area": "Landes de Sidimote"
+  },
+  {
+    "id": 757,
+    "name": "Terre de Nowel",
+    "monsters": [
+      839,
+      845,
+      847,
+      851,
+      867,
+      869,
+      871,
+      907,
+      3118
+    ],
+    "areaId": 42,
+    "area": "Île de Nowel"
+  },
+  {
+    "id": 758,
+    "name": "Taïga de Nowel",
+    "monsters": [
+      839,
+      843,
+      864,
+      869,
+      888,
+      891,
+      906,
+      3119
+    ],
+    "areaId": 42,
+    "area": "Île de Nowel"
+  },
+  {
+    "id": 759,
+    "name": "Caverne de Nowel",
+    "monsters": [
+      839,
+      845,
+      847,
+      867,
+      869,
+      871,
+      872,
+      907
+    ],
+    "areaId": 42,
+    "area": "Île de Nowel"
+  },
+  {
+    "id": 760,
+    "name": "Maison du Papa Nowel",
+    "monsters": [
+      864,
+      888,
+      891,
+      906,
+      1194,
+      3107,
+      3108,
+      3109
+    ],
+    "areaId": 42,
+    "area": "Île de Nowel"
+  },
+  {
+    "id": 762,
+    "name": "Village de Vulkania",
+    "monsters": [
+      3172
+    ],
+    "areaId": 50,
+    "area": "Archipel de Vulkania"
+  },
+  {
+    "id": 763,
+    "name": "Forêt d'Etraktopel",
+    "monsters": [
+      3145,
+      3146,
+      3147,
+      3148,
+      3149,
+      3178,
+      3179,
+      3180,
+      3181,
+      3182
+    ],
+    "areaId": 50,
+    "area": "Archipel de Vulkania"
+  },
+  {
+    "id": 764,
+    "name": "Forêt d'Espartiate",
+    "monsters": [
+      3150,
+      3151,
+      3152,
+      3153,
+      3154,
+      3183,
+      3184,
+      3185,
+      3186,
+      3187
+    ],
+    "areaId": 50,
+    "area": "Archipel de Vulkania"
+  },
+  {
+    "id": 765,
+    "name": "Forêt des Strates Igraphies",
+    "monsters": [
+      3155,
+      3156,
+      3157,
+      3158,
+      3159,
+      3188,
+      3189,
+      3190,
+      3191,
+      3192
+    ],
+    "areaId": 50,
+    "area": "Archipel de Vulkania"
+  },
+  {
+    "id": 766,
+    "name": "Forêt de Ponefarr",
+    "monsters": [
+      3160,
+      3161,
+      3162,
+      3163,
+      3164,
+      3193,
+      3194,
+      3195,
+      3196,
+      3197
+    ],
+    "areaId": 50,
+    "area": "Archipel de Vulkania"
+  },
+  {
+    "id": 767,
+    "name": "Cratère Pillar",
+    "monsters": [
+      3144,
+      3145,
+      3146,
+      3147,
+      3148,
+      3149
+    ],
+    "areaId": 50,
+    "area": "Archipel de Vulkania"
+  },
+  {
+    "id": 768,
+    "name": "Cratère Mopyle",
+    "monsters": [
+      3150,
+      3151,
+      3152,
+      3153,
+      3154,
+      3165
+    ],
+    "areaId": 50,
+    "area": "Archipel de Vulkania"
+  },
+  {
+    "id": 769,
+    "name": "Cratère Nehr",
+    "monsters": [
+      3155,
+      3156,
+      3157,
+      3158,
+      3159,
+      3166
+    ],
+    "areaId": 50,
+    "area": "Archipel de Vulkania"
+  },
+  {
+    "id": 770,
+    "name": "Cratère Monseleya",
+    "monsters": [
+      3160,
+      3161,
+      3162,
+      3163,
+      3164,
+      3167
+    ],
+    "areaId": 50,
+    "area": "Archipel de Vulkania"
+  },
+  {
+    "id": 771,
+    "name": "Cratère Minus",
+    "monsters": [
+      3142,
+      3143,
+      3145,
+      3146,
+      3147,
+      3148,
+      3149,
+      3150,
+      3151,
+      3152,
+      3153,
+      3154,
+      3155,
+      3156,
+      3157,
+      3158,
+      3159,
+      3160,
+      3161,
+      3162,
+      3163,
+      3164,
+      3293,
+      3294,
+      3295,
+      3296,
+      3297,
+      3298
+    ],
+    "areaId": 50,
+    "area": "Archipel de Vulkania"
+  },
+  {
+    "id": 772,
+    "name": "Vulkania",
+    "monsters": [],
+    "areaId": 50,
+    "area": "Archipel de Vulkania"
+  },
+  {
+    "id": 773,
+    "name": "Lantamaï",
+    "monsters": [],
+    "areaId": 50,
+    "area": "Archipel de Vulkania"
+  },
+  {
+    "id": 774,
+    "name": "Kohrog",
+    "monsters": [],
+    "areaId": 50,
+    "area": "Archipel de Vulkania"
+  },
+  {
+    "id": 775,
+    "name": "Enclos Instance",
+    "monsters": [],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 778,
+    "name": "Mine",
+    "monsters": [
+      4107
+    ],
+    "areaId": 45,
+    "area": "Incarnam"
+  },
+  {
+    "id": 779,
+    "name": "Territoire souterrain des Porcos",
+    "monsters": [
+      2637,
+      2639,
+      2641
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 780,
+    "name": "Tofulailler Royal",
+    "monsters": [
+      98,
+      382,
+      807,
+      3299,
+      3300,
+      3301,
+      3302,
+      5220,
+      5221
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 781,
+    "name": "Clairière du Chêne Mou",
+    "monsters": [
+      257,
+      258,
+      260,
+      990,
+      991,
+      992
+    ],
+    "areaId": 6,
+    "area": "Forêt des Abraknydes"
+  },
+  {
+    "id": 783,
+    "name": "Antre du Kralamoure Géant",
+    "monsters": [
+      423,
+      1057,
+      1058,
+      1059,
+      1096
+    ],
+    "areaId": 46,
+    "area": "Île d'Otomaï"
+  },
+  {
+    "id": 784,
+    "name": "Potager d'Halouine",
+    "monsters": [
+      3306,
+      3307,
+      3308,
+      3309,
+      3310,
+      3311
+    ],
+    "areaId": 92,
+    "area": "Forêt Maléfique"
+  },
+  {
+    "id": 785,
+    "name": "Jardins d'Hiver",
+    "monsters": [
+      3373,
+      3392,
+      3393,
+      3394,
+      3396
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 786,
+    "name": "Remparts à vent",
+    "monsters": [
+      3401,
+      3404,
+      3406,
+      3407,
+      3408
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 787,
+    "name": "Tannerie Écarlate",
+    "monsters": [
+      3379,
+      3380,
+      3382,
+      3383,
+      3413
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 788,
+    "name": "Bastion des froides légions",
+    "monsters": [
+      3385,
+      3386,
+      3387,
+      3389,
+      3403
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 789,
+    "name": "Tour de la Clepsydre",
+    "monsters": [
+      3402,
+      3410,
+      3412,
+      3414,
+      3415
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 790,
+    "name": "Laboratoire de Nileza",
+    "monsters": [
+      3392,
+      3393,
+      3394,
+      3395,
+      3396,
+      3397
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 791,
+    "name": "Transporteur de Sylargh",
+    "monsters": [
+      3404,
+      3405,
+      3406,
+      3407,
+      3408,
+      3409
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 792,
+    "name": "Salons privés de Klime",
+    "monsters": [
+      3379,
+      3380,
+      3381,
+      3382,
+      3383,
+      3384
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 793,
+    "name": "Forgefroide de Missiz Frizz",
+    "monsters": [
+      3385,
+      3386,
+      3387,
+      3389,
+      3390,
+      3391
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 794,
+    "name": "Donjon du Comte Harebourg",
+    "monsters": [
+      3384,
+      3391,
+      3397,
+      3409,
+      3410,
+      3411,
+      3412,
+      3414,
+      3415,
+      3416
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 795,
+    "name": "Pied de la Tour de la Clepsydre",
+    "monsters": [],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 796,
+    "name": "Antre du Blop Multicolore Royal",
+    "monsters": [
+      1182,
+      1183,
+      1184,
+      1185,
+      1186,
+      1187,
+      1188
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 797,
+    "name": "Temple des alliances",
+    "monsters": [],
+    "areaId": 5,
+    "area": "Baie de Sufokia"
+  },
+  {
+    "id": 798,
+    "name": "Laboratoires abandonnés",
+    "monsters": [
+      494,
+      3464,
+      3465,
+      3466,
+      3467,
+      3468
+    ],
+    "areaId": 1,
+    "area": "Île des Wabbits"
+  },
+  {
+    "id": 799,
+    "name": "Île de Kartonpath",
+    "monsters": [
+      3484,
+      3485,
+      3486,
+      3487,
+      4027
+    ],
+    "areaId": 51,
+    "area": "Îlots de la mer d'Asse"
+  },
+  {
+    "id": 800,
+    "name": "Théâtre de Dramak",
+    "monsters": [
+      3476,
+      3482,
+      3484,
+      3485,
+      3486,
+      3487
+    ],
+    "areaId": 51,
+    "area": "Îlots de la mer d'Asse"
+  },
+  {
+    "id": 801,
+    "name": "Tunnel de Kartonpath",
+    "monsters": [],
+    "areaId": 51,
+    "area": "Îlots de la mer d'Asse"
+  },
+  {
+    "id": 803,
+    "name": "Temple maudit d'Araknas",
+    "monsters": [
+      1195,
+      3516,
+      3517,
+      3518,
+      3519
+    ],
+    "areaId": 12,
+    "area": "Landes de Sidimote"
+  },
+  {
+    "id": 804,
+    "name": "Salles des Embruns",
+    "monsters": [
+      3535,
+      3543,
+      3544,
+      4028
+    ],
+    "areaId": 5,
+    "area": "Baie de Sufokia"
+  },
+  {
+    "id": 805,
+    "name": "Salles des Courants",
+    "monsters": [
+      3535,
+      3542,
+      3543
+    ],
+    "areaId": 5,
+    "area": "Baie de Sufokia"
+  },
+  {
+    "id": 806,
+    "name": "Salles des Abîmes",
+    "monsters": [
+      3533,
+      3542,
+      3543,
+      3544
+    ],
+    "areaId": 5,
+    "area": "Baie de Sufokia"
+  },
+  {
+    "id": 807,
+    "name": "Aquadôme de Merkator",
+    "monsters": [
+      3534,
+      3535,
+      3538,
+      3542,
+      3543,
+      3544
+    ],
+    "areaId": 5,
+    "area": "Baie de Sufokia"
+  },
+  {
+    "id": 808,
+    "name": "Antre du Koulosse",
+    "monsters": [
+      671,
+      672,
+      747,
+      2442
+    ],
+    "areaId": 28,
+    "area": "Montagne des Koalaks"
+  },
+  {
+    "id": 809,
+    "name": "Village des Kanigs",
+    "monsters": [
+      2472,
+      2473,
+      2474,
+      2475,
+      2476,
+      3558,
+      3559,
+      3560,
+      3561,
+      3562
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 811,
+    "name": "Grotte de Kanigroula",
+    "monsters": [
+      3556,
+      3557,
+      3559,
+      3560,
+      3561,
+      3562
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 812,
+    "name": "Base des Justiciers",
+    "monsters": [],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 813,
+    "name": "Dimension Obscure",
+    "monsters": [
+      3566,
+      3567,
+      3568,
+      3569,
+      5086
+    ],
+    "areaId": 65,
+    "area": "Dimension Obscure"
+  },
+  {
+    "id": 814,
+    "name": "Pyramide d'Ombre",
+    "monsters": [
+      3564,
+      3566,
+      3567,
+      3568,
+      3569,
+      3570
+    ],
+    "areaId": 65,
+    "area": "Dimension Obscure"
+  },
+  {
+    "id": 815,
+    "name": "Queue du Dragon",
+    "monsters": [
+      3578
+    ],
+    "areaId": 45,
+    "area": "Incarnam"
+  },
+  {
+    "id": 816,
+    "name": "Mine des Dopeuls",
+    "monsters": [
+      384,
+      387,
+      390,
+      391,
+      392,
+      422,
+      2384,
+      2493,
+      2539,
+      2540,
+      2585
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 817,
+    "name": "Galeries abandonnées",
+    "monsters": [
+      3464,
+      3465,
+      3466,
+      3467,
+      3468
+    ],
+    "areaId": 1,
+    "area": "Île des Wabbits"
+  },
+  {
+    "id": 818,
+    "name": "Volière de la Haute Truche",
+    "monsters": [
+      3618,
+      3619,
+      3620,
+      3621,
+      3622,
+      3623
+    ],
+    "areaId": 8,
+    "area": "Plaines de Cania"
+  },
+  {
+    "id": 819,
+    "name": "Convention",
+    "monsters": [
+      2827,
+      3115,
+      3244,
+      3446,
+      3645,
+      4189,
+      4190,
+      4191
+    ],
+    "areaId": 52,
+    "area": "Convention"
+  },
+  {
+    "id": 820,
+    "name": "Creuset des Fortunés",
+    "monsters": [
+      3663,
+      3664,
+      3665,
+      3666,
+      3670
+    ],
+    "areaId": 53,
+    "area": "Enutrosor"
+  },
+  {
+    "id": 821,
+    "name": "Carrière Aurifère",
+    "monsters": [
+      3658,
+      3659,
+      3660,
+      3661,
+      3669
+    ],
+    "areaId": 53,
+    "area": "Enutrosor"
+  },
+  {
+    "id": 822,
+    "name": "Retraite des Éternels",
+    "monsters": [
+      3653,
+      3654,
+      3655,
+      3656,
+      3668
+    ],
+    "areaId": 53,
+    "area": "Enutrosor"
+  },
+  {
+    "id": 823,
+    "name": "Fabrique de Malléfisk",
+    "monsters": [
+      3652,
+      3663,
+      3664,
+      3665,
+      3666,
+      3667
+    ],
+    "areaId": 53,
+    "area": "Enutrosor"
+  },
+  {
+    "id": 824,
+    "name": "Galerie du Phossile",
+    "monsters": [
+      3651,
+      3658,
+      3659,
+      3660,
+      3661,
+      3662
+    ],
+    "areaId": 53,
+    "area": "Enutrosor"
+  },
+  {
+    "id": 825,
+    "name": "Palais du roi Nidas",
+    "monsters": [
+      3648,
+      3653,
+      3654,
+      3655,
+      3656,
+      3657
+    ],
+    "areaId": 53,
+    "area": "Enutrosor"
+  },
+  {
+    "id": 826,
+    "name": "Fort Thune",
+    "monsters": [
+      3653,
+      3654,
+      3655,
+      3656
+    ],
+    "areaId": 53,
+    "area": "Enutrosor"
+  },
+  {
+    "id": 827,
+    "name": "Ruelles des Eaux-Suaires",
+    "monsters": [
+      3730,
+      3731,
+      3732,
+      3733,
+      3762
+    ],
+    "areaId": 54,
+    "area": "Srambad"
+  },
+  {
+    "id": 828,
+    "name": "Catacombres",
+    "monsters": [
+      3735,
+      3736,
+      3737,
+      3738,
+      3760
+    ],
+    "areaId": 54,
+    "area": "Srambad"
+  },
+  {
+    "id": 829,
+    "name": "Hauts Ténébreux",
+    "monsters": [
+      3746,
+      3747,
+      3748,
+      3749,
+      3761
+    ],
+    "areaId": 54,
+    "area": "Srambad"
+  },
+  {
+    "id": 830,
+    "name": "Ring du Capitaine Ekarlatte",
+    "monsters": [
+      3730,
+      3731,
+      3732,
+      3733,
+      3734,
+      3753
+    ],
+    "areaId": 54,
+    "area": "Srambad"
+  },
+  {
+    "id": 831,
+    "name": "Cave du Toxoliath",
+    "monsters": [
+      3735,
+      3736,
+      3737,
+      3738,
+      3739,
+      3752
+    ],
+    "areaId": 54,
+    "area": "Srambad"
+  },
+  {
+    "id": 832,
+    "name": "Trône de la Cour Sombre",
+    "monsters": [
+      3726,
+      3746,
+      3747,
+      3748,
+      3749,
+      3750
+    ],
+    "areaId": 54,
+    "area": "Srambad"
+  },
+  {
+    "id": 833,
+    "name": "Quartier des Conquérants",
+    "monsters": [
+      3746,
+      3747,
+      3748,
+      3749
+    ],
+    "areaId": 54,
+    "area": "Srambad"
+  },
+  {
+    "id": 834,
+    "name": "Roc des Salbatroces",
+    "monsters": [
+      3823,
+      3824,
+      3825,
+      3826
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 835,
+    "name": "Ventre de la Baleine",
+    "monsters": [
+      3823,
+      3824,
+      3825,
+      3826,
+      3827,
+      3828
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 836,
+    "name": "Chemins d'hier",
+    "monsters": [
+      3845,
+      3854,
+      3855,
+      3856,
+      3857
+    ],
+    "areaId": 55,
+    "area": "Xélorium"
+  },
+  {
+    "id": 837,
+    "name": "Jour présent",
+    "monsters": [
+      3840,
+      3841,
+      3842,
+      3843,
+      3848
+    ],
+    "areaId": 55,
+    "area": "Xélorium"
+  },
+  {
+    "id": 838,
+    "name": "Lendemains incertains",
+    "monsters": [
+      3834,
+      3836,
+      3837,
+      3838,
+      3851
+    ],
+    "areaId": 55,
+    "area": "Xélorium"
+  },
+  {
+    "id": 839,
+    "name": "Mégalithe de Fraktale",
+    "monsters": [
+      3852,
+      3854,
+      3855,
+      3856,
+      3857,
+      3858
+    ],
+    "areaId": 55,
+    "area": "Xélorium"
+  },
+  {
+    "id": 840,
+    "name": "Horologium de XLII",
+    "monsters": [
+      3840,
+      3841,
+      3842,
+      3843,
+      3844,
+      3849
+    ],
+    "areaId": 55,
+    "area": "Xélorium"
+  },
+  {
+    "id": 841,
+    "name": "Œil de Vortex",
+    "monsters": [
+      3834,
+      3835,
+      3836,
+      3837,
+      3838,
+      3839
+    ],
+    "areaId": 55,
+    "area": "Xélorium"
+  },
+  {
+    "id": 842,
+    "name": "Cache de Kankreblath",
+    "monsters": [
+      3940,
+      3941,
+      3942,
+      3943,
+      3944,
+      3945
+    ],
+    "areaId": 18,
+    "area": "Astrub"
+  },
+  {
+    "id": 843,
+    "name": "Planque des Vilinsekts",
+    "monsters": [
+      3940,
+      3941,
+      3942,
+      3943
+    ],
+    "areaId": 18,
+    "area": "Astrub"
+  },
+  {
+    "id": 844,
+    "name": "Antre de la Reine Nyée",
+    "monsters": [
+      3991,
+      3992,
+      3993,
+      3994,
+      3995,
+      3996
+    ],
+    "areaId": 6,
+    "area": "Forêt des Abraknydes"
+  },
+  {
+    "id": 846,
+    "name": "Bateau du Chouque",
+    "monsters": [
+      228,
+      229,
+      230,
+      231,
+      4160,
+      4161
+    ],
+    "areaId": 2,
+    "area": "Île de Moon"
+  },
+  {
+    "id": 847,
+    "name": "Arbre de Moon",
+    "monsters": [
+      215,
+      216,
+      217,
+      226,
+      4162,
+      4163
+    ],
+    "areaId": 2,
+    "area": "Île de Moon"
+  },
+  {
+    "id": 848,
+    "name": "Île mystérieuse",
+    "monsters": [],
+    "areaId": 51,
+    "area": "Îlots de la mer d'Asse"
+  },
+  {
+    "id": 849,
+    "name": "Rocher des Sacrifiés",
+    "monsters": [
+      4045,
+      4074
+    ],
+    "areaId": 5,
+    "area": "Baie de Sufokia"
+  },
+  {
+    "id": 850,
+    "name": "Hauts du Kramdam",
+    "monsters": [],
+    "areaId": 57,
+    "area": "Île de Rok"
+  },
+  {
+    "id": 851,
+    "name": "Havres-Sacs",
+    "monsters": [],
+    "areaId": 58,
+    "area": "Havres-Sacs"
+  },
+  {
+    "id": 852,
+    "name": "Miausolée du Pounicheur",
+    "monsters": [
+      4278,
+      4291,
+      4292,
+      4293,
+      4294,
+      4295
+    ],
+    "areaId": 59,
+    "area": "Ecaflipus"
+  },
+  {
+    "id": 853,
+    "name": "Plateau de Ush",
+    "monsters": [
+      4264,
+      4265,
+      4296,
+      4297,
+      4298,
+      4299,
+      4300
+    ],
+    "areaId": 59,
+    "area": "Ecaflipus"
+  },
+  {
+    "id": 854,
+    "name": "Défi du Chalœil",
+    "monsters": [
+      4263,
+      4283,
+      4284,
+      4285,
+      4286,
+      4287
+    ],
+    "areaId": 59,
+    "area": "Ecaflipus"
+  },
+  {
+    "id": 855,
+    "name": "Pierres de l'élévation",
+    "monsters": [
+      4291,
+      4292,
+      4293,
+      4294,
+      4364
+    ],
+    "areaId": 59,
+    "area": "Ecaflipus"
+  },
+  {
+    "id": 856,
+    "name": "Lande Poilue",
+    "monsters": [
+      4296,
+      4297,
+      4298,
+      4299,
+      4363
+    ],
+    "areaId": 59,
+    "area": "Ecaflipus"
+  },
+  {
+    "id": 857,
+    "name": "Temple de Kerubim",
+    "monsters": [
+      4283,
+      4284,
+      4285,
+      4287,
+      4329,
+      4362
+    ],
+    "areaId": 59,
+    "area": "Ecaflipus"
+  },
+  {
+    "id": 858,
+    "name": "Confins d'Ecaflipus",
+    "monsters": [],
+    "areaId": 60,
+    "area": "Domaine des fils d'Ecaflip"
+  },
+  {
+    "id": 859,
+    "name": "Maelström de Shariva",
+    "monsters": [],
+    "areaId": 56,
+    "area": "Zone privée"
+  },
+  {
+    "id": 860,
+    "name": "Ville submergée",
+    "monsters": [
+      4438,
+      4455,
+      4456,
+      4457
+    ],
+    "areaId": 63,
+    "area": "Profondeurs de Sufokia"
+  },
+  {
+    "id": 861,
+    "name": "Ancienne Sufokia",
+    "monsters": [
+      4435,
+      4436,
+      4455,
+      4456,
+      4457,
+      4458
+    ],
+    "areaId": 63,
+    "area": "Profondeurs de Sufokia"
+  },
+  {
+    "id": 862,
+    "name": "Vestiges engloutis",
+    "monsters": [
+      4434,
+      4437,
+      4455,
+      4456,
+      4457,
+      4458,
+      4459,
+      4532
+    ],
+    "areaId": 63,
+    "area": "Profondeurs de Sufokia"
+  },
+  {
+    "id": 863,
+    "name": "Domaine des Trithons",
+    "monsters": [
+      4438,
+      4439,
+      4440,
+      4441
+    ],
+    "areaId": 63,
+    "area": "Profondeurs de Sufokia"
+  },
+  {
+    "id": 864,
+    "name": "Faille des Trithons",
+    "monsters": [
+      4435,
+      4437,
+      4439,
+      4440,
+      4441,
+      4442
+    ],
+    "areaId": 63,
+    "area": "Profondeurs de Sufokia"
+  },
+  {
+    "id": 865,
+    "name": "Tréfonds des Trithons",
+    "monsters": [
+      4434,
+      4436,
+      4439,
+      4440,
+      4441,
+      4442,
+      4443,
+      4506
+    ],
+    "areaId": 63,
+    "area": "Profondeurs de Sufokia"
+  },
+  {
+    "id": 866,
+    "name": "Plateau de R'lyugluglu",
+    "monsters": [
+      4438,
+      4448,
+      4449,
+      4450
+    ],
+    "areaId": 63,
+    "area": "Profondeurs de Sufokia"
+  },
+  {
+    "id": 867,
+    "name": "Fosse de R'lyugluglu",
+    "monsters": [
+      4434,
+      4437,
+      4448,
+      4449,
+      4450,
+      4451
+    ],
+    "areaId": 63,
+    "area": "Profondeurs de Sufokia"
+  },
+  {
+    "id": 868,
+    "name": "Abîme de R'lyugluglu",
+    "monsters": [
+      4435,
+      4436,
+      4448,
+      4449,
+      4450,
+      4451,
+      4452,
+      4507
+    ],
+    "areaId": 63,
+    "area": "Profondeurs de Sufokia"
+  },
+  {
+    "id": 869,
+    "name": "Vaisseau du Capitaine Meno",
+    "monsters": [
+      4455,
+      4456,
+      4457,
+      4458,
+      4459,
+      4460
+    ],
+    "areaId": 63,
+    "area": "Profondeurs de Sufokia"
+  },
+  {
+    "id": 870,
+    "name": "Palais de Dantinéa",
+    "monsters": [
+      4439,
+      4440,
+      4441,
+      4442,
+      4443,
+      4444
+    ],
+    "areaId": 63,
+    "area": "Profondeurs de Sufokia"
+  },
+  {
+    "id": 871,
+    "name": "Temple de Koutoulou",
+    "monsters": [
+      4448,
+      4449,
+      4450,
+      4451,
+      4452,
+      4453
+    ],
+    "areaId": 63,
+    "area": "Profondeurs de Sufokia"
+  },
+  {
+    "id": 872,
+    "name": "Dunes des ossements",
+    "monsters": [
+      4615,
+      4616,
+      4618,
+      4619,
+      4620,
+      4675
+    ],
+    "areaId": 61,
+    "area": "Saharach"
+  },
+  {
+    "id": 873,
+    "name": "Territoire Cacterre",
+    "monsters": [
+      4604,
+      4605,
+      4606,
+      4607,
+      4622
+    ],
+    "areaId": 61,
+    "area": "Saharach"
+  },
+  {
+    "id": 874,
+    "name": "Port de Sarakech",
+    "monsters": [],
+    "areaId": 61,
+    "area": "Saharach"
+  },
+  {
+    "id": 875,
+    "name": "Cimetière des Mastodontes",
+    "monsters": [
+      4615,
+      4616,
+      4617,
+      4619,
+      4620,
+      4621
+    ],
+    "areaId": 61,
+    "area": "Saharach"
+  },
+  {
+    "id": 876,
+    "name": "Caverne d'El Piko",
+    "monsters": [
+      4604,
+      4605,
+      4606,
+      4607,
+      4608,
+      4609
+    ],
+    "areaId": 61,
+    "area": "Saharach"
+  },
+  {
+    "id": 877,
+    "name": "Rêve de Terrakourial",
+    "monsters": [],
+    "areaId": 68,
+    "area": "Rêve du Monde des Douze"
+  },
+  {
+    "id": 878,
+    "name": "Gorge des Vents Hurlants",
+    "monsters": [
+      4728,
+      4729,
+      4730,
+      4731,
+      4737
+    ],
+    "areaId": 61,
+    "area": "Saharach"
+  },
+  {
+    "id": 879,
+    "name": "Cité Oubliée",
+    "monsters": [
+      4728,
+      4729,
+      4730,
+      4731
+    ],
+    "areaId": 61,
+    "area": "Saharach"
+  },
+  {
+    "id": 880,
+    "name": "Boyau du Père Ver",
+    "monsters": [
+      4726,
+      4727,
+      4728,
+      4729,
+      4730,
+      4731
+    ],
+    "areaId": 61,
+    "area": "Saharach"
+  },
+  {
+    "id": 881,
+    "name": "Pyramide Maudite",
+    "monsters": [
+      4734,
+      4739,
+      4740,
+      4741,
+      4742,
+      4763
+    ],
+    "areaId": 61,
+    "area": "Saharach"
+  },
+  {
+    "id": 882,
+    "name": "Chambre de Tal Kasha",
+    "monsters": [
+      4739,
+      4740,
+      4741,
+      4742,
+      4743,
+      4744
+    ],
+    "areaId": 61,
+    "area": "Saharach"
+  },
+  {
+    "id": 883,
+    "name": "Nimotopia",
+    "monsters": [
+      4805,
+      4806,
+      4807,
+      4808,
+      4834,
+      4946
+    ],
+    "areaId": 62,
+    "area": "Nimotopia"
+  },
+  {
+    "id": 884,
+    "name": "Camp du Comte Razof",
+    "monsters": [
+      4803,
+      4804,
+      4805,
+      4806,
+      4807,
+      4808
+    ],
+    "areaId": 62,
+    "area": "Nimotopia"
+  },
+  {
+    "id": 885,
+    "name": "Kolizéum duel",
+    "monsters": [],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 886,
+    "name": "Haras de Brâkmar",
+    "monsters": [],
+    "areaId": 11,
+    "area": "Brâkmar"
+  },
+  {
+    "id": 887,
+    "name": "Labyrinthe des Vents Délétères",
+    "monsters": [
+      1162,
+      2692,
+      2693
+    ],
+    "areaId": 11,
+    "area": "Brâkmar"
+  },
+  {
+    "id": 888,
+    "name": "Chapiteau des Magik Riktus",
+    "monsters": [
+      4860,
+      4861,
+      4862,
+      4863,
+      4864,
+      4865
+    ],
+    "areaId": 12,
+    "area": "Landes de Sidimote"
+  },
+  {
+    "id": 889,
+    "name": "Domaine des Fungus",
+    "monsters": [
+      1153,
+      1154,
+      1156,
+      1158,
+      2551,
+      2553,
+      2600,
+      2601
+    ],
+    "areaId": 12,
+    "area": "Landes de Sidimote"
+  },
+  {
+    "id": 890,
+    "name": "Manoir des Katrepat",
+    "monsters": [
+      4877,
+      4878,
+      4879,
+      4880,
+      4881,
+      4882
+    ],
+    "areaId": 12,
+    "area": "Landes de Sidimote"
+  },
+  {
+    "id": 891,
+    "name": "Forge du Volcan",
+    "monsters": [],
+    "areaId": 12,
+    "area": "Landes de Sidimote"
+  },
+  {
+    "id": 892,
+    "name": "Caserne du Jour sans fin",
+    "monsters": [
+      4953,
+      4969,
+      4970,
+      4971,
+      4972
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 893,
+    "name": "Belvédère d'Ilyzaelle",
+    "monsters": [
+      4967,
+      4968,
+      4969,
+      4970,
+      4971,
+      4972
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 894,
+    "name": "Nécropole",
+    "monsters": [],
+    "areaId": 64,
+    "area": "Externam"
+  },
+  {
+    "id": 895,
+    "name": "Mode tactique",
+    "monsters": [],
+    "areaId": 66,
+    "area": "Mode tactique"
+  },
+  {
+    "id": 896,
+    "name": "Marches Magmatiques",
+    "monsters": [
+      5102,
+      5103,
+      5104,
+      5105
+    ],
+    "areaId": 12,
+    "area": "Landes de Sidimote"
+  },
+  {
+    "id": 897,
+    "name": "Épaves Silencieuses",
+    "monsters": [
+      5112,
+      5113,
+      5114,
+      5115
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 898,
+    "name": "Tour de Solar",
+    "monsters": [
+      5100,
+      5101,
+      5102,
+      5103,
+      5104,
+      5105
+    ],
+    "areaId": 12,
+    "area": "Landes de Sidimote"
+  },
+  {
+    "id": 899,
+    "name": "Tour de Bethel",
+    "monsters": [
+      5110,
+      5111,
+      5112,
+      5113,
+      5114,
+      5115
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 901,
+    "name": "Domaine des dieux",
+    "monsters": [],
+    "areaId": 67,
+    "area": "Ingloriom"
+  },
+  {
+    "id": 902,
+    "name": "Royaume des Martegel",
+    "monsters": [
+      5315,
+      5316,
+      5317,
+      5318
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 903,
+    "name": "Brasserie du roi Dazak",
+    "monsters": [
+      5314,
+      5315,
+      5316,
+      5317,
+      5318,
+      5319
+    ],
+    "areaId": 48,
+    "area": "Île de Frigost"
+  },
+  {
+    "id": 904,
+    "name": "Songes Infinis",
+    "monsters": [],
+    "areaId": 68,
+    "area": "Rêve du Monde des Douze"
+  },
+  {
+    "id": 905,
+    "name": "Île de Crocatan",
+    "monsters": [],
+    "areaId": 69,
+    "area": "Archipel des Écailles"
+  },
+  {
+    "id": 906,
+    "name": "Île Kaziman",
+    "monsters": [],
+    "areaId": 69,
+    "area": "Archipel des Écailles"
+  },
+  {
+    "id": 907,
+    "name": "Tikoltenak",
+    "monsters": [
+      5388
+    ],
+    "areaId": 69,
+    "area": "Archipel des Écailles"
+  },
+  {
+    "id": 908,
+    "name": "Destin du Monde",
+    "monsters": [],
+    "areaId": 70,
+    "area": "Destin du Monde"
+  },
+  {
+    "id": 909,
+    "name": "Songe de Mériana",
+    "monsters": [
+      3578,
+      3740,
+      4045,
+      4074,
+      4614,
+      4946
+    ],
+    "areaId": 68,
+    "area": "Rêve du Monde des Douze"
+  },
+  {
+    "id": 910,
+    "name": "Carrière Chocolatée",
+    "monsters": [
+      5689,
+      5690,
+      5691,
+      5692
+    ],
+    "areaId": 71,
+    "area": "Île de Pwâk"
+  },
+  {
+    "id": 911,
+    "name": "Jardins à la Crème",
+    "monsters": [
+      5678,
+      5679,
+      5680,
+      5681
+    ],
+    "areaId": 71,
+    "area": "Île de Pwâk"
+  },
+  {
+    "id": 912,
+    "name": "Laboratoires des Chocomanciens",
+    "monsters": [
+      5669,
+      5670,
+      5671,
+      5672
+    ],
+    "areaId": 71,
+    "area": "Île de Pwâk"
+  },
+  {
+    "id": 913,
+    "name": "Fonderie des Waddicts",
+    "monsters": [
+      5652,
+      5653,
+      5689,
+      5690,
+      5691,
+      5692
+    ],
+    "areaId": 71,
+    "area": "Île de Pwâk"
+  },
+  {
+    "id": 914,
+    "name": "Croquanterie",
+    "monsters": [
+      5664,
+      5677,
+      5678,
+      5679,
+      5680,
+      5681
+    ],
+    "areaId": 71,
+    "area": "Île de Pwâk"
+  },
+  {
+    "id": 915,
+    "name": "Temple du dieu Kao",
+    "monsters": [
+      5666,
+      5668,
+      5669,
+      5670,
+      5671,
+      5672
+    ],
+    "areaId": 71,
+    "area": "Île de Pwâk"
+  },
+  {
+    "id": 916,
+    "name": "Anomalies temporelles",
+    "monsters": [],
+    "areaId": 72,
+    "area": "Anomalies temporelles"
+  },
+  {
+    "id": 917,
+    "name": "Crocuzko",
+    "monsters": [
+      5808,
+      5809,
+      5810,
+      5811
+    ],
+    "areaId": 69,
+    "area": "Archipel des Écailles"
+  },
+  {
+    "id": 918,
+    "name": "Sanctuaire de Torkélonia",
+    "monsters": [
+      5806,
+      5807,
+      5808,
+      5809,
+      5810,
+      5811
+    ],
+    "areaId": 69,
+    "area": "Archipel des Écailles"
+  },
+  {
+    "id": 919,
+    "name": "Repaire du Kharnozor",
+    "monsters": [
+      858,
+      878,
+      879,
+      905,
+      5819,
+      5820
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 920,
+    "name": "Épreuve de Draegnerys",
+    "monsters": [
+      76,
+      87,
+      88,
+      89,
+      5822,
+      5823
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 921,
+    "name": "Horloge de Xélor",
+    "monsters": [],
+    "areaId": 73,
+    "area": "Horloge de Xélor"
+  },
+  {
+    "id": 922,
+    "name": "Contrées oniriques",
+    "monsters": [
+      492,
+      751,
+      752,
+      753,
+      754,
+      1022,
+      1050,
+      1053,
+      2913,
+      2914,
+      3146,
+      3152,
+      3155,
+      3588,
+      3589,
+      3590,
+      3591,
+      3592,
+      3664,
+      3730,
+      3857,
+      4291,
+      4606,
+      4619,
+      4831,
+      5227,
+      5230,
+      5711,
+      5714,
+      5720,
+      5914,
+      5915,
+      6214,
+      6230,
+      6320
+    ],
+    "areaId": 68,
+    "area": "Rêve du Monde des Douze"
+  },
+  {
+    "id": 923,
+    "name": "Ankama",
+    "monsters": [],
+    "areaId": 68,
+    "area": "Rêve du Monde des Douze"
+  },
+  {
+    "id": 924,
+    "name": "Cauchemar de Rodak",
+    "monsters": [
+      5956,
+      5957,
+      5958,
+      5959
+    ],
+    "areaId": 68,
+    "area": "Rêve du Monde des Douze"
+  },
+  {
+    "id": 925,
+    "name": "Galère de Servitude",
+    "monsters": [
+      5978,
+      5980,
+      5983,
+      5989
+    ],
+    "areaId": 84,
+    "area": "Dimensions des Cavaliers"
+  },
+  {
+    "id": 926,
+    "name": "Blessures de Guerre",
+    "monsters": [
+      6021,
+      6022,
+      6024,
+      6025
+    ],
+    "areaId": 84,
+    "area": "Dimensions des Cavaliers"
+  },
+  {
+    "id": 927,
+    "name": "Désert de Misère",
+    "monsters": [
+      5992,
+      5993,
+      5994,
+      5995
+    ],
+    "areaId": 84,
+    "area": "Dimensions des Cavaliers"
+  },
+  {
+    "id": 928,
+    "name": "Royaume Corrompu",
+    "monsters": [
+      6028,
+      6029,
+      6030,
+      6031
+    ],
+    "areaId": 84,
+    "area": "Dimensions des Cavaliers"
+  },
+  {
+    "id": 929,
+    "name": "Sanctuaire du dernier espoir",
+    "monsters": [],
+    "areaId": 74,
+    "area": "Eliocalypse"
+  },
+  {
+    "id": 930,
+    "name": "Arbre de mort",
+    "monsters": [
+      6026,
+      6027,
+      6028,
+      6029,
+      6030,
+      6031
+    ],
+    "areaId": 84,
+    "area": "Dimensions des Cavaliers"
+  },
+  {
+    "id": 931,
+    "name": "Trône de sang",
+    "monsters": [
+      6014,
+      6021,
+      6022,
+      6023,
+      6024,
+      6025
+    ],
+    "areaId": 84,
+    "area": "Dimensions des Cavaliers"
+  },
+  {
+    "id": 932,
+    "name": "Sentence de la Balance",
+    "monsters": [
+      5990,
+      5991,
+      5992,
+      5993,
+      5994,
+      5995
+    ],
+    "areaId": 84,
+    "area": "Dimensions des Cavaliers"
+  },
+  {
+    "id": 933,
+    "name": "Fers de la Tyrannie",
+    "monsters": [
+      5955,
+      5978,
+      5979,
+      5980,
+      5983,
+      5989
+    ],
+    "areaId": 84,
+    "area": "Dimensions des Cavaliers"
+  },
+  {
+    "id": 934,
+    "name": "Arche de Vili",
+    "monsters": [],
+    "areaId": 75,
+    "area": "Profondeurs d'Astrub"
+  },
+  {
+    "id": 935,
+    "name": "Futur imprévu",
+    "monsters": [],
+    "areaId": 74,
+    "area": "Eliocalypse"
+  },
+  {
+    "id": 936,
+    "name": "Pyramide ocre",
+    "monsters": [],
+    "areaId": 76,
+    "area": "Éther"
+  },
+  {
+    "id": 937,
+    "name": "Arbre des vagabonds",
+    "monsters": [],
+    "areaId": 76,
+    "area": "Éther"
+  },
+  {
+    "id": 938,
+    "name": "Puits des Songes",
+    "monsters": [],
+    "areaId": 68,
+    "area": "Rêve du Monde des Douze"
+  },
+  {
+    "id": 939,
+    "name": "Tempête de l'Eliocalypse",
+    "monsters": [
+      5955,
+      5979,
+      5990,
+      5991,
+      6014,
+      6023,
+      6026,
+      6027
+    ],
+    "areaId": 74,
+    "area": "Eliocalypse"
+  },
+  {
+    "id": 940,
+    "name": "Caverne de la Conscience",
+    "monsters": [],
+    "areaId": 77,
+    "area": "Centre du Monde"
+  },
+  {
+    "id": 941,
+    "name": "Akwadala",
+    "monsters": [
+      2510,
+      2590,
+      2591,
+      2592,
+      6203,
+      6229,
+      6230,
+      6231
+    ],
+    "areaId": 78,
+    "area": "Île de Pandala"
+  },
+  {
+    "id": 942,
+    "name": "Plantala",
+    "monsters": [
+      2392,
+      2415,
+      2548,
+      2593,
+      6318,
+      6320,
+      6321,
+      6323
+    ],
+    "areaId": 78,
+    "area": "Île de Pandala"
+  },
+  {
+    "id": 943,
+    "name": "Feudala",
+    "monsters": [
+      555,
+      2278,
+      2303,
+      2526,
+      2597,
+      6251,
+      6252,
+      6253,
+      6254
+    ],
+    "areaId": 78,
+    "area": "Île de Pandala"
+  },
+  {
+    "id": 944,
+    "name": "Terrdala",
+    "monsters": [
+      2414,
+      2434,
+      2527,
+      2598,
+      4949,
+      6220,
+      6221,
+      6222,
+      6223
+    ],
+    "areaId": 78,
+    "area": "Île de Pandala"
+  },
+  {
+    "id": 945,
+    "name": "Aerdala",
+    "monsters": [
+      2398,
+      2412,
+      2511,
+      2512,
+      6214,
+      6215,
+      6216,
+      6217
+    ],
+    "areaId": 78,
+    "area": "Île de Pandala"
+  },
+  {
+    "id": 946,
+    "name": "Bambusaie de Damadrya",
+    "monsters": [
+      6318,
+      6320,
+      6321,
+      6322,
+      6323,
+      6326
+    ],
+    "areaId": 78,
+    "area": "Île de Pandala"
+  },
+  {
+    "id": 947,
+    "name": "Vallée de la Dame des eaux",
+    "monsters": [
+      6203,
+      6229,
+      6230,
+      6231,
+      6247,
+      6256
+    ],
+    "areaId": 78,
+    "area": "Île de Pandala"
+  },
+  {
+    "id": 948,
+    "name": "Atelier du Tanukouï San",
+    "monsters": [
+      6218,
+      6219,
+      6220,
+      6221,
+      6222,
+      6223
+    ],
+    "areaId": 78,
+    "area": "Île de Pandala"
+  },
+  {
+    "id": 949,
+    "name": "Fabrique de foux d'artifice",
+    "monsters": [
+      6249,
+      6251,
+      6252,
+      6253,
+      6254,
+      6255
+    ],
+    "areaId": 78,
+    "area": "Île de Pandala"
+  },
+  {
+    "id": 950,
+    "name": "Dojo du Vent",
+    "monsters": [
+      6204,
+      6212,
+      6213,
+      6214,
+      6215,
+      6216,
+      6217
+    ],
+    "areaId": 78,
+    "area": "Île de Pandala"
+  },
+  {
+    "id": 951,
+    "name": "Village de Pandala",
+    "monsters": [],
+    "areaId": 78,
+    "area": "Île de Pandala"
+  },
+  {
+    "id": 952,
+    "name": "Cimetière de Grobe",
+    "monsters": [
+      2370,
+      2374,
+      2469,
+      2471,
+      6383,
+      6384,
+      6385,
+      6386
+    ],
+    "areaId": 79,
+    "area": "Île de Grobe"
+  },
+  {
+    "id": 953,
+    "name": "Tombe du Shogun Tofugawa",
+    "monsters": [
+      6383,
+      6384,
+      6385,
+      6386,
+      6387,
+      6388
+    ],
+    "areaId": 79,
+    "area": "Île de Grobe"
+  },
+  {
+    "id": 954,
+    "name": "Demeure des Esprits",
+    "monsters": [
+      6389,
+      6390,
+      6391,
+      6392,
+      6393,
+      6394
+    ],
+    "areaId": 79,
+    "area": "Île de Grobe"
+  },
+  {
+    "id": 955,
+    "name": "Mont des Tombeaux",
+    "monsters": [
+      2470,
+      2477,
+      2483,
+      2564,
+      5083,
+      6389,
+      6390,
+      6391,
+      6392
+    ],
+    "areaId": 79,
+    "area": "Île de Grobe"
+  },
+  {
+    "id": 956,
+    "name": "Royaume d'encre",
+    "monsters": [
+      6467,
+      6468,
+      6469,
+      6470
+    ],
+    "areaId": 82,
+    "area": "Wukin et Wukang"
+  },
+  {
+    "id": 957,
+    "name": "Royaume de papier",
+    "monsters": [
+      6473,
+      6474,
+      6475,
+      6476
+    ],
+    "areaId": 82,
+    "area": "Wukin et Wukang"
+  },
+  {
+    "id": 958,
+    "name": "Mémoire d'Orukam",
+    "monsters": [
+      6467,
+      6468,
+      6469,
+      6470,
+      6471,
+      6472
+    ],
+    "areaId": 82,
+    "area": "Wukin et Wukang"
+  },
+  {
+    "id": 959,
+    "name": "Souvenir d'Imagiro",
+    "monsters": [
+      6473,
+      6474,
+      6475,
+      6476,
+      6477,
+      6478
+    ],
+    "areaId": 82,
+    "area": "Wukin et Wukang"
+  },
+  {
+    "id": 960,
+    "name": "Taverne interdite",
+    "monsters": [],
+    "areaId": 78,
+    "area": "Île de Pandala"
+  },
+  {
+    "id": 961,
+    "name": "Croisée des mondes",
+    "monsters": [],
+    "areaId": 76,
+    "area": "Éther"
+  },
+  {
+    "id": 962,
+    "name": "Cours de l'Akeranzu",
+    "monsters": [],
+    "areaId": 81,
+    "area": "Fleuve vers Externam"
+  },
+  {
+    "id": 963,
+    "name": "Monde des esprits",
+    "monsters": [],
+    "areaId": 80,
+    "area": "Plan Astral"
+  },
+  {
+    "id": 965,
+    "name": "Jardin secret de Pandala",
+    "monsters": [
+      6314
+    ],
+    "areaId": 78,
+    "area": "Île de Pandala"
+  },
+  {
+    "id": 966,
+    "name": "Ecaflip City",
+    "monsters": [],
+    "areaId": 87,
+    "area": "Dimension Éphémère"
+  },
+  {
+    "id": 967,
+    "name": "Port des Ravageurs",
+    "monsters": [
+      6650,
+      6651,
+      6652,
+      6653
+    ],
+    "areaId": 86,
+    "area": "Atoll des Possédés"
+  },
+  {
+    "id": 968,
+    "name": "Rituel de Kabahal",
+    "monsters": [
+      6650,
+      6651,
+      6652,
+      6653,
+      6654,
+      6656
+    ],
+    "areaId": 86,
+    "area": "Atoll des Possédés"
+  },
+  {
+    "id": 969,
+    "name": "Pandamonium",
+    "monsters": [
+      6650,
+      6651,
+      6652,
+      6653
+    ],
+    "areaId": 86,
+    "area": "Atoll des Possédés"
+  },
+  {
+    "id": 970,
+    "name": "Dimension Éphémère",
+    "monsters": [],
+    "areaId": 87,
+    "area": "Dimension Éphémère"
+  },
+  {
+    "id": 971,
+    "name": "Cauchemar des Ravageurs",
+    "monsters": [
+      6787,
+      6788,
+      6789,
+      6790
+    ],
+    "areaId": 88,
+    "area": "Cauchemar des Ravageurs"
+  },
+  {
+    "id": 972,
+    "name": "Bataille de l'Aurore Pourpre",
+    "monsters": [
+      6787,
+      6788,
+      6789,
+      6790,
+      6791,
+      6792
+    ],
+    "areaId": 88,
+    "area": "Cauchemar des Ravageurs"
+  },
+  {
+    "id": 973,
+    "name": "Faubourgs des artisans",
+    "monsters": [
+      98,
+      236,
+      489,
+      490,
+      491,
+      492,
+      493,
+      2341,
+      2342,
+      2343,
+      2344,
+      2345,
+      2347,
+      3302
+    ],
+    "areaId": 7,
+    "area": "Bonta"
+  },
+  {
+    "id": 974,
+    "name": "Havres d'ivoire",
+    "monsters": [
+      236,
+      489,
+      490,
+      491,
+      492,
+      493,
+      2341,
+      2342,
+      2343,
+      2344,
+      2345,
+      2347
+    ],
+    "areaId": 7,
+    "area": "Bonta"
+  },
+  {
+    "id": 975,
+    "name": "Cœur immaculé",
+    "monsters": [
+      236,
+      489,
+      490,
+      491,
+      492,
+      493,
+      2341,
+      2342,
+      2343,
+      2344,
+      2345,
+      2347
+    ],
+    "areaId": 7,
+    "area": "Bonta"
+  },
+  {
+    "id": 976,
+    "name": "Promontoire des cieux",
+    "monsters": [
+      236,
+      489,
+      490,
+      491,
+      492,
+      493,
+      2341,
+      2342,
+      2343,
+      2344,
+      2345,
+      2347
+    ],
+    "areaId": 7,
+    "area": "Bonta"
+  },
+  {
+    "id": 977,
+    "name": "La Cuirasse",
+    "monsters": [
+      236,
+      489,
+      490,
+      491,
+      492,
+      493,
+      2341,
+      2342,
+      2343,
+      2344,
+      2345,
+      2347
+    ],
+    "areaId": 11,
+    "area": "Brâkmar"
+  },
+  {
+    "id": 978,
+    "name": "L'Ancre",
+    "monsters": [
+      236,
+      489,
+      490,
+      491,
+      492,
+      493,
+      2341,
+      2342,
+      2343,
+      2344,
+      2345,
+      2347
+    ],
+    "areaId": 11,
+    "area": "Brâkmar"
+  },
+  {
+    "id": 980,
+    "name": "La Marmite",
+    "monsters": [
+      236,
+      489,
+      490,
+      491,
+      492,
+      493,
+      2341,
+      2342,
+      2343,
+      2344,
+      2345,
+      2347
+    ],
+    "areaId": 11,
+    "area": "Brâkmar"
+  },
+  {
+    "id": 982,
+    "name": "L'Enclume",
+    "monsters": [
+      236,
+      489,
+      490,
+      491,
+      492,
+      493,
+      2341,
+      2342,
+      2343,
+      2344,
+      2345,
+      2347
+    ],
+    "areaId": 11,
+    "area": "Brâkmar"
+  },
+  {
+    "id": 983,
+    "name": "Résidence brâkmarienne",
+    "monsters": [],
+    "areaId": 11,
+    "area": "Brâkmar"
+  },
+  {
+    "id": 984,
+    "name": "Résidence bontarienne",
+    "monsters": [],
+    "areaId": 7,
+    "area": "Bonta"
+  },
+  {
+    "id": 985,
+    "name": "Entrailles de Brâkmar",
+    "monsters": [
+      450,
+      935,
+      936,
+      6739,
+      6742,
+      6814
+    ],
+    "areaId": 11,
+    "area": "Brâkmar"
+  },
+  {
+    "id": 986,
+    "name": "Bonta - étage 1",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 987,
+    "name": "Bonta - étage 2",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 988,
+    "name": "Bonta - étage 3",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 989,
+    "name": "Bonta - étage 4",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 990,
+    "name": "Bonta - étage 5",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 991,
+    "name": "Bonta - étage 6",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 992,
+    "name": "Bonta - étage 7",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 993,
+    "name": "Bonta - étage 8",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 994,
+    "name": "Bonta - étage 9",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 995,
+    "name": "Bonta - étage 10",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 996,
+    "name": "Bonta - étage 11",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 997,
+    "name": "Bonta - étage 12",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 998,
+    "name": "Bonta - étage 13",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 999,
+    "name": "Brâkmar - étage 1",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 1000,
+    "name": "Brâkmar - étage 2",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 1001,
+    "name": "Brâkmar - étage 3",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 1002,
+    "name": "Brâkmar - étage 4",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 1003,
+    "name": "Brâkmar - étage 5",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 1004,
+    "name": "Brâkmar - étage 6",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 1005,
+    "name": "Brâkmar - étage 7",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 1006,
+    "name": "Brâkmar - étage 8",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 1007,
+    "name": "Brâkmar - étage 9",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 1008,
+    "name": "Brâkmar - étage 10",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 1009,
+    "name": "Brâkmar - étage 11",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 1010,
+    "name": "Sousouricière du Rat Noir",
+    "monsters": [
+      935,
+      936,
+      937,
+      939,
+      6739,
+      6742
+    ],
+    "areaId": 11,
+    "area": "Brâkmar"
+  },
+  {
+    "id": 1011,
+    "name": "Canaux méphitiques",
+    "monsters": [
+      450,
+      938,
+      941,
+      6743,
+      6744,
+      6814
+    ],
+    "areaId": 7,
+    "area": "Bonta"
+  },
+  {
+    "id": 1012,
+    "name": "Brâkmar - rez-de-chaussée",
+    "monsters": [],
+    "areaId": 91,
+    "area": "Tour des enclos"
+  },
+  {
+    "id": 1013,
+    "name": "Garde-manger du Rat Blanc",
+    "monsters": [
+      938,
+      940,
+      941,
+      942,
+      6743,
+      6744
+    ],
+    "areaId": 7,
+    "area": "Bonta"
+  },
+  {
+    "id": 1014,
+    "name": "Mer de Poussière",
+    "monsters": [],
+    "areaId": 64,
+    "area": "Externam"
+  },
+  {
+    "id": 1015,
+    "name": "Long Descendre",
+    "monsters": [],
+    "areaId": 88,
+    "area": "Cauchemar des Ravageurs"
+  },
+  {
+    "id": 1016,
+    "name": "Tertre du long sommeil",
+    "monsters": [
+      107,
+      6864,
+      6871,
+      6872,
+      6873,
+      6874
+    ],
+    "areaId": 92,
+    "area": "Forêt Maléfique"
+  },
+  {
+    "id": 1017,
+    "name": "Champ de citwouilles",
+    "monsters": [
+      207
+    ],
+    "areaId": 92,
+    "area": "Forêt Maléfique"
+  },
+  {
+    "id": 1018,
+    "name": "Akadémie des Gobs",
+    "monsters": [
+      62,
+      178,
+      6900,
+      6901,
+      6902,
+      6903
+    ],
+    "areaId": 0,
+    "area": "Amakna"
+  },
+  {
+    "id": 1019,
+    "name": "Orée enchantée",
+    "monsters": [],
+    "areaId": 92,
+    "area": "Forêt Maléfique"
+  },
+  {
+    "id": 1020,
+    "name": "Ligue d'Osatopia",
+    "monsters": [],
+    "areaId": 87,
+    "area": "Dimension Éphémère"
+  }
+]
