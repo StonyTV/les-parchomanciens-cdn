@@ -1,844 +1,4803 @@
 {
   "21958": {
     "spells": [
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "30% Critique (infini)",
+          "23408",
+          "50 Puissance (pour 2 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "21959": {
     "spells": [
-      null,
-      null,
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 2",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "50 Puissance (pour 2 tour)",
+          "1 PA (pour 2 tour)",
+          "1 PM (pour 2 tour)",
+          "90 Bouclier (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 2",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "80 Puissance (pour 2 tour)",
+          "1 PA (pour 2 tour)",
+          "1 PM (pour 2 tour)",
+          "140 Bouclier (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 2",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "120 Puissance (pour 2 tour)",
+          "1 PA (pour 2 tour)",
+          "1 PM (pour 2 tour)",
+          "210 Bouclier (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 2",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "180 Puissance (pour 2 tour)",
+          "2 PA (pour 2 tour)",
+          "2 PM (pour 2 tour)",
+          "315 Bouclier (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 2",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "250 Puissance (pour 2 tour)",
+          "2 PA (pour 2 tour)",
+          "2 PM (pour 2 tour)",
+          "480 Bouclier (pour 2 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null,
-      null,
-      null
+      1,
+      30,
+      65,
+      100,
+      140
     ]
   },
   "21960": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 2",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 0",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 6 tour"
+        ],
+        [
+          "Dommages subis x50% (pour 1 tour)",
+          "Dommages subis x150% (pour 1 tour)",
+          "1 PM (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 0",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 5 tour"
+        ],
+        [
+          "Dommages subis x50% (pour 1 tour)",
+          "Dommages subis x150% (pour 1 tour)",
+          "1 PM (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 0",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 4 tour"
+        ],
+        [
+          "Dommages subis x50% (pour 1 tour)",
+          "Dommages subis x150% (pour 1 tour)",
+          "1 PM (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      68,
+      134
     ]
   },
   "21961": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 1",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 3",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Téléporte sur la case ciblée",
+          "1 PM (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 1",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 3",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Téléporte sur la case ciblée",
+          "1 PM (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 1",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 3",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Téléporte sur la case ciblée",
+          "1 PM (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      65,
+      140
     ]
   },
   "21967": {
     "spells": [
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 5",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "1 Portée (infini)",
+          "5% Dommages distance (infini)",
+          "23350",
+          "3% Dommages distance (pour 2 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22029": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 0",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "Pousse de 2 case(s)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 9",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 0",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "Pousse de 2 case(s)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 12",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 0",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "Pousse de 2 case(s)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      65,
+      135
     ]
   },
   "22031": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 4",
+          "Po: 1 - 5",
+          "CC: 0",
+          "PA: 4",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "État Chargé (pour 3 tour)",
+          "-20% Dommages distance (pour 1 tour)",
+          "-1 PM (pour 1 tour)",
+          "40% Dommages distance (pour 1 tour)",
+          "2 PM (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 4",
+          "Po: 1 - 7",
+          "CC: 0",
+          "PA: 4",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "État Chargé (pour 3 tour)",
+          "-20% Dommages distance (pour 1 tour)",
+          "-1 PM (pour 1 tour)",
+          "40% Dommages distance (pour 1 tour)",
+          "2 PM (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 4",
+          "Po: 1 - 9",
+          "CC: 0",
+          "PA: 4",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "État Chargé (pour 3 tour)",
+          "-20% Dommages distance (pour 1 tour)",
+          "-1 PM (pour 1 tour)",
+          "40% Dommages distance (pour 1 tour)",
+          "2 PM (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      70,
+      140
     ]
   },
   "22032": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Désactiver un portail (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Désactiver un portail (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 8",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Désactiver un portail (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      45,
+      90
     ]
   },
   "22033": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 1",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pose un portail (+0% dommages) (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 1 - 5",
+          "CC: 0",
+          "PA: 1",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pose un portail (+0% dommages) (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 1",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pose un portail (+0% dommages) (infini)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      60,
+      140
     ]
   },
   "22034": {
     "spells": [
-      null,
-      null,
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "75 Puissance (pour 2 tour)",
+          "Soin : 15% des PV max",
+          "2 PA (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "150 Puissance (pour 2 tour)",
+          "Soin : 15% des PV max",
+          "2 PA (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "200 Puissance (pour 2 tour)",
+          "Soin : 15% des PV max",
+          "2 PA (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "300 Puissance (pour 2 tour)",
+          "Soin : 15% des PV max",
+          "2 PA (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "400 Puissance (pour 2 tour)",
+          "Soin : 15% des PV max",
+          "2 PA (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null,
-      null,
-      null
+      1,
+      30,
+      60,
+      120,
+      180
     ]
   },
   "22036": {
     "spells": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Soin : 5% des PV max (infini)",
+          "23351",
+          "Soin : 5% des PV max (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Soin : 6% des PV max (infini)",
+          "23351",
+          "Soin : 6% des PV max (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Soin : 7% des PV max (infini)",
+          "23351",
+          "Soin : 7% des PV max (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Soin : 8% des PV max (infini)",
+          "23351",
+          "Soin : 8% des PV max (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Soin : 9% des PV max (infini)",
+          "23351",
+          "Soin : 9% des PV max (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Soin : 10% des PV max (infini)",
+          "23351",
+          "Soin : 10% des PV max (infini)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      1,
+      30,
+      65,
+      100,
+      140,
+      180
     ]
   },
   "22038": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 3",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pousse de 1 case(s)",
+          "23376",
+          "État Mot de Frayeur (pour 1 tour)",
+          "-1 Durée des effets",
+          "5% Érosion (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pousse de 1 case(s)",
+          "23376",
+          "État Mot de Frayeur (pour 1 tour)",
+          "-1 Durée des effets",
+          "10% Érosion (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 5",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pousse de 1 case(s)",
+          "23376",
+          "État Mot de Frayeur (pour 1 tour)",
+          "-1 Durée des effets",
+          "15% Érosion (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      65,
+      130
     ]
   },
   "22039": {
     "spells": [
-      null,
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 2",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Stimulé (pour 3 tour)",
+          "2 PA (pour 2 tour)",
+          "50 Puissance (pour 2 tour)",
+          "Soins reçus x110% (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 3",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Stimulé (pour 3 tour)",
+          "2 PA (pour 2 tour)",
+          "100 Puissance (pour 2 tour)",
+          "Soins reçus x120% (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Stimulé (pour 3 tour)",
+          "2 PA (pour 2 tour)",
+          "150 Puissance (pour 2 tour)",
+          "Soins reçus x130% (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Stimulé (pour 3 tour)",
+          "2 PA (pour 2 tour)",
+          "200 Puissance (pour 2 tour)",
+          "Soins reçus x140% (pour 2 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null,
-      null
+      1,
+      50,
+      100,
+      150
     ]
   },
   "22040": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 4",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 4",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 10",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Soin : 10% des PV max"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 4",
+          "Po: 1 - 7",
+          "CC: 0",
+          "PA: 4",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 10",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Soin : 12% des PV max"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 4",
+          "Po: 1 - 8",
+          "CC: 0",
+          "PA: 4",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 10",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Soin : 14% des PV max"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      60,
+      120
     ]
   },
   "22042": {
     "spells": [
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pose un glyphe-aura de rang 3 (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22048": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 0 - 3",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Protégé (pour 2 tour)",
+          "Dommages subis x85% (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 0 - 4",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Protégé (pour 2 tour)",
+          "Dommages subis x75% (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 0 - 5",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Protégé (pour 2 tour)",
+          "Dommages subis x65% (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      65,
+      140
     ]
   },
   "22049": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 3",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "Téléporte sur la case ciblée",
+          "Dommages réduits de 8 (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "Téléporte sur la case ciblée",
+          "Dommages réduits de 11 (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 5",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "Téléporte sur la case ciblée",
+          "Dommages réduits de 14 (pour 2 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      60,
+      135
     ]
   },
   "22050": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 3",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 5 tour"
+        ],
+        [
+          "État Invulnérabilité en Mêlée (pour 1 tour)",
+          "1 PM (pour 1 tour)",
+          "État Invulnérabilité à Distance (pour 1 tour)",
+          "75 Puissance (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 4 tour"
+        ],
+        [
+          "État Invulnérabilité en Mêlée (pour 1 tour)",
+          "1 PM (pour 1 tour)",
+          "État Invulnérabilité à Distance (pour 1 tour)",
+          "75 Puissance (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 5",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "État Invulnérabilité en Mêlée (pour 1 tour)",
+          "1 PM (pour 1 tour)",
+          "État Invulnérabilité à Distance (pour 1 tour)",
+          "75 Puissance (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      70,
+      145
     ]
   },
   "22055": {
     "spells": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23363",
+          "20 Tacle (pour 2 tour)",
+          "23364",
+          "10% Résistance (pour 2 tour)",
+          "23365",
+          "10% Critique (pour 2 tour)",
+          "23366",
+          "20% des PV en bouclier (pour 2 tour)",
+          "23367",
+          "20 Fuite (pour 2 tour)",
+          "23368",
+          "15 Dommage Poussée (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23363",
+          "30 Tacle (pour 2 tour)",
+          "23364",
+          "12% Résistance (pour 2 tour)",
+          "23365",
+          "15% Critique (pour 2 tour)",
+          "23366",
+          "20% des PV en bouclier (pour 2 tour)",
+          "23367",
+          "30 Fuite (pour 2 tour)",
+          "23368",
+          "30 Dommage Poussée (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23363",
+          "40 Tacle (pour 2 tour)",
+          "23364",
+          "14% Résistance (pour 2 tour)",
+          "23365",
+          "20% Critique (pour 2 tour)",
+          "23366",
+          "20% des PV en bouclier (pour 2 tour)",
+          "23367",
+          "40 Fuite (pour 2 tour)",
+          "23368",
+          "50 Dommage Poussée (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23363",
+          "50 Tacle (pour 2 tour)",
+          "23364",
+          "16% Résistance (pour 2 tour)",
+          "23365",
+          "30% Critique (pour 2 tour)",
+          "23366",
+          "20% des PV en bouclier (pour 2 tour)",
+          "23367",
+          "50 Fuite (pour 2 tour)",
+          "23368",
+          "100 Dommage Poussée (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23363",
+          "60 Tacle (pour 2 tour)",
+          "23364",
+          "18% Résistance (pour 2 tour)",
+          "23365",
+          "40% Critique (pour 2 tour)",
+          "23366",
+          "25% des PV en bouclier (pour 2 tour)",
+          "23367",
+          "60 Fuite (pour 2 tour)",
+          "23368",
+          "125 Dommage Poussée (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23363",
+          "70 Tacle (pour 2 tour)",
+          "23364",
+          "20% Résistance (pour 2 tour)",
+          "23365",
+          "50% Critique (pour 2 tour)",
+          "23366",
+          "30% des PV en bouclier (pour 2 tour)",
+          "23367",
+          "70 Fuite (pour 2 tour)",
+          "23368",
+          "150 Dommage Poussée (pour 2 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      1,
+      30,
+      60,
+      100,
+      150,
+      190
     ]
   },
   "22061": {
     "spells": [
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 5",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "15% Dommages mêlée (infini)",
+          "23348",
+          "1 PM (pour 1 tour)",
+          "23349",
+          "15% des PV en bouclier (pour 1 tour)",
+          "23347",
+          "3% Dommages mêlée (pour 2 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22065": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 2",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pousse de 3 case(s)",
+          "23407",
+          "10 Tacle (pour 1 tour)",
+          "23406",
+          "5% Érosion (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 2",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pousse de 4 case(s)",
+          "23407",
+          "20 Tacle (pour 1 tour)",
+          "23406",
+          "10% Érosion (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 2",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pousse de 5 case(s)",
+          "23407",
+          "30 Tacle (pour 1 tour)",
+          "23406",
+          "15% Érosion (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      60,
+      130
     ]
   },
   "22066": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "5% des PV en bouclier (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 5",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "7% des PV en bouclier (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "10% des PV en bouclier (pour 2 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      65,
+      135
     ]
   },
   "22069": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 3",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "-10% Résistance mêlée (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "-15% Résistance mêlée (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 5",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "-20% Résistance mêlée (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      70,
+      140
     ]
   },
   "22072": {
     "spells": [
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "État Proie (infini)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22073": {
     "spells": [
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 10",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23588",
+          "Soigne l'attaquant de 3% des dommages subis. (infini)",
+          "Dommages subis x110% (infini)",
+          "23589",
+          "Soigne l'attaquant de 5% des dommages subis. (infini)",
+          "Dommages subis x115% (infini)",
+          "23590",
+          "Soigne l'attaquant de 7% des dommages subis. (infini)",
+          "Dommages subis x120% (infini)",
+          "23591",
+          "Soigne l'attaquant de 9% des dommages subis. (infini)",
+          "Dommages subis x125% (infini)",
+          "23592",
+          "Soigne l'attaquant de 12% des dommages subis. (infini)",
+          "Dommages subis x130% (infini)",
+          "23593",
+          "Soigne l'attaquant de 15% des dommages subis. (infini)",
+          "Dommages subis x134% (infini)",
+          "23594",
+          "Soigne l'attaquant de 19% des dommages subis. (infini)",
+          "Dommages subis x138% (infini)",
+          "23595",
+          "Soigne l'attaquant de 22% des dommages subis. (infini)",
+          "Dommages subis x142% (infini)",
+          "23596",
+          "Soigne l'attaquant de 25% des dommages subis. (infini)",
+          "Dommages subis x146% (infini)",
+          "23597",
+          "Soigne l'attaquant de 28% des dommages subis. (infini)",
+          "Dommages subis x150% (infini)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22086": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23358",
+          "Pousse de 2 case(s)",
+          "Enlève l'état Terre",
+          "23359",
+          "Échange de positions",
+          "Enlève l'état Feu",
+          "23357",
+          "Attire de 2 case(s)",
+          "Enlève l'état Eau",
+          "23360",
+          "Téléportation symétrique",
+          "Enlève l'état Air"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 5",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23358",
+          "Pousse de 2 case(s)",
+          "Enlève l'état Terre",
+          "23359",
+          "Échange de positions",
+          "Enlève l'état Feu",
+          "23357",
+          "Attire de 2 case(s)",
+          "Enlève l'état Eau",
+          "23360",
+          "Téléportation symétrique",
+          "Enlève l'état Air"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23358",
+          "Pousse de 3 case(s)",
+          "Enlève l'état Terre",
+          "23359",
+          "Échange de positions",
+          "Enlève l'état Feu",
+          "23357",
+          "Attire de 3 case(s)",
+          "Enlève l'état Eau",
+          "23360",
+          "Téléportation symétrique",
+          "Enlève l'état Air"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      60,
+      150
     ]
   },
   "22087": {
     "spells": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 8",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Exalté (pour 1 tour)",
+          "23358",
+          "50 Puissance (pour 2 tour)",
+          "23359",
+          "Soin : 15% des PV max (pour 2 tour)",
+          "23357",
+          "1 PA (pour 2 tour)",
+          "23360",
+          "1 PM (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 8",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Exalté (pour 1 tour)",
+          "23358",
+          "100 Puissance (pour 2 tour)",
+          "23359",
+          "Soin : 15% des PV max (pour 2 tour)",
+          "23357",
+          "1 PA (pour 2 tour)",
+          "23360",
+          "1 PM (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 8",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Exalté (pour 1 tour)",
+          "23358",
+          "150 Puissance (pour 2 tour)",
+          "23359",
+          "Soin : 15% des PV max (pour 2 tour)",
+          "23357",
+          "1 PA (pour 2 tour)",
+          "23360",
+          "1 PM (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 8",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Exalté (pour 1 tour)",
+          "23358",
+          "200 Puissance (pour 2 tour)",
+          "23359",
+          "Soin : 15% des PV max (pour 2 tour)",
+          "23357",
+          "2 PA (pour 2 tour)",
+          "23360",
+          "2 PM (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 8",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Exalté (pour 1 tour)",
+          "23358",
+          "250 Puissance (pour 2 tour)",
+          "23359",
+          "Soin : 15% des PV max (pour 2 tour)",
+          "23357",
+          "2 PA (pour 2 tour)",
+          "23360",
+          "2 PM (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 8",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Exalté (pour 1 tour)",
+          "23358",
+          "300 Puissance (pour 2 tour)",
+          "23359",
+          "Soin : 15% des PV max (pour 2 tour)",
+          "23357",
+          "3 PA (pour 2 tour)",
+          "23360",
+          "3 PM (pour 2 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      1,
+      30,
+      60,
+      100,
+      150,
+      190
     ]
   },
   "22089": {
     "spells": [
-      null
+      [
+        [
+          "PA: 4",
+          "Po: 5 - 5",
+          "CC: 0",
+          "PA: 4",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "Téléporte sur la case ciblée"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22090": {
     "spells": [
-      null,
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "20 Puissance (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "30 Puissance (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "40 Puissance (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "50 Puissance (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null,
-      null
+      1,
+      60,
+      120,
+      190
     ]
   },
   "22096": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 1 - 8",
+          "CC: 0",
+          "PA: 1",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "-2 PM (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 1 - 10",
+          "CC: 0",
+          "PA: 1",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "-2 PM (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 1 - 12",
+          "CC: 0",
+          "PA: 1",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "-3 PM (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      50,
+      130
     ]
   },
   "22097": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 5",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 4 tour"
+        ],
+        [
+          "30 Fuite (pour 1 tour)",
+          "75 Puissance (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 4 tour"
+        ],
+        [
+          "40 Fuite (pour 1 tour)",
+          "150 Puissance (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 7",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "50 Fuite (pour 1 tour)",
+          "300 Puissance (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      70,
+      150
     ]
   },
   "22098": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 0 - 7",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Accéléré (pour 2 tour)",
+          "2 PM (pour 1 tour)",
+          "État Intaclable (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 0 - 8",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Accéléré (pour 2 tour)",
+          "3 PM (pour 1 tour)",
+          "État Intaclable (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 0 - 9",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Accéléré (pour 2 tour)",
+          "4 PM (pour 1 tour)",
+          "État Intaclable (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      55,
+      145
     ]
   },
   "22109": {
     "spells": [
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 63",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "25% Érosion (pour 1 tour)",
+          "Échange de positions",
+          "3 PM (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22110": {
     "spells": [
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Attire de 4 case(s)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22111": {
     "spells": [
-      null,
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 10",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Rogné (pour 4 tour)",
+          "10 Dommage Poussée (pour 2 tour)",
+          "15 Tacle (pour 2 tour)",
+          "50 Puissance (pour 2 tour)",
+          "23362",
+          "3 Dommage Poussée (pour 2 tour)",
+          "3 Tacle (pour 2 tour)",
+          "10 Puissance (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 5",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 10",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Rogné (pour 4 tour)",
+          "25 Dommage Poussée (pour 2 tour)",
+          "20 Tacle (pour 2 tour)",
+          "75 Puissance (pour 2 tour)",
+          "23362",
+          "5 Dommage Poussée (pour 2 tour)",
+          "5 Tacle (pour 2 tour)",
+          "15 Puissance (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 10",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Rogné (pour 4 tour)",
+          "50 Dommage Poussée (pour 2 tour)",
+          "25 Tacle (pour 2 tour)",
+          "100 Puissance (pour 2 tour)",
+          "23362",
+          "7 Dommage Poussée (pour 2 tour)",
+          "7 Tacle (pour 2 tour)",
+          "20 Puissance (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 7",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 10",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Rogné (pour 4 tour)",
+          "100 Dommage Poussée (pour 2 tour)",
+          "30 Tacle (pour 2 tour)",
+          "150 Puissance (pour 2 tour)",
+          "23362",
+          "9 Dommage Poussée (pour 2 tour)",
+          "9 Tacle (pour 2 tour)",
+          "25 Puissance (pour 2 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null,
-      null
+      1,
+      50,
+      100,
+      150
     ]
   },
   "22115": {
     "spells": [
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 1 - 8",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Attire de 1 case(s)",
+          "Téléportation symétrique"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22116": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 3",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Piqué Motivé (pour 4 tour)",
+          "Augmente les dommages finaux occasionnés de 15% (pour 2 tour)",
+          "10% Vitalité (pour 2 tour)",
+          "2 PA (pour 2 tour)",
+          "2 PM (pour 2 tour)",
+          "Augmente la taille. (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Piqué Motivé (pour 4 tour)",
+          "Augmente les dommages finaux occasionnés de 25% (pour 2 tour)",
+          "20% Vitalité (pour 2 tour)",
+          "2 PA (pour 2 tour)",
+          "2 PM (pour 2 tour)",
+          "Augmente la taille. (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 5",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Piqué Motivé (pour 4 tour)",
+          "Augmente les dommages finaux occasionnés de 35% (pour 2 tour)",
+          "30% Vitalité (pour 2 tour)",
+          "2 PA (pour 2 tour)",
+          "2 PM (pour 2 tour)",
+          "Augmente la taille. (pour 2 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      60,
+      145
     ]
   },
   "22118": {
     "spells": [
-      null
+      [
+        [
+          "PA: 4",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 4",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 4 tour"
+        ],
+        [
+          "Partage des dommages (pour 2 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22122": {
     "spells": [
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Invoque le dernier allié mort avec 50 % de ses PDV",
+          "-30% Résistance (infini)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22185": {
     "spells": [
-      null,
-      null,
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 3",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Souillé (pour 2 tour)",
+          "-1 Durée des effets",
+          "23341",
+          "-50 Puissance (pour 1 tour)",
+          "23339",
+          "5% Résistance (pour 1 tour)",
+          "23340",
+          "50 Puissance (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 3",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Souillé (pour 2 tour)",
+          "-1 Durée des effets",
+          "23341",
+          "-70 Puissance (pour 1 tour)",
+          "23339",
+          "7% Résistance (pour 1 tour)",
+          "23340",
+          "70 Puissance (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 3",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Souillé (pour 2 tour)",
+          "-1 Durée des effets",
+          "23341",
+          "-100 Puissance (pour 1 tour)",
+          "23339",
+          "9% Résistance (pour 1 tour)",
+          "23340",
+          "100 Puissance (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 3",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Souillé (pour 2 tour)",
+          "-1 Durée des effets",
+          "23341",
+          "-150 Puissance (pour 1 tour)",
+          "23339",
+          "11% Résistance (pour 1 tour)",
+          "23340",
+          "150 Puissance (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 3",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Souillé (pour 2 tour)",
+          "-1 Durée des effets",
+          "23341",
+          "-200 Puissance (pour 1 tour)",
+          "23339",
+          "13% Résistance (pour 1 tour)",
+          "23340",
+          "200 Puissance (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null,
-      null,
-      null
+      1,
+      50,
+      100,
+      150,
+      190
     ]
   },
   "22186": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 3",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 4 tour"
+        ],
+        [
+          "État Enraciné (pour 1 tour)",
+          "20 Esquive PM (pour 1 tour)",
+          "23339",
+          "1 PA (pour 1 tour)",
+          "20 Esquive PA (pour 1 tour)",
+          "23340",
+          "1 PM (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 4",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "État Enraciné (pour 1 tour)",
+          "30 Esquive PM (pour 1 tour)",
+          "23340",
+          "1 PA (pour 1 tour)",
+          "30 Esquive PA (pour 1 tour)",
+          "23339",
+          "1 PM (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 5",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "État Enraciné (pour 1 tour)",
+          "40 Esquive PM (pour 1 tour)",
+          "23340",
+          "1 PA (pour 1 tour)",
+          "40 Esquive PA (pour 1 tour)",
+          "23339",
+          "1 PM (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      60,
+      140
     ]
   },
   "22197": {
     "spells": [
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Combo I (pour 1 tour)",
+          "État Combo II (pour 1 tour)",
+          "État Combo III (infini)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22202": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 5",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23331",
+          "23332",
+          "7 à 9 (dommages)",
+          "23333",
+          "16 à 18 (dommages)",
+          "23334",
+          "24 à 26 (dommages)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23331",
+          "23332",
+          "8 à 10 (dommages)",
+          "23333",
+          "19 à 21 (dommages)",
+          "23334",
+          "30 à 32 (dommages)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 7",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23331",
+          "23332",
+          "12 à 14 (dommages)",
+          "23333",
+          "27 à 29 (dommages)",
+          "23334",
+          "41 à 44 (dommages)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      60,
+      140
     ]
   },
   "22203": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 3",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23331",
+          "23332",
+          "Soin : 3% des PV max",
+          "20 Puissance (pour 1 tour)",
+          "23333",
+          "Soin : 7% des PV max",
+          "50 Puissance (pour 1 tour)",
+          "23334",
+          "Soin : 15% des PV max",
+          "120 Puissance (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 5",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 3",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23331",
+          "23332",
+          "Soin : 4% des PV max",
+          "50 Puissance (pour 1 tour)",
+          "23333",
+          "Soin : 9% des PV max",
+          "110 Puissance (pour 1 tour)",
+          "23334",
+          "Soin : 19% des PV max",
+          "230 Puissance (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 3",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23331",
+          "23332",
+          "Soin : 5% des PV max",
+          "70 Puissance (pour 1 tour)",
+          "23333",
+          "Soin : 11% des PV max",
+          "150 Puissance (pour 1 tour)",
+          "23334",
+          "Soin : 23% des PV max",
+          "320 Puissance (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      60,
+      140
     ]
   },
   "22204": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23378",
+          "175% du niveau en bouclier (pour 1 tour)",
+          "Pousse de 3 case(s)",
+          "23379",
+          "Pousse de 1 case(s)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 7",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23378",
+          "185% du niveau en bouclier (pour 1 tour)",
+          "Pousse de 3 case(s)",
+          "23379",
+          "Pousse de 1 case(s)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 8",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23378",
+          "200% du niveau en bouclier (pour 1 tour)",
+          "Pousse de 3 case(s)",
+          "23379",
+          "Pousse de 1 case(s)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      70,
+      150
     ]
   },
   "22205": {
     "spells": [
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 7",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Attire de 3 case(s)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22216": {
     "spells": [
-      null,
-      null,
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 5",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23344",
+          "50 Puissance (pour 2 tour)",
+          "23342",
+          "1 PM (pour 2 tour)",
+          "10 Esquive PM (pour 2 tour)",
+          "23343",
+          "1 PA (pour 2 tour)",
+          "25 Vitalité (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 5",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23344",
+          "75 Puissance (pour 2 tour)",
+          "23342",
+          "1 PM (pour 2 tour)",
+          "15 Esquive PM (pour 2 tour)",
+          "23343",
+          "1 PA (pour 2 tour)",
+          "50 Vitalité (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 5",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23344",
+          "100 Puissance (pour 2 tour)",
+          "23342",
+          "1 PM (pour 2 tour)",
+          "20 Esquive PM (pour 2 tour)",
+          "23343",
+          "1 PA (pour 2 tour)",
+          "100 Vitalité (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 5",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23344",
+          "150 Puissance (pour 2 tour)",
+          "23342",
+          "1 PM (pour 2 tour)",
+          "25 Esquive PM (pour 2 tour)",
+          "23343",
+          "1 PA (pour 2 tour)",
+          "200 Vitalité (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 5",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23344",
+          "200 Puissance (pour 2 tour)",
+          "23342",
+          "1 PM (pour 2 tour)",
+          "30 Esquive PM (pour 2 tour)",
+          "23343",
+          "1 PA (pour 2 tour)",
+          "400 Vitalité (pour 2 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null,
-      null,
-      null
+      1,
+      50,
+      100,
+      150,
+      190
     ]
   },
   "22224": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 2 - 5",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Attire de 3 case(s)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 2 - 7",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Attire de 5 case(s)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 2 - 9",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Attire de 7 case(s)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      60,
+      130
     ]
   },
   "22227": {
     "spells": [
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "-10% PV (infini)",
+          "Soin : 10% des PV max",
+          "Augmente les dommages finaux occasionnés de 10% (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22245": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 4 - 8",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 2",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Infecté (pour 2 tour)",
+          "-10 Esquive PM (pour 2 tour)",
+          "23372",
+          "-1 PM (pour 1 tour)",
+          "-5% Résistance (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 4 - 9",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 2",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Infecté (pour 2 tour)",
+          "-15 Esquive PM (pour 2 tour)",
+          "23372",
+          "-1 PM (pour 1 tour)",
+          "-5% Résistance (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 4 - 10",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 2",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Infecté (pour 2 tour)",
+          "-20 Esquive PM (pour 2 tour)",
+          "23372",
+          "-1 PM (pour 1 tour)",
+          "-5% Résistance (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      65,
+      145
     ]
   },
   "22256": {
     "spells": [
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "Dévoile tous les objets invisibles",
+          "23370",
+          "Attire de 1 case(s)",
+          "Dommages subis x110% (pour 1 tour)",
+          "23371",
+          "Attire de 2 case(s)",
+          "Dommages subis x120% (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22278": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 5",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 2",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pose un piège de rang 1"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 2",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pose un piège de rang 2"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 7",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 2",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pose un piège de rang 3"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      65,
+      145
     ]
   },
   "22279": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 2 - 5",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 0",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pousse jusqu'à la case visée"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 2 - 6",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 0",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pousse jusqu'à la case visée"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 2 - 7",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 0",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pousse jusqu'à la case visée"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      60,
+      140
     ]
   },
   "22280": {
     "spells": [
-      null,
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 0 - 5",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "Pose un glyphe-aura de rang 1 (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 0 - 6",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "Pose un glyphe-aura de rang 1 (pour 2 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null
+      1,
+      100
     ]
   },
   "22281": {
     "spells": [
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23380",
+          "Augmente les dommages finaux occasionnés de 15% (pour 1 tour)",
+          "23381",
+          "État Intaclable (pour 1 tour)",
+          "1 PM (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22289": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23323",
+          "23338",
+          "5 Dommage (pour 1 tour)",
+          "10 Dommage Poussée (pour 1 tour)",
+          "23335",
+          "10 Dommage (pour 1 tour)",
+          "15 Dommage Poussée (pour 1 tour)",
+          "23336",
+          "15 Dommage (pour 1 tour)",
+          "20 Dommage Poussée (pour 1 tour)",
+          "23337",
+          "20 Dommage (pour 1 tour)",
+          "25 Dommage Poussée (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 7",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23323",
+          "23338",
+          "10 Dommage (pour 1 tour)",
+          "20 Dommage Poussée (pour 1 tour)",
+          "23335",
+          "20 Dommage (pour 1 tour)",
+          "30 Dommage Poussée (pour 1 tour)",
+          "23336",
+          "40 Dommage (pour 1 tour)",
+          "50 Dommage Poussée (pour 1 tour)",
+          "23337",
+          "80 Dommage (pour 1 tour)",
+          "90 Dommage Poussée (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 8",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23323",
+          "23338",
+          "20 Dommage (pour 1 tour)",
+          "30 Dommage Poussée (pour 1 tour)",
+          "23335",
+          "40 Dommage (pour 1 tour)",
+          "50 Dommage Poussée (pour 1 tour)",
+          "23336",
+          "60 Dommage (pour 1 tour)",
+          "80 Dommage Poussée (pour 1 tour)",
+          "23337",
+          "100 Dommage (pour 1 tour)",
+          "120 Dommage Poussée (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      60,
+      150
     ]
   },
   "22291": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23323",
+          "23338",
+          "Soin : 2% des PV max",
+          "23335",
+          "Soin : 5% des PV max",
+          "23336",
+          "Soin : 11% des PV max",
+          "23337",
+          "Soin : 23% des PV max"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 5",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23323",
+          "23338",
+          "Soin : 2% des PV max",
+          "23335",
+          "Soin : 5% des PV max",
+          "23336",
+          "Soin : 11% des PV max",
+          "23337",
+          "Soin : 23% des PV max"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23323",
+          "23338",
+          "Soin : 2% des PV max",
+          "23335",
+          "Soin : 5% des PV max",
+          "23336",
+          "Soin : 11% des PV max",
+          "23337",
+          "Soin : 23% des PV max"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      70,
+      160
     ]
   },
   "22293": {
     "spells": [
-      null,
-      null,
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 3",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Tourellifié (pour 2 tour)",
+          "Change l'apparence (pour 2 tour)",
+          "80 Bouclier (pour 2 tour)",
+          "-100 PM (pour 2 tour)",
+          "1 Portée (pour 2 tour)",
+          "23656 (pour 2 tour)",
+          "23324"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Tourellifié (pour 2 tour)",
+          "Change l'apparence (pour 2 tour)",
+          "150 Bouclier (pour 2 tour)",
+          "-100 PM (pour 2 tour)",
+          "2 Portée (pour 2 tour)",
+          "23656 (pour 2 tour)",
+          "23324"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 5",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Tourellifié (pour 2 tour)",
+          "Change l'apparence (pour 2 tour)",
+          "250 Bouclier (pour 2 tour)",
+          "-100 PM (pour 2 tour)",
+          "3 Portée (pour 2 tour)",
+          "23656 (pour 2 tour)",
+          "23324"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Tourellifié (pour 2 tour)",
+          "Change l'apparence (pour 2 tour)",
+          "300 Bouclier (pour 2 tour)",
+          "-100 PM (pour 2 tour)",
+          "4 Portée (pour 2 tour)",
+          "23656 (pour 2 tour)",
+          "23324"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 7",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Tourellifié (pour 2 tour)",
+          "Change l'apparence (pour 2 tour)",
+          "400 Bouclier (pour 2 tour)",
+          "-100 PM (pour 2 tour)",
+          "5 Portée (pour 2 tour)",
+          "23656 (pour 2 tour)",
+          "23324"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null,
-      null,
-      null
+      1,
+      50,
+      100,
+      150,
+      190
     ]
   },
   "22295": {
     "spells": [
-      null,
-      null,
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Évolution I (pour 1 tour)",
+          "20 Puissance (pour 1 tour)",
+          "État Évolution II (pour 1 tour)",
+          "40 Puissance (pour 1 tour)",
+          "État Évolution III (infini)",
+          "80 Puissance (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Évolution I (pour 1 tour)",
+          "40 Puissance (pour 1 tour)",
+          "État Évolution II (pour 1 tour)",
+          "80 Puissance (pour 1 tour)",
+          "État Évolution III (infini)",
+          "160 Puissance (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Évolution I (pour 1 tour)",
+          "60 Puissance (pour 1 tour)",
+          "État Évolution II (pour 1 tour)",
+          "120 Puissance (pour 1 tour)",
+          "État Évolution III (infini)",
+          "240 Puissance (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Évolution I (pour 1 tour)",
+          "75 Puissance (pour 1 tour)",
+          "État Évolution II (pour 1 tour)",
+          "150 Puissance (pour 1 tour)",
+          "État Évolution III (infini)",
+          "300 Puissance (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Évolution I (pour 1 tour)",
+          "90 Puissance (pour 1 tour)",
+          "État Évolution II (pour 1 tour)",
+          "180 Puissance (pour 1 tour)",
+          "État Évolution III (infini)",
+          "360 Puissance (infini)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null,
-      null,
-      null
+      1,
+      50,
+      100,
+      150,
+      190
     ]
   },
   "22314": {
     "spells": [
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 63",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Tonifié (pour 1 tour)",
+          "23322",
+          "23325 (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22318": {
     "spells": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "-2 PA (pour 1 tour)",
+          "2 PA (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "-3 PA (pour 1 tour)",
+          "2 PA (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "-4 PA (pour 1 tour)",
+          "2 PA (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "-6 PA (pour 1 tour)",
+          "2 PA (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "-8 PA (pour 1 tour)",
+          "2 PA (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "-9 PA (pour 1 tour)",
+          "2 PA (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null,
-      null,
-      null,
-      null
+      1,
+      50,
+      100,
+      135,
+      170,
+      190
     ]
   },
   "22319": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 3",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "Répartit 30% des dommages subis.",
+          "1 PA (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 3",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "Répartit 40% des dommages subis.",
+          "1 PA (pour 2 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 3",
+          "CC: 0",
+          "PA: 2",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 3 tour"
+        ],
+        [
+          "Répartit 50% des dommages subis.",
+          "1 PA (pour 2 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      60,
+      150
     ]
   },
   "22320": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 2",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "20 Fuite (pour 1 tour)",
+          "Téléporte à la position précédente"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 4",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "30 Fuite (pour 1 tour)",
+          "Téléporte à la position précédente"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 6",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "40 Fuite (pour 1 tour)",
+          "Téléporte à la position précédente"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      50,
+      140
     ]
   },
   "22332": {
     "spells": [
-      null,
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 3",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "1 PA (infini)",
+          "10 Retrait PA (infini)",
+          "23361",
+          "30 Puissance (pour 1 tour)",
+          "1 PA (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 3",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "1 PA (infini)",
+          "20 Retrait PA (infini)",
+          "23361",
+          "50 Puissance (pour 1 tour)",
+          "1 PA (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 3",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "1 PA (infini)",
+          "30 Retrait PA (infini)",
+          "23361",
+          "80 Puissance (pour 1 tour)",
+          "1 PA (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 3",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "1 PA (infini)",
+          "40 Retrait PA (infini)",
+          "23361",
+          "100 Puissance (pour 1 tour)",
+          "1 PA (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null,
-      null
+      1,
+      55,
+      130,
+      185
     ]
   },
   "22342": {
     "spells": [
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23354",
+          "10% Résistance (pour 1 tour)",
+          "Soin : 10% des PV max",
+          "23353",
+          "15% Dommages mêlée (pour 1 tour)",
+          "23352",
+          "10% Dommages distance (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22343": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "État Intrépide (infini)",
+          "10% des PV en bouclier (infini)",
+          "20 Tacle (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "État Intrépide (infini)",
+          "15% des PV en bouclier (infini)",
+          "35 Tacle (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "État Intrépide (infini)",
+          "20% des PV en bouclier (infini)",
+          "50 Tacle (infini)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      60,
+      120
     ]
   },
   "22344": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "État Psychopathe (infini)",
+          "75 Puissance (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "État Psychopathe (infini)",
+          "150 Puissance (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "État Psychopathe (infini)",
+          "300 Puissance (infini)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      60,
+      120
     ]
   },
   "22345": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "État Pleutre (infini)",
+          "2 PM (infini)",
+          "20 Fuite (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "État Pleutre (infini)",
+          "2 PM (infini)",
+          "30 Fuite (infini)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 1 tour"
+        ],
+        [
+          "État Pleutre (infini)",
+          "3 PM (infini)",
+          "40 Fuite (infini)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      60,
+      120
     ]
   },
   "22346": {
     "spells": [
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 1 - 1",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 0",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "Téléporte sur la case ciblée",
+          "1 PM (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22372": {
     "spells": [
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 3",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 2 tour"
+        ],
+        [
+          "Répartit 50% des dommages subis. (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22373": {
     "spells": [
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 2 - 5",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Porte la cible",
+          "Lance une entité",
+          "23403",
+          "15% des PV en bouclier (pour 1 tour)",
+          "Attire de 2 case(s)",
+          "23404",
+          "Soin : 10% des PV max",
+          "Pousse de 2 case(s)",
+          "23405",
+          "Dommages subis x115% (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22383": {
     "spells": [
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 1 - 1",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "23383",
+          "-100 PM",
+          "23384",
+          "23382"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "22384": {
     "spells": [
-      null,
-      null,
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Ivre (pour 1 tour)",
+          "1 PA (pour 1 tour)",
+          "10 Tacle (pour 1 tour)",
+          "État Sobre (pour 1 tour)",
+          "1 PM (pour 1 tour)",
+          "10 Fuite (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Ivre (pour 1 tour)",
+          "1 PA (pour 1 tour)",
+          "15 Tacle (pour 1 tour)",
+          "État Sobre (pour 1 tour)",
+          "1 PM (pour 1 tour)",
+          "15 Fuite (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Ivre (pour 1 tour)",
+          "1 PA (pour 1 tour)",
+          "20 Tacle (pour 1 tour)",
+          "État Sobre (pour 1 tour)",
+          "1 PM (pour 1 tour)",
+          "20 Fuite (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Ivre (pour 1 tour)",
+          "1 PA (pour 1 tour)",
+          "30 Tacle (pour 1 tour)",
+          "État Sobre (pour 1 tour)",
+          "1 PM (pour 1 tour)",
+          "30 Fuite (pour 1 tour)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Ivre (pour 1 tour)",
+          "1 PA (pour 1 tour)",
+          "50 Tacle (pour 1 tour)",
+          "État Sobre (pour 1 tour)",
+          "1 PM (pour 1 tour)",
+          "50 Fuite (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null,
-      null,
-      null
+      1,
+      50,
+      100,
+      150,
+      190
     ]
   },
   "22390": {
@@ -1290,14 +5249,62 @@
   },
   "22411": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 4",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 0",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pousse de 2 case(s)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 6",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 0",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pousse de 3 case(s)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 1 - 8",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 0",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pousse de 4 case(s)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      60,
+      130
     ]
   },
   "22412": {
@@ -13063,18 +17070,54 @@
   },
   "23294": {
     "spells": [
-      null
+      [
+        [
+          "PA: 1",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 1",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 0",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pose un glyphe de rang 1 (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "23302": {
     "spells": [
-      null
+      [
+        [
+          "PA: 2",
+          "Po: 0 - 0",
+          "CC: 0",
+          "PA: 2",
+          "Ne nécessite pas de ligne de vue",
+          "Cumul maximal des effets : 2",
+          "Nombre de lancers par tour : 1",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "État Infecté (pour 2 tour)",
+          "-15 Fuite (pour 2 tour)",
+          "23372",
+          "-1 PM (pour 1 tour)",
+          "-5% Résistance (pour 1 tour)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null
+      1
     ]
   },
   "23410": {
@@ -13573,14 +17616,62 @@
   },
   "23587": {
     "spells": [
-      null,
-      null,
-      null
+      [
+        [
+          "PA: 3",
+          "Po: 2 - 4",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pousse de 2 case(s)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 2 - 5",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pousse de 2 case(s)"
+        ],
+        []
+      ],
+      [
+        [
+          "PA: 3",
+          "Po: 2 - 6",
+          "CC: 0",
+          "PA: 3",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
+          "Intervalle de relance : 0 tour"
+        ],
+        [
+          "Pousse de 2 case(s)"
+        ],
+        []
+      ]
     ],
     "levels": [
-      null,
-      null,
-      null
+      1,
+      70,
+      130
     ]
   }
 }
