@@ -1412,7 +1412,7 @@
           "Intervalle de relance : 0 tour"
         ],
         [
-          "15% Dommages mêlée (infini)",
+          "16% Dommages mêlée (infini)",
           "23348",
           "1 PM (pour 1 tour)",
           "23349",
@@ -2192,8 +2192,7 @@
         ],
         [
           "État Accéléré (pour 2 tour)",
-          "2 PM (pour 1 tour)",
-          "État Intaclable (pour 1 tour)"
+          "2 PM (pour 1 tour)"
         ],
         []
       ],
@@ -2211,8 +2210,7 @@
         ],
         [
           "État Accéléré (pour 2 tour)",
-          "3 PM (pour 1 tour)",
-          "État Intaclable (pour 1 tour)"
+          "3 PM (pour 1 tour)"
         ],
         []
       ],
@@ -2230,8 +2228,7 @@
         ],
         [
           "État Accéléré (pour 2 tour)",
-          "4 PM (pour 1 tour)",
-          "État Intaclable (pour 1 tour)"
+          "4 PM (pour 1 tour)"
         ],
         []
       ]
@@ -2531,7 +2528,7 @@
           "CC: 0",
           "PA: 1",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 0",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
@@ -2799,11 +2796,11 @@
         [
           "23331",
           "23332",
-          "7 à 9 (dommages)",
+          "9 à 11 (dommages)",
           "23333",
-          "16 à 18 (dommages)",
+          "18 à 20 (dommages)",
           "23334",
-          "24 à 26 (dommages)"
+          "26 à 28 (dommages)"
         ],
         []
       ],
@@ -2822,11 +2819,11 @@
         [
           "23331",
           "23332",
-          "8 à 10 (dommages)",
+          "10 à 12 (dommages)",
           "23333",
-          "19 à 21 (dommages)",
+          "21 à 23 (dommages)",
           "23334",
-          "30 à 32 (dommages)"
+          "32 à 34 (dommages)"
         ],
         []
       ],
@@ -2845,11 +2842,11 @@
         [
           "23331",
           "23332",
-          "12 à 14 (dommages)",
+          "14 à 16 (dommages)",
           "23333",
-          "27 à 29 (dommages)",
+          "29 à 31 (dommages)",
           "23334",
-          "41 à 44 (dommages)"
+          "43 à 46 (dommages)"
         ],
         []
       ]
@@ -2878,13 +2875,13 @@
           "23331",
           "23332",
           "Soin : 3% des PV max",
-          "20 Puissance (pour 1 tour)",
+          "40 Puissance (pour 1 tour)",
           "23333",
           "Soin : 7% des PV max",
-          "50 Puissance (pour 1 tour)",
+          "90 Puissance (pour 1 tour)",
           "23334",
           "Soin : 15% des PV max",
-          "120 Puissance (pour 1 tour)"
+          "200 Puissance (pour 1 tour)"
         ],
         []
       ],
@@ -2904,13 +2901,13 @@
           "23331",
           "23332",
           "Soin : 4% des PV max",
-          "50 Puissance (pour 1 tour)",
+          "70 Puissance (pour 1 tour)",
           "23333",
           "Soin : 9% des PV max",
-          "110 Puissance (pour 1 tour)",
+          "150 Puissance (pour 1 tour)",
           "23334",
           "Soin : 19% des PV max",
-          "230 Puissance (pour 1 tour)"
+          "320 Puissance (pour 1 tour)"
         ],
         []
       ],
@@ -2930,13 +2927,13 @@
           "23331",
           "23332",
           "Soin : 5% des PV max",
-          "70 Puissance (pour 1 tour)",
+          "90 Puissance (pour 1 tour)",
           "23333",
           "Soin : 11% des PV max",
-          "150 Puissance (pour 1 tour)",
+          "190 Puissance (pour 1 tour)",
           "23334",
           "Soin : 23% des PV max",
-          "320 Puissance (pour 1 tour)"
+          "400 Puissance (pour 1 tour)"
         ],
         []
       ]
@@ -3540,7 +3537,7 @@
         ],
         [
           "23380",
-          "Augmente les dommages finaux occasionnés de 15% (pour 1 tour)",
+          "Augmente les dommages finaux occasionnés de 17% (pour 1 tour)",
           "23381",
           "État Intaclable (pour 1 tour)",
           "1 PM (pour 1 tour)"
@@ -4260,7 +4257,7 @@
           "CC: 0",
           "PA: 1",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 3",
+          "Cumul maximal des effets : 5",
           "Nombre de lancers par tour : 0",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
@@ -4281,7 +4278,7 @@
           "CC: 0",
           "PA: 1",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 3",
+          "Cumul maximal des effets : 5",
           "Nombre de lancers par tour : 0",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
@@ -4302,7 +4299,7 @@
           "CC: 0",
           "PA: 1",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 3",
+          "Cumul maximal des effets : 5",
           "Nombre de lancers par tour : 0",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
@@ -4323,7 +4320,7 @@
           "CC: 0",
           "PA: 1",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 3",
+          "Cumul maximal des effets : 5",
           "Nombre de lancers par tour : 0",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
@@ -4809,13 +4806,13 @@
           "CC: 0",
           "PA: 2",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 0",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 2 tour"
         ],
         [
-          "1 PM (pour 1 tour)",
+          "3 PM (pour 1 tour)",
           "État Intaclable (pour 1 tour)"
         ],
         []
@@ -4834,18 +4831,18 @@
           "CC: 25",
           "PA: 3",
           "Nécessite une ligne de vue",
-          "Cumul maximal des effets : 3",
+          "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 2",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
           "10 à 13 (dommages Eau)",
-          "Augmente les dégâts de base du sort 22391 de 2 (infini)"
+          "Augmente les dégâts de base du sort 22391 de 3 (pour 3 tour)"
         ],
         [
           "12 à 16 (dommages Eau)",
-          "Augmente les dégâts de base du sort 22391 de 3 (infini)"
+          "Augmente les dégâts de base du sort 22391 de 4 (pour 3 tour)"
         ]
       ]
     ],
@@ -4868,10 +4865,10 @@
           "Intervalle de relance : 0 tour"
         ],
         [
-          "15 à 18 (dommages Eau)"
+          "18 à 21 (dommages Eau)"
         ],
         [
-          "18 à 21 (dommages Eau)"
+          "21 à 24 (dommages Eau)"
         ]
       ]
     ],
@@ -5057,7 +5054,7 @@
         ],
         [
           "Attire de 3 case(s)",
-          "15% Dommages mêlée (pour 2 tour)"
+          "20% Dommages mêlée (pour 2 tour)"
         ],
         []
       ]
@@ -5076,8 +5073,8 @@
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : Infini",
-          "Nombre de lancers par tour : 1",
-          "Nombre de lancer par cible : 0",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -5127,18 +5124,18 @@
           "CC: 20",
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 4",
+          "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 1",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
           "23 à 26 (dommages Feu)",
-          "10% Dommages mêlée (pour 1 tour)"
+          "5% Dommages mêlée (pour 2 tour)"
         ],
         [
           "27 à 31 (dommages Feu)",
-          "10% Dommages mêlée (pour 1 tour)"
+          "7% Dommages mêlée (pour 2 tour)"
         ]
       ]
     ],
@@ -5162,7 +5159,7 @@
         ],
         [
           "Attire de 5 case(s)",
-          "20% Dommages mêlée (pour 2 tour)"
+          "25% Dommages mêlée (pour 2 tour)"
         ],
         []
       ]
@@ -5180,18 +5177,20 @@
           "CC: 10",
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 3",
           "Nombre de lancer par cible : 2",
           "Intervalle de relance : 0 tour"
         ],
         [
           "26 à 29 (dommages Feu)",
-          "20% Critique (pour 2 tour)"
+          "-7% Critique (pour 2 tour)",
+          "7% Critique (pour 2 tour)"
         ],
         [
           "31 à 35 (dommages Feu)",
-          "30% Critique (pour 2 tour)"
+          "-10% Critique (pour 2 tour)",
+          "10% Critique (pour 2 tour)"
         ]
       ]
     ],
@@ -5214,7 +5213,8 @@
           "Intervalle de relance : 3 tour"
         ],
         [
-          "Échange de positions"
+          "Échange de positions",
+          "10% Dommages distance (pour 2 tour)"
         ],
         []
       ]
@@ -5238,7 +5238,8 @@
           "Intervalle de relance : 2 tour"
         ],
         [
-          "Échange de positions"
+          "Échange de positions",
+          "15% Dommages distance (pour 2 tour)"
         ],
         []
       ]
@@ -5317,8 +5318,8 @@
           "PA: 3",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 0",
-          "Nombre de lancers par tour : 2",
-          "Nombre de lancer par cible : 0",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -5394,18 +5395,18 @@
           "CC: 10",
           "PA: 3",
           "Nécessite une ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 2",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
           "19 à 23 (dommages Air)",
-          "-15% Résistance distance (pour 1 tour)"
+          "-4% Résistance distance (pour 2 tour)"
         ],
         [
           "23 à 27 (dommages Air)",
-          "-15% Résistance distance (pour 1 tour)"
+          "-6% Résistance distance (pour 2 tour)"
         ]
       ]
     ],
@@ -5429,7 +5430,8 @@
         ],
         [
           "20 Tacle (pour 1 tour)",
-          "Avance de 3 case(s)"
+          "Avance de 3 case(s)",
+          "-20 Fuite (pour 1 tour)"
         ],
         []
       ]
@@ -5454,7 +5456,8 @@
         ],
         [
           "30 Tacle (pour 1 tour)",
-          "Avance de 5 case(s)"
+          "Avance de 5 case(s)",
+          "-30 Fuite (pour 1 tour)"
         ],
         []
       ]
@@ -5478,10 +5481,12 @@
           "Intervalle de relance : 0 tour"
         ],
         [
-          "20 à 23 (dommages Terre)"
+          "20 à 23 (dommages Terre)",
+          "-3% Résistance mêlée (pour 2 tour)"
         ],
         [
-          "24 à 27 (dommages Terre)"
+          "24 à 27 (dommages Terre)",
+          "-3% Résistance mêlée (pour 2 tour)"
         ]
       ]
     ],
@@ -5554,17 +5559,19 @@
           "CC: 10",
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 3",
-          "Nombre de lancers par tour : 2",
-          "Nombre de lancer par cible : 0",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2",
           "Intervalle de relance : 0 tour"
         ],
         [
           "19 à 23 (dommages Terre)",
+          "-3% Résistance mêlée (pour 3 tour)",
           "Augmente les dégâts de base du sort 22421 de 5 (pour 3 tour)"
         ],
         [
           "23 à 27 (dommages Terre)",
+          "-3% Résistance mêlée (pour 3 tour)",
           "Augmente les dégâts de base du sort 22421 de 5 (pour 3 tour)"
         ]
       ]
@@ -5588,7 +5595,7 @@
           "Intervalle de relance : 2 tour"
         ],
         [
-          "2 PM (pour 1 tour)",
+          "4 PM (pour 1 tour)",
           "État Intaclable (pour 1 tour)"
         ],
         []
@@ -5603,7 +5610,7 @@
       [
         [
           "PA: 3",
-          "Po: 6 - 8",
+          "Po: 3 - 8",
           "CC: 20",
           "PA: 3",
           "Nécessite une ligne de vue",
@@ -5638,7 +5645,7 @@
           "PA: 3",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 1",
-          "Nombre de lancers par tour : 3",
+          "Nombre de lancers par tour : 4",
           "Nombre de lancer par cible : 2",
           "Intervalle de relance : 0 tour"
         ],
@@ -5747,7 +5754,7 @@
           "PA: 3",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : Infini",
-          "Nombre de lancers par tour : 2",
+          "Nombre de lancers par tour : 3",
           "Nombre de lancer par cible : 1",
           "Intervalle de relance : 0 tour"
         ],
@@ -5775,7 +5782,7 @@
           "PA: 3",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 0",
-          "Nombre de lancers par tour : 1",
+          "Nombre de lancers par tour : 2",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
@@ -5904,20 +5911,20 @@
       [
         [
           "PA: 3",
-          "Po: 0 - 0",
+          "Po: 0 - 3",
           "CC: 20",
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : Infini",
-          "Nombre de lancers par tour : 1",
+          "Nombre de lancers par tour : 2",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
-          "14 à 17 (dommages Air)"
+          "19 à 22 (dommages Air)"
         ],
         [
-          "17 à 20 (dommages Air)"
+          "22 à 26 (dommages Air)"
         ]
       ]
     ],
@@ -5957,21 +5964,21 @@
         [
           "PA: 3",
           "Po: 1 - 6",
-          "CC: 10",
+          "CC: 20",
           "PA: 3",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : Infini",
-          "Nombre de lancers par tour : 1",
-          "Nombre de lancer par cible : 1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
           "Téléportation symétrique",
-          "14 à 17 (dommages Air)"
+          "17 à 20 (dommages Air)"
         ],
         [
           "Téléportation symétrique",
-          "17 à 20 (dommages Air)"
+          "20 à 24 (dommages Air)"
         ]
       ]
     ],
@@ -5988,9 +5995,9 @@
           "CC: 5",
           "PA: 3",
           "Nécessite une ligne de vue",
-          "Cumul maximal des effets : 3",
-          "Nombre de lancers par tour : 2",
-          "Nombre de lancer par cible : 1",
+          "Cumul maximal des effets : 2",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -6013,12 +6020,12 @@
         [
           "PA: 3",
           "Po: 1 - 6",
-          "CC: 5",
+          "CC: 15",
           "PA: 3",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 3",
-          "Nombre de lancers par tour : 3",
-          "Nombre de lancer par cible : 2",
+          "Nombre de lancers par tour : 4",
+          "Nombre de lancer par cible : 3",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -6040,7 +6047,7 @@
       [
         [
           "PA: 2",
-          "Po: 0 - 4",
+          "Po: 0 - 6",
           "CC: 15",
           "PA: 2",
           "Nécessite une ligne de vue",
@@ -6102,11 +6109,11 @@
         ],
         [
           "16 à 19 (dommages Air)",
-          "100 Puissance (pour 2 tour)"
+          "150 Puissance (pour 2 tour)"
         ],
         [
           "19 à 22 (dommages Air)",
-          "100 Puissance (pour 2 tour)"
+          "150 Puissance (pour 2 tour)"
         ]
       ]
     ],
@@ -6130,11 +6137,11 @@
         ],
         [
           "15 (PV rendus)",
-          "Soins reçus x130% (pour 1 tour)"
+          "Soins reçus x130% (pour 2 tour)"
         ],
         [
           "19 (PV rendus)",
-          "Soins reçus x130% (pour 1 tour)"
+          "Soins reçus x130% (pour 2 tour)"
         ]
       ]
     ],
@@ -6256,8 +6263,8 @@
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : Infini",
-          "Nombre de lancers par tour : 1",
-          "Nombre de lancer par cible : 1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -6278,12 +6285,12 @@
         [
           "PA: 3",
           "Po: 1 - 3",
-          "CC: 5",
+          "CC: 15",
           "PA: 3",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 1",
-          "Nombre de lancers par tour : 1",
-          "Nombre de lancer par cible : 1",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -6330,10 +6337,10 @@
       [
         [
           "PA: 2",
-          "Po: 1 - 4",
+          "Po: 1 - 5",
           "CC: 0",
           "PA: 2",
-          "Nécessite une ligne de vue",
+          "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 0",
           "Nombre de lancer par cible : 0",
@@ -6555,17 +6562,17 @@
           "PA: 3",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 1",
-          "Nombre de lancers par tour : 1",
+          "Nombre de lancers par tour : 2",
           "Nombre de lancer par cible : 1",
           "Intervalle de relance : 0 tour"
         ],
         [
           "14 à 17 (vol Eau)",
-          "-50 Puissance (pour 1 tour)"
+          "-100 Puissance (pour 1 tour)"
         ],
         [
           "17 à 20 (vol Eau)",
-          "-50 Puissance (pour 1 tour)"
+          "-100 Puissance (pour 1 tour)"
         ]
       ]
     ],
@@ -6578,22 +6585,22 @@
       [
         [
           "PA: 2",
-          "Po: 1 - 3",
+          "Po: 0 - 3",
           "CC: 15",
           "PA: 2",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 1",
-          "Nombre de lancers par tour : 1",
-          "Nombre de lancer par cible : 0",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
           "Intervalle de relance : 0 tour"
         ],
         [
-          "50 Puissance (pour 1 tour)",
-          "15% Critique (pour 1 tour)"
+          "50 Puissance (pour 2 tour)",
+          "15% Critique (pour 2 tour)"
         ],
         [
-          "75 Puissance (pour 1 tour)",
-          "20% Critique (pour 1 tour)"
+          "75 Puissance (pour 2 tour)",
+          "20% Critique (pour 2 tour)"
         ]
       ]
     ],
@@ -6612,16 +6619,16 @@
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 1",
           "Nombre de lancers par tour : 3",
-          "Nombre de lancer par cible : 1",
+          "Nombre de lancer par cible : 2",
           "Intervalle de relance : 0 tour"
         ],
         [
           "14 à 17 (vol Eau)",
-          "-50 Puissance (pour 1 tour)"
+          "-150 Puissance (pour 1 tour)"
         ],
         [
           "17 à 20 (vol Eau)",
-          "-50 Puissance (pour 1 tour)"
+          "-150 Puissance (pour 1 tour)"
         ]
       ]
     ],
@@ -6664,17 +6671,17 @@
           "PA: 3",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 1",
-          "Nombre de lancers par tour : 2",
-          "Nombre de lancer par cible : 1",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2",
           "Intervalle de relance : 0 tour"
         ],
         [
           "17 à 20 (dommages Eau)",
-          "-15 Tacle (pour 1 tour)"
+          "-30 Tacle (pour 1 tour)"
         ],
         [
           "20 à 23 (dommages Eau)",
-          "-20 Tacle (pour 1 tour)"
+          "-40 Tacle (pour 1 tour)"
         ]
       ]
     ],
@@ -6692,7 +6699,7 @@
           "PA: 3",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 1",
-          "Nombre de lancers par tour : 2",
+          "Nombre de lancers par tour : 3",
           "Nombre de lancer par cible : 2",
           "Intervalle de relance : 0 tour"
         ],
@@ -6804,8 +6811,8 @@
           "Intervalle de relance : 3 tour"
         ],
         [
-          "500% du niveau en bouclier (pour 2 tour)",
-          "500% du niveau en bouclier (pour 2 tour)"
+          "200% du niveau en bouclier (pour 2 tour)",
+          "200% du niveau en bouclier (pour 2 tour)"
         ],
         []
       ]
@@ -6909,9 +6916,11 @@
           "Intervalle de relance : 0 tour"
         ],
         [
-          "Soin : 8% des PV max"
+          "Soin : 8% des PV max",
+          "2 PM (pour 1 tour)"
         ],
         [
+          "2 PM (pour 1 tour)",
           "Soin : 12% des PV max"
         ]
       ]
@@ -7136,10 +7145,10 @@
         [
           "PA: 2",
           "Po: 0 - 0",
-          "CC: 15",
+          "CC: 25",
           "PA: 2",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 4",
+          "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 0",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 2 tour"
@@ -7295,9 +7304,9 @@
           "CC: 15",
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 1",
-          "Nombre de lancer par cible : 1",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -7430,7 +7439,7 @@
           "Po: 1 - 2",
           "CC: 15",
           "PA: 3",
-          "Nécessite une ligne de vue",
+          "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : 1",
           "Nombre de lancers par tour : 3",
           "Nombre de lancer par cible : 2",
@@ -7483,13 +7492,13 @@
       [
         [
           "PA: 3",
-          "Po: 1 - 5",
+          "Po: 3 - 5",
           "CC: 0",
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : 1",
-          "Nombre de lancers par tour : 3",
-          "Nombre de lancer par cible : 2",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -7567,7 +7576,7 @@
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 1",
           "Nombre de lancers par tour : 3",
-          "Nombre de lancer par cible : 2",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -7591,14 +7600,14 @@
           "CC: 0",
           "PA: 3",
           "Nécessite une ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 3",
           "Nombre de lancer par cible : 2",
           "Intervalle de relance : 0 tour"
         ],
         [
           "Échange de positions",
-          "17 à 20 (dommages Terre)"
+          "27 à 31 (dommages Terre)"
         ],
         []
       ]
@@ -7613,10 +7622,10 @@
         [
           "PA: 4",
           "Po: 0 - 0",
-          "CC: 15",
+          "CC: 25",
           "PA: 4",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 5",
+          "Cumul maximal des effets : 1",
           "Nombre de lancers par tour : 0",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 3 tour"
@@ -7703,7 +7712,7 @@
           "19 à 22 (dommages Feu)"
         ],
         [
-          "Augmente les dommages finaux occasionnés de 20% (pour 1 tour)",
+          "-20% Critique (pour 1 tour)",
           "20% Critique (pour 1 tour)",
           "23 à 26 (dommages Feu)"
         ]
@@ -7773,7 +7782,7 @@
         [
           "PA: 3",
           "Po: 1 - 4",
-          "CC: 10",
+          "CC: 25",
           "PA: 3",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 1",
@@ -7812,12 +7821,12 @@
         [
           "19 à 22 (dommages Neutre)",
           "200 Puissance (pour 2 tour)",
-          "20% Résistance mêlée (pour 1 tour)"
+          "-20% Dommages mêlée (pour 1 tour)"
         ],
         [
           "22 à 25 (dommages Neutre)",
           "200 Puissance (pour 2 tour)",
-          "24% Résistance mêlée (pour 1 tour)"
+          "-20% Dommages mêlée (pour 1 tour)"
         ]
       ]
     ],
@@ -7835,8 +7844,8 @@
           "PA: 3",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 1",
-          "Nombre de lancers par tour : 2",
-          "Nombre de lancer par cible : 0",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -7888,7 +7897,7 @@
           "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : 1",
           "Nombre de lancers par tour : 2",
-          "Nombre de lancer par cible : 2",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -8020,22 +8029,22 @@
       [
         [
           "PA: 3",
-          "Po: 1 - 1",
+          "Po: 1 - 3",
           "CC: 20",
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 1",
-          "Nombre de lancers par tour : 2",
-          "Nombre de lancer par cible : 0",
+          "Cumul maximal des effets : 2",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2",
           "Intervalle de relance : 0 tour"
         ],
         [
           "20 à 23 (dommages Terre)",
-          "20 Tacle (pour 2 tour)"
+          "20 Tacle (pour 3 tour)"
         ],
         [
           "24 à 27 (dommages Terre)",
-          "20 Tacle (pour 2 tour)"
+          "20 Tacle (pour 3 tour)"
         ]
       ]
     ],
@@ -8076,13 +8085,13 @@
       [
         [
           "PA: 3",
-          "Po: 1 - 3",
-          "CC: 15",
+          "Po: 0 - 0",
+          "CC: 20",
           "PA: 3",
-          "Nécessite une ligne de vue",
+          "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : Infini",
-          "Nombre de lancers par tour : 3",
-          "Nombre de lancer par cible : 2",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -8112,7 +8121,7 @@
           "Intervalle de relance : 0 tour"
         ],
         [
-          "18 à 21 (dommages Air)"
+          "28 à 31 (dommages Air)"
         ],
         []
       ]
@@ -8131,8 +8140,8 @@
           "PA: 3",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : Infini",
-          "Nombre de lancers par tour : 1",
-          "Nombre de lancer par cible : 0",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 1",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -8186,17 +8195,17 @@
           "CC: 15",
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : 0",
           "Nombre de lancers par tour : 2",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
-          "22544",
+          "Attire de 63 case(s)",
           "17 à 20 (PV rendus)"
         ],
         [
-          "22544",
+          "Attire de 63 case(s)",
           "20 à 23 (PV rendus)"
         ]
       ],
@@ -8207,7 +8216,7 @@
           "CC: 15",
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : 0",
           "Nombre de lancers par tour : 2",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
@@ -8260,18 +8269,18 @@
           "CC: 15",
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : 2",
           "Nombre de lancers par tour : 3",
           "Nombre de lancer par cible : 2",
           "Intervalle de relance : 0 tour"
         ],
         [
           "20 à 23 (dommages Feu)",
-          "Vole 150 Intelligence"
+          "Vole 150 Intelligence (pour 3 tour)"
         ],
         [
           "24 à 27 (dommages Feu)",
-          "Vole 150 Intelligence"
+          "Vole 150 Intelligence (pour 3 tour)"
         ]
       ]
     ],
@@ -8446,7 +8455,7 @@
           "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : 0",
           "Nombre de lancers par tour : 1",
-          "Nombre de lancer par cible : 1",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -8616,7 +8625,7 @@
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 1",
           "Nombre de lancers par tour : 1",
-          "Nombre de lancer par cible : 1",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -8676,10 +8685,10 @@
           "Intervalle de relance : 0 tour"
         ],
         [
-          "17 à 20 (dommages Air)"
+          "21 à 24 (dommages Air)"
         ],
         [
-          "20 à 23 (dommages Air)"
+          "24 à 27 (dommages Air)"
         ]
       ]
     ],
@@ -8861,7 +8870,7 @@
         [
           "PA: 3",
           "Po: 2 - 8",
-          "CC: 10",
+          "CC: 20",
           "PA: 3",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : Infini",
@@ -8978,11 +8987,13 @@
         ],
         [
           "Recule de 1 case(s)",
-          "20 à 23 (dommages Terre)"
+          "20 à 23 (dommages Terre)",
+          "15 Soin (pour 2 tour)"
         ],
         [
           "Recule de 1 case(s)",
-          "24 à 27 (dommages Terre)"
+          "24 à 27 (dommages Terre)",
+          "20 Soin (pour 2 tour)"
         ]
       ]
     ],
@@ -9020,7 +9031,7 @@
       [
         [
           "PA: 3",
-          "Po: 2 - 5",
+          "Po: 1 - 5",
           "CC: 5",
           "PA: 3",
           "Nécessite une ligne de vue",
@@ -9245,18 +9256,18 @@
           "CC: 5",
           "PA: 3",
           "Nécessite une ligne de vue",
-          "Cumul maximal des effets : Infini",
-          "Nombre de lancers par tour : 2",
-          "Nombre de lancer par cible : 1",
+          "Cumul maximal des effets : 2",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2",
           "Intervalle de relance : 0 tour"
         ],
         [
           "21 à 24 (dommages Air)",
-          "50 Puissance (pour 2 tour)"
+          "100 Puissance (pour 2 tour)"
         ],
         [
           "25 à 28 (dommages Air)",
-          "50 Puissance (pour 2 tour)"
+          "100 Puissance (pour 2 tour)"
         ]
       ]
     ],
@@ -9350,7 +9361,7 @@
           "Po: 1 - 4",
           "CC: 0",
           "PA: 2",
-          "Nécessite une ligne de vue",
+          "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 0",
           "Nombre de lancer par cible : 0",
@@ -9429,7 +9440,7 @@
       [
         [
           "PA: 3",
-          "Po: 1 - 4",
+          "Po: 1 - 6",
           "CC: 25",
           "PA: 3",
           "Nécessite une ligne de vue",
@@ -9550,11 +9561,11 @@
         ],
         [
           "22 à 25 (dommages Feu)",
-          "Repousse de 5 case(s)"
+          "Repousse de 4 case(s)"
         ],
         [
           "26 à 30 (dommages Feu)",
-          "Repousse de 5 case(s)"
+          "Repousse de 4 case(s)"
         ]
       ]
     ],
@@ -9629,18 +9640,18 @@
           "CC: 5",
           "PA: 3",
           "Nécessite une ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : 3",
           "Nombre de lancers par tour : 1",
           "Nombre de lancer par cible : 1",
           "Intervalle de relance : 0 tour"
         ],
         [
           "23 à 26 (dommages Eau)",
-          "-3 PM (pour 1 tour)"
+          "Vole 2 PM (pour 1 tour)"
         ],
         [
           "27 à 31 (dommages Eau)",
-          "-3 PM (pour 1 tour)"
+          "Vole 2 PM (pour 1 tour)"
         ]
       ]
     ],
@@ -9738,7 +9749,7 @@
           "Po: 1 - 4",
           "CC: 0",
           "PA: 2",
-          "Nécessite une ligne de vue",
+          "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 0",
           "Nombre de lancer par cible : 0",
@@ -9766,7 +9777,7 @@
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 0",
           "Nombre de lancers par tour : 3",
-          "Nombre de lancer par cible : 2",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -9797,7 +9808,7 @@
         ],
         [
           "Téléportation symétrique",
-          "1 PM (pour 1 tour)"
+          "3 PM (pour 1 tour)"
         ],
         []
       ]
@@ -9868,7 +9879,7 @@
           "CC: 15",
           "PA: 3",
           "Nécessite une ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : 0",
           "Nombre de lancers par tour : 3",
           "Nombre de lancer par cible : 2",
           "Intervalle de relance : 0 tour"
@@ -10026,7 +10037,7 @@
           "CC: 0",
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 1",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
@@ -10406,11 +10417,11 @@
           "Intervalle de relance : 3 tour"
         ],
         [
-          "23 à 26 (dommages Air)",
+          "33 à 36 (dommages Air)",
           "État Intacleur (pour 1 tour)"
         ],
         [
-          "27 à 31 (dommages Air)",
+          "37 à 41 (dommages Air)",
           "État Intacleur (pour 1 tour)"
         ]
       ]
@@ -10458,7 +10469,7 @@
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 1",
           "Nombre de lancers par tour : 3",
-          "Nombre de lancer par cible : 2",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -10806,7 +10817,8 @@
           "Intervalle de relance : 0 tour"
         ],
         [
-          "23 à 26 (dommages Air)"
+          "23 à 26 (dommages Air)",
+          "23676 (pour 1 tour)"
         ],
         [
           "27 à 31 (dommages Air)"
@@ -10952,10 +10964,10 @@
     "spells": [
       [
         [
-          "PA: 3",
-          "Po: 1 - 4",
+          "PA: 4",
+          "Po: 1 - 6",
           "CC: 0",
-          "PA: 3",
+          "PA: 4",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 2",
@@ -10963,7 +10975,7 @@
           "Intervalle de relance : 0 tour"
         ],
         [
-          "19 à 23 (dommages Eau)"
+          "30 à 34 (dommages Eau)"
         ],
         []
       ]
@@ -11006,7 +11018,7 @@
         [
           "PA: 3",
           "Po: 1 - 5",
-          "CC: 5",
+          "CC: 25",
           "PA: 3",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 1",
@@ -11142,13 +11154,13 @@
       [
         [
           "PA: 3",
-          "Po: 1 - 4",
+          "Po: 1 - 6",
           "CC: 20",
           "PA: 3",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 1",
           "Nombre de lancers par tour : 2",
-          "Nombre de lancer par cible : 2",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -11201,7 +11213,7 @@
           "Po: 5 - 5",
           "CC: 0",
           "PA: 3",
-          "Nécessite une ligne de vue",
+          "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 0",
           "Nombre de lancer par cible : 0",
@@ -11354,7 +11366,7 @@
       [
         [
           "PA: 3",
-          "Po: 4 - 7",
+          "Po: 3 - 7",
           "CC: 25",
           "PA: 3",
           "Nécessite une ligne de vue",
@@ -11542,22 +11554,22 @@
     "spells": [
       [
         [
-          "PA: 3",
+          "PA: 4",
           "Po: 0 - 0",
           "CC: 20",
-          "PA: 3",
+          "PA: 4",
           "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : 4",
-          "Nombre de lancers par tour : 0",
+          "Nombre de lancers par tour : 1",
           "Nombre de lancer par cible : 0",
-          "Intervalle de relance : 3 tour"
+          "Intervalle de relance : 0 tour"
         ],
         [
-          "26 à 29 (dommages)",
+          "31 à 34 (dommages)",
           "15% Dommages mêlée (pour 2 tour)"
         ],
         [
-          "31 à 35 (dommages)",
+          "36 à 40 (dommages)",
           "15% Dommages mêlée (pour 2 tour)"
         ]
       ]
@@ -11634,17 +11646,17 @@
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : 0",
-          "Nombre de lancers par tour : 2",
+          "Nombre de lancers par tour : 1",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
-          "23 à 26 (dommages Eau)",
-          "23 à 26 (dommages Air)"
+          "21 à 24 (dommages Eau)",
+          "21 à 24 (dommages Air)"
         ],
         [
-          "27 à 31 (dommages Eau)",
-          "27 à 31 (dommages Air)"
+          "25 à 29 (dommages Eau)",
+          "25 à 29 (dommages Air)"
         ]
       ]
     ],
@@ -11696,11 +11708,11 @@
         ],
         [
           "30 Fuite (pour 2 tour)",
-          "40 Dommage (pour 2 tour)"
+          "30 Dommage (pour 2 tour)"
         ],
         [
           "40 Fuite (pour 2 tour)",
-          "50 Dommage (pour 2 tour)"
+          "40 Dommage (pour 2 tour)"
         ]
       ]
     ],
@@ -11717,18 +11729,18 @@
           "CC: 15",
           "PA: 3",
           "Nécessite une ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 3",
-          "Nombre de lancer par cible : 1",
+          "Nombre de lancer par cible : 2",
           "Intervalle de relance : 0 tour"
         ],
         [
           "21 à 23 (dommages Feu)",
-          "16 à 18 (dommages Feu) (pour 1 tour)"
+          "7 à 8 (dommages Feu) (pour 2 tour)"
         ],
         [
           "25 à 28 (dommages Feu)",
-          "10 à 12 (dommages Feu) (pour 1 tour)"
+          "8 à 9 (dommages Feu) (pour 2 tour)"
         ]
       ]
     ],
@@ -11801,11 +11813,11 @@
           "Intervalle de relance : 0 tour"
         ],
         [
-          "24 à 28 (dommages Feu)",
+          "24 à 28 (dommages)",
           "Soin : 8% des PV max"
         ],
         [
-          "29 à 34 (dommages Feu)",
+          "29 à 34 (dommages)",
           "Soin : 10% des PV max"
         ]
       ]
@@ -12096,11 +12108,11 @@
         ],
         [
           "32 à 36 (dommages Eau)",
-          "10 Dommage (pour 2 tour)"
+          "30 Dommage (pour 2 tour)"
         ],
         [
           "38 à 43 (dommages Eau)",
-          "10 Dommage (pour 2 tour)"
+          "30 Dommage (pour 2 tour)"
         ]
       ]
     ],
@@ -12119,7 +12131,7 @@
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 3",
           "Nombre de lancers par tour : 3",
-          "Nombre de lancer par cible : 2",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -12142,10 +12154,10 @@
         [
           "PA: 3",
           "Po: 0 - 6",
-          "CC: 15",
+          "CC: 25",
           "PA: 3",
           "Nécessite une ligne de vue",
-          "Cumul maximal des effets : Infini",
+          "Cumul maximal des effets : 1",
           "Nombre de lancers par tour : 1",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
@@ -12280,7 +12292,7 @@
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 2",
-          "Nombre de lancer par cible : 1",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -12298,7 +12310,7 @@
       [
         [
           "PA: 3",
-          "Po: 1 - 3",
+          "Po: 1 - 5",
           "CC: 0",
           "PA: 3",
           "Nécessite une ligne de vue",
@@ -12332,9 +12344,11 @@
           "Intervalle de relance : 0 tour"
         ],
         [
-          "22 à 25 (dommages Terre)"
+          "22 à 25 (dommages Terre)",
+          "Attire de 2 case(s)"
         ],
         [
+          "Attire de 2 case(s)",
           "26 à 30 (dommages Terre)"
         ]
       ]
@@ -12647,7 +12661,7 @@
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 0",
           "Nombre de lancers par tour : 2",
-          "Nombre de lancer par cible : 2",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -12669,11 +12683,11 @@
       [
         [
           "PA: 3",
-          "Po: 1 - 4",
+          "Po: 1 - 5",
           "CC: 15",
           "PA: 3",
           "Nécessite une ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : 0",
           "Nombre de lancers par tour : 3",
           "Nombre de lancer par cible : 1",
           "Intervalle de relance : 0 tour"
@@ -12785,7 +12799,7 @@
           "CC: 0",
           "PA: 4",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 2",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
@@ -13112,12 +13126,12 @@
           "Intervalle de relance : 0 tour"
         ],
         [
-          "22 à 25 (dommages)",
-          "Augmente les dégâts de base du sort 22870 de 5 (infini)"
+          "21 à 24 (dommages)",
+          "Augmente les dégâts de base du sort 22870 de 3 (infini)"
         ],
         [
-          "26 à 30 (dommages)",
-          "Augmente les dégâts de base du sort 22870 de 6 (infini)"
+          "25 à 29 (dommages)",
+          "Augmente les dégâts de base du sort 22870 de 4 (infini)"
         ]
       ]
     ],
@@ -13246,7 +13260,7 @@
           "CC: 10",
           "PA: 3",
           "Nécessite une ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : 2",
           "Nombre de lancers par tour : 3",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
@@ -13320,18 +13334,18 @@
           "CC: 10",
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 3",
           "Nombre de lancer par cible : 2",
           "Intervalle de relance : 0 tour"
         ],
         [
           "20 à 23 (dommages Feu)",
-          "Vole 100 Intelligence (pour 3 tour)"
+          "Vole 50 Intelligence (pour 3 tour)"
         ],
         [
           "24 à 27 (dommages Feu)",
-          "Vole 130 Intelligence (pour 3 tour)"
+          "Vole 60 Intelligence (pour 3 tour)"
         ]
       ]
     ],
@@ -13487,11 +13501,11 @@
         ],
         [
           "16 à 18 (vol Air)",
-          "100 Tacle (pour 1 tour)"
+          "20 Tacle (pour 1 tour)"
         ],
         [
           "20 à 22 (vol Air)",
-          "100 Tacle (pour 1 tour)"
+          "30 Tacle (pour 1 tour)"
         ]
       ]
     ],
@@ -13590,7 +13604,7 @@
           "Intervalle de relance : 0 tour"
         ],
         [
-          "200 Puissance (pour 2 tour)"
+          "50 Puissance (pour 2 tour)"
         ],
         []
       ]
@@ -13723,12 +13737,12 @@
         ],
         [
           "20 à 23 (dommages Feu)",
-          "100 Tacle (pour 2 tour)",
+          "20 Tacle (pour 2 tour)",
           "Augmente la taille de 10% (pour 2 tour)"
         ],
         [
           "24 à 27 (dommages Feu)",
-          "100 Tacle (pour 2 tour)",
+          "30 Tacle (pour 2 tour)",
           "Augmente la taille de 10% (pour 2 tour)"
         ]
       ]
@@ -13795,7 +13809,7 @@
           "Po: 1 - 10",
           "CC: 0",
           "PA: 2",
-          "Ne nécessite pas de ligne de vue",
+          "Nécessite une ligne de vue",
           "Cumul maximal des effets : 1",
           "Nombre de lancers par tour : 0",
           "Nombre de lancer par cible : 0",
@@ -13953,11 +13967,9 @@
           "Intervalle de relance : 0 tour"
         ],
         [
-          "-30% Résistance mêlée (pour 1 tour)",
           "31 à 35 (dommages Terre)"
         ],
         [
-          "-30% Résistance mêlée (pour 1 tour)",
           "41 à 45 (dommages Terre)"
         ]
       ]
@@ -13971,13 +13983,13 @@
       [
         [
           "PA: 3",
-          "Po: 1 - 8",
+          "Po: 1 - 6",
           "CC: 10",
           "PA: 3",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : Infini",
-          "Nombre de lancers par tour : 3",
-          "Nombre de lancer par cible : 2",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -14044,13 +14056,13 @@
       [
         [
           "PA: 3",
-          "Po: 1 - 6",
+          "Po: 1 - 7",
           "CC: 10",
           "PA: 3",
           "Nécessite une ligne de vue",
-          "Cumul maximal des effets : 1",
-          "Nombre de lancers par tour : 3",
-          "Nombre de lancer par cible : 2",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 2",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -14132,18 +14144,18 @@
           "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : 1",
           "Nombre de lancers par tour : 2",
-          "Nombre de lancer par cible : 2",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
           "19 à 21 (dommages Terre)",
           "19 à 21 (dommages Air)",
-          "50 Retrait PA (pour 2 tour)"
+          "50 Retrait PM (pour 2 tour)"
         ],
         [
           "22 à 25 (dommages Terre)",
           "22 à 25 (dommages Air)",
-          "60 Retrait PA (pour 2 tour)"
+          "60 Retrait PM (pour 2 tour)"
         ]
       ]
     ],
@@ -14163,11 +14175,11 @@
           "Cumul maximal des effets : 1",
           "Nombre de lancers par tour : 0",
           "Nombre de lancer par cible : 0",
-          "Intervalle de relance : 4 tour"
+          "Intervalle de relance : 3 tour"
         ],
         [
-          "4 Portée (pour 3 tour)",
-          "4 Portée (pour 3 tour)"
+          "4 Portée (pour 2 tour)",
+          "4 Portée (pour 2 tour)"
         ],
         []
       ]
@@ -14398,8 +14410,8 @@
       [
         [
           "PA: 3",
-          "Po: 1 - 3",
-          "CC: 10",
+          "Po: 1 - 4",
+          "CC: 15",
           "PA: 3",
           "Nécessite une ligne de vue",
           "Cumul maximal des effets : 1",
@@ -14451,15 +14463,15 @@
     "spells": [
       [
         [
-          "PA: 2",
+          "PA: 4",
           "Po: 1 - 5",
           "CC: 0",
-          "PA: 2",
+          "PA: 4",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 1",
-          "Nombre de lancers par tour : 0",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 1",
           "Nombre de lancer par cible : 0",
-          "Intervalle de relance : 4 tour"
+          "Intervalle de relance : 0 tour"
         ],
         [
           "Pose un piège de rang 1 (pour 3 tour)"
@@ -14475,15 +14487,15 @@
     "spells": [
       [
         [
-          "PA: 2",
+          "PA: 4",
           "Po: 1 - 5",
           "CC: 0",
-          "PA: 2",
+          "PA: 4",
           "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : Infini",
-          "Nombre de lancers par tour : 0",
+          "Nombre de lancers par tour : 1",
           "Nombre de lancer par cible : 0",
-          "Intervalle de relance : 4 tour"
+          "Intervalle de relance : 0 tour"
         ],
         [
           "Pose un piège de rang 1"
@@ -14528,7 +14540,7 @@
           "CC: 15",
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 2",
           "Nombre de lancer par cible : 1",
           "Intervalle de relance : 0 tour"
@@ -14822,11 +14834,11 @@
         ],
         [
           "22 à 25 (dommages Feu)",
-          "100 Fuite (pour 2 tour)"
+          "20 Fuite (pour 2 tour)"
         ],
         [
           "26 à 30 (dommages Feu) (pour 1 tour)",
-          "100 Fuite (pour 2 tour)"
+          "30 Fuite (pour 2 tour)"
         ]
       ]
     ],
@@ -14901,7 +14913,7 @@
           "Intervalle de relance : 0 tour"
         ],
         [
-          "30 Dommage Critiques (infini)"
+          "10 Dommage Critiques (infini)"
         ],
         []
       ]
@@ -14926,7 +14938,7 @@
         ],
         [
           "100% Critique (pour 1 tour)",
-          "Dommages subis x200% (pour 1 tour)"
+          "Dommages subis x130% (pour 1 tour)"
         ],
         []
       ]
@@ -15024,7 +15036,7 @@
           "Cumul maximal des effets : 1",
           "Nombre de lancers par tour : 0",
           "Nombre de lancer par cible : 0",
-          "Intervalle de relance : 4 tour"
+          "Intervalle de relance : 3 tour"
         ],
         [
           "40 Retrait PA (pour 3 tour)"
@@ -15048,7 +15060,7 @@
           "Cumul maximal des effets : 1",
           "Nombre de lancers par tour : 0",
           "Nombre de lancer par cible : 0",
-          "Intervalle de relance : 4 tour"
+          "Intervalle de relance : 3 tour"
         ],
         [
           "50 Retrait PA (pour 3 tour)"
@@ -15076,9 +15088,9 @@
         ],
         [
           "État Proto (pour 1 tour)",
-          "Augmente les dommages finaux occasionnés de 20% (pour 1 tour)",
+          "Augmente les dommages finaux occasionnés de 15% (pour 1 tour)",
           "État Neutro (pour 1 tour)",
-          "10% Résistance (pour 1 tour)"
+          "15% Résistance (pour 1 tour)"
         ],
         []
       ]
@@ -15092,7 +15104,7 @@
       [
         [
           "PA: 3",
-          "Po: 2 - 6",
+          "Po: 1 - 5",
           "CC: 10",
           "PA: 3",
           "Nécessite une ligne de vue",
@@ -15120,7 +15132,7 @@
       [
         [
           "PA: 3",
-          "Po: 2 - 6",
+          "Po: 0 - 6",
           "CC: 15",
           "PA: 3",
           "Nécessite une ligne de vue",
@@ -15148,7 +15160,7 @@
       [
         [
           "PA: 3",
-          "Po: 1 - 2",
+          "Po: 1 - 3",
           "CC: 10",
           "PA: 3",
           "Nécessite une ligne de vue",
@@ -15187,11 +15199,11 @@
         ],
         [
           "28 à 31 (dommages Air)",
-          "Vole 3 PA (pour 1 tour)"
+          "Vole 2 PA (pour 1 tour)"
         ],
         [
           "33 à 37 (dommages Air)",
-          "Vole 3 PA (pour 1 tour)"
+          "Vole 2 PA (pour 1 tour)"
         ]
       ]
     ],
@@ -15356,7 +15368,7 @@
       [
         [
           "PA: 3",
-          "Po: 1 - 3",
+          "Po: 1 - 6",
           "CC: 10",
           "PA: 3",
           "Nécessite une ligne de vue",
@@ -15476,11 +15488,11 @@
           "Intervalle de relance : 0 tour"
         ],
         [
-          "Soin : 5% des PV max",
+          "Soin : 8% des PV max",
           "22 à 25 (dommages Eau)"
         ],
         [
-          "Soin : 5% des PV max",
+          "Soin : 8% des PV max",
           "26 à 30 (dommages Eau)"
         ]
       ]
@@ -15550,19 +15562,19 @@
       [
         [
           "PA: 2",
-          "Po: 1 - 1",
-          "CC: 10",
+          "Po: 1 - 7",
+          "CC: 0",
           "PA: 2",
-          "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Nécessite une ligne de vue",
+          "Cumul maximal des effets : 2",
           "Nombre de lancers par tour : 2",
           "Nombre de lancer par cible : 1",
           "Intervalle de relance : 0 tour"
         ],
         [
-          "Avance de 1 case(s)",
+          "Avance de 6 case(s)",
           "Téléportation symétrique",
-          "20 Dommage Poussée (pour 2 tour)"
+          "200 Dommage Poussée (pour 2 tour)"
         ],
         []
       ]
@@ -15580,7 +15592,7 @@
           "CC: 10",
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 3",
           "Nombre de lancer par cible : 2",
           "Intervalle de relance : 0 tour"
@@ -15712,10 +15724,10 @@
         [
           "PA: 3",
           "Po: 0 - 0",
-          "CC: 10",
+          "CC: 15",
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : Infini",
           "Nombre de lancers par tour : 2",
           "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
@@ -15741,9 +15753,9 @@
           "CC: 10",
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
-          "Cumul maximal des effets : 1",
-          "Nombre de lancers par tour : 2",
-          "Nombre de lancer par cible : 0",
+          "Cumul maximal des effets : Infini",
+          "Nombre de lancers par tour : 3",
+          "Nombre de lancer par cible : 2",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -15769,7 +15781,7 @@
           "CC: 10",
           "PA: 3",
           "Nécessite une ligne de vue",
-          "Cumul maximal des effets : 1",
+          "Cumul maximal des effets : 2",
           "Nombre de lancers par tour : 3",
           "Nombre de lancer par cible : 1",
           "Intervalle de relance : 0 tour"
@@ -15792,7 +15804,7 @@
         [
           "PA: 4",
           "Po: 0 - 0",
-          "CC: 10",
+          "CC: 20",
           "PA: 4",
           "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : 2",
@@ -15801,10 +15813,10 @@
           "Intervalle de relance : 0 tour"
         ],
         [
-          "26 à 29 (dommages Terre) (pour 2 tour)"
+          "26 à 29 (dommages Terre) (pour 3 tour)"
         ],
         [
-          "31 à 35 (dommages Terre) (pour 2 tour)"
+          "31 à 35 (dommages Terre) (pour 3 tour)"
         ]
       ]
     ],
@@ -16046,7 +16058,7 @@
         ],
         [
           "31 à 35 (dommages Eau)",
-          "51 à 55 (vol Eau)"
+          "31 à 35 (vol Eau)"
         ]
       ]
     ],
@@ -16369,7 +16381,7 @@
         [
           "PA: 3",
           "Po: 1 - 1",
-          "CC: 10",
+          "CC: 15",
           "PA: 3",
           "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : Infini",
@@ -16504,7 +16516,7 @@
           "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : 1",
           "Nombre de lancers par tour : 2",
-          "Nombre de lancer par cible : 2",
+          "Nombre de lancer par cible : 0",
           "Intervalle de relance : 0 tour"
         ],
         [
@@ -16536,7 +16548,7 @@
           "Intervalle de relance : 0 tour"
         ],
         [
-          "600% du niveau en bouclier (pour 2 tour)",
+          "300% du niveau en bouclier (pour 2 tour)",
           "27 à 31 (dommages Air)"
         ],
         []
@@ -16831,11 +16843,13 @@
         ],
         [
           "32 à 36 (dommages Feu)",
-          "-50 Fuite (pour 1 tour)"
+          "-50 Fuite (pour 1 tour)",
+          "32 à 36 (vol Feu)"
         ],
         [
           "38 à 43 (dommages Feu)",
-          "-50 Fuite (pour 1 tour)"
+          "-50 Fuite (pour 1 tour)",
+          "38 à 43 (vol Feu)"
         ]
       ]
     ],
@@ -17260,18 +17274,18 @@
       [
         [
           "PA: 2",
-          "Po: 1 - 5",
+          "Po: 1 - 6",
           "CC: 0",
           "PA: 2",
           "Ne nécessite pas de ligne de vue",
           "Cumul maximal des effets : 1",
           "Nombre de lancers par tour : 0",
           "Nombre de lancer par cible : 0",
-          "Intervalle de relance : 4 tour"
+          "Intervalle de relance : 3 tour"
         ],
         [
-          "Échange de positions (pour 3 tour)",
-          "200% du niveau en bouclier (pour 3 tour)"
+          "Échange de positions",
+          "200% du niveau en bouclier (pour 2 tour)"
         ],
         []
       ]
@@ -17441,11 +17455,11 @@
           "Intervalle de relance : 0 tour"
         ],
         [
-          "17 à 20 (dommages Feu)",
+          "17 à 20 (vol Feu)",
           "-30 Esquive PA (pour 1 tour)"
         ],
         [
-          "20 à 23 (dommages Feu)",
+          "20 à 23 (vol Feu)",
           "-30 Esquive PA (pour 1 tour)"
         ]
       ]

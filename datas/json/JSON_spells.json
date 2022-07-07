@@ -219,7 +219,7 @@
   "22098": {
     "id": 22098,
     "name": "Accélération",
-    "description": "Applique l'état Accéléré sur un allié :\n• Augmente ses PM.\n• Si l'allié ciblé est le lanceur, le rend également Intaclable.\n\nLes effets ne peuvent pas être appliqués sur un allié étant déjà dans l'état Accéléré.",
+    "description": "Applique l'état Accéléré et augmente les PM.\n\nLes effets ne peuvent pas être appliqués sur une cible étant déjà dans l'état Accéléré.",
     "iconId": 55,
     "isAltere": false
   },
@@ -590,7 +590,7 @@
   "22402": {
     "id": 22402,
     "name": "Matraquage",
-    "description": "Occasionne des dommages Feu en zone.",
+    "description": "Occasionne des dommages Feu aux ennemis en zone.",
     "iconId": 702,
     "isAltere": true
   },
@@ -611,21 +611,21 @@
   "22408": {
     "id": 22408,
     "name": "Capotage",
-    "description": "Occasionne des dommages Feu et augmente les chances d'effectuer un coup critique du lanceur.",
+    "description": "Occasionne des dommages Feu et vole des chances d'effectuer un coup critique.",
     "iconId": 4042,
     "isAltere": true
   },
   "22409": {
     "id": 22409,
     "name": "Brise",
-    "description": "Échange de position avec la cible.",
+    "description": "Échange de position avec la cible et augmente les dommages à distance du lanceur.",
     "iconId": 10630,
     "isAltere": true
   },
   "22410": {
     "id": 22410,
     "name": "Rafale",
-    "description": "Échange de position avec la cible.",
+    "description": "Échange de position avec la cible et augmente les dommages à distance du lanceur.",
     "iconId": 10631,
     "isAltere": true
   },
@@ -653,35 +653,35 @@
   "22414": {
     "id": 22414,
     "name": "Houle",
-    "description": "Vole de la vie dans l'élément Air en zone.",
+    "description": "Vole de la vie dans l'élément Air aux ennemis en zone.",
     "iconId": 3396,
     "isAltere": true
   },
   "22415": {
     "id": 22415,
     "name": "Blizzard",
-    "description": "Occasionne des dommages Air et réduit les résistances à distance en zone.",
+    "description": "Occasionne des dommages Air aux ennemis et réduit leurs résistances à distance en zone.",
     "iconId": 14,
     "isAltere": true
   },
   "22416": {
     "id": 22416,
     "name": "Forage",
-    "description": "Augmente le Tacle du lanceur et le rapproche de la cible.",
+    "description": "Augmente le Tacle du lanceur, le rapproche de la cible et retire de la Fuite aux ennemis en zone autour d'elle.",
     "iconId": 10632,
     "isAltere": true
   },
   "22417": {
     "id": 22417,
     "name": "Perforage",
-    "description": "Augmente le Tacle du lanceur et le rapproche de la cible.",
+    "description": "Augmente le Tacle du lanceur, le rapproche de la cible et retire de la Fuite aux ennemis en zone autour d'elle.",
     "iconId": 10633,
     "isAltere": true
   },
   "22418": {
     "id": 22418,
     "name": "Poinçon",
-    "description": "Inflige des dommages Terre.",
+    "description": "Occasionne des dommages Terre aux ennemis et réduit leurs résistances en mêlée en zone.",
     "iconId": 61,
     "isAltere": true
   },
@@ -702,7 +702,7 @@
   "22421": {
     "id": 22421,
     "name": "Taraudage",
-    "description": "Occasionne des dommages Terre.\nLes dommages du sort sont augmentés après chaque lancer.",
+    "description": "Occasionne des dommages Terre et réduit les résistances en mêlée.\nLes dommages du sort sont augmentés après chaque lancer.",
     "iconId": 10349,
     "isAltere": true
   },
@@ -822,7 +822,7 @@
     "id": 22440,
     "name": "Lapiquette",
     "description": "Occasionne des dommages Air aux ennemis et augmente les Soins du lanceur.",
-    "iconId": 3614,
+    "iconId": 10913,
     "isAltere": true
   },
   "22442": {
@@ -983,7 +983,7 @@
     "id": 22467,
     "name": "Distillation",
     "description": "Réduit les chances d'effectuer un coup critique et érode la cible.",
-    "iconId": 3651,
+    "iconId": 3350,
     "isAltere": true
   },
   "22468": {
@@ -1052,7 +1052,7 @@
   "22477": {
     "id": 22477,
     "name": "Frange",
-    "description": "Soigne la cible.",
+    "description": "Soigne la cible et lui donne des PM.",
     "iconId": 1738,
     "isAltere": true
   },
@@ -1241,7 +1241,7 @@
   "22518": {
     "id": 22518,
     "name": "Amphibulle",
-    "description": "Applique des points de bouclier sur les alliés en zone autour du lanceur.",
+    "description": "Applique des points de bouclier sur les alliés en zone.",
     "iconId": 2890,
     "isAltere": true
   },
@@ -1304,7 +1304,7 @@
   "22529": {
     "id": 22529,
     "name": "Contour",
-    "description": "Augmente les PA des alliés en zone autour du lanceur.",
+    "description": "Augmente les PA des alliés en zone.",
     "iconId": 89,
     "isAltere": true
   },
@@ -1360,7 +1360,7 @@
   "22539": {
     "id": 22539,
     "name": "Lansoie",
-    "description": "Occasionne des dommages Air.",
+    "description": "Occasionne des dommages Air aux ennemis en zone.",
     "iconId": 10666,
     "isAltere": true
   },
@@ -1375,7 +1375,7 @@
     "id": 22542,
     "name": "Mue",
     "description": "Occasionne des dommages Air et attire la cible.",
-    "iconId": 3210,
+    "iconId": 68,
     "isAltere": true
   },
   "22543": {
@@ -1584,7 +1584,7 @@
   "22593": {
     "id": 22593,
     "name": "Effeuillage",
-    "description": "Éloigne le lanceur de la cible et occasionne des dommages Terre.",
+    "description": "Éloigne le lanceur de la cible et occasionne des dommages Terre. Le lanceur gagne un bonus aux soins.",
     "iconId": 3591,
     "isAltere": true
   },
@@ -1661,7 +1661,7 @@
   "22605": {
     "id": 22605,
     "name": "Volette",
-    "description": "Vole de la vie dans l'élément Air en zone.\nN'affecte pas le lanceur.",
+    "description": "Vole de la vie dans l'élément Air en zone.",
     "iconId": 10754,
     "isAltere": true
   },
@@ -1752,7 +1752,7 @@
   "22619": {
     "id": 22619,
     "name": "Gésier",
-    "description": "Occasionne des dommages Eau et retire des PM en zone.",
+    "description": "Occasionne des dommages Eau et vole des PM en zone.",
     "iconId": 10703,
     "isAltere": true
   },
@@ -2019,7 +2019,7 @@
     "id": 22678,
     "name": "Rotin",
     "description": "Attire les cibles vers le centre et occasionne des dommages Air aux ennemis en zone.",
-    "iconId": 194,
+    "iconId": 10346,
     "isAltere": true
   },
   "22679": {
@@ -2053,7 +2053,7 @@
   "22683": {
     "id": 22683,
     "name": "Châtaigne",
-    "description": "Occasionne des dommages Air.",
+    "description": "Occasionne des dommages Air. Occasionne des dommages supplémentaires si la cible est téléportée ou échange de position.",
     "iconId": 10718,
     "isAltere": true
   },
@@ -2194,7 +2194,7 @@
     "id": 22719,
     "name": "Hure",
     "description": "Occasionne des dommages Terre et retire de la Puissance aux ennemis.",
-    "iconId": 10738,
+    "iconId": 10909,
     "isAltere": true
   },
   "22720": {
@@ -2452,7 +2452,7 @@
   "22797": {
     "id": 22797,
     "name": "Geyser",
-    "description": "Occasionne des dommages Terre.",
+    "description": "Occasionne des dommages Terre et attire de 2 cases.",
     "iconId": 10241,
     "isAltere": true
   },
@@ -2571,7 +2571,7 @@
   "22852": {
     "id": 22852,
     "name": "Angorgage",
-    "description": "Vole de la vie dans l'élément Neutre aux ennemis dans une zone de 2 cases autour de chaque allié dans la zone d'effet.",
+    "description": "Vole de la vie dans l'élément Neutre aux ennemis dans une zone de 2 cases autour de chaque Altéré allié dans la zone d'effet.",
     "iconId": 4117,
     "isAltere": true
   },
@@ -2872,7 +2872,7 @@
   "22996": {
     "id": 22996,
     "name": "Rameau",
-    "description": "Occasionne des dommages Terre.\nLes dommages sont plus importants de 50% en mêlée.",
+    "description": "Occasionne des dommages Terre.\nLes dommages sont plus importants de 30% en mêlée.",
     "iconId": 3595,
     "isAltere": true
   },
@@ -3062,7 +3062,7 @@
     "id": 23070,
     "name": "Éventail",
     "description": "Occasionne des dommages Eau et repousse la cible.",
-    "iconId": 687,
+    "iconId": 4150,
     "isAltere": true
   },
   "23073": {
@@ -3180,7 +3180,7 @@
   "23127": {
     "id": 23127,
     "name": "Impair",
-    "description": "Occasionne des dommages Feu et retire des PA.",
+    "description": "Occasionne des dommages Feu aux ennemis et retire des PA.",
     "iconId": 4020,
     "isAltere": true
   },
@@ -3222,7 +3222,7 @@
   "23137": {
     "id": 23137,
     "name": "Extinction",
-    "description": "Vole de la vie dans l'élément Feu.",
+    "description": "Vole de la vie dans l'élément Feu en zone.\nN'affecte pas le lanceur.",
     "iconId": 3297,
     "isAltere": true
   },
@@ -3544,7 +3544,7 @@
   "23224": {
     "id": 23224,
     "name": "Paperasse",
-    "description": "Applique des points de bouclier sur les alliés en zone et occasionne des dommages Air aux ennemis dans une zone de 3 cases autour de chaque allié dans la zone d'effet.",
+    "description": "Applique des points de bouclier sur les alliés en zone et occasionne des dommages Air aux ennemis dans une zone de 2 cases autour de chaque allié dans la zone d'effet.",
     "iconId": 10816,
     "isAltere": true
   },
@@ -3621,7 +3621,7 @@
   "23240": {
     "id": 23240,
     "name": "Nocifflet",
-    "description": "Occasionne des dommages Feu et retire de la Fuite.",
+    "description": "Occasionne des dommages Feu et retire de la Fuite. Les dommages deviennent du vol de vie si la cible est dans l'était collagène.",
     "iconId": 10840,
     "isAltere": true
   },
@@ -3824,7 +3824,7 @@
   "23506": {
     "id": 23506,
     "name": "Cyborgne",
-    "description": "Occasionne des dommages Terre aux ennemis dans une zone de 3 cases en croix autour de chaque allié dans la zone d'effet.",
+    "description": "Occasionne des dommages Terre aux ennemis dans une zone de 3 cases en croix autour de chaque Altéré allié dans la zone d'effet.",
     "iconId": 1607,
     "isAltere": true
   },

@@ -62,7 +62,7 @@
     "itemId": 26825,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Bastortue: 1 * Hormone Arakïque, 2 * Mutagène mémorable, 1 * Carafon, 1 * Dragolait, 2 * Ballon Jaune Magique, 1 * Dents du Meulou",
+    "crafts": "Certificat d'adoption de Bastortue: 1 * Hormone Arakïque, 4 * Mutagène mémorable, 1 * Carafon, 1 * Dragolait, 2 * Tresse du Koulosse, 1 * Dents du Meulou",
     "dropMonsters": {},
     "iconId": "6982"
   },
@@ -129,7 +129,7 @@
     "itemId": 26827,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Vautouragan: 1 * Hormone Arakïque, 2 * Mutagène mémorable, 1 * Volovan, 1 * Défense de Dragon Cochon, 2 * Dent du Kharnozor, 1 * Testicules du Meulou",
+    "crafts": "Certificat d'adoption de Vautouragan: 1 * Hormone Arakïque, 4 * Mutagène mémorable, 1 * Volovan, 1 * Défense de Dragon Cochon, 2 * Dent du Kharnozor, 1 * Testicules du Meulou",
     "dropMonsters": {},
     "iconId": "6984"
   },
@@ -196,7 +196,7 @@
     "itemId": 26829,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Balafrousse: 1 * Hormone Arakïque, 2 * Mutagène mémorable, 1 * Têtunel, 1 * Poil de Dragon Cochon, 2 * Peau de Moon, 1 * Mojo du Meulou",
+    "crafts": "Certificat d'adoption de Balafrousse: 1 * Hormone Arakïque, 4 * Mutagène mémorable, 1 * Têtunel, 1 * Poil de Dragon Cochon, 2 * Peau de Moon, 1 * Mojo du Meulou",
     "dropMonsters": {},
     "iconId": "6986"
   },
@@ -263,7 +263,7 @@
     "itemId": 26831,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Manchic: 1 * Hormone Arakïque, 2 * Mutagène mémorable, 1 * Manchouette, 1 * Cuir du Dragon Cochon, 2 * Broderie de Malléfisk, 1 * Œil du Meulou",
+    "crafts": "Certificat d'adoption de Manchic: 1 * Hormone Arakïque, 4 * Mutagène mémorable, 1 * Manchouette, 1 * Cuir du Dragon Cochon, 2 * Broderie de Malléfisk, 1 * Œil du Meulou",
     "dropMonsters": {},
     "iconId": "6988"
   },
@@ -287,6 +287,7 @@
       6,
       29,
       32,
+      43,
       95,
       98,
       99,
@@ -347,6 +348,7 @@
       6,
       29,
       32,
+      43,
       95,
       98,
       99,
@@ -387,6 +389,7 @@
       6,
       29,
       32,
+      43,
       95,
       98,
       99,
@@ -427,6 +430,7 @@
       6,
       29,
       32,
+      43,
       95,
       98,
       99,
@@ -467,6 +471,7 @@
       6,
       29,
       32,
+      43,
       95,
       98,
       99,
@@ -527,6 +532,7 @@
       6,
       29,
       32,
+      43,
       95,
       98,
       99,
@@ -558,7 +564,6 @@
     ],
     "spellsPassives": [],
     "achievements": [
-      5295,
       5296
     ],
     "itemId": 26840,
@@ -593,6 +598,7 @@
       29,
       30,
       32,
+      43,
       95,
       96,
       97,
@@ -648,7 +654,8 @@
     ],
     "spellsPassives": [],
     "achievements": [
-      5304
+      5304,
+      5305
     ],
     "itemId": 26843,
     "rarity": "Commun",
@@ -661,6 +668,7 @@
       29,
       30,
       32,
+      43,
       95,
       96,
       97,
@@ -710,6 +718,7 @@
       29,
       30,
       32,
+      43,
       95,
       96,
       97,
@@ -759,6 +768,7 @@
       29,
       30,
       32,
+      43,
       95,
       96,
       97,
@@ -850,7 +860,7 @@
     "itemId": 26847,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certficat d'adoption de Boxelet: 1 * Hormone Scarafïque, 2 * Mutagène admirable, 1 * Sporganik, 2 * Serrure du Coffre des Forgerons",
+    "crafts": "Certificat d'adoption de Boxelet: 1 * Hormone Scarafïque, 3 * Mutagène admirable, 1 * Sporganik, 2 * Serrure du Coffre des Forgerons",
     "dropMonsters": {},
     "iconId": "7005"
   },
@@ -1077,7 +1087,7 @@
     "itemId": 26852,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Boufilou: 1 * Hormone Wabbïque, 2 * Mutagène admirable, 1 * Bébourjon, 2 * Feuille de Blop Royal",
+    "crafts": "Certificat d'adoption de Boufilou: 1 * Hormone Wabbïque, 3 * Mutagène admirable, 1 * Bébourjon, 2 * Feuille de Blop Royal",
     "dropMonsters": {},
     "iconId": "7010"
   },
@@ -1320,7 +1330,7 @@
     "itemId": 26857,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Galbléro: 1 * Hormone Kannibïque, 2 * Mutagène admirable, 1 * Bébléro, 2 * Étoffe de Draegnerys, 2 * Pierre du Craqueleur Légendaire",
+    "crafts": "Certificat d'adoption de Galbléro: 1 * Hormone Kannibïque, 3 * Mutagène admirable, 1 * Bébléro, 2 * Étoffe de Draegnerys, 2 * Pierre du Craqueleur Légendaire",
     "dropMonsters": {},
     "iconId": "7015"
   },
@@ -1518,7 +1528,6 @@
     ],
     "spellsPassives": [],
     "achievements": [
-      5358,
       5359
     ],
     "itemId": 26861,
@@ -1580,7 +1589,7 @@
     "itemId": 26863,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Tékilarve: 1 * Hormone Désertïque, 2 * Mutagène admirable, 1 * Chinchilarve, 2 * Barbe du Wa Wobot, 2 * Carapace du Mantiscore",
+    "crafts": "Certificat d'adoption de Tékilarve: 1 * Hormone Désertïque, 3 * Mutagène admirable, 1 * Chinchilarve, 2 * Barbe du Wa Wobot, 2 * Carapace du Mantiscore",
     "dropMonsters": {},
     "iconId": "7021"
   },
@@ -1783,7 +1792,7 @@
     "itemId": 26878,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Krokogneur: 1 * Hormone Koalïque, 2 * Mutagène admirable, 1 * Alligamin, 2 * Faux Visage de Choudini, 2 * Soie Baveuse",
+    "crafts": "Certificat d'adoption de Krokogneur: 1 * Hormone Koalïque, 3 * Mutagène admirable, 1 * Alligamin, 2 * Faux Visage de Choudini, 2 * Soie Baveuse",
     "dropMonsters": {},
     "iconId": "7032"
   },
@@ -1920,7 +1929,7 @@
     "itemId": 26882,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Koalache: 1 * Hormone Corbaïque, 2 * Mutagène mémorable, 1 * Koalami, 2 * Crinière de Rat Blanc, 2 * Sourcil du Rasboul majeur, 2 * Bourgeon explosif de Damadrya",
+    "crafts": "Certificat d'adoption de Koalache: 1 * Hormone Corbaïque, 4 * Mutagène mémorable, 1 * Koalami, 2 * Crinière de Rat Blanc, 2 * Sourcil du Rasboul majeur, 2 * Bourgeon explosif de Damadrya",
     "dropMonsters": {},
     "iconId": "7036"
   },
@@ -2023,7 +2032,7 @@
     "itemId": 26885,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption d'Alphané: 1 * Hormone Corbaïque, 2 * Mutagène mémorable, 1 * Pistélice, 2 * Crinière de Rat Noir, 2 * Plume du Maître Corbac, 2 * Glande du Pounicheur",
+    "crafts": "Certificat d'adoption d'Alphané: 1 * Hormone Corbaïque, 4 * Mutagène mémorable, 1 * Pistélice, 2 * Crinière de Rat Noir, 2 * Plume du Maître Corbac, 2 * Glande du Pounicheur",
     "dropMonsters": {},
     "iconId": "7039"
   },
@@ -2234,8 +2243,7 @@
       855,
       942,
       985,
-      1011,
-      1017
+      1011
     ],
     "crafts": "",
     "dropMonsters": {
@@ -2260,7 +2268,7 @@
     "itemId": 26892,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Tournesouffre: 1 * Hormone Ratïque, 2 * Mutagène mémorable, 1 * Émigraine, 2 * Laine du Royalmouth, 2 * Laine du Minotoror, 2 * Feuille de Blop Multicolore Royal",
+    "crafts": "Certificat d'adoption de Tournesouffre: 1 * Hormone Ratïque, 4 * Mutagène mémorable, 1 * Émigraine, 2 * Laine du Royalmouth, 2 * Laine du Minotoror, 2 * Feuille de Blop Multicolore Royal",
     "dropMonsters": {},
     "iconId": "7045"
   },
@@ -2295,8 +2303,7 @@
       855,
       942,
       985,
-      1011,
-      1017
+      1011
     ],
     "crafts": "",
     "dropMonsters": {
@@ -2336,8 +2343,7 @@
       855,
       942,
       985,
-      1011,
-      1017
+      1011
     ],
     "crafts": "",
     "dropMonsters": {
@@ -2377,8 +2383,7 @@
       855,
       942,
       985,
-      1011,
-      1017
+      1011
     ],
     "crafts": "",
     "dropMonsters": {
@@ -2418,8 +2423,7 @@
       855,
       942,
       985,
-      1011,
-      1017
+      1011
     ],
     "crafts": "",
     "dropMonsters": {
@@ -2463,8 +2467,7 @@
       855,
       942,
       985,
-      1011,
-      1017
+      1011
     ],
     "crafts": "",
     "dropMonsters": {
@@ -2489,7 +2492,7 @@
     "itemId": 26898,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Moustonique: 1 * Hormone Ratïque, 2 * Mutagène mémorable, 1 * Mouspique, 2 * Peau de Crocabulia, 2 * Plume de Tofu Royal, 2 * Pixel de Fraktale",
+    "crafts": "Certificat d'adoption de Moustonique: 1 * Hormone Ratïque, 4 * Mutagène mémorable, 1 * Mouspique, 2 * Peau de Crocabulia, 2 * Plume de Tofu Royal, 2 * Pixel de Fraktale",
     "dropMonsters": {},
     "iconId": "7051"
   },
@@ -2528,8 +2531,7 @@
       855,
       942,
       985,
-      1011,
-      1017
+      1011
     ],
     "crafts": "",
     "dropMonsters": {
@@ -2573,8 +2575,7 @@
       855,
       942,
       985,
-      1011,
-      1017
+      1011
     ],
     "crafts": "",
     "dropMonsters": {
@@ -2618,8 +2619,7 @@
       855,
       942,
       985,
-      1011,
-      1017
+      1011
     ],
     "crafts": "",
     "dropMonsters": {
@@ -2644,7 +2644,7 @@
     "itemId": 26902,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Darsenik: 1 * Hormone Zothïque, 2 * Mutagène mémorable, 1 * Sautoxik, 2 * Paire de boules de Haute Truche, 2 * Racine du Chêne Mou, 2 * Cœur du Capitaine Ekarlatte, 2 * Étoffe Mystérieuse",
+    "crafts": "Certificat d'adoption de Darsenik: 1 * Hormone Zothïque, 4 * Mutagène mémorable, 1 * Sautoxik, 2 * Paire de boules de Haute Truche, 2 * Racine du Chêne Mou, 2 * Cœur du Capitaine Ekarlatte, 2 * Étoffe Mystérieuse",
     "dropMonsters": {},
     "iconId": "7055"
   },
@@ -2659,7 +2659,6 @@
     ],
     "spellsPassives": [],
     "achievements": [
-      5454,
       5455
     ],
     "itemId": 26903,
@@ -2706,8 +2705,7 @@
       855,
       942,
       985,
-      1011,
-      1017
+      1011
     ],
     "crafts": "",
     "dropMonsters": {
@@ -2776,7 +2774,7 @@
     "itemId": 26906,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Kradotruche: 1 * Hormone Zothïque, 2 * Mutagène mémorable, 1 * Zozotruche, 2 * Testicules du Tanukouï San, 2 * Écorce du Chêne Mou, 2 * Koinkoin de bain de Nagate, 75 * Rose des sables",
+    "crafts": "Certificat d'adoption de Kradotruche: 1 * Hormone Zothïque, 4 * Mutagène mémorable, 1 * Zozotruche, 2 * Testicules du Tanukouï San, 2 * Écorce du Chêne Mou, 2 * Koinkoin de bain de Nagate, 75 * Rose des sables",
     "dropMonsters": {},
     "iconId": "7059"
   },
@@ -3057,7 +3055,7 @@
     "itemId": 26913,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Cactueur: 1 * Hormone Tanuïque, 2 * Mutagène mémorable, 1 * Cacturbin, 1 * Calice du Tynril, 1 * Plume du Mansot Royal, 1 * Écharpe de Hanshi, 2 * Trame Dimensionnelle",
+    "crafts": "Certificat d'adoption de Cactueur: 1 * Hormone Tanuïque, 4 * Mutagène mémorable, 1 * Cacturbin, 1 * Calice du Tynril, 1 * Plume du Mansot Royal, 1 * Écharpe de Hanshi, 2 * Trame Dimensionnelle",
     "dropMonsters": {},
     "iconId": "7066"
   },
@@ -3194,7 +3192,7 @@
     "itemId": 26918,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Sirokoko: 1 * Hormone Tanuïque, 2 * Mutagène mémorable, 1 * Caskoko, 1 * Pistil du Tynril, 1 * Poil de Ben le Ripate, 1 * Piques à cheveux de Shihan, 100 * Rose des sables",
+    "crafts": "Certificat d'adoption de Sirokoko: 1 * Hormone Tanuïque, 4 * Mutagène mémorable, 1 * Caskoko, 1 * Pistil du Tynril, 1 * Poil de Ben le Ripate, 1 * Piques à cheveux de Shihan, 100 * Rose des sables",
     "dropMonsters": {},
     "iconId": "7070"
   },
@@ -3331,7 +3329,7 @@
     "itemId": 26924,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Papalmier: 1 * Hormone Firefïque, 2 * Mutagène grandiose, 1 * Poltronc, 1 * Fémur de Sphincter Cell, 1 * Défense du Phossile, 1 * Peau de Sphincter Cell, 3 * Trame Dimensionnelle, 1 * Tourmaline",
+    "crafts": "Certificat d'adoption de Papalmier: 1 * Hormone Firefïque, 5 * Mutagène grandiose, 1 * Poltronc, 1 * Fémur de Sphincter Cell, 1 * Défense du Phossile, 1 * Peau de Sphincter Cell, 3 * Trame Dimensionnelle, 1 * Tourmaline",
     "dropMonsters": {},
     "iconId": "7074"
   },
@@ -3576,7 +3574,7 @@
     "itemId": 26931,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Capuchef: 1 * Hormone Firefïque, 2 * Mutagène grandiose, 1 * Capuchifon, 1 * Oreille de Sphincter Cell, 1 * Mèche Rebelle d'Hell Mina, 1 * Queue Magique de Founoroshi, 2 * Étoffe Mystérieuse, 1 * Tourmaline",
+    "crafts": "Certificat d'adoption de Capuchef: 1 * Hormone Firefïque, 5 * Mutagène grandiose, 1 * Capuchifon, 1 * Oreille de Sphincter Cell, 1 * Mèche Rebelle d'Hell Mina, 1 * Queue Magique de Founoroshi, 2 * Étoffe Mystérieuse, 1 * Tourmaline",
     "dropMonsters": {},
     "iconId": "7081"
   },
@@ -3710,7 +3708,7 @@
     "itemId": 26935,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Hiboulon: 1 * Hormone Malterïque, 2 * Mutagène grandiose, 1 * Hibouscule, 1 * Perruque du Kimbo, 1 * Laine du Minotot, 1 * Scorie d'Obsidiantre, 1 * Moustache de Ush, 2 * Tourmaline",
+    "crafts": "Certificat d'adoption de Hiboulon: 1 * Hormone Malterïque, 5 * Mutagène grandiose, 1 * Hibouscule, 1 * Perruque du Kimbo, 1 * Laine du Minotot, 1 * Scorie d'Obsidiantre, 1 * Moustache de Ush, 2 * Tourmaline",
     "dropMonsters": {},
     "iconId": "7085"
   },
@@ -3849,7 +3847,7 @@
     "itemId": 26939,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Tronfleur: 1 * Hormone Malterïque, 2 * Mutagène grandiose, 1 * Tronchon, 1 * Sphénoïde du Kimbo, 1 * Fémur du Minotot, 1 * Poils de Kanigroula, 1 * Moustache du Shogun Tofugawa, 2 * Tourmaline",
+    "crafts": "Certificat d'adoption de Tronfleur: 1 * Hormone Malterïque, 5 * Mutagène grandiose, 1 * Tronchon, 1 * Sphénoïde du Kimbo, 1 * Fémur du Minotot, 1 * Poils de Kanigroula, 1 * Moustache du Shogun Tofugawa, 2 * Tourmaline",
     "dropMonsters": {},
     "iconId": "7089"
   },
@@ -3946,7 +3944,6 @@
     ],
     "spellsPassives": [],
     "achievements": [
-      5562,
       5563
     ],
     "itemId": 26942,
@@ -4138,7 +4135,7 @@
     "itemId": 26947,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Cuirassœil: 1 * Hormone Yokaïque, 2 * Mutagène grandiose, 1 * Armurœil, 1 * Cuir de Tengu Givrefoux, 1 * Corne de XLII, 1 * Braises bleutées, 5 * Trame Dimensionnelle, 3 * Tourmaline",
+    "crafts": "Certificat d'adoption de Cuirassœil: 1 * Hormone Yokaïque, 5 * Mutagène grandiose, 1 * Armurœil, 1 * Cuir de Tengu Givrefoux, 1 * Corne de XLII, 1 * Braises bleutées, 5 * Trame Dimensionnelle, 3 * Tourmaline",
     "dropMonsters": {},
     "iconId": "7097"
   },
@@ -4275,7 +4272,7 @@
     "itemId": 26951,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Vampirouette: 1 * Hormone Yokaïque, 2 * Mutagène grandiose, 1 * Vampichnette, 1 * Laine de Tengu Givrefoux, 1 * Œil du Père Ver, 1 * Cuir de Tengu Givrefoux, 1 * Étoffe Mystérieuse, 3 * Tourmaline",
+    "crafts": "Certificat d'adoption de Vampirouette: 1 * Hormone Yokaïque, 5 * Mutagène grandiose, 1 * Vampichnette, 1 * Laine de Tengu Givrefoux, 1 * Œil du Père Ver, 1 * Cuir de Tengu Givrefoux, 1 * Étoffe Mystérieuse, 3 * Tourmaline",
     "dropMonsters": {},
     "iconId": "7101"
   },
@@ -4454,7 +4451,7 @@
     "itemId": 26956,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Survirus: 1 * Hormone Verïque, 2 * Mutagène grandiose, 1 * Sévirus, 1 * Œil de Korriandre, 1 * Ongle du Bworker, 1 * Œil d'Ougah, 6 * Trame Dimensionnelle, 4 * Tourmaline",
+    "crafts": "Certificat d'adoption de Survirus: 1 * Hormone Verïque, 5 * Mutagène grandiose, 1 * Sévirus, 1 * Œil de Korriandre, 1 * Ongle du Bworker, 1 * Œil d'Ougah, 6 * Trame Dimensionnelle, 4 * Tourmaline",
     "dropMonsters": {},
     "iconId": "7106"
   },
@@ -4588,7 +4585,7 @@
     "itemId": 26960,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Pugilard: 1 * Hormone Verïque, 2 * Mutagène grandiose, 1 * Guérilard, 1 * Patte de Korriandre, 1 * Peau du Bworker, 1 * Épine d'Ougah, 6 * Étoffe Mystérieuse, 4 * Tourmaline",
+    "crafts": "Certificat d'adoption de Pugilard: 1 * Hormone Verïque, 5 * Mutagène grandiose, 1 * Guérilard, 1 * Patte de Korriandre, 1 * Peau du Bworker, 1 * Épine d'Ougah, 6 * Étoffe Mystérieuse, 4 * Tourmaline",
     "dropMonsters": {},
     "iconId": "7110"
   },
@@ -4763,7 +4760,7 @@
     "itemId": 26965,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Tabalèze: 1 * Hormone Sakaïque, 2 * Mutagène spectaculaire, 1 * Carniflore, 1 * Corne d'Ombre, 1 * Cuir de Fuji Givrefoux, 1 * Fragment gelé, 1 * Queue de Glourséleste, 5 * Tourmaline",
+    "crafts": "Certificat d'adoption de Tabalèze: 1 * Hormone Sakaïque, 6 * Mutagène spectaculaire, 1 * Carniflore, 1 * Corne d'Ombre, 1 * Cuir de Fuji Givrefoux, 1 * Fragment gelé, 1 * Queue de Glourséleste, 5 * Tourmaline",
     "dropMonsters": {},
     "iconId": "7115"
   },
@@ -5065,7 +5062,7 @@
     "itemId": 26973,
     "rarity": "Évolution",
     "dropAreas": [],
-    "crafts": "Certificat d'adoption de Taurdure: 1 * Hormone Chassouillïque, 2 * Mutagène spectaculaire, 1 * Ghettaure, 1 * Dé du Chalœil, 1 * Poil de Meno, 1 * Écaille de Torkélonia, 1 * Scapula du Comte Harebourg, 6 * Tourmaline",
+    "crafts": "Certificat d'adoption de Taurdure: 1 * Hormone Chassouillïque, 6 * Mutagène spectaculaire, 1 * Ghettaure, 1 * Dé du Chalœil, 1 * Poil de Meno, 1 * Écaille de Torkélonia, 1 * Scapula du Comte Harebourg, 6 * Tourmaline",
     "dropMonsters": {},
     "iconId": "7123"
   },
@@ -5730,7 +5727,7 @@
       23124
     ],
     "achievements": [
-      5694
+      5695
     ],
     "itemId": 26986,
     "rarity": "Légendaire",
